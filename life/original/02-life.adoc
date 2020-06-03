@@ -1,4 +1,4 @@
-== The Life of William Penn
+== Chapter I
 
 The subject of the following memoir occupied a conspicuous
 station in civil and religious society.
@@ -777,7 +777,7 @@ His letter to Lord Arlington is dated the 1st of fifth month, 1669, in which he 
 that he had then been imprisoned six months;
 and as the whole time of his confinement was about seven months,
 he must have been discharged near the end of the fifth, or beginning of the sixth month,
-1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,]
+1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,+++]+++
 1668.]
 
 About the same time William Penn was involved in another controversy,
