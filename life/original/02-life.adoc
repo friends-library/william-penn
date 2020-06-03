@@ -1,4 +1,4 @@
-== The Life of William Penn
+== Chapter I
 
 The subject of the following memoir occupied a conspicuous
 station in civil and religious society.
@@ -88,7 +88,7 @@ This, however, instead of reconciling William Penn,
 only served to increase his zeal for the principles he had imbibed,
 and believing it his duty to continue the religious practices he had thus begun,
 he was on that account soon afterward expelled the college.^
-footnote:[Clarkson relates in his Life of Penn, that William Penn,
+footnote:[Clarkson relates in his [.book-title]#Life of Penn,# that William Penn,
 in company with Robert Spencer and some others,
 tore the surplices over the heads of the students who wore them;
 and attributes his expulsion from college to this outrage.
@@ -96,9 +96,9 @@ The story appears to have been copied from Oldmixon,
 and is in part contradicted by the letter of William Penn to the same Robert Spencer,
 after he became Earl of Sunderland; for it appears by that letter,
 that their acquaintance was formed at a subsequent period
-in France.--See Memoirs of Pennsylvania Historical Society,
+in France.--See [.book-title]#Memoirs of Pennsylvania Historical Society,
 Vol.
-II. Page 244. This gives reason to apprehend that
+II.# Page 244. This gives reason to apprehend that
 the whole story of the surplices may be an error,
 especially as Besse, the original biographer, is silent upon the subject,
 and attributes his expulsion to his continued absence from the national worship.]
@@ -440,7 +440,7 @@ rather than religious obligation,
 in the excitement of the moment the Admiral so far forgot his affection for him,
 that he again expelled him from his house.^
 footnote:[The fact of his expulsion from his father`'s house is obliquely,
-if not directly denied in the life of Admiral Penn, by his great-grand-son,
+if not directly denied in the [.book-title]#Life of Admiral Penn,# by his great-grand-son,
 recently published; but the language of William Penn himself, already quoted,
 sets the fact beyond contradiction.
 His unquestioned reputation for integrity, as well as his filial affection,
@@ -493,8 +493,13 @@ will serve to show his solicitude for others,
 and the Christian plainness with which he maintained
 his testimony against what he considered wrong things.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Navy Office, 10th of the Fifth Month, 1668.
 
+[.salutation]
 Friend,
 
 It was a true word spoken by Jesus Christ, to undeceive the careless, wanton Jews,
@@ -552,9 +557,13 @@ to the beholding Him who is invisible, that He may reign in thy soul, God over a
 exalted and blessed forever.
 Farewell.
 
+[.signed-section-closing]
 I am thy well-wishing real friend,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 In the same year he appeared before the public as an author, in his first printed work,
 entitled "`Truth Exalted,`" the principal object
@@ -583,6 +592,9 @@ the third detecting his hypocrisy, and the fourth exhibiting his contradictions.
 
 In replying to the Guide`'s charges against the principles of the Society,
 he has the following paragraphs, viz.
+
+[.embedded-content-document]
+--
 
 Thou must not, reader, from my querying thus,
 conclude we do deny (as he hath falsely charged us) those glorious three,
@@ -733,7 +745,9 @@ merciful to enemies, self-denying as to this world`'s delights and enjoyments;
 and to sum up all, standards for the God of heaven, against the pride, cruelty, lust,
 avarice, etc, of this Godless generation--whom the unborn shall call blessed,
 when their testimonies are finished,
-and they gathered into the unspeakable solace and possession of God`'s eternal presence.`"
+and they gathered into the unspeakable solace and possession of God`'s eternal presence.
+
+--
 
 About this time he visited Thomas Loe,
 who was then on the eve of his departure from a world in which he had laboured
@@ -756,14 +770,14 @@ must have furnished a strong confirmation to the mind of William Penn,
 of the solidity of the religion which he had embraced,
 and toward which his attention had been so forcibly
 attracted by the labours of the dying Christian.^
-footnote:[Clarkson, in his Biography of William Penn, represents his visit to Thomas Loe,
+footnote:[Clarkson, in his [.book-title]#Biography of William Penn,# represents his visit to Thomas Loe,
 as being subsequent to his release from the tower;
 but this I conceive to have been an error.
 His letter to Lord Arlington is dated the 1st of fifth month, 1669, in which he states,
 that he had then been imprisoned six months;
 and as the whole time of his confinement was about seven months,
 he must have been discharged near the end of the fifth, or beginning of the sixth month,
-1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,]
+1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,+++]+++
 1668.]
 
 About the same time William Penn was involved in another controversy,
@@ -868,7 +882,7 @@ and exposed his absurdities and contradictions by arguments and illustrations,
 which have very little, if any, connection with the doctrines of Friends.
 
 The opinions advocated by Vincent, and which it is the object of the pamphlet to refute,
-are thus expressed in the title page, "`The Sandy Foundation Shaken,
+are thus expressed in the title page, [.book-title]#The Sandy Foundation Shaken,#
 or those so generally believed and applauded doctrines of
 one God subsisting in three distinct and separate persons;
 the impossibility of God`'s pardoning sinners without a plenary satisfaction;
@@ -915,11 +929,14 @@ but the following extracts from a letter which he wrote in 1673 to Dr. John Coll
 in reply to some exceptions he had taken to the Sandy Foundation Shaken,
 will place all the subjects in their true light.
 
+[.embedded-content-document.letter]
+--
+
 The matter insisted upon, relating chiefly to us on this occasion, is, that we,
 in common with Socinians, do not believe Christ to be the Eternal Son of God;
 and I am brought for proof of the charge.
-To this hath been already answered, that my book, called,
-'`The Sandy Foundation Shaken,`' touched not upon this,
+To this hath been already answered, that my book,
+called, [.book-title]#The Sandy Foundation Shaken,# touched not upon this,
 but Trinity and separate personality, etc.
 But this will not serve thy turn, thou must both accuse us,
 and then wring and rack our books to maintain it.
@@ -945,8 +962,13 @@ because I justly reject the popish school personality?
 This savours of such weakness, or disingenuity,
 as can never stand with the credit of so great a scribe to be guilty of.
 
+--
+
 William Penn, then instances the cases of Paulus Samosatenus and Sabellius,
 and proceeds to give the following declaration of his faith:
+
+[.embedded-content-document.letter]
+--
 
 And now I will tell thee my faith in this matter; I do heartily believe,
 that Jesus Christ is the only true and everlasting God, by whom all things were made,
@@ -1009,6 +1031,8 @@ conscience, as to past sin; but to complete salvation, without cleansing and pur
 from all filthiness of flesh and spirit,
 by the internal operation of his holy power and Spirit.
 
+--
+
 The work when it was published gave great offence.
 Among the offended persons were some of the prelates,
 of whom the bishop of London was the most conspicuous.
@@ -1033,7 +1057,7 @@ that a hair of his head would not fall without his heavenly Father`'s notice.
 
 His zeal for promoting the cause of religion was not abated by imprisonment,
 and he employed his time and talents in writing.
-His first work was entitled No Cross, No Crown.
+His first work was entitled [.book-title]#No Cross, No Crown.#
 
 No adequate idea could be formed of this excellent treatise,
 from any analysis of which the limits of these memoirs would admit--and
@@ -1091,8 +1115,8 @@ to be informed of the offence laid to his charge and permitted to vindicate his 
 was disregarded.
 Having waited for some time in expectation of the desired opportunity,
 he resumed his pen and produced a small tract,
-by way of apology or explanation of The Sandy Foundation Shaken.
-This he entitled Innocency with her open Face.
+by way of apology or explanation of [.book-title]#The Sandy Foundation Shaken.#
+This he entitled [.book-title]#Innocency with Her Open Face.#
 In that tract he reviewed the subjects discussed in the former,
 and explained himself more clearly on some points which had been misunderstood.
 

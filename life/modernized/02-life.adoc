@@ -1,4 +1,4 @@
-== The Life of William Penn
+== Chapter I
 
 The subject of the following memoir occupied a conspicuous
 station in civil and religious society.
@@ -88,7 +88,7 @@ This, however, instead of reconciling William Penn,
 only served to increase his zeal for the principles he had imbibed,
 and believing it his duty to continue the religious practices he had thus begun,
 he was on that account soon afterward expelled the college.^
-footnote:[Clarkson relates in his Life of Penn, that William Penn,
+footnote:[Clarkson relates in his [.book-title]#Life of Penn,# that William Penn,
 in company with Robert Spencer and some others,
 tore the surplices over the heads of the students who wore them;
 and attributes his expulsion from college to this outrage.
@@ -96,9 +96,9 @@ The story appears to have been copied from Oldmixon,
 and is in part contradicted by the letter of William Penn to the same Robert Spencer,
 after he became Earl of Sunderland; for it appears by that letter,
 that their acquaintance was formed at a subsequent period
-in France.--See Memoirs of Pennsylvania Historical Society,
+in France.--See [.book-title]#Memoirs of Pennsylvania Historical Society,
 Vol.
-II. Page 244. This gives reason to apprehend that
+II.# Page 244. This gives reason to apprehend that
 the whole story of the surplices may be an error,
 especially as Besse, the original biographer, is silent upon the subject,
 and attributes his expulsion to his continued absence from the national worship.]
@@ -440,7 +440,7 @@ rather than religious obligation,
 in the excitement of the moment the Admiral so far forgot his affection for him,
 that he again expelled him from his house.^
 footnote:[The fact of his expulsion from his father`'s house is obliquely,
-if not directly denied in the life of Admiral Penn, by his great-grand-son,
+if not directly denied in the [.book-title]#Life of Admiral Penn,# by his great-grand-son,
 recently published; but the language of William Penn himself, already quoted,
 sets the fact beyond contradiction.
 His unquestioned reputation for integrity, as well as his filial affection,
@@ -493,8 +493,13 @@ will serve to show his solicitude for others,
 and the Christian plainness with which he maintained
 his testimony against what he considered wrong things.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Navy Office, 10th of the Fifth Month, 1668.
 
+[.salutation]
 Friend,
 
 It was a true word spoken by Jesus Christ, to undeceive the careless, wanton Jews,
@@ -551,9 +556,13 @@ to the beholding Him who is invisible, that He may reign in your soul, God over 
 exalted and blessed forever.
 Farewell.
 
+[.signed-section-closing]
 I am your well-wishing real friend,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 In the same year he appeared before the public as an author, in his first printed work,
 entitled "`Truth Exalted,`" the principal object
@@ -568,10 +577,10 @@ and experience his precious blood to cleanse them from all sin,
 and obtain the victory over the transgressing and sinful nature.
 
 In the same year he published a tract,
-entitled "`The Guide Mistaken,`" being a reply to Jonathan Clapham,
+entitled _The Guide Mistaken,_ being a reply to Jonathan Clapham,
 who having drawn up certain articles which he pronounced to be the true Christian Creed,
 entitled his work,
-"`A Guide to True Religion,`" and declared that those who did not assent to them,
+_A Guide to True Religion,_ and declared that those who did not assent to them,
 were incapable of salvation, and inveighed especially against the Papists,
 Socinians and Quakers treating these last however, with most severity.
 
@@ -581,6 +590,9 @@ the third detecting his hypocrisy, and the fourth exhibiting his contradictions.
 
 In replying to the Guide`'s charges against the principles of the Society,
 he has the following paragraphs:
+
+[.embedded-content-document]
+--
 
 You must not, reader, from my querying thus,
 conclude we do deny (as he has falsely charged us) those glorious three,
@@ -730,7 +742,9 @@ merciful to enemies, self-denying as to this world`'s delights and enjoyments;
 and to sum up all, standards for the God of heaven, against the pride, cruelty, lust,
 avarice, etc, of this Godless generation--whom the unborn shall call blessed,
 when their testimonies are finished,
-and they gathered into the unspeakable solace and possession of God`'s eternal presence.`"
+and they gathered into the unspeakable solace and possession of God`'s eternal presence.
+
+--
 
 About this time he visited Thomas Loe,
 who was then on the eve of his departure from a world in which he had laboured
@@ -753,14 +767,14 @@ must have furnished a strong confirmation to the mind of William Penn,
 of the solidity of the religion which he had embraced,
 and toward which his attention had been so forcibly
 attracted by the labours of the dying Christian.^
-footnote:[Clarkson, in his Biography of William Penn, represents his visit to Thomas Loe,
+footnote:[Clarkson, in his [.book-title]#Biography of William Penn,# represents his visit to Thomas Loe,
 as being subsequent to his release from the tower;
 but this I conceive to have been an error.
 His letter to Lord Arlington is dated the 1st of fifth month, 1669, in which he states,
 that he had then been imprisoned six months;
 and as the whole time of his confinement was about seven months,
 he must have been discharged near the end of the fifth, or beginning of the sixth month,
-1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,]
+1669; and Sewel informs us, that Thomas Loe died on the 5th of October, +++[+++eighth month,+++]+++
 1668.]
 
 About the same time William Penn was involved in another controversy,
@@ -838,7 +852,7 @@ But Vincent would neither retract the charges he had made,
 nor afford them the opportunity of vindicating themselves.
 
 William Penn therefore wrote a pamphlet,
-which he entitled "`The Sandy Foundation Shaken,`" giving
+which he entitled [.book-title]#The Sandy Foundation Shaken,# giving
 an account of the proceedings at the before-mentioned meeting,
 and the efforts subsequently used to procure an opportunity of
 rebutting the charges against the principles and doctrines of Friends.
@@ -912,6 +926,9 @@ but the following extracts from a letter which he wrote in 1673 to Dr. John Coll
 in reply to some exceptions he had taken to the Sandy Foundation Shaken,
 will place all the subjects in their true light.
 
+[.embedded-content-document.letter]
+--
+
 The matter insisted upon, relating chiefly to us on this occasion, is, that we,
 in common with Socinians, do not believe Christ to be the Eternal Son of God;
 and I am brought for proof of the charge.
@@ -942,17 +959,22 @@ because I justly reject the popish school personality?
 This savours of such weakness, or disingenuity,
 as can never stand with the credit of so great a scribe to be guilty of.
 
+--
+
 William Penn, then instances the cases of Paulus Samosatenus and Sabellius,
 and proceeds to give the following declaration of his faith:
+
+[.embedded-content-document.letter]
+--
 
 And now I will tell you my faith in this matter; I do heartily believe,
 that Jesus Christ is the only true and everlasting God, by whom all things were made,
 that are made, in the heavens above, or the earth beneath, or the waters under the earth;
 that he is, as omnipotent, so omniscient, and omnipresent, therefore God.
 This is confessed by me, in two books,
-printed a little before '`The Sandy Foundation Shaken,`': '`Guide Mistaken,`' page 28,
-and '`Truth Exalted,`' pages 14, 15; also at large,
-in my '`Innocency with her open Face.`'
+printed a little before [.book-title]#The Sandy Foundation Shaken,#: [.book-title]#Guide Mistaken,# page 28,
+and [.book-title]#Truth Exalted,# pages 14, 15; also at large,
+in my [.book-title]#Innocency with her open Face.#
 
 What dangerous inquiry and wanton curiosity is that,
 which cannot set down with this Scripture definition,
@@ -970,7 +992,7 @@ a piece of new-fashioned divinity that is not two removes from atheism.
 For '`satisfaction,`' you know, or ought to do,
 that is a term belonging to the civil law, and was never read in Scripture.
 I have this to say, that the Friend took me right; namely,
-that I chiefly opposed the impossibility of God`'s otherwise pardoning, etc,
+that I chiefly opposed the impossibility of God`'s otherwise pardoning, etc.,
 and you show great acquaintance with some late writers, and such, too,
 as go for no small divines;`" +++[+++here he inserts their
 names and proceeds]--He that would not have me mistaken,
@@ -981,7 +1003,7 @@ that I otherwise meant than I am charactered.
 In short, I say, both as to this and the other point of justification,
 that Jesus Christ was a sacrifice for sin,
 that he was set forth to be a propitiation for the sins of the whole world;
-to declare God`'s righteousness for the remission of sins that are past, etc,
+to declare God`'s righteousness for the remission of sins that are past, etc.,
 to all that repented and had faith in his Son.
 Therein the love of God appeared,
 that he declared his good will thereby to be reconciled;
@@ -1005,6 +1027,8 @@ but this second part of justification; not the pacifying +++[+++of]
 conscience, as to past sin; but to complete salvation, without cleansing and purging,
 from all filthiness of flesh and spirit,
 by the internal operation of his holy power and Spirit.
+
+--
 
 The work when it was published gave great offence.
 Among the offended persons were some of the prelates,
@@ -1030,7 +1054,7 @@ that a hair of his head would not fall without his heavenly Father`'s notice.
 
 His zeal for promoting the cause of religion was not abated by imprisonment,
 and he employed his time and talents in writing.
-His first work was entitled No Cross, No Crown.
+His first work was entitled [.book-title]#No Cross, No Crown.#
 
 No adequate idea could be formed of this excellent treatise,
 from any analysis of which the limits of these memoirs would admit--and
@@ -1088,8 +1112,8 @@ to be informed of the offence laid to his charge and permitted to vindicate his 
 was disregarded.
 Having waited for some time in expectation of the desired opportunity,
 he resumed his pen and produced a small tract,
-by way of apology or explanation of The Sandy Foundation Shaken.
-This he entitled Innocency with her open Face.
+by way of apology or explanation of [.book-title]#The Sandy Foundation Shaken.#
+This he entitled [.book-title]#Innocency with Her Open Face.#
 In that tract he reviewed the subjects discussed in the former,
 and explained himself more clearly on some points which had been misunderstood.
 
@@ -1183,7 +1207,7 @@ enticing pleasures, alluring honours and glittering glories of this transitory w
 and readily to accept the portion of a fool, from this deriding generation,
 and become a man of sorrows and a perpetual reproach to my familiars: yes,
 and with the greatest cheerfulness can obsignate and confirm,
-with no less seal than the loss of whatsoever this doating world accounts dear,
+with no less seal than the loss of whatsoever this doting world accounts dear,
 this faithful confession, having my eye fixed upon a more enduring substance,
 and lasting inheritance; and being most infallibly assured,
 that when time shall be no more, I shall, if faithful hereunto,
