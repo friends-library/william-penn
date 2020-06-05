@@ -1,4 +1,4 @@
-== Chapter III.
+== Chapter II.
 
 1669+++.+++ At the time when William Penn was discharged from his confinement in the tower,
 his father`'s asperity towards him was considerably softened.
@@ -70,6 +70,9 @@ in that age of licentiousness and persecution.
 
 Some idea of the character and spirit of this production,
 may be formed from the following extracts:
+
+[.embedded-content-document.epistle]
+--
 
 In the tender love of Jesus Christ, I earnestly entreat you,
 let us no more look back upon our ancient pastimes and delights,
@@ -151,6 +154,8 @@ which may overtake us for the trial of our most precious faith;
 so shall we sensibly experience that heavenly blood of cleansing,
 which only can give remission, cleanse from all sin,
 and finally purge the conscience from dead works to serve the living God.
+
+--
 
 1670+++.+++ Having accomplished his visit in regard to his father`'s business,
 and rendered a number of signal services to his friends in Ireland,
@@ -303,7 +308,7 @@ the common law,`" was too general and imperfect,
 unless they knew where and what that law was.
 Where there is no law there is no transgression, and that law which is not in being,
 is so far from being common that it is no law at all.
-The recorder asserted that it was lex non scripta,
+The recorder asserted that it was _lex non scripta,_
 indignantly inquiring whether he expected him to tell in a moment
 what some have studied thirty or forty years to understand.
 
@@ -419,7 +424,7 @@ or what penalty would be awarded.
 The fact of his speaking to a number of people in the street, being established,
 if the jury could have been induced to decide that he was speaking to a tumultuous assembly,
 the court would unquestionably have put their own construction upon it,
-and decided that the penalty as well as the offence was to be found in the lex non scripta.
+and decided that the penalty as well as the offence was to be found in the _lex non scripta._
 
 As the jury, notwithstanding the menaces of the court,
 eventually delivered a verdict of not guilty,
@@ -444,7 +449,7 @@ But after a short trial of that course, a more effectual one was adopted.
 The trial of William Penn and William Mead,
 appears to have closed on the 5th of the month, called September,
 on which day the jurymen were probably committed to prison.
-A writ of habeas corpus, was sued out by Edward Bushel, dated the 9th of November,
+A writ of _habeas corpus,_ was sued out by Edward Bushel, dated the 9th of November,
 by which he was brought before judge Vaughan, of the court of Common Pleas,
 for the purpose of trying the legality of his commitment and detention.
 The return to the writ stated, that the said Bushel and eleven others particularly named,

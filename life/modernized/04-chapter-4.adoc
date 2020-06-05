@@ -1,4 +1,4 @@
-== Chapter IV.
+== Chapter III.
 
 It was not long after the decease of his father,
 that William Penn was involved in another public dispute,
@@ -37,10 +37,13 @@ Thomas Ellwood, who was present,
 communicated the result of the dispute to one of
 his absent friends in the following laconic epistle:
 
-Prsevaluit Veritas: inimici terga dedere: Nos sumus in tuto: laus tribuenda Deo.
+[quote]
+____
+_Prsevaluit Veritas: inimici terga dedere: Nos sumus in tuto: laus tribuenda Deo._
 
 Literally--The truth has prevailed: the enemies have turned their backs:
 we are in safety: praise be rendered to God.
+____
 
 The conduct of Jeremy Ives in this case,
 as well as that of Thomas Vincent two years before, is a sufficient evidence,
@@ -95,7 +98,7 @@ Vol. II. Page 304.]
 During the winter of this year he resided at the family seat, in Buckinghamshire.
 A pamphlet falling into his hands,
 which contained a professed summary of the doctrines held by the Roman Catholic church,
-he wrote a reply to it, which he entitled, "`A seasonable caveat against Popery.`"
+he wrote a reply to it, which he entitled, [.book-title]#A Seasonable Caveat Against Popery.#
 
 To prevent a misapprehension of his design, he distinctly stated in his preface,
 that he fully believed many of the Romanists were abused zealots,
@@ -210,10 +213,12 @@ that they were once as they are.
 Your words shall be your burden, and I trample your slander as dirt under my feet.`"
 The following dialogue then ensued.
 
-John Robinson.--Well, Mr. Penn, I have no ill-will towards you;
+[.discourse-part]
+_John Robinson._--Well, Mr. Penn, I have no ill-will towards you;
 your father was my friend, and I have a great regard for you.
 
-William Penn.--But you have an ill way of expressing it.
+[.discourse-part]
+_William Penn._--But you have an ill way of expressing it.
 You are grown too high to consider the plea of those you call your forefathers,
 for liberty of conscience against the Papists, Cranmer, Latimer, Ridley, Bradford, etc.
 It was then plea good enough; my conscience won`'t let me go to mass,
@@ -225,11 +230,13 @@ was a dissatisfaction in point of conscience,
 you cannot reasonably persecute others who have a right to the same plea,
 and allow that to be warrantable.
 
-J+++.+++ Robinson.--But you do nothing but stir up the people to sedition,
+[.discourse-part]
+_J+++.+++ Robinson._--But you do nothing but stir up the people to sedition,
 and there was one of your friends that told me,
 you preached sedition and meddle with the government.
 
-W+++.+++ Penn.--We have the unhappiness to be misrepresented,
+[.discourse-part]
+_W+++.+++ Penn._--We have the unhappiness to be misrepresented,
 and I am not the least concerned therein.
 Bring me the man that will dare to justify this accusation to my face;
 and if I am not able to make it appear that it is both my practice and all my friends,
@@ -245,26 +252,32 @@ I shall submit my person to your utmost cruelties and esteem them all but a just
 It is hard, that I, being innocent, should be reputed guilty;
 but the will of God be done: I accept of bad report as well as good.
 
-J+++.+++ Robinson.--Well, I must send you to Newgate for six months, and when they are expired,
+[.discourse-part]
+_J+++.+++ Robinson._--Well, I must send you to Newgate for six months, and when they are expired,
 you will come out.
 
-W+++.+++ Penn.--Is that all?
+[.discourse-part]
+_W+++.+++ Penn._--Is that all?
 You know a larger imprisonment has not daunted me: I accept it at the hand of the Lord,
 and am contented to suffer his will.
 Alas! you mistake your interest, you will miss your aim;
 this is not the way to compass your ends.
 
-J+++.+++ Robinson.--You bring yourself into trouble, you will be heading of parties,
+[.discourse-part]
+_J+++.+++ Robinson._--You bring yourself into trouble, you will be heading of parties,
 and drawing people after you.
 
-W+++.+++ Penn.--You mistake, there is no such way as this to render men remarkable.
+[.discourse-part]
+_W+++.+++ Penn._--You mistake, there is no such way as this to render men remarkable.
 You are angry that I am considerable, and yet you take the very way to make me so,
 by making this bustle and stir about a peaceable person.
 
-J+++.+++ Robinson.--I wish your adhering to these things
+[.discourse-part]
+_J+++.+++ Robinson._--I wish your adhering to these things
 do not convert you to something at last.
 
-W+++.+++ Penn.--I would have you and all men to know,
+[.discourse-part]
+_W+++.+++ Penn._--I would have you and all men to know,
 that I scorn that religion which is not worth suffering for,
 and able to sustain those that are afflicted for it.
 Mine is, and whatever may be my lot for my constant profession of it,
@@ -275,6 +288,9 @@ and by that you will be better informed of our innocency.
 Your religion persecutes, mine forgives:
 and I desire my God to forgive you all that are concerned in my commitment,
 and I leave you all in perfect charity, wishing you eternal salvation.
+
+[.small-break]
+'''
 
 He was then sent to Newgate, to expiate, by a six months`' imprisonment,
 the offence of preaching the Gospel to his brethren,
