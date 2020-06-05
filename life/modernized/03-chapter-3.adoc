@@ -1,4 +1,4 @@
-== Chapter III.
+== Chapter II.
 
 1669+++.+++ At the time when William Penn was discharged from his confinement in the tower,
 his father`'s asperity towards him was considerably softened.
@@ -70,6 +70,9 @@ in that age of licentiousness and persecution.
 
 Some idea of the character and spirit of this production,
 may be formed from the following extracts:
+
+[.embedded-content-document.epistle]
+--
 
 In the tender love of Jesus Christ, I earnestly entreat you,
 let us no more look back upon our ancient pastimes and delights,
@@ -151,6 +154,8 @@ which may overtake us for the trial of our most precious faith;
 so shall we sensibly experience that heavenly blood of cleansing,
 which only can give remission, cleanse from all sin,
 and finally purge the conscience from dead works to serve the living God.
+
+--
 
 1670+++.+++ Having accomplished his visit in regard to his father`'s business,
 and rendered a number of signal services to his friends in Ireland,
