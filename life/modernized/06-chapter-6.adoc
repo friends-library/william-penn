@@ -402,9 +402,9 @@ consisted in the facility of reducing propositions to that form.
 Thomas Hicks appears to have commenced the dispute with this argument:
 
 [.syllogism]
-They that deny the Lord`'s Christ are no Christians.
-But the Quakers deny the Lord`'s Christ.
-Therefore they are no Christians.
+* They that deny the Lord`'s Christ are no Christians.
+* But the Quakers deny the Lord`'s Christ.
+* Therefore they are no Christians.
 
 To this William Penn returned, "`I deny the minor, namely,
 that the Quakers deny the Lord`'s Christ.`"
@@ -412,9 +412,9 @@ that the Quakers deny the Lord`'s Christ.`"
 Thomas Hicks replied,
 
 [.syllogism]
-They that deny Christ to be a distinct person without them, deny the Lord`'s Christ;
-But the Quakers deny Christ to be a distinct person without them,
-T herefore the Quakers deny the Lord`'s Christ.
+* They that deny Christ to be a distinct person without them, deny the Lord`'s Christ;
+* But the Quakers deny Christ to be a distinct person without them,
+* Therefore the Quakers deny the Lord`'s Christ.
 
 William Penn then desired,
 that Thomas Hicks would explain what he meant by the term person; to which he answered,
