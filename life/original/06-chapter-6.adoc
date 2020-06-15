@@ -1,4 +1,4 @@
-== Chapter VI.
+== Chapter V.
 
 In the beginning of 1672, being then in the twenty-eighth year of his age,
 William Penn was married to Gulielma Maria Springett,
@@ -74,16 +74,16 @@ and unite in fellowship with them.
 This sometimes roused the zeal of their former teachers,
 and occasioned repeated attacks upon the principles and characters of Friends.
 One of those teachers, about this time published anonymously,
-a tract called the "`Spirit of the Quakers Tried,`" which
+a tract called the _Spirit of the Quakers Tried,_ which
 brought William Penn again before the public in a reply,
-entitled the "`Spirit of Truth Vindicated.`"
+entitled the _Spirit of Truth Vindicated._
 
 John Reeve and Lodowick Muggleton,
 who professed to have been favoured with extraordinary revelations,
 having excited considerable attention, and drawn a number of people after them,
 William Penn wrote a tract, in the autumn of this year,
 detecting and exposing the impostures of these pretended prophets,
-under the title of the "`New Witnesses proved old hereticks.`"
+under the title of the _New Witnesses Proved Old Heretics._
 A copy of this treatise was sent by the author to Muggleton, with a letter,
 severely rebuking him for his presumptuous profession, and exhorting him to repentance,
 if haply he might yet find forgiveness from an offended God.
@@ -91,21 +91,21 @@ if haply he might yet find forgiveness from an offended God.
 John Morse, an Anabaptist preacher of Watford,
 having published some reflections against the Society
 of Friends in general and William Penn in particular,
-he wrote a reply entitled, "`Plain dealing with a Traducing Anabaptist.`"
+he wrote a reply entitled, _Plain Dealing with a Traducing Anabaptist._
 
-"`Controversy Ended,`" soon followed, which was the production of Henry Hedworth,
+_Controversy Ended,_ soon followed, which was the production of Henry Hedworth,
 another preacher, and which was of a similar stamp with the former.
-His answer to this was entitled, "`A Winding-sheet for Controversy Ended.`"
+His answer to this was entitled, _A Winding-sheet for Controversy Ended._
 
 John Faldo, an Independent preacher, near Barnet,
 finding that some of his hearers had united with Friends, was greatly incensed,
 and gave vent to his displeasure, by writing and publishing a book,
-entitled "`Quakerism no Christianity.`"
+entitled [.book-title]#Quakerism No Christianity.#
 To this William Penn wrote a reply, with the title,
-"`Quakerism a new nickname for old Christianity.`"
+_Quakerism a New nickname for Old Christianity._
 John Faldo soon after published a Vindication of his former production,
 which was followed on the part of William Penn, by a rejoinder,
-styled the "`Invalidity of John Faldo`'s Vindication.`"
+styled the _Invalidity of John Faldo`'s Vindication._
 In the following year, John Faldo repeated his attack, and William Penn returned a reply,
 which closed the contest between them.
 
@@ -215,7 +215,7 @@ as to his visible appearance, works and death in the world,
 and obedience to his teachings and leadings by his Spirit in the heart, are necessary.
 
 One of John Faldo`'s last charges,
-exhibited in his "`Quakerism no Christianity,`" is that
+exhibited in his [.book-title]#Quakerism No Christianity,# is that
 the Quakers do not profess a belief in future rewards.
 To this William Penn returns a positive denial,
 and challenges his opponent to name one acknowledged member of the Society,
@@ -223,11 +223,11 @@ who has ever made such a declaration.
 The subsequent strictures on the writings of John Faldo,
 consist chiefly of further explanations of the subjects embraced in the preceding analysis.
 
-About the same time, Henry Hallywell published a work, entitled "`An account of Familism,
-as it is revived and propagated by the Quakers,`" in which he asserted,
+About the same time, Henry Hallywell published a work, entitled _An Account of Familism,
+as It Is Revived and Propagated by the Quakers,_ in which he asserted,
 that their doctrines were destructive, both of civil government and religion.
 This drew a reply from William Penn,
-under the title of "`Wisdom justified of her Children,`" in which the
+under the title of _Wisdom Justified of Her Children,_ in which the
 errors and misrepresentations of the assailant are clearly exposed,
 and the doctrines of Friends on the several points which were drawn into controversy,
 successfully vindicated.
@@ -245,7 +245,7 @@ Thomas Hicks, a preacher among the Baptists of London,
 was among the number of those who laboured to render the Society of Friends,
 and the principles which they held, odious in the sight of the people of that day.
 He published a pamphlet,
-called "`A Dialogue between a Christian and a Quaker,`" so artfully managed,
+called _A Dialogue Between a Christian and a Quaker,_ so artfully managed,
 that an incautious reader might readily suppose this pretended dialogue a real one.
 Having both sides of the controversy to manage,
 he took care to make his pseudo-quaker talk in a very weak and ridiculous manner,
@@ -254,8 +254,8 @@ so that such readers as mistook the caricature for
 a true portrait of the principles of Friends,
 could not fail to entertain very unfavourable opinions respecting them.
 Upon the appearance of this pamphlet,
-William Penn wrote the first part of his "`Christian Quaker,
-and his Divine Testimony Vindicated.`"
+William Penn wrote the first part of his _Christian Quaker,
+and His Divine Testimony Vindicated._
 
 The object of this work is principally to explain and vindicate the doctrine
 of the Light of Christ being manifested in the hearts of all men,
@@ -284,12 +284,12 @@ But the work of Thomas Hicks is not, I believe, any where mentioned in it,
 though his misrepresentations were obviated.
 
 It was not long until a second pamphlet from the same author, was given to the world,
-under the character of the "`Dialogue Continued,`" in which
+under the character of the _Dialogue Continued,_ in which
 he reiterated the false accusations against the Quakers;
-but the "`Christian Quaker,`" was not noticed.
+but the _Christian Quaker,_ was not noticed.
 
 William Penn soon made a direct reply to these pretended dialogues,
-under the title of "`Reason against Railing, and Truth against Fiction.`"
+under the title of _Reason Against Railing, and Truth Against Fiction._
 
 In this, he first points out the unfairness of their assailant,
 manifested by making his pseudo-quaker deliver sentiments which Friends had never uttered,
@@ -345,7 +345,7 @@ their actions appear to have been uniformly inoffensive.
 Thomas Hicks, not yet satisfied,
 issued a third pamphlet as a further continuation of the dialogue,
 which drew from William Penn another reply,
-entitled "`The Counterfeit Christian detected, and the real Quaker justified.`"
+entitled _The Counterfeit Christian Detected, and the Real Quaker Justified._
 This tract consists principally of the exposure of Thomas Hicks`' perversions,
 either of the words or meaning of those passages in his writings or those of other Friends,
 which he professed to quote.
@@ -380,7 +380,7 @@ and a meeting was appointed to be held in their own house at Barbican, London.
 When the parties met, Thomas Ellwood undertook to read the charges against Thomas Hicks,
 which, not without considerable difficulty, he at length effected.
 But instead of entering upon an examination of those charges,
-the Baptists commenced an attack upon William Penn`'s "`Christian Quaker.`"
+the Baptists commenced an attack upon William Penn`'s _Christian Quaker._
 As William Penn in that work, as well as others,
 advanced and maintained the Scriptural doctrine, that the Light,
 which lighteth every man that cometh into the world, is Christ;
@@ -400,10 +400,9 @@ consisted in the facility of reducing propositions to that form.
 
 Thomas Hicks appears to have commenced the dispute with this argument:
 
+[.syllogism]
 They that deny the Lord`'s Christ are no Christians.
-
 But the Quakers deny the Lord`'s Christ.
-
 Therefore they are no Christians.
 
 To this William Penn returned, "`I deny the minor,
@@ -411,11 +410,10 @@ viz. that the Quakers deny the Lord`'s Christ.`"
 
 Thomas Hicks replied,
 
+[.syllogism]
 They that deny Christ to be a distinct person without them, deny the Lord`'s Christ;
-
-but the Quakers deny Christ to be a distinct person without them,
-
-therefore the Quakers deny the Lord`'s Christ.
+But the Quakers deny Christ to be a distinct person without them,
+Therefore the Quakers deny the Lord`'s Christ.
 
 William Penn then desired,
 that Thomas Hicks would explain what he meant by the term person; to which he answered,
@@ -605,11 +603,11 @@ after the publication of William Penn`'s strictures already mentioned,
 appeared no more in his own name as an antagonist,
 yet he was the means of prolonging the controversy;
 for he assembled a council of clergymen, by whose advice his first work,
-called "`Quakerism no Christianity,`" was republished.
+called _Quakerism No Christianity,_ was republished.
 This edition was accompanied by a commendatory preface,
 which was produced by the united labours of this assembly.
 This drew from William Penn a pamphlet,
-entitled "`A just rebuke to one-and-twenty learned and reverend Divines,`" (so called.)
+entitled _A Just Rebuke to One-and-Twenty Learned and Reverend Divines,_ (so called.)
 As this work was not intended to enforce or explain the doctrines of Friends,
 but rather to expose and refute the errors or misrepresentations of their opponents,
 it may be justly considered as one of a temporary character.
@@ -639,13 +637,13 @@ that the less was said of them the better it would be for them and their cause.
 
 Alexander Parker, one of the early members and ministers of the Society, had published,
 about the year 1657, a tract,
-entitled a "`Testimony of the Light within,`" of which Samuel Grevill,
+entitled a _Testimony of the Light Within,_ of which Samuel Grevill,
 a priest near Banbury, wrote a pretended refutation.
 The doctrine thus assailed, being one of great importance, and indeed,
 lying at the foundation of the testimony which Friends
 believed themselves called to support,
-William Penn produced a pamphlet entitled "`Urim and Thummim,
-or the doctrines of Light and Perfection maintained,`"
+William Penn produced a pamphlet entitled _Urim and Thummim,
+or the Doctrines of Light and Perfection Maintained,_
 in opposition to that of Samuel Grevill;
 proving from Scripture testimony, that the witness for God in the mind of man,
 is the light of Christ,
@@ -662,7 +660,7 @@ and admonishes his readers to try the effect of obedience to its small and tende
 before they object to its nature or sufficiency.
 
 We have in his printed works, under date of this year, a doctrinal treatise,
-entitled "`Of the general rule of faith and practice.`"
+entitled _Of the General Rule of Faith and Practice._
 He describes "`the general rule`" to be,
 "`that constant measure or standard by which men,
 in all ages have been enabled to judge of the truth or error of doctrines,
@@ -757,15 +755,15 @@ and became a rigid exacter of oaths.
 
 After his disownment, a pamphlet was published, without the name of the author,
 but attributed to him,
-with the title of "`The spirit of the Hat,`" to which William Penn wrote a reply with
-the curious title of "`The spirit of Alexander the coppersmith justly rebuked.`"
+with the title of _The Spirit of the Hat,_ to which William Penn wrote a reply with
+the curious title of _The Spirit of Alexander the Coppersmith Justly Rebuked._
 Shortly after the appearance of the latter, a second anonymous pamphlet,
-under the title of "`Tyranny and Hypocrisy detected`" was given to the world.
-This came out under the character of a reply to "`the Spirit
-of Alexander the coppersmith rebuked;`" and like the former,
+under the title of _Tyranny and Hypocrisy Detected_ was given to the world.
+This came out under the character of a reply to _The Spirit
+of Alexander the Coppersmith Rebuked;_ and like the former,
 was understood to be the work of John Perot.
 It drew a rejoinder from William Penn,
-which he styled "`Judas and the Jews combined against Christ and his followers.`"
+which he styled _Judas and the Jews Combined Against Christ and His Followers._
 
 This controversy assumes a degree of importance which it would
 not otherwise possess from the principles involved in it.
@@ -797,6 +795,7 @@ and that every man ought to follow its teachings in matters of faith and worship
 The dispute between them was not in regard to the principle, but its application.
 The following questions are laid down as including the matter at issue:
 
+[.numbered]
 1+++.+++ Whether Christ has or has not given to his church,
 consisting of faithful believers and obedient walkers
 by the light or spirit of God within,
@@ -804,12 +803,14 @@ a just sense, relish and savour of those spirits which the great enemy of man ma
 under plausible appearances, to condemn what the church has practiced,
 or to introduce what the church has condemned?
 
+[.numbered]
 2+++.+++ Whether such a society, body or church, may not,
 after due admonition given to such dissenting or innovating person,
 lawfully and without deviation from Christian principles,
 deny their communion to such person or persons,
 as a testimony against the spirit by which they are actuated?
 
+[.numbered]
 3+++.+++ Whether such person or persons may acknowledge the truth of
 this fundamental doctrine of the Divine light as a leader and guide,
 and yet be actuated by a wrong spirit to the production of rents and divisions,
@@ -817,6 +818,7 @@ and then oppose the church under pretence of being guided by this inward light;
 and consequently whether such persons ought to be judged by any for acting in this manner,
 seeing it is the duty of all to act according to the dictates of the light of Christ?
 
+[.numbered]
 4+++.+++ Whether the body of those called Quakers, or their opposers were that church?
 
 In answer to the first,
@@ -923,7 +925,7 @@ and finally requested that the Justice would accept
 and peruse some tracts which he then sent him,
 in explanation of the principles and doctrines of Friends.
 
-He also wrote to Mary Penny man, who had taken part in the recent opposition to Friends.
+He also wrote to Mary Pennyman, who had taken part in the recent opposition to Friends.
 In this, he remonstrated with her in great freedom,
 against the spirit by which she was actuated,
 and solemnly admonished her to repent of the evil she had done,
@@ -963,13 +965,13 @@ and authorities against the use of oaths.
 
 Lastly, a letter to John Collenges, a doctor of divinity,
 who had charged Friends with denying the Divinity of Jesus Christ,
-and cited William Penn`'s "`Sandy Foundation Shaken,`" in proof of the charge.
+and cited William Penn`'s _Sandy Foundation Shaken,_ in proof of the charge.
 Extracts from this letter have already been given,
 showing that what he denied in that work, was not the Divinity of Christ,
 but the unscriptural dogma of the popish school personality.
 
-He there declares that his arguments in "`The Sandy Foundation
-Shaken,`" were directed against the doctrines of his opponents,
+He there declares that his arguments in _The Sandy Foundation
+Shaken,_ were directed against the doctrines of his opponents,
 and not against those of the Holy Scriptures;
 and that the objections to the doctrines of Friends, which were generally advanced,
 arose from their opponents attaching their own consequences to what Friends declared,

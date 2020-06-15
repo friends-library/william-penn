@@ -1,13 +1,13 @@
-== Chapter V.
+== Chapter IV.
 
 William Penn did not permit the time of his imprisonment
 to be lost to himself or the community;
 but wrote several tracts, chiefly of a religious character,
 which were soon afterwards given to the world.
 
-The first of these is entitled, "`The great case of Liberty of Conscience,
-once more briefly debated, and defended by the authority of reason, Scripture,
-and antiquity.`"
+The first of these is entitled, _The Great Case of Liberty of Conscience,
+Once More Briefly Debated, and Defended by the Authority of Reason, Scripture,
+and Antiquity._
 
 The first part of this tract consists of an Address to the supreme authority of England,
 dated the next day but one after his commitment.
@@ -64,28 +64,36 @@ and the scandal which the persecution of one set of Protestants by another,
 must occasion among the Roman Catholics, are pointed out; and the wisdom of toleration,
 enforced by quotations from numerous writers, ancient and modern.
 
+[.offset]
 The dissertation is closed in these words:
 
-To conclude, "`liberty of conscience, as thus stated and defended,
+[.embedded-content-document]
+--
+
+To conclude, liberty of conscience, as thus stated and defended,
 we ask as our undoubted right by the law of God, of nature, and of our own country;
 it has been often promised, we have long waited for it, we have written much,
 and suffered in its defence, and have made many true complaints,
 but found little or no redress.
 
-"`However, we take the righteous, holy God to record against all objections,
+However, we take the righteous, holy God to record against all objections,
 that are ignorantly or designedly raised against us, that
 
-"`1st, We hold no principle destructive of the English government.
+[.numbered]
+_1st,_ We hold no principle destructive of the English government.
 
-"`2nd, We plead for no such dissenter, if such a one there be.
+[.numbered]
+_2nd,_ We plead for no such dissenter, if such a one there be.
 
-"`3rd, We desire the temporal and eternal happiness of all persons,
+[.numbered]
+_3rd,_ We desire the temporal and eternal happiness of all persons,
 in submission to the Divine will of God, heartily forgiving our cruel persecutors.
 
-"`4th and lastly, We shall engage, by God`'s assistance, to lead peaceable, just,
+[.numbered]
+_4th and lastly,_ We shall engage, by God`'s assistance, to lead peaceable, just,
 and industrious lives among men, to the good and example of all.
 
-"`But, if after all we have said, this short discourse should not be credited,
+But, if after all we have said, this short discourse should not be credited,
 nor answered in any of its sober reasons and requests,
 but sufferings should be the present lot of our inheritance from this generation,
 be it known to them all, That meet we must, and meet we cannot but encourage all to do,
@@ -99,7 +107,9 @@ and time and the event, will vindicate it from untruth.
 In the mean while, it is matter of great satisfaction to the author,
 that he has so plainly cleared his conscience,
 in pleading for the liberty of other men`'s,
-and publicly borne his honest testimony for God, not out of season to his poor country.`"
+and publicly borne his honest testimony for God, not out of season to his poor country.
+
+--
 
 As the recent act of parliament under which Friends had been prosecuted,
 for attending their religious meetings, was, according to the terms of it,
@@ -131,7 +141,7 @@ This postscript serves to explain and vindicate the declaration
 which he made on his trial at the Old Bailey,
 that he had broken no law.
 
-A second tract was entitled "`Truth rescued from Imposture,`" being a reply to
+A second tract was entitled _Truth Rescued from Imposture,_ being a reply to
 a pretended answer to the account of the trial of William Penn and William Mead,
 then just published.
 This answer contained among other misrepresentations,
@@ -140,44 +150,57 @@ The reply refutes those calumnies, and vindicates the character of the author`'s
 at the same time that it testifies against the employment
 in which a large portion of his time was spent.
 
-A third tract was "`A Cautionary Postscript,`" to his first publication,
-called "`Truth Exalted,`" which was very short,
+A third tract was _A Cautionary Postscript,_ to his first publication,
+called _Truth Exalted,_ which was very short,
 but contained a solemn warning to the people of England,
 and an encouraging address to such as believed in Christ Jesus, the true Light,
 were walking in the daily cross, and through good report and evil report,
 were journeying towards an everlasting inheritance.
 
 A fourth tract was,
-"`A serious Apology for the principles and practices of the people called
-Quakers,`" in reply to the aspersions of Thomas Jenner and Timothy Taylor,
-in their book called "`Quakerism Anatomized.`"
+_A Serious Apology for the Principles and Practices of the People Called
+Quakers,_ in reply to the aspersions of Thomas Jenner and Timothy Taylor,
+in their book called [.book-title]#Quakerism Anatomized.#
 This answer is said to have been generally acceptable.
 
 In explanation of the doctrine of Friends on the subject of immediate revelation,
 we take the following from this work.
 
-"`First, By revelation,
+[.embedded-content-document]
+--
+
+[.numbered]
+_First,_ By revelation,
 we understand the discovery and illumination of the light and spirit of God,
 relating to those things that properly and immediately concern the daily information
 and satisfaction of our souls in the way of our duty to Him and to our neighbour.
 
-"`Second, We renounce all fantastical and whimsical intoxications,
+[.numbered]
+_Second,_ We renounce all fantastical and whimsical intoxications,
 or any pretence to the revelation of new matter, in opposition to the ancient Gospel,
 declared by Christ Jesus and his apostles;
 and therefore not the revelation of new things,
 but the renewed revelation of the eternal way of Truth.
 
-"`Third, That this revelation is the life, virtue, condition,
+[.numbered]
+_Third,_ That this revelation is the life, virtue, condition,
 and very soul of the Gospel and second covenant.
 
-"`Fourth, That none oppose this but such as the god of this world has blinded,
+[.numbered]
+_Fourth,_ That none oppose this but such as the god of this world has blinded,
 and that through their ignorance of the spirituality of the evangelical dispensation are,
 while they pretend to be under it, sticklers for a more embondaged state,
-than that of the ancient Jews.`"
+than that of the ancient Jews.
 
+--
+
+[.offset]
 On the subject of the primary rule of life, he says,
 
-"`I think this, our demonstration, should satisfy all:
+[.embedded-content-document]
+--
+
+I think this, our demonstration, should satisfy all:
 when neither man nor Scriptures are near us; yet there continually attends us,
 that Spirit of Truth, which immediately informs us of our thoughts, words and deeds,
 and gives us true directions what to do and what to leave undone.
@@ -187,12 +210,17 @@ Let this suffice to vindicate our sense of a true and unerring rule,
 which we assert not in a way of derogation from those holy writings,
 which with reverence we read, believe,
 and desire always to obey the mind and will of God, therein contained;
-and let that doctrine be accursed that would overturn them.`"
+and let that doctrine be accursed that would overturn them.
+
+--
 
 To the charge that Friends were displeased with others for observing times,
 days and hours, he says,
 
-"`If by set times he means, days set apart, not as more intrinsically sacred,
+[.embedded-content-document]
+--
+
+If by set times he means, days set apart, not as more intrinsically sacred,
 or in themselves more holy than others, but only to assemble upon, to wait upon God,
 and receive of his heavenly benefits, we are so far from being destitute of them,
 that as it is impossible for us to perform an action without time,
@@ -218,9 +246,9 @@ they are great strangers to the liberty of the Gospel,
 being yet in bondage to the beggarly elements of weak and antichristian dispensations;
 for such implicitly deny him +++[+++Christ]
 to be come in the flesh, that has put an end to them all,
-who is the everlasting rest and sabbath to his people.`"
+who is the everlasting rest and sabbath to his people.
 
-"`In short, I do declare,
+In short, I do declare,
 that though we utterly renounce all special and moral holiness in times and days,
 yet we both believe it requisite that time be set apart for the worship of the Almighty,
 and are also everywhere found in the diligent practice of the same.
@@ -229,34 +257,42 @@ or that it has any holiness inherent to it,
 yet as taking the primitive saints for an example,
 with godly reverence we constantly assemble upon it.
 
-"`His charge of our denying family duties, is equally false with all the rest;
+His charge of our denying family duties, is equally false with all the rest;
 for we know it is our duty, and it is also our practice,
 to retire from our external affairs and wait upon the Lord every day,
 that we may receive strength from him,
 and feel his heavenly peace and blessing to descend upon us,
 at our rising up and lying down; that so to Him, over and above all visible things,
-honour and praise may be returned, who is worthy forever.`"
+honour and praise may be returned, who is worthy forever.
 
+--
+
+[.offset]
 In the sixth chapter he says;
 
-"`I am constrained, for the sake of the simple-hearted, to publish to the world,
+[.embedded-content-document]
+--
+
+I am constrained, for the sake of the simple-hearted, to publish to the world,
 of our faith in God, Christ and the holy Spirit.
 
-"`We do believe in one only holy God Almighty, who is an eternal Spirit,
+We do believe in one only holy God Almighty, who is an eternal Spirit,
 the Creator of all things.
 
-"`And in one Lord Jesus Christ, his only Son, and express image of his substance,
+And in one Lord Jesus Christ, his only Son, and express image of his substance,
 who took upon him flesh, and was in the world; and in life, doctrine, miracles, death,
 resurrection, ascension and mediation,
 perfectly did and does continue to do the will of God; to whose holy life, power,
 mediation and blood, we only ascribe our sanctification, justification,
 redemption and perfect salvation.
 
-"`And we believe in one holy Spirit,
+And we believe in one holy Spirit,
 that proceeds and breathes from the Father and the Son,
 a measure of which is given to all to profit with; and he that has one, has all;
 for those Three are One, who is the Alpha and Omega, the First and the Last,
-God over all, blessed forever, Amen.`"
+God over all, blessed forever, Amen.
+
+--
 
 Being informed that the parliament had it in contemplation,
 to make some addition to the act for suppressing seditious conventicles,
@@ -271,7 +307,8 @@ likely to follow the proposed supplementary enactments.
 To show the injustice of subjecting Friends to the operation of such oppressive laws,
 he declared;
 
-First, That they owned civil government as an ordinance of God,
+[.numbered]
+_First,_ That they owned civil government as an ordinance of God,
 for the punishment of evil doers and the praise of them that do well;
 and although they could not comply with those laws,
 which prohibited them from worshiping God according to their consciences,
@@ -280,16 +317,19 @@ to preside in matters of faith and worship,
 yet they were ready to yield obedience to every ordinance of man,
 relating to human affairs, and that for conscience sake.
 
-Secondly, That they renounced as horrible impiety,
+[.numbered]
+_Secondly,_ That they renounced as horrible impiety,
 all plots and conspiracies for the promotion of religion or their own interest,
 by the blood of those who dissented from them, or even of those who persecuted them.
 
-Thirdly, That in all the revolutions which had taken place,
+[.numbered]
+_Thirdly,_ That in all the revolutions which had taken place,
 notwithstanding the injuries Friends had suffered from cruel and ungodly men,
 they had conducted themselves in a pacific manner,
 and thus given a practical demonstration of the peaceableness of their principles.
 
-Fourthly,
+[.numbered]
+_Fourthly,_
 That as Friends had always lived peaceably under the various
 governments which had existed since their first appearance,
 notwithstanding the injuries they had suffered,
@@ -298,7 +338,8 @@ and when they could not actively obey, they should patiently suffer,
 leaving their cause to God, and thus manifesting to the world,
 that they loved him above all, and their neighbours as themselves.
 
-Finally,
+[.numbered]
+_Finally,_
 he requested that if the parliament should not abandon
 their intention of reinforcing their former act,
 they would permit the subscribers or some other Friends to explain to them,
@@ -315,7 +356,7 @@ acknowledging the kindness which Friends had received at their hands,
 and acquainting them with the rude and savage conduct of some of the keepers at Newgate.
 
 A Roman Catholic having written him a letter, in which he manifested considerable warmth,
-on account of what was contained in his "`Seasonable caveat against Popery,`"
+on account of what was contained in his _Seasonable Caveat Against Popery,_
 William Penn wrote him a calm and dignified reply from his Newgate residence.
 
 In these employments the time of his confinement passed away,
