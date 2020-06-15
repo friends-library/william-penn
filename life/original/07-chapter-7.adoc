@@ -1,4 +1,4 @@
-== Chapter VII.
+== Chapter VI.
 
 1674+++.+++ The declaration of indulgence to those who dissented from the established church,
 which was issued by the king, in 1671, was not long permitted to pass unopposed.
@@ -155,38 +155,51 @@ and fortifies his opinion by the testimony of a number of ancient writers.
 
 He then assigns various reasons why a Christian ought not to swear.
 
-1st, As oaths originate in perfidy,
+[.discourse-part]
+_1st,_ As oaths originate in perfidy,
 they ought to be excluded by a religion that establishes integrity,
 and therefore takes away the reason of them.
 
-2nd,
+[.discourse-part]
+_2nd,_
 They abolish the distinction between men of veracity
 and those of loose and perfidious characters.
 
-3rd,
+[.discourse-part]
+_3rd,_
 A fear of rebellion against the discoveries which
 God has afforded of his ancient way of truth.
 
-4th, Oaths, by their frequent and familiar use,
+[.discourse-part]
+_4th,_ Oaths, by their frequent and familiar use,
 have lost the awful influence which is the alleged reason for their continuance.
 
-5th, Those who entertain a just sense of the omnipresence of God,
+[.discourse-part]
+_5th,_ Those who entertain a just sense of the omnipresence of God,
 have no need of an oath to confine them to the truth.
 
-6th,
+[.discourse-part]
+_6th,_
 They do not convince the hearers of the truth of any declaration to which they are affixed;
 for there is no evidence of Divine displeasure usually attendant upon false swearing,
 as there was in the ancient law of jealousy.
 
-7th, It is irreverent to appeal to God as a witness on trivial occasions.
+[.discourse-part]
+_7th,_ It is irreverent to appeal to God as a witness on trivial occasions.
 
-8th, The form of the modern oaths is highly exceptionable,
+[.discourse-part]
+_8th,_ The form of the modern oaths is highly exceptionable,
 being made up of superstition and ceremony.
 
-9th, The example and precepts of our Saviour are directly opposed to all oaths.
+[.discourse-part]
+_9th,_ The example and precepts of our Saviour are directly opposed to all oaths.
 This is shown by our author at considerable length.
 
-10th, Swearing is contrary to the nature and general character of Christianity.`"
+[.discourse-part]
+_10th,_ Swearing is contrary to the nature and general character of Christianity.
+
+[.small-break]
+'''
 
 He then cites the testimonies of a great number of the ancient Gentiles,
 in disapprobation of swearing,
@@ -295,9 +308,12 @@ that Richard Baxter`'s zeal for his own persuasion,
 betrayed him into no inconsiderable severity towards William Penn,
 as well as his doctrines.
 The last letter of our author, after animadverting with sufficient freedom,
-on the communications of his opponent, closes in the following manner:--
+on the communications of his opponent, closes in the following manner:
 
-"`Do not so harshly represent, nor cruelly characterize a poor people,
+[.embedded-content-document.letter]
+--
+
+Do not so harshly represent, nor cruelly characterize a poor people,
 that are given up to follow the leadings of that Jesus,
 abundance of you have long told us, has stood even all night at the door of our hearts,
 knocking that he might come in; whose pure spirit and fear, we desire to be subject to,
@@ -309,7 +325,9 @@ and desire thy good and felicity.
 And when I read thy letter, the many severities therein could not divert me from saying,
 that I could freely give thee an apartment in my house,
 and thy liberty therein--that I could visit and yet discourse thee in much tender love,
-notwithstanding this hard entertainment from thee.`"
+notwithstanding this hard entertainment from thee.
+
+--
 
 Near the end of the year 1675,
 a man who had been a conspicuous opposer of Friends and their doctrines, was brought,
@@ -331,7 +349,7 @@ he should willingly bear a testimony in their favour
 as publicly as he had formerly opposed them.
 
 This circumstance gave occasion to William Penn to publish a small tract,
-entitled "`Saul smitten to the ground,`" containing a brief
+entitled _Saul Smitten to the Ground,_ containing a brief
 narrative of the death and dying declarations of this man,
 attested by his wife and another female attendant,
 followed by an address to all atheistical, persecuting,
