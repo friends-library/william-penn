@@ -4,6 +4,9 @@ Therefore, O Christendom,
 the daily cross being both then and now the only way to glory,
 it will be to the great advantage to your soul to most seriously consider:
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ What the cross of Christ is.
 
@@ -15,6 +18,8 @@ _Thirdly,_ How and after what manner it is to be borne.
 
 [.numbered]
 _Fourthly,_ What is the great work and business of the cross.
+
+====
 
 As to the first--What is the cross of Christ?
 The cross of Christ is a figure of speech, borrowed from the outward tree,
