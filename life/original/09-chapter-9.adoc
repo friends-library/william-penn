@@ -1,4 +1,4 @@
-== Chapter IX.
+== Chapter VIII.
 
 It has been mentioned in a preceding chapter, that William Penn, about the year 1671,
 travelled in the work of the ministry through some parts of the continent;
@@ -31,7 +31,10 @@ to Friends and others in Holland and Germany.
 Of this journey he has preserved an account,
 which is so full of lively interest and instruction,
 that the narrative cannot be better conveyed than in his own language.
-It was first published in the year 1694, as follows, viz.;
+It was first published in the year 1694, as follows.
+
+[.asterism]
+'''
 
 === Preface.
 
@@ -124,6 +127,8 @@ and feel good desires raised in thee to serve the Lord also,
 according to his blessed will, in thy day; that thou mayst know peace to thy soul,
 when time here shall be no more.
 
+[.signed-section-closing]
 I am thy assured friend in the best things,
 
+[.signed-section-signature]
 William Penn.
