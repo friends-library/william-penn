@@ -795,6 +795,9 @@ and that every man ought to follow its teachings in matters of faith and worship
 The dispute between them was not in regard to the principle, but its application.
 The following questions are laid down as including the matter at issue:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Whether Christ has or has not given to his church,
 consisting of faithful believers and obedient walkers
@@ -820,6 +823,8 @@ seeing it is the duty of all to act according to the dictates of the light of Ch
 
 [.numbered]
 4+++.+++ Whether the body of those called Quakers, or their opposers were that church?
+
+====
 
 In answer to the first,
 it is shown that such a power of discernment does belong to the true church,
