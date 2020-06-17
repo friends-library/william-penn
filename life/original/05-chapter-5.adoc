@@ -78,6 +78,9 @@ but found little or no redress.
 However, we take the righteous, holy God to record against all objections,
 that are ignorantly or designedly raised against us, that
 
+[.numbered-group]
+====
+
 [.numbered]
 _1st,_ We hold no principle destructive of the English government.
 
@@ -91,6 +94,8 @@ in submission to the Divine will of God, heartily forgiving our cruel persecutor
 [.numbered]
 _4th and lastly,_ We shall engage, by God`'s assistance, to lead peaceable, just,
 and industrious lives amongst men, to the good and example of all.
+
+====
 
 But, if after all we have said, this short discourse should not be credited,
 nor answered in any of its sober reasons and requests,
@@ -168,6 +173,9 @@ we take the following from this work.
 [.embedded-content-document]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ By revelation,
 we understand the discovery and illumination of the light and spirit of God,
@@ -190,6 +198,8 @@ _Fourth,_ That none oppose this but such as the god of this world has blinded,
 and that through their ignorance of the spirituality of the evangelical dispensation are,
 whilst they pretend to be under it, sticklers for a more embondaged state,
 than that of the ancient Jews.
+
+====
 
 --
 
@@ -306,6 +316,9 @@ likely to follow the proposed supplementary enactments.
 To show the injustice of subjecting Friends to the operation of such oppressive laws,
 he declared;
 
+[.numbered-group]
+====
+
 [.numbered]
 _First,_ That they owned civil government as an ordinance of God,
 for the punishment of evil doers and the praise of them that do well;
@@ -328,8 +341,7 @@ they had conducted themselves in a pacific manner,
 and thus given a practical demonstration of the peaceableness of their principles.
 
 [.numbered]
-_Fourthly,_
-That as Friends had always lived peaceably under the various
+_Fourthly,_ That as Friends had always lived peaceably under the various
 governments which had existed since their first appearance,
 notwithstanding the injuries they had suffered,
 so it was their fixed resolution to continue in the same practice;
@@ -338,8 +350,7 @@ leaving their cause to God, and thus manifesting to the world,
 that they loved him above all, and their neighbours as themselves.
 
 [.numbered]
-_Finally,_
-he requested that if the parliament should not abandon
+_Finally,_ he requested that if the parliament should not abandon
 their intention of reinforcing their former act,
 they would permit the subscribers or some other Friends to explain to them,
 the many important reasons they had to offer against such severe proceedings.
@@ -348,6 +359,8 @@ upon becoming better informed respecting them and their principles,
 would remove the burdens under which they were labouring.
 This address was signed by William Penn and several others,
 who were then prisoners at Newgate.
+
+====
 
 The sheriffs of London for that year, being men of moderation,
 William Penn wrote to them,
