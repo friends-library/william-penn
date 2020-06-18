@@ -1,4 +1,4 @@
-== Chapter XV.
+== Chapter IV.
 
 The next morning, being the 4th of the seventh month, we set out for Wesel,
 and got there at noon.
@@ -134,8 +134,13 @@ yet I hear is in good health, through the Lord`'s power that has kept him.
 Here I received a letter from the Princess Elizabeth,
 in answer to mine of the 25th of the sixth month, from Manheim, alias Fredericksburg.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 The 4th (14th) of September, 1677.
 
+[.salutation]
 Dear Friend,
 
 I have received your greetings, good wishes, and exhortations with much joy,
@@ -160,11 +165,16 @@ as also the Countess there.
 It would be of much use for my family to have them disabused;
 yet God`'s will be done in that, and all things else, concerning
 
+[.signed-section-closing]
 Your loving friend in the Lord Jesus,
 
+[.signed-section-signature]
 Elizabeth.
 
+[.postscript]
 P+++.+++ S. Let both your friends and companions receive my hearty commendations here.
+
+--
 
 This day, being the 8th, at night came John Hill from Friesland,
 to the house of Gertrude Diricks in Amsterdam.
@@ -225,6 +235,10 @@ It being now the tenth hour at night, I took my leave of George Fox and Friends.
 This day it came upon me to write a letter to the noble young woman at Frankfort,
 as follows.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friend, Joanna Eleonora Malane,
 
 My dear and tender love,
@@ -350,6 +364,10 @@ and leads all there who receive it into their hearts, I take my leave of you,
 with your companions, and all the rest of that city known to us,
 remaining "`Your faithful friend, and the Lord`'s day-labourer,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Harlingen, 11th of the Seventh month, 1677.
+
+--
