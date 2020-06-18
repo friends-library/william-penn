@@ -1,4 +1,4 @@
-== Chapter XII.
+== Chapter XI.
 
 The next morning, being the 13th of the sixth month, George Keith, Benjamin Furly,
 and myself got ready to begin our journey towards Frankfort,
@@ -107,9 +107,13 @@ and the same afternoon we departed out of that city, being the fourth-day of the
 
 Here I wrote an epistle to the churches of Jesus.
 
-To the churches of Jesus throughout the world, gathered and settled in his eternal light,
-power and Spirit, to be one holy flock, family, and household to the Lord.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== To the churches of Jesus throughout the world, gathered and settled in his eternal light, power and Spirit, to be one holy flock, family, and household to the Lord.
+
+[.salutation]
 Dear Friends and Brethren,
 
 Who have been visited with the fatherly visitation from on high,
@@ -146,7 +150,7 @@ When shall Zion become the joy, and Jerusalem the praise of the whole earth!
 And when shall the earth be covered with the knowledge of the Lord,
 as the waters cover the sea!
 
-'`Friends, the Lord of heaven and earth hath heard our cries, and the full time is come,
+Friends, the Lord of heaven and earth hath heard our cries, and the full time is come,
 yea, the appointed time is come,
 and the voice of the eternal Spirit in our hearts
 hath been heard on this wise many a time;
@@ -556,8 +560,10 @@ praises and thanksgivings in the church, throughout all ages, and forever!
 I am, in the faith, patience, tribulation, and hope of the kingdom of Jesus,
 your friend and brother,
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 My companions in the labour and travail of the testimony of Jesus,
 salute you all in the love of our God.
 We have passed through several cities of Germany, and are now at Frankfort,
@@ -566,6 +572,10 @@ with a serious and seeking people;
 whereof, as in other places of this country, many are persons of great worldly quality.
 Blessed be the name of the Lord, to whom be glory forever!
 
+[.signed-section-signature]
 W+++.+++ P.
 
+[.signed-section-context-close]
 Frankfort, the 22nd of the Sixth month, 1677.
+
+--

@@ -1,4 +1,4 @@
-== Chapter XI.
+== Chapter X.
 
 On the 5th of the sixth month, being the first-day of the week,
 meeting began about the eleventh hour, and held till the fourth hour in the afternoon.
@@ -108,6 +108,10 @@ received by way of epistles from several of us.
 In answer to two of mine, the princess sent me the following letter,
 which being short I here insert.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Herford, 2nd of May, 1677.
 
 This, Friend, will tell you that both your letters were very acceptable,
@@ -122,9 +126,13 @@ nor omit to do any thing that was judged conducing to his liberty,
 though it should expose me to the derision of the world.
 But this a mere moral man can reach at; the true inward graces are yet wanting in,
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Elizabeth.
+
+--
 
 This digression from the present history, I thought not altogether unnecessary.
 
