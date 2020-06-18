@@ -1,4 +1,4 @@
-== Chapter XIV.
+== Chapter XIII.
 
 Soon after the clock had struck five, they opened the gates of the city,
 and we had not long been at our inn, when it came upon me, with a sweet,
@@ -7,14 +7,19 @@ to visit this persecuted Countess with a salutation from the love and life of Je
 and to open unto her more plainly the way of the Lord;
 which I did in this following epistle:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Countess of Falkenstein and Bruck, at Mulheim.
 
+[.salutation]
 My dear friend,
 
 Jesus, the immaculate Lamb of God, grieved and crucified by all the workers of iniquity,
 illuminate thy understanding, bless and be with thy spirit forever!
 
-"`Though unknown, yet art thou much beloved,
+Though unknown, yet art thou much beloved,
 for the sake of thy desires and breathings of soul after the living God;
 the report whereof, from some in the same state,
 hath made deep impression of true kindness upon my spirit,
@@ -193,10 +198,13 @@ blessed and magnified forever and ever, amen!
 
 Thy great and faithful lover for the blessed and holy Truth`'s sake,
 
+[.signed-section-signature]
 William Penn.
 
-Duysburg, the 13th of the Seventh month, 1677.`"
+[.signed-section-context-close]
+Duysburg, the 13th of the Seventh month, 1677.
 
+[.postscript]
 P+++.+++ S. The enclosed I received from a religious young woman at Frankfort.
 We have had a blessed opportunity in this town with
 some that have a desire after the Lord,
@@ -211,10 +219,17 @@ The Lord made us a good bed in the fields, and we were very well satisfied.
 We are going this afternoon out of the town towards Wesel, from thence to Cleve,
 and thence to Herwerden, (the Lord willing;) so farewell in the Lord.
 
+--
+
 Here follows a letter to her father, the Graef of Bruck and Falkenstein.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Graef or Earl of Bruck and Falkenstein.
 
+[.salutation]
 Friend,
 
 I wish thy salvation,
@@ -292,11 +307,16 @@ for thy days are not like to be many in this world;
 therefore mind the things that make for thy eternal peace,
 lest distress come upon thee as an armed man, and there be none to deliver thee!
 
+[.signed-section-closing]
 I am thy well-wishing friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Duysburg, 3rd of the Seventh month, 1677.
+
+--
 
 This being done, we went to Dr. Mastricht`'s to inform him of what had passed,
 who though of a kind disposition, and very friendly to us,
