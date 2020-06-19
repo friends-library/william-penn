@@ -206,7 +206,7 @@ or flinging away all outward substance; but that your heart may reign above all 
 and make God its treasure, and never stick in anything of this lower world,
 or rest short of Christ, the eternal rest of all the seed of faith.
 
-[.centered]
+[.offset.centered]
 __Here begins the narrative.__
 
 The Lord brought us well to Wesel on the fifth-day after we left Herwerden,
@@ -411,7 +411,7 @@ It continued about five hours; he affirmed in opposition to us,
 that there was no Christian church, ministry, or commission apostolical now in the world;
 but the Lord assisted us with his wisdom and strength, to confound his attempts.
 
-[.centered]
+[.offset.centered]
 __Here ends the narrative.__
 
 I intend a visit at the Hague to the Lady Overkirk, sister of the Somerdykes,
