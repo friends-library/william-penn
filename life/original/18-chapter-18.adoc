@@ -1,11 +1,16 @@
-== Chapter XVIII.
+== Chapter XVII.
 
 The narrative from the 27th of the seventh month,
 to the 9th of the eighth month inclusive,
 is inserted in the following letter to the Countess of Homes.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 For Anna Maria de Homes, styled Countess of Homes, at Herioerden in Germany.
 
+[.salutation]
 My dear friend!
 
 O that thou mayst forever dwell in the sweet and
@@ -202,7 +207,8 @@ or flinging away all outward substance; but that thy heart may reign above all v
 and make God its treasure, and never stick in any thing of this lower world,
 or rest short of Christ, the eternal rest of all the seed of faith.
 
-Here beginneth the narrative.
+[.alt.centered]
+==== Here beginneth the narrative.
 
 The Lord brought us well to Wesel on the fifth-day after we left Herwerden,
 having some service by the way.
@@ -407,7 +413,8 @@ It continued about five hours; he affirmed in opposition to us,
 that there was no Christian church, ministry, or commission apostolical now in the world;
 but the Lord assisted us with his wisdom and strength, to confound his attempts.
 
-Here endeth the narrative.
+[.alt.centered]
+==== Here endeth the narrative.
 
 I intend a visit at the Hague to the Lady Overkirk, sister of the Somerdykes,
 and some others who have sober characters of Truth and Friends; and thence to Rotterdam,
@@ -459,8 +466,13 @@ So come, dear Lord Jesus, who was dead, and is alive, and liveth forever.
 Amen.
 Very dearly farewell.
 
+[.signed-section-closing]
 Thy friend, that faithfully travaileth for thy redemption,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Amsterdam, the 10th of the Eighth month, 1677.
+
+--
