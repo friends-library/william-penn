@@ -1,4 +1,4 @@
-== Chapter XVII.
+== Chapter XVI.
 
 The next morning about seven o`'clock, being the 16th of the seventh month,
 we took boat for Embden, which is about three leagues.
@@ -10,9 +10,14 @@ and their spirit of separation, which has several times been opened unto me,
 and had remained some days upon my spirit.
 The letter follows.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Friends everywhere, concerning the present Separatists,
 and their spirit of separation.
 
+[.salutation]
 Friends and brethren!
 
 By a mighty hand and by an outstretched arm,
@@ -143,13 +148,18 @@ kingdom and dominion there shall be no end.
 
 Your faithful friend and brother in the service of our dear Lord,
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 P+++.+++ S. God`'s blessed work increases and prospers in these lands,
 magnified be his everlasting name.
 
+[.signed-section-context-close]
 From on board the passage-boat, between Delfzyl and Embden,
 the 16th of the Seventh month, 1677.
+
+--
 
 We arrived at Embden about the eleventh hour.
 This is the city where Friends have been so bitterly and barbarously used,
@@ -198,7 +208,7 @@ harmless lambs bear with great patience and quietness,
 and were not dismayed at all at these cruelties: for the Lord had regard to his name,
 and to their innocent cry, and supported them, and does support them;
 and they have found it true, that those who wait upon the Lord renew their strength.
-Blessed be the Lord forever!`"--Crisp`'s Memoirs, p. 79. Persecution, however,
+Blessed be the Lord forever!`" [.book-title]#--Crisp`'s Memoirs,# p. 79. Persecution, however,
 did not cease as regards the Friends in this place for nine
 years after this visit was paid them by William Penn.
 It is a singular circumstance,
@@ -207,7 +217,7 @@ and the error of their cruel policy,
 they actually came to the resolution of inviting the people called Quakers,
 both in Holland and in England, to come and settle among them, promising them protection,
 and that they should be well received.
-See Besse`'s Sufferings of Friends.]
+See [.book-title]#Besse`'s Sufferings of Friends.#]
 
 We visited his mother`'s family;
 where we found three of his sisters in the love of Truth,
@@ -394,7 +404,7 @@ where the Princess and Countess were ready to receive us.
 The morning was employed in a very serious relation, concerning the affairs, practice,
 and sufferings of our Friends in England, with which they seemed greatly affected; when,
 about the eleventh hour, the rattling of a coach interrupted us.
-The Countess immediately stept out to see what was the matter;
+The Countess immediately stepped out to see what was the matter;
 and returned with a countenance somewhat uneasy, telling us that the young Princes,
 nephews to the Princess and the Graef of Donau, were come to visit her.
 Upon which I told them, we should withdraw, and return to our lodging; but entreated,
