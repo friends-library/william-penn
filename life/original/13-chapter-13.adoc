@@ -1,6 +1,6 @@
-== Chapter XIII.
+== Chapter XII.
 
-PAGE 82 On the 23rd of sixth month,
+On the 23rd of sixth month,
 we arrived by the way of Worms at Krisheim in the Paltzgrave`'s country, where we found,
 to our great joy, a meeting of tender and faithful people.
 
@@ -19,9 +19,13 @@ amongst whom was a governor of that country, and one of the chief Lutheran pries
 It came upon me in this place to salute the Princess
 and Countess with this following epistle.
 
-A salutation to Elizabeth, Princess Palatine, and Anna Maria de Homes, Countess of Homes,
-at Herwerden in Germany.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== A Salutation to Elizabeth, Princess Palatine, and Anna Maria de Homes, Countess of Homes, at Herwerden in Germany.
+
+[.salutation]
 My worthy friends,
 
 Such as I have, such I give unto you; the dear and tender salutation of light, life,
@@ -145,13 +149,17 @@ The Almighty take you into his holy protection now and forever.
 
 I am your true friend, ready to serve you with fervent love in the will of God.
 
-William Penn.`"
+[.signed-section-signature]
+William Penn.
 
+[.postscript]
 P+++.+++ S. My dear companions do, with me, give you the dear salutation of unfeigned love,
 and those in the family that love and desire to follow
 the Lord Jesus in sincerity and truth without wavering.
 We are this evening bound towards Manheim, the court of the prince Palatine,
-and have travelled about twelve English miles on foot.`"
+and have travelled about twelve English miles on foot.
+
+--
 
 That night we lodged at Frankenhal, and got the next morning,
 being the seventh-day of the week, to Manheim; but were disappointed of our design,
@@ -163,8 +171,13 @@ and yet being not clear to come away, as if we had never endeavoured to visit hi
 it was upon me to write him this following letter, to let him know we had been there,
 and briefly our end in coming.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Prince Elector Palatine of Heidelberg.
 
+[.salutation]
 Great prince,
 
 It would seem strange that I, both a stranger and a subject,
@@ -291,11 +304,16 @@ nor the people of divers judgments, now thy subjects, be disappointed, distresse
 or ruined.
 Which, with sincere desires for thy temporal and eternal good, conclude this,
 
+[.signed-section-closing]
 Thy unknown, but sincere friend,
 
-William Penn.
+[.signed-section-signature]
+William Penn
 
+[.signed-section-context-close]
 From Manheim, 25th of Sixth month, 1677.
+
+--
 
 This being done, and having refreshed ourselves,
 we returned that night by the Rhine to Worms; whence, the next morning,
