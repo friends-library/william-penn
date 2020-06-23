@@ -86,6 +86,9 @@ it is not difficult to discover that he was more
 influenced by religious than pecuniary considerations.
 In one of his letters, he has this passage:
 
+[.embedded-content-document.letter]
+--
+
 And now give me leave to say, I have served the Lord, his Truth and people in my day,
 to my ability, and not sought myself, though much spent myself;
 so has he made me firmly to believe that I shall not even outwardly go without my reward;
@@ -103,7 +106,12 @@ I do, therefore, desire the Lord`'s wisdom to guide me,
 and those that may be concerned with me,
 that we may do the thing that is truly wise and just.
 
+--
+
 In a letter to a particular friend, written in 1681, he says,
+
+[.embedded-content-document.letter]
+--
 
 For my country, I eyed the Lord in obtaining it;
 and more was I drawn inward to look to him,
@@ -112,6 +120,8 @@ I have so obtained it and desire to keep it, that I may not be unworthy of his l
 but do that which may answer his kind providence and serve his Truth and people;
 that an example may be set up to the nations.
 There may be room there, though not here, for such an holy experiment.
+
+--
 
 The motives of the king in making this grant,
 as far as they can be inferred from the charter itself,
@@ -216,6 +226,9 @@ to such of his countrymen as might incline to emigrate to Pennsylvania,
 was marked by his usual solicitude for their religious as well as temporal advancement.
 The address was closed with the following judicious admonition.
 
+[.embedded-content-document.address]
+--
+
 I desire my dear country-folks, to consider seriously the premises,
 as well the inconveniency as future ease and plenty; that so none may move rashly,
 or from a fickle, but from a solid mind; having above all things,
@@ -232,10 +245,12 @@ will turn to the glory of his great name,
 and all true happiness to us and our posterity.
 Amen.
 
+--
+
 Upon the publication of these proposals, a great number of purchasers, from London,
 Liverpool and Bristol, soon appeared.
 Among the latter a company was formed,
-which was termed "`The free Society of Traders in Pennsylvania,`"
+which was termed "`The Free Society of Traders in Pennsylvania,`"
 who purchased twenty thousand acres of land,
 and made preparations for engaging in various branches of trade.
 
@@ -309,8 +324,13 @@ and the passengers remained there till spring.
 By these commissioners he sent a letter to the native inhabitants of Pennsylvania,
 of which the following is a copy.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, the 18th of the Eighth month, 1681.
 
+[.salutation]
 My friends,
 
 There is a great God and power that hath made the world and all things therein,
@@ -352,9 +372,13 @@ and receive these presents and tokens which I have sent you,
 as a testimony of my good-will to you, and my resolution to live justly,
 peaceably and friendly with you.
 
+[.signed-section-closing]
 I am your loving friend,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 By the same conveyance was probably communicated
 a letter to the European inhabitants of the province,
@@ -422,6 +446,8 @@ that the will of one man may not hinder the good of a whole community.`"]
 Of the laws agreed upon and published with the frame of government,
 I shall notice two or three which partake of a religious character.
 
+[quote]
+____
 That all persons living in the province,
 who confess and acknowledge the one Almighty and eternal God, to be the Creator,
 Upholder and Ruler of the world;
@@ -452,6 +478,7 @@ which excite the people to rudeness, cruelty and irreligion,
 shall be respectively discouraged and severely punished,
 according to the appointment of the governor and
 freemen in provincial council and general assembly.
+____
 
 This system was signed by the governor and freemen in the third month, 1682.
 
