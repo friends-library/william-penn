@@ -330,9 +330,7 @@ Vale in aternum!
 --
 
 [.letter-heading]
-For Anna Maria de Homes, styled Countess of Homes.
-
-Jesus be with your spirit.
+For Anna Maria de Homes, styled Countess of Homes. Jesus be with your spirit.
 Amen.
 
 Beloved,
@@ -1044,6 +1042,8 @@ when troubles are round about you.
 For by this shall the begotten of God be known,
 and eminently discovered in the days of universal calamity; tranquillity, patience,
 faith and perseverance, shall conspicuously shine in their very countenances.
+
+--
 
 [.asterism]
 '''
