@@ -1,4 +1,4 @@
-== Chapter X.
+== Chapter IX.
 
 On the 22nd of the fifth month, 1677, being the first-day of the week,
 I left my dear wife and family at Worminghurst, in Sussex, in the fear and love of God,
@@ -99,8 +99,16 @@ and I hope will dwell with them forever.
 These several things agreed upon, being of good savour and report,
 I think fit here to insert.
 
-At the General Meeting of Friends at Amsterdam, the 2nd of the sixth month, 1677.
+[.embedded-content-document]
+--
 
+[.blurb]
+=== At the General Meeting of Friends at Amsterdam, the 2nd of the sixth month, 1677.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Be it known to all men, that the power of God, the Gospel,
 is the authority of all our men`'s and women`'s meetings;
 and every heir of that power is an heir of that authority,
@@ -108,11 +116,13 @@ and so becometh a living member of right of either of those meetings,
 and of the heavenly fellowship and order in which they stand: which is not of man,
 nor by man.
 
+[.numbered]
 2+++.+++ That each Monthly Meeting have a collection apart;
 and also that there be another collection quarterly at Amsterdam from each meeting,
 for general services; and that it be not disposed of,
 but by the consent of the said Quarterly Meeting.
 
+[.numbered]
 3+++.+++ It is agreed upon, that henceforth a Yearly Meeting be held here at Amsterdam;
 unto which Friends in the Palatinate, Hamburgh, Lubeck, and Fredericstadt, etc,
 be invited;
@@ -121,6 +131,7 @@ Friends of the Yearly Meeting at London,
 to be kept always on the fifth-day of that week,
 which is fully the third week following after the Yearly Meeting at London.
 
+[.numbered]
 4+++.+++ It is also agreed upon,
 that henceforth this General Meeting is to be changed into a Quarterly Meeting:
 and that the first Quarterly Meeting hereafter shall be
@@ -128,16 +139,19 @@ on the second fifth-day of the ninth month following,
 and so forth every quarter on the second fifth-day of the month.
 This 2nd of the ninth month is to be this first Quarterly Meeting.
 
+[.numbered]
 5+++.+++ It is also agreed,
 that henceforth a Monthly Meeting in Friesland should be established,
 as also at Rotterdam; and that on the second second-day of each month:
 and at Harlingen upon the third third-day of the month.
 
+[.numbered]
 6+++.+++ Further, that in the interim, the Friends of Alkmaer, and Harlem, and Waterland,
 are to have their Monthly Meeting with Friends at Amsterdam:
 and to begin the said meeting the 6th day of the seventh month, and so forth;
 always upon the first second-day of the month at the eighth hour.
 
+[.numbered]
 7+++.+++ And further, concerning Gospel order:
 though the doctrine of Christ Jesus requireth his
 people to admonish a brother or sister twice,
@@ -151,6 +165,7 @@ no more required of them to their brother or sister,
 before they expose him or her to the church.
 Let this be weightily considered.
 
+[.numbered]
 8+++.+++ And further, when the church is told,
 and the party admonished by the church again and again,
 and he or she remain still insensible and unreconciled;
@@ -163,6 +178,7 @@ let the judgment of Friends in the power of God go forth against him or her,
 as moved for the Lord`'s honour and glory sake;
 that no reproach may come or rest upon God`'s holy name, truth and people.
 
+[.numbered]
 9+++.+++ As much as possibly can be, let all differences be ended by some honest Friends;
 and trouble not the Monthly or Quarterly Meetings with them: and if that will not do,
 proceed to your particular Monthly Meetings.
@@ -173,6 +189,7 @@ And in case any person or persons be so obstinate,
 as that they refuse the sense and love of Friends, and will not comply with them;
 then proceed towards them according to the way of Truth in such cases.
 
+[.numbered]
 10+++.+++ That all such as behold their brother or sister in a transgression,
 go not in a rough, light, or upbraiding spirit to reprove or admonish him or her,
 but in the power of the Lord and spirit of the Lamb; in the wisdom and love of the Truth,
@@ -183,6 +200,7 @@ and have cause to bless the name of the Lord on their behalf:
 and so a blessing may be rewarded into the bosom of the
 faithful and tender brother or sister that so admonisheth.
 
+[.numbered]
 11+++.+++ And be it known unto all, we cast out none from among us:
 for if they go from the light, and spirit, and power, in which our unity is,
 they cast out themselves.
@@ -193,6 +211,7 @@ that the world hateth, and in the spirit, that the world grieveth, vexeth, and q
 And if they will not hear our admonitions, the light condemneth them,
 and then goeth our testimony out against them.
 
+[.numbered]
 12+++.+++ That no condemnation is to go further than the transgression is known.
 And if he or she return, and give forth a condemnation against himself or herself,
 which is more desirable than that we should do it,
@@ -201,10 +220,12 @@ and the whole world: as David, when Nathan came to admonish him.
 Psal.
 li.
 
+[.numbered]
 13+++.+++ That no testimony by way of condemnation be given forth against any man or woman,
 whatever crime they commit, before admonition,
 and till such time as they have Gospel order, according to Christ`'s doctrine.
 
+[.numbered]
 14+++.+++ And if any brother or sister hear any report of any brother or sister,
 let him or her go to the party, and know the truth of the report; and if true,
 let the thing be judged; if false, go then to the reporter, and let him or her be judged.
@@ -213,11 +234,17 @@ without going to the party of whom the report goeth, let such be brought to judg
 for thou shalt neither raise nor suffer a report to lie upon my people, saith the Lord:
 for they are to be holy as he is holy; and just as he is just.
 
+[.numbered]
 15+++.+++ And if any controversy or weakness should appear in either men`'s or women`'s meetings,
 let it not be told out of your meetings;
 because such speeches tend to the defaming of such persons and meetings,
-and to the hurt of the common unity, and breach of the heavenly society and privilege.`"
+and to the hurt of the common unity, and breach of the heavenly society and privilege.
 
+====
+
+--
+
+[.offset]
 This is an account of what passed in this general meeting.
 
 Next day, notice being already given, we had a large public meeting,
@@ -229,6 +256,13 @@ and the practice of Friends relating to it and other
 things were very weightily and closely discoursed.
 The resolutions were these following:
 
+[.embedded-content-document]
+--
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ A scruple concerning the law of the magistrate about marriage,
 being proposed and discoursed of in the fear of God among Friends in a select meeting;
 it was the universal and unanimous sense of Friends,
@@ -237,6 +271,7 @@ For it is God`'s ordinance and not man`'s,
 and therefore Friends cannot consent that they should join them together.
 For we marry none; it is the Lord`'s work, and we are but witnesses.
 
+[.numbered]
 2+++.+++ But yet, if a Friend, through tenderness,
 have a desire that the magistrate should know it before the marriage be concluded;
 they may publish the same, after the thing hath by Friends been found clear;
@@ -250,10 +285,12 @@ is not according to Scripture;
 and our testimony and practice have been always against it.
 It was God`'s work before the fall, and it is God`'s work alone in the restoration.
 
+[.numbered]
 3+++.+++ If any Friend have it upon him to reprint any book already
 printed and approved either in England or here,
 they may do it upon their own charges.
 
+[.numbered]
 4+++.+++ It is also agreed, that the care of reading and approving books,
 be laid upon some of every meeting; to the end no book may be published but in the unity.
 Yet any other faithful Friends not so nominated, are not thereby excluded.
@@ -261,6 +298,7 @@ Though in all these cases it is desired,
 that all would avoid unnecessary disputes about words, which profit not,
 but keep in the love that edifieth.
 
+[.numbered]
 5+++.+++ It is further concluded,
 that the general stock of the Quarterly Meeting be not disposed of,
 but by the consent of the Quarterly Meeting.
@@ -272,10 +310,14 @@ And let all things be done without favour, affection, relation or any respect to
 even for the Lord`'s sake, and his blessed everlasting Truth;
 that God may bless and prosper his people.
 
+====
+
 And let all things be written down,
 both as to your Monthly and Quarterly Meeting collections; what you receive,
 and what you disburse; that all may be fair and clear,
-to the satisfaction of all that desire to see and examine the books.`"
+to the satisfaction of all that desire to see and examine the books.
+
+--
 
 And the Lord`'s fear, and life, and power was over all,
 in which the Lord God preserve his forever.
@@ -290,8 +332,13 @@ informing us also that the king of Poland was there,
 and asking advice about an address to him,
 it fell upon me to write the following letter in the name of the Friends of Dantzic:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King of Poland.
 
+[.salutation]
 Great Prince!
 
 Actions of justice, mercy, and Truth are worthy of all men;
@@ -315,9 +362,14 @@ the most fundamental principles most surely believed by us;
 which we hope thou wilt believe, deserve not those punishments,
 that are inflicted upon us as evil doers.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ We do reverently believe, that there is one God and Father, one Lord Jesus Christ,
 and one Holy Spirit, and these three are one. Eph. 4:6.
 
+[.numbered]
 2+++.+++ We believe the Scriptures of the Old and New Testament
 to have been given forth by Divine inspiration;
 and that they are profitable for doctrine, for reproof, for correction,
@@ -325,9 +377,11 @@ for instruction in righteousness;
 '`able to make the man of God wise unto salvation through faith,
 which is in Christ Jesus.`' 2 Tim. 3:15-16.
 
+[.numbered]
 3+++.+++ That these Holy Scriptures are not to be understood, but by the discoveries,
 teachings and operations of the eternal Spirit, from whence they came.
 
+[.numbered]
 4+++.+++ We believe that all mankind, through disobedience to the spirit of God,
 are fallen short of the glory of God, and in that state are under condemnation;
 but that God out of his infinite goodness and kindness,
@@ -335,6 +389,7 @@ hath sent his Son a light into the world,
 that whosoever believeth and obeyeth this light, should not abide in darkness,
 but have the light of eternal life.
 
+[.numbered]
 5+++.+++ We believe this gift of light and grace through Jesus Christ to be universal;
 and that there is not a man or woman upon earth,
 that hath not a sufficient measure of this light,
@@ -347,12 +402,14 @@ yet they will not bring their deeds to the light, but hate the light,
 and love their dark customs and practices rather than the light,
 '`because their deeds are evil.`'
 
+[.numbered]
 6+++.+++ We do believe in the birth, life, doctrine, miracles, death, resurrection,
 and ascension of Jesus Christ our Lord; and that he laid down his life for the ungodly,
 not to continue so, but that they should deny their wickedness and ungodliness;
 and live soberly, righteously, and godly in this present evil world;
 as the saints of old did, who were redeemed from the earth, and sat in heavenly places.
 
+[.numbered]
 7+++.+++ We do believe,
 that as the devil through man`'s disobedience brought sin into man`'s heart,
 so Christ Jesus, through man`'s belief in, and obedience to his Holy Spirit,
@@ -366,6 +423,7 @@ and not that Christ Jesus saveth men from wrath and not from sin;
 '`but the gift of God is eternal life,`' to all that believe and obey,
 through Jesus Christ.
 
+[.numbered]
 8+++.+++ We do believe,
 that all true ministry and worship stand only in the experimental sense,
 operations and leadings of this holy light, spirit or grace,
@@ -374,6 +432,8 @@ to conduct them in the holy way of regeneration unto life eternal.
 This was the ancient apostolical doctrine; they spoke what they had seen, tasted,
 and handled of the Word of God.
 And this is our faith, doctrine, and practice in this day.
+
+====
 
 And be not displeased with us, O King, we entreat thee,
 if we give this for the reason of our absenting ourselves
@@ -496,7 +556,7 @@ and by that power and influence thou hast with the magistrates of this city,
 to recommend our suffering condition to their serious consideration;
 that we may no longer lie under these not only unchristian, but unnatural severities,
 but receive that speedy and effectual relief,
-which becometh Christian magistrates to give to their own sober and Christian people.`"^
+which becometh Christian magistrates to give to their own sober and Christian people.^
 footnote:[Our author had greeted these sufferers
 with a consolatory letter as early as the year 1673,
 after his first journey to the continent.
@@ -522,3 +582,5 @@ In 1684, two letters from them were read at the Yearly Meeting in London,
 describing their strait bondage in the house of correction,
 under extremely hard usage and cruelty, being chained together two and two by the hands,
 fed only with bread and water, and forced to lie upon straw through the severe winter.]
+
+--
