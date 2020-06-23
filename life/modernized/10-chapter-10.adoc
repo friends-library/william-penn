@@ -257,6 +257,9 @@ The resolutions were these following:
 [.embedded-content-document]
 --
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ A scruple concerning the law of the magistrate about marriage,
 being proposed and discoursed of in the fear of God among Friends in a select meeting;
@@ -304,6 +307,8 @@ if it appear that they are thereby overcharged.
 And let all things be done without favour, affection, relation or any respect to persons,
 even for the Lord`'s sake, and his blessed everlasting Truth;
 that God may bless and prosper his people.
+
+====
 
 And let all things be written down,
 both as to your Monthly and Quarterly Meeting collections; what you receive,
