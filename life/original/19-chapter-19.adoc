@@ -1,4 +1,4 @@
-== Chapter XIX.
+== Chapter XVIII.
 
 On the 10th of eighth month, at Amsterdam, we had a blessed public meeting,
 never to be forgotten.
@@ -94,7 +94,7 @@ wherein the deep mysteries of the kingdom of Christ and antichrist were declared
 in the power of an endless life.
 Several of divers religions were there, but no disturbance or contradiction;
 a profound silence and reverent attention were over the meeting.^
-footnote:[A person then convinced, +++[+++says W. P.]
+footnote:[A person then convinced, (says W. P.)
 though the world prevailed, died lately, acknowledging it, and cried out,
 "`How happy had I been, if I had then obeyed!`"]
 
@@ -255,10 +255,15 @@ The packet-boat not being come, we were necessitated to lie there that night.
 That night it was upon me in the earnest love of God,
 to salute the Princess and Countess with a few farewell lines, as followeth:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Princess Elizabeth.
 Salvation in the cross.
 Amen.
 
+[.salutation]
 Dear and truly respected friend,
 
 My soul most earnestly desireth thy temporal and eternal felicity;
@@ -310,16 +315,22 @@ Farewell, my dear friend, and the Lord be with thee!
 
 I am, more than I can say, thy great lover and respectful friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 P+++.+++ S. I refer thee to the enclosed for passages.
 We visited Giftall and Hooftman, and they us.
 They were at one or two of the meetings at Amsterdam.
 Vale in aternum!
 
-For Anna Maria de Homes, styled Countess of Homes.
+--
 
-Jesus be with thy spirit.
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+For Anna Maria de Homes, styled Countess of Homes. Jesus be with thy spirit.
 Amen.
 
 Beloved,
@@ -415,11 +426,16 @@ I wish thy servants`' felicity; but thine as mine own: God Almighty overshadow t
 hide thee under his pavilion, be thy shield, rock and sanctuary forever.
 Farewell, farewell
 
+[.signed-section-closing]
 Thy friend and the Lord`'s servant,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Briel, 20th, (30th,) Eighth month, 1677.
+
+--
 
 Next morning, the 21st, the packet-boat arrived; and about ten o`'clock we went on board,
 having first taken our solemn leave of those Friends that accompanied us thither.
@@ -429,6 +445,9 @@ we arrived not at Harwich till the 24th about the sixth hour.
 Whence next morning,
 I wrote this following salutation and account to the Friends
 of Holland and Germany to return with the boat.
+
+[.embedded-content-document.epistle]
+--
 
 My soul magnifieth the Lord, and my spirit rejoiceth in God my Saviour,
 who hath rebuked the winds and the seas,
@@ -498,13 +517,19 @@ and in the end of days and times,
 stand in your lot among the spirits of the just made perfect.
 Amen, amen.
 
+[.signed-section-closing]
 Yours in that which is eternal!
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 P+++.+++ S. Let this be sent to Friends in High and Low Dutchland.
 
+[.signed-section-context-close]
 Harwich, 24th of the Eighth month, 1677.
+
+--
 
 At Harwich, I left dear George Fox and Gertrude Diricks and her children,
 who came over with us, to follow me in a coach:
@@ -543,12 +568,21 @@ and faithful One, be glory, honour and praises, dominion and a kingdom,
 forever and ever!
 Amen.
 
+[.signed-section-signature]
 William Penn.
+
+[.asterism]
+'''
 
 At London, the following letter from the Princess Elizabeth came to hand.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Herford, the 29th of October, 1677.
 
+[.salutation]
 Dear friend,
 
 Your tender care of my eternal wellbeing doth oblige me much,
@@ -569,22 +603,31 @@ Do not think I go from what I spoke to you the last evening;
 I only stay to do it in a way that is answerable before God and man.
 I can say no more now, but recommend to your prayers,
 
+[.signed-section-closing]
 Your true friend,
 
+[.signed-section-signature]
 Elizabeth.
 
+[.postscript]
 P+++.+++ S. I almost forgot to tell you that my sister writes me word,
 she had been glad you had taken your journey by Osnaburg to return to Amsterdam.
 There is also a drossard of Limburg near this place,
 (to whom I gave an exemplar of Robert Barclay`'s Apology,)
 very desirous to speak with some of the Friends.
 
+--
+
 Another letter was received some time after,
 in answer to one which he had written to her while in Holland--being as follows.
 
-"`This 17th of November, 1677.
+[.embedded-content-document.letter]
+--
 
-"`Dear friend, "`I have received a letter from you,
+[.signed-section-context-open]
+This 17th of November, 1677.
+
+Dear friend, I have received a letter from you,
 that seemeth to have been written at your passage into England,
 which I wish may be prosperous, without date, but not without virtue to spur me on,
 to do and suffer the will of our God.
@@ -595,20 +638,30 @@ My house and my heart shall be always open to those that love him.
 Gichtel has been well satisfied with the conferences between you.
 As for my business, it will go as the Lord pleaseth, and remain in him,
 
+[.signed-section-closing]
 Your affectionate friend,
 
+[.signed-section-signature]
 Elizabeth.
+
+--
 
 The following short Epistle, written to Friends in Germany etc,
 who were under severe persecution,
 is a beautiful specimen of the Christian sympathy of our author,
 and the religious consolation which he was capable of imparting, viz.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To all suffering Friends in Holland or Germany,
 particularly in Fredericstadt and in or near Dantzic.
 
+[.signed-section-context-open]
 Rickmansworth, 1st of Seventh month, 1673.
 
+[.salutation]
 My dear friends,
 
 In God`'s everlasting Truth, and that heavenly power, strength,
@@ -664,17 +717,24 @@ Amen, amen!
 
 Your fellow-feeling brother in the unchangeable Truth,
 
+[.signed-section-signature]
 William Penn.
 
+[.postscript]
 P+++.+++ S. Truth greatly prevails in these islands,
 and grows daily famous over the heads of its peevish opposers: and Friends,
 who have heard lately of you, travail and sympathize with you; you are not alone,
 and He that is in you, is greater than he that is in the world.
 Farewell.
 
+--
+
 The subjoined extracts from a letter written in 1676
 to the Princess Elizabeth and the Countess of Homes,
 are deemed worthy of insertion, viz.
+
+[.embedded-content-document.letter]
+--
 
 Jesus be with your spirits, the immaculate Lamb of God, and glorious Light of the world!
 His pure Spirit redeem you from the evil and ignorance that are in it,
@@ -723,10 +783,15 @@ and Jesus will be with you, he will shed his peace abroad in the midst of you,
 even that which flows from the crystal streams of life,
 that arise from under the throne of God.
 
+--
+
 After describing the sad declension and apostacy from the
 life and power of the religion of the primitive believers,
 which had come upon professing Christendom,
 and the unfaithfulness and worldly compliances, he proceeds thus;
+
+[.embedded-content-document.letter]
+--
 
 And though the Lord has not left himself without witnesses in any age;
 yet they were so few, and most of them, though accepted according to their day and work,
@@ -977,13 +1042,15 @@ that you may see Him, the only Rock to build upon,
 that your peace may be great in the Lord, when troubles are round about you.
 For by this shall the begotten of God be known,
 and eminently discovered in the days of universal calamity; tranquillity, patience,
-faith and perseverance, shall conspicuously shine in their very countenances.`"
+faith and perseverance, shall conspicuously shine in their very countenances.
+
+--
 
 [.asterism]
 '''
 
-A summons or call to Christendom, in an earnest expostulation with her,
-to prepare for the great and notable day of the Lord, that is at the door.
+[.blurb]
+=== A summons or call to Christendom, in an earnest expostulation with her, to prepare for the great and notable day of the Lord, that is at the door.
 
 Awake, O Christendom!
 Awake, and come to judgment,
@@ -1771,19 +1838,19 @@ and separate from all your false worships by his own light, Spirit and truth,
 and to follow his dear Son in the way of regeneration,
 whose love to me hath taught me to love all mankind, and to seek their salvation.
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Amsterdam, the 20th of tho Eighth month, 1677.
 
 [.asterism]
 '''
 
-Tender counsel and advice, by way of epistle,
-to all those who are sensible of their day of visitation; and who,
-wherever scattered throughout the world, have received the call of the Lord,
-by the Light and Spirit of his Son in their hearts, to partake of the great salvation:
-faith, hope and charity, which overcome the world, be multiplied among you.
+[.blurb]
+=== Tender counsel and advice, by way of epistle, to all those who are sensible of their day of visitation; and who, wherever scattered throughout the world, have received the call of the Lord, by the Light and Spirit of his Son in their hearts, to partake of the great salvation: faith, hope and charity, which overcome the world, be multiplied among you.
 
+[.salutation]
 My dearly beloved friends,
 
 Who are sensible of the day of your visitation,
@@ -2528,18 +2595,16 @@ both now and ever, Amen!
 
 I am your friend that sincerely loves you, and earnestly travails for your redemption,
 
+[.signed-section-signature]
 William Penn.
 
 [.asterism]
 '''
 
-A Tender Visitation, in the Love of God that overcometh the world, to all people,
-+++[+++especially]
-in the High and Low Dutch nations, who hunger and thirst after righteousness,
-and desire to know and worship God in truth and in sincerity:
-containing a plain testimony to the ancient and apostolical life, way and worship,
-that God is reviving and exalting in the earth, in his Spirit and Truth.
+[.blurb]
+=== A Tender Visitation, in the Love of God that overcometh the world, to all people, +++[+++especially] in the High and Low Dutch nations, who hunger and thirst after righteousness, and desire to know and worship God in truth and in sincerity: containing a plain testimony to the ancient and apostolical life, way and worship, that God is reviving and exalting in the earth, in his Spirit and Truth.
 
+[.salutation]
 Friends,
 
 In that love wherewith God, the Father of all mercy,
@@ -2563,14 +2628,19 @@ and everlasting joy and gladness shall be the portion of your inheritance.
 Let me therefore, friends, speak freely and be open-hearted unto you,
 and consider you my words in the fear of God, for I am pressed in spirit to write to you.
 
-First, Have you all turned yourselves to God, who was the teacher of Adam,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Have you all turned yourselves to God, who was the teacher of Adam,
 while in his innocency, who was the teacher of the Israelites, through his prophets,
 and of the true Christians through his Son Jesus,
 through whom he speaks his will in the hearts of all true Christians?
 if not, then are you yet erring from his Spirit,
 and going astray from the Lord who is the teacher of the new covenant.
 
-Secondly, Know you the end and design of the coming of Christ?
+[.numbered]
+_Secondly,_ Know you the end and design of the coming of Christ?
 are you come to an inward experience of what the same is?
 Hearken to the words of his beloved disciple, who has said,
 For this purpose the Son of God was manifested, that he might put an end to sin,
@@ -2723,7 +2793,8 @@ and from the vanities of this world: receive my counsel, which is the living ora
 the fountain of all wisdom, and do not hew out to yourselves cisterns,
 broken cisterns that can hold no water.
 
-Thirdly, Are your preachers and teachers sent by God, or by men?
+[.numbered]
+_Thirdly,_ Are your preachers and teachers sent by God, or by men?
 How are they come to be your teachers?
 consider of this seriously.
 Are they of those who have accompanied with Jesus?
@@ -2740,7 +2811,8 @@ spake forth as they were moved by the Holy Ghost?
 If it be so, then have they not received such work, or such victory,
 through the holy Spirit in themselves, as the saints had experience of.
 
-Fourthly, Do your preachers turn your minds to the light of Christ, that is,
+[.numbered]
+_Fourthly,_ Do your preachers turn your minds to the light of Christ, that is,
 the life in him, which shines in your hearts;
 which discovers sin to the creature and shows every
 man what the Lord doth require of him?
@@ -2758,7 +2830,8 @@ who gives victory over the world, unto all those,
 who in their hearts believe in the light of Jesus;
 and this blessed hope purifies the heart, and fortifies the soul.
 
-Fifthly, When you come to your meetings, both preachers and people, what do you do?
+[.numbered]
+_Fifthly,_ When you come to your meetings, both preachers and people, what do you do?
 Do you then gather together in body only, and kindle a fire,
 compassing yourselves about with the sparks of your own kindling,
 and so please yourselves, and walk in the light of your own fire,
@@ -2774,6 +2847,8 @@ For that which is born of the Mesh, is flesh; and he that soweth to his flesh,
 shall of the flesh reap corruption;
 for flesh and blood cannot inherit the kingdom of God; but he that soweth to the Spirit,
 shall of the Spirit, reap life eternal, through Christ who has quickened him.
+
+====
 
 What have you felt then, my friends, of this work in your hearts?
 has Christ there appeared?
@@ -3112,6 +3187,10 @@ who had once professed with Friends, but was now become an opposer of them.
 This letter, containing advice which might advantageously apply to some in our times,
 is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 John Pennyman,
 
 I received a letter from thee since my arrival in this land.
@@ -3159,8 +3238,13 @@ I should willingly spend an hour with thee upon this subject, if I knew when and
 without inconvenience to either of us.
 In the mean while I wish thee well, and forever;
 
+[.signed-section-closing]
 Thy true friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 London, 18th of the Ninth month, 1677.
+
+--

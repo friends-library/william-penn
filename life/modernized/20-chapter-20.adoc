@@ -1,4 +1,4 @@
-== Chapter XX.
+== Chapter XIX.
 
 1678-79-80. Some very severe laws had been enacted
 against the Roman Catholics by the British parliament,
@@ -36,7 +36,10 @@ On the 22nd of the first month,
 William Penn being admitted before a committee of parliament,
 addressed them in the following terms.
 
-"`If we ought to believe that it is our duty, according to the doctrine of the apostle,
+[.embedded-content-document.address]
+--
+
+If we ought to believe that it is our duty, according to the doctrine of the apostle,
 to be always ready to give an account of the hope that is in us,
 and that to every sober and private inquirer, certainly,
 much more ought we to hold ourselves obliged to declare with all readiness,
@@ -85,11 +88,16 @@ but first to pay that regard we owe to the inquiry of this committee,
 and in the next place,
 to relieve ourselves from the daily spoil and ruin which now attends
 and threatens many hundreds of families by the execution of laws,
-that we humbly conceive were never made against us.`"
+that we humbly conceive were never made against us.
+
+--
 
 He subsequently made to this committee a second speech,
 but whether on the same or a different day, does not appear.
 The second speech was as follows:
+
+[.embedded-content-document]
+--
 
 The candid hearing our sufferings have received from this committee,
 and the fair and easy entertainment you have given us, oblige me to add,
@@ -164,6 +172,8 @@ And I hope our conduct shall always manifest the grateful resentment
 of our minds for the justice and civility of this opportunity,
 and so I pray God direct you.
 
+--
+
 This application was so far successful, that the committee inserted,
 in the bill then depending before them, a clause, granting relief in the case,
 which passed the house of commons, but before it had passed the house of lords,
@@ -173,13 +183,16 @@ In the course of this year, a work was given to the world,
 purporting to explain the opinions of the Quakers,
 by an author who chose to conceal his name.
 This brought William Penn again before the public, in a tract, entitled,
-"`A brief answer to a false and foolish libel.`"
+_A brief Answer to a False and Foolish Libel._
 Of this answer it is unnecessary to present any analysis,
 as it consists chiefly of returns to misrepresentations
 and perversions of the opinions of Friends.
 The conclusion manifesting the readiness of the author to answer
 all reasonable inquiries respecting his faith and principles,
 is subjoined.
+
+[quote]
+____
 
 Lastly,
 I hereby offer a fair and free conference with the author or authors of the libel,
@@ -194,6 +207,7 @@ and the many and large books I have already written
 on occasion of these and the like imputations,
 would have dissuaded me from any fresh undertaking of this nature,
 and sufficiently guarded me against all reflections upon my silence.
+____
 
 The people of England were about this time thrown into great consternation,
 by the pretended disclosures of Titus Oates and others, in regard to a popish plot.
@@ -334,18 +348,28 @@ he proceeds in the second part of his address,
 to treat of those which relate to the ecclesiastical state of those kingdoms.
 In this part five capital evils are noted.
 
-First, Making the opinions of men, articles of faith; at least,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ Making the opinions of men, articles of faith; at least,
 giving them the reputation of faith, and making them the bond of Christian society.
 
-Second, Mistaking the nature of true faith,
+[.numbered]
+_Second,_ Mistaking the nature of true faith,
 and taking that for faith which is not gospel faith.
 
-Third, Debasing the true value of morality, under the pretence of higher things.
+[.numbered]
+_Third,_ Debasing the true value of morality, under the pretence of higher things.
 Mistaking much of the end of Christ`'s coming.
 
-Fourth, Preferring human authority above reason and truth.
+[.numbered]
+_Fourth,_ Preferring human authority above reason and truth.
 
-Fifth, Propagating faith by force, and imposing religion by worldly compulsion.
+[.numbered]
+_Fifth,_ Propagating faith by force, and imposing religion by worldly compulsion.
+
+====
 
 Under the first division he censures and exposes the practice
 of expounding a belief on religious subjects,
@@ -483,6 +507,9 @@ and the opposition of such means to the nature of Christianity are copiously dem
 This address, which occupies about one hundred pages in our author`'s folio works,
 closes in the following terms.
 
+[.embedded-content-document.address]
+--
+
 God Almighty open our understandings and hearts,
 and pour out the spirit of thorough reformation upon us;
 for it is in the spirit and not in the words of reformation,
@@ -490,6 +517,8 @@ that the life and prosperity of reformation stands; that is,
 we may be all conscientiously disposed to seek and
 pursue those things which make for love,
 peace and godliness, that it may be well with us and ours, both here and forever.
+
+--
 
 In the same year he also prefixed to the works of Samuel Fisher,
 which were then printing in folio, a testimony respecting the author.
@@ -539,7 +568,7 @@ The opposition of our author to popish doctrines in government as well as in rel
 was clearly manifested on numerous occasions.
 
 He wrote in the same year, a second pamphlet,
-entitled "`One project for the good of England,`" which partakes
+entitled _One Project for the Good of England,_ which partakes
 quite as much of the political as of a religious character.
 Yet it is observable that his politics were kept in subserviency to his religion;
 and that in his efforts to influence the measures of government,
@@ -549,18 +578,18 @@ The persecution of dissenters,
 among whom Friends always sustained the heaviest part of the burden, still continuing,
 three applications were made in the year 1680 to those in authority.
 
-The first was entitled "`The Case of the people called Quakers stated,
-in relation to their late and present sufferings,
-especially upon old statutes made against popish recusants.`"
+The first was entitled _The Case of the People Called Quakers Stated,
+in Relation to Their Late and Present Sufferings,
+Especially upon Old Statutes Made Against Popish Recusants._
 
-The second was called "`An account of the late and present great sufferings and oppressions,
-of the people called Quakers, upon prosecutions against them, in the bishop`'s courts,
-humbly presented to the serious consideration of the king, lords and commons.`"
+The second was called _An Account of the Late and Present Great Sufferings and Oppressions,
+of the People alled Quakers, upon Prosecutions Against Them, in the Bishop`'s Courts,
+Humbly Presented to the Serious Consideration of the King, Lords and Commons._
 
 The third was styled,
-"`A brief account of some of the late and present Sufferings of the people called Quakers,
-for meeting together to worship God in spirit and in Truth, upon the conventicle act,
-with an account of such who died prisoners, from the year 1660, for several causes.`"
+_A Brief Account of Some of the Late and Present Sufferings of the People Called Quakers,
+for Meeting Together to Worship God in Spirit and in Truth, upon the Conventicle Act,
+with an Account of Such Who Died Prisoners, from the Year 1660, for Several Causes._
 It was addressed to the king, lords and commons, in parliament assembled.
 
 In each of these works, William Penn wrote an appropriate preface,
@@ -576,7 +605,7 @@ to the folio edition of his works.
 In this year, died the virtuous princess Elizabeth,
 with whose religious disposition and kindness to William Penn,
 the reader of this narrative is already acquainted.
-When a second edition of "`No Cross No Crown,`" was published, in 1682,
+When a second edition of [.book-title]#No Cross No Crown,# was published, in 1682,
 the author inserted her name and character among
 the witnesses in favour of a religious life.
 
@@ -593,11 +622,10 @@ This tract, containing many wise and appropriate observations, is here inserted 
 [.asterism]
 '''
 
-A brief examination of liberty spiritual,
-both with respect to persons in their private capacity,
-and in their church society and communion.
-To the people of the Lord called Quakers.
+[.blurb]
+=== A brief examination of liberty spiritual, both with respect to persons in their private capacity, and in their church society and communion. To the people of the Lord called Quakers.
 
+[.salutation]
 Dear friends and brethren,
 
 It has of long time rested with some pressure upon my spirit,
@@ -646,16 +674,20 @@ a holy family, at unity with itself, to the Lord God your Redeemer,
 that he over all may in you, through you and by you, be exalted, honoured and praised,
 who is worthy and blessed forever.
 
-Question.
+[.discourse-part]
+_Question._
 What is spiritual liberty?
 
-Answer.
+[.discourse-part]
+_Answer._
 It is two-fold; there is a true and a false liberty, as a true and false spirit,
 the right discerning of which concerns every one`'s eternal well-being.
 
-Q+++.+++ What is true spiritual liberty?
+[.discourse-part]
+_Q+++.+++_ What is true spiritual liberty?
 
-A+++.+++ Deliverance from sin by the perfect law in the heart, The perfect law of liberty,
+[.discourse-part]
+_A+++.+++_ Deliverance from sin by the perfect law in the heart, The perfect law of liberty,
 James 2., otherwise called, The law of the Spirit of life in Christ Jesus,
 that makes free from the law of sin and death; elsewhere styled,
 the law of Truth written in the heart, which makes free indeed, as says Christ,
@@ -668,22 +700,28 @@ neither the vain affections and lusts that rule or give law to the soul;
 for the minds of all such as are made free by the Truth,
 are by the Truth conducted in doing and suffering through their earthly pilgrimage.
 
-Q+++.+++ What is false liberty?
+[.discourse-part]
+_Q+++.+++_ What is false liberty?
 
-A+++.+++ A departing from this blessed Spirit of Truth,
+[.discourse-part]
+_A+++.+++_ A departing from this blessed Spirit of Truth,
 and a rebelling against this perfect law of liberty in the heart,
 and being at liberty to do our own wills; upon which comes reproof and judgment.
 
-Q+++.+++ But are there not some things wherein we ought to be left to our own freedom?
+[.discourse-part]
+_Q+++.+++_ But are there not some things wherein we ought to be left to our own freedom?
 
-A+++.+++ We are not our own, for we are bought with a price;
+[.discourse-part]
+_A+++.+++_ We are not our own, for we are bought with a price;
 and in all things ought we to glorify God with our bodies, souls and spirits,
 which are the Lord`'s.
 
-Q+++.+++ But must we have a motion or command from the
+[.discourse-part]
+_Q+++.+++_ But must we have a motion or command from the
 Spirit of Truth for all things that we do?
 
-A+++.+++ That may be according to the Truth,
+[.discourse-part]
+_A+++.+++_ That may be according to the Truth,
 which may not be by the immediate motion or command of the Truth;
 for that is according to the Truth, that is not against the mind of the Truth,
 either particularly or generally expressed.
@@ -694,9 +732,11 @@ the variety of flesh, fish and fowl for food, with more of the same nature,
 in all which there is a choice and liberty, but still according to the Truth,
 and within the holy bounds and limits of it.
 
-Q+++.+++ Then it seems there are some things left to our freedom.
+[.discourse-part]
+_Q+++.+++_ Then it seems there are some things left to our freedom.
 
-A+++.+++ Yes; but it must still be according to the mind of God`'s Truth.
+[.discourse-part]
+_A+++.+++_ Yes; but it must still be according to the mind of God`'s Truth.
 There are things enjoined, such as relate to our duty to God, to our superiors,
 to the household of faith, and to all men and creatures; these are indispensable.
 There are also things that may be done or left undone, which may be called indifferent;
@@ -705,7 +745,8 @@ or what hours I will eat my meals at, with many such outward things of life and 
 yet even in such cases I ought to act according to the Truth,
 in the temperance and wisdom of it.
 
-Q+++.+++ But does not freedom extend further than this;
+[.discourse-part]
+_Q+++.+++_ But does not freedom extend further than this;
 for since God has given me a manifestation of his Spirit to profit withal,
 and that I have the gift of God in myself,
 should I not be left to act according as I am free and persuaded in my own mind,
@@ -714,7 +755,8 @@ lest looking upon myself as obliged by what is revealed unto another,
 though it be not revealed unto me, I should be led out of my own measure,
 and act upon another`'s motion, and so offer a blind sacrifice to God?
 
-A+++.+++ This is true in a sense, that is,
+[.discourse-part]
+_A+++.+++_ This is true in a sense, that is,
 if you are such a one that can do nothing against the Truth, but for the Truth,
 then may you safely be left to your freedom in the things of God,
 and the reason is plain; because your freedom stands in the perfect law of liberty,
@@ -726,10 +768,12 @@ but if you plead your freedom against such things, yes, obstruct and slight such
 wholesome and requisite things, your freedom is naught, dark, perverse, out of the Truth,
 and against the perfect law of love and liberty.
 
-Q+++.+++ But must I conform to things whether I can receive them or no?
+[.discourse-part]
+_Q+++.+++_ But must I conform to things whether I can receive them or no?
 Ought I not to be left to the grace and spirit of God in my own heart?
 
-A+++.+++ To the first part of the question, No; to the last, Yes.
+[.discourse-part]
+_A+++.+++_ To the first part of the question, No; to the last, Yes.
 But now let us consider what is the reason you can not receive them.
 Is the fault in the things themselves?
 Are they inconsistent with Truth, or will not the Truth own or assent unto them,
@@ -785,10 +829,12 @@ If not, you are the imposer, by restraining me from my Christian liberty;
 and not only so, but away goes preaching, and with it the Scriptures,
 that are both appointed of God for exhortation, reproof and instruction.
 
-Q+++.+++ But are there not various measures, diversities of gifts,
+[.discourse-part]
+_Q+++.+++_ But are there not various measures, diversities of gifts,
 and several offices in the body?
 
-A+++.+++ True; but are not the members therefore of one mind,
+[.discourse-part]
+_A+++.+++_ True; but are not the members therefore of one mind,
 one will and one judgment in common and universal matters,
 especially relating to the family and church of God?
 and indeed there cannot be a falser reasoning than to conclude discord from diversity,
@@ -873,15 +919,19 @@ hear with the same ear, speak with the same mouth, live by the same breath,
 and are led by the same spirit, where is this disagreement,
 contrariety or dissent about the things of his church?
 
-Q+++.+++ But the members of Christ`'s church in the primitive times had different apprehensions;
+[.discourse-part]
+_Q+++.+++_ But the members of Christ`'s church in the primitive times had different apprehensions;
 as the apostles and the people gathered by them.
 
-A+++.+++ Pray let me know who they were, and in what cases?
+[.discourse-part]
+_A+++.+++_ Pray let me know who they were, and in what cases?
 
-Q+++.+++ The persons were Paul and Peter, and those Christians who differed about meats;
+[.discourse-part]
+_Q+++.+++_ The persons were Paul and Peter, and those Christians who differed about meats;
 and the Scripture is plain in the case.
 
-A+++.+++ The difference between Peter and Paul (in the Acts) testifies the weakness of Peter,
+[.discourse-part]
+_A+++.+++_ The difference between Peter and Paul (in the Acts) testifies the weakness of Peter,
 and the place justifies Paul`'s reproof of his too
 great compliance with the Jews in some of their rites;
 which makes against liberty of various practices, in the church of Christ,
@@ -993,11 +1043,13 @@ and the mind of his Spirit,
 and are not proved to have acted in their own wills and wisdom,
 or without the guidance of the spirit of God, about the things of his church and kingdom.
 
-Q+++.+++ But though this be true, which has been alleged for heavenly concord,
+[.discourse-part]
+_Q+++.+++_ But though this be true, which has been alleged for heavenly concord,
 yet what if I do not presently see that service in a thing,
 which the rest of my brethren agree in; in this case, what is my duty and theirs?
 
-A+++.+++ It is your duty to wait upon God in silence and patience,
+[.discourse-part]
+_A+++.+++_ It is your duty to wait upon God in silence and patience,
 out of all fleshly consultations; and as you abide in the simplicity of the Truth,
 you will receive an understanding with the rest of your brethren,
 about the thing doubted.
@@ -1008,12 +1060,14 @@ and exalt your judgment against them, they have power from God to exhort,
 admonish and reprove you; and if you persevere therein,
 in His name to refuse any further fellowship with you, till you repent of your evil.
 
-Q+++.+++ But lest I should mistake, when you speak of true liberty,
+[.discourse-part]
+_Q+++.+++_ But lest I should mistake, when you speak of true liberty,
 that it stands in being made free by the Truth, from all unrighteousness, do you mean,
 that no other persons ought to have the liberty of exercising their dissenting consciences,
 but that force may be lawful to reduce such as are reputed erroneously conscientious?
 
-A+++.+++ By no means.
+[.discourse-part]
+_A+++.+++_ By no means.
 It would be great wickedness against God, who is Lord of the souls and spirits of men,
 and ought to preside in all consciences, who, as the apostle says, Is the only Potentate,
 and has immortality.
@@ -1029,19 +1083,23 @@ This we above all people, in our day, have withstood, in speaking, writing and s
 and, blessed be God, continue so to do with faithfulness.
 For faith is the gift of God, and forced sacrifices are not pleasing to the Lord.
 
-Q+++.+++ But according to your argument, it may be my fault, that I have not the gift of faith;
+[.discourse-part]
+_Q+++.+++_ But according to your argument, it may be my fault, that I have not the gift of faith;
 and upon this presumption, it may be, you will inflict some temporal penalties upon me.
 
-A+++.+++ No such matter;
+[.discourse-part]
+_A+++.+++_ No such matter;
 for such kind of faults are not to be punished with temporal or worldly penalties;
 for whether the errors be through weakness or willfulness, not relating to moral practice,
 all external coercion and corporal punishment is excluded.
 For the weapons of our warfare are not carnal, but spiritual.
 
-Q+++.+++ But what then is the extent of the power of the church of Christ,
+[.discourse-part]
+_Q+++.+++_ But what then is the extent of the power of the church of Christ,
 in case of schism or heresy.
 
-A+++.+++ The power that Christ gave to his church was this, that offenders,
+[.discourse-part]
+_A+++.+++_ The power that Christ gave to his church was this, that offenders,
 after the first and second admonition, not repenting, should be rejected.
 Not imprisoned, plundered, banished or put to death;
 this belongs to the false church and false prophet.
@@ -1218,8 +1276,10 @@ Amen.
 Your friend and brother,
 in the tribulation and salvation of the enduring kingdom of our God,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Worminghurst in Sussex, the 20th of the Ninth month, 1681.
 
 [.asterism]
@@ -1252,9 +1312,13 @@ testimony for which their parents were suffering.]
 As an encouragement to Friends under their grievous sufferings,
 William Penn addressed them in the following epistle:
 
-To the friends of God in the city of Bristol; this is sent to be read among them,
-when assembled to wait upon the Lord.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== To the friends of God in the city of Bristol; this is sent to be read among them, when assembled to wait upon the Lord.
+
+[.salutation]
 My beloved in the Lord!
 
 I do herewith send among you the dear and tender salutation of my unfeigned love,
@@ -1338,6 +1402,10 @@ that you may be kept blameless to the end.
 I am your friend and brother in the fellowship of the suffering for the Truth,
 as it is in Jesus,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Worminghurst, the 24th of the Twelfth month, 1681.
+
+--
