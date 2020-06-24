@@ -1,4 +1,4 @@
-== Chapter XXV.
+== Chapter XXIV.
 
 1688-9. In the second month of this year,
 King James published anew his declaration in favour of liberty of conscience,
@@ -86,8 +86,13 @@ which ignorance and prejudice had fastened upon it,
 wrote him the following letter.^
 footnote:[The writer was secretary to the lords commission for trade and plantations.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the honourable William Penn, esq., proprietor and governor of Pennsylvania.
 
+[.salutation]
 Honoured sir,
 
 Though the friendship with which you are pleased to honour me,
@@ -171,7 +176,7 @@ but that charge therefore being removed,
 the inferences that are drawn from it will vanish,
 and your reputation will easily return to its former brightness.
 
-"`Now that I may the more effectually persuade you to apply some remedy to this disease,
+Now that I may the more effectually persuade you to apply some remedy to this disease,
 I beseech you, sir, suffer me to lay before you some of its pernicious consequences.
 It is not a trifling matter for a person raised as you are above the common level,
 to lie under the prejudice of so general a mistake, in so important a matter.
@@ -196,7 +201,7 @@ This the tenderness of friendship prompts your friends to desire of you;
 and this the just sense of your honour, which true religion does not extinguish,
 requires you to execute.
 
-"`Pardon, I entreat you, sir, the earnestness of these expressions; nay,
+Pardon, I entreat you, sir, the earnestness of these expressions; nay,
 suffer me without offence to expostulate with you yet a little further.
 I am fearful lest these personal considerations should
 not have their due weight with you,
@@ -220,7 +225,7 @@ I heartily wish this consideration had been sooner laid to heart,
 and that some demonstrative evidence of your sincerity in the profession you make,
 had accompanied all your endeavours for liberty.
 
-"`But what do I say, or what do I wish for?
+But what do I say, or what do I wish for?
 I confess that I am now struck with astonishment at that
 abundant evidence which I know you have constantly given,
 of the opposition of your principles to those of the Romish church,
@@ -292,10 +297,18 @@ I am, with unfeigned and most respectful affection,
 
 Honoured sir, Your most humble and most Obedient servant.
 
-"`London, October the 20th, 1688.`"
+[.signed-section-context-close]
+London, October the 20th, 1688.
 
+--
+
+[.offset]
 This letter drew from William Penn the following reply:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Worthy friend,
 
 It is now above twenty years, I thank God,
@@ -522,7 +535,7 @@ Men may be angry for God`'s sake, and kill people too.
 Christ said it, and too many have practised it.
 But what sort of Christians must they be, I pray, that can hate in his name, who bids us,
 love; and kill for his sake, that forbids killing; and commands love, even to enemies?
-"`Let not men or parties think to shift it off from themselves.
+Let not men or parties think to shift it off from themselves.
 It is not this principle, or that form, to which so great a defection is owing,
 but a degeneracy of mind from God.
 Christianity is not at heart, no fear of God in the inward parts.
@@ -561,7 +574,7 @@ For whatever some men may think, the disease of this kingdom is sin, impiety aga
 and want of charity to men.
 And while this guilt is at our door, judgment cannot be far off.
 
-"`Now this being the disease, I will briefly offer two things for the cure of it.
+Now this being the disease, I will briefly offer two things for the cure of it.
 The first is, David`'s clean heart and right spirit, which he asked and had of God.
 Without this we must be a chaos still; for the distemper is within; and our Lord said,
 All evil comes from thence.
@@ -621,11 +634,16 @@ that I am extremely sensible of the kindness and
 justice intended me by my friends on this occasion,
 and that I am for that and many more reasons,
 
+[.signed-section-closing]
 Thy obliged and affectionate friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Teddington, October the 24th, 1688.
+
+--
 
 It must be admitted, that a more full,
 clear and manly defence of his conduct and principles, than this letter contains,
@@ -774,13 +792,16 @@ higher departments of science and literature.
 
 An extract from the preamble to this charter will show the design of its founders:--
 
-"`Whereas, the prosperity and welfare of any people depend, in great measure,
+[quote]
+____
+Whereas, the prosperity and welfare of any people depend, in great measure,
 upon the good education of youth,
 and their early instruction in the principles of true religion and virtue,
 and qualifying them to serve their country and themselves, by breeding them in reading,
 writing and learning of languages, and useful arts and sciences, suitable to their sex,
 age and degree; which cannot be effected in any manner,
-so well as by erecting public schools for the purposes aforesaid; therefore,`" etc.
+so well as by erecting public schools for the purposes aforesaid; therefore, etc.
+____
 
 The first teacher of that seminary was George Keith,
 who afterwards rendered himself so conspicuous by his opposition to Friends.

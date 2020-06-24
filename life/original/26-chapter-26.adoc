@@ -1,4 +1,4 @@
-== Chapter XXVI.
+== Chapter XXV.
 
 1690.--As William Penn had been in the practice of writing letters to the Duke of Buckingham,
 who died in 1687;
@@ -9,7 +9,10 @@ in order to prevent their falling into improper hands.
 This coming to the knowledge of their author,
 he addressed to him the following communication:
 
-"`Though nothing of an interest of my own was the
+[.embedded-content-document.address]
+--
+
+Though nothing of an interest of my own was the
 reason of the ancient esteem I have had for thee,
 yet that only is the motive at this time to this freedom; for being informed by Jer.
 Grimshaw, that some of my letters to the late Duke of Buckingham are in thy hands,
@@ -48,9 +51,13 @@ that more than the reward of him that gives a cup of cold
 water in the name of a disciple may be thy portion,
 when this very trifling world may be no more.
 
+[.signed-section-closing]
 I am thy affectionate, true friend,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 One of the principal objects of his continuance in England being in great measure attained,
 his attention was turned towards his American possessions.
@@ -165,6 +172,9 @@ He accordingly appeared but little in public for two or three years.
 A letter written a few months after this event, to his friend Thomas Lloyd,
 shows the pious resignation with which this trial was endured.
 
+[.embedded-content-document.letter]
+--
+
 By this time thou wilt have heard of the renewal of my troubles,
 the only let of my return; being in the midst of my preparations,
 with a great company of adventurers, when they fell upon me.
@@ -197,6 +207,8 @@ See that all be done prudently and humbly; and keep down irreverence and loosene
 and cherish industry and sobriety.
 The Lord God Almighty be with you, and amongst you, to his praise and your peace.
 
+--
+
 William Penn did not permit the time of his seclusion to pass unemployed,
 but produced several valuable tracts.
 
@@ -204,9 +216,16 @@ In the first place that his friends, the members of his own religious Society,
 might not be left under any unfavourable impression on account of his retirement,
 he addressed the following epistle to the Yearly Meeting of London:
 
-"`The 30th of the Third month, 1691.
+[.embedded-content-document.epistle]
+--
 
-"`My beloved, dear and honoured brethren, "`My unchangeable love salutes you;
+[.signed-section-context-open]
+The 30th of the Third month, 1691.
+
+[.salutation]
+My beloved, dear and honoured brethren,
+
+My unchangeable love salutes you;
 and though I am absent from you,
 yet I feel the sweet and lowly life of your heavenly fellowship, by which I am with you,
 and a partaker amongst you, whom I have loved above my chiefest joy.
@@ -236,9 +255,13 @@ who is worthy forever.
 To whom I commit you, desiring to be remembered of you before him,
 in the nearest and freshest accesses, who cannot forget you in the nearest relation.
 
+[.signed-section-closing]
 Your faithful friend and brother,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 Robert Barclay, the Apologist, having died in the eighth month, 1690,
 in the prime of life, being only in his forty-second year,
@@ -255,10 +278,10 @@ was also removed from the militant church in the course of the same year.
 His writings being collected and published soon after his death,
 William Penn wrote a preface to that volume also.
 
-Another product of his retirement, was a small tract, entitled, "`Just measures,
-in an Epistle of peace and love to such professors of Truth,
-as are under any dissatisfaction about the present
-order practised in the church of Christ.`"
+Another product of his retirement, was a small tract, entitled, _Just Measures,
+in an Epistle of Peace and Love to Such Professors of Truth,
+as Are Under Any Dissatisfaction About the Present
+Order Practised in the Church of Christ._
 
 A number of years had then elapsed since meetings
 for discipline were first established in the Society.
@@ -290,14 +313,13 @@ it is inserted at length, viz.
 [.asterism]
 '''
 
-A Key, opening the way to every capacity,
-how to distinguish the religion professed by the people called Quakers,
-from the perversions and misrepresentations of their adversaries.
-With a brief exhortation to all sorts of people to examine their ways and their hearts,
-and turn speedily to the Lord.
+[.blurb]
+=== A Key, opening the way to every capacity, how to distinguish the religion professed by the people called Quakers, from the perversions and misrepresentations of their adversaries. With a brief exhortation to all sorts of people to examine their ways and their hearts, and turn speedily to the Lord.
 
-Introduction.
+[.old-style]
+=== Introduction.
 
+[.salutation]
 Reader,
 
 Observing the prevailing power of prejudice,
@@ -358,15 +380,18 @@ they may embrace it and walk in it;
 which is the best way to end controversy and obtain the great and true end of religion,
 the salvation of the soul.
 
-=== Section I. Of the Light within, what it is, and the virtue and benefit of it to man.
+[.old-style]
+=== Section I. / Of the Light within, what it is, and the virtue and benefit of it to man.
 
-Perversion 1. The Quakers hold,
+[.discourse-part]
+_Perversion 1._ The Quakers hold,
 That the natural light in the conscience of every man in the world,
 is sufficient to save all that follow it; and so they overthrow salvation by Christ.
 
 A mighty error indeed, if it were true.
 
-Principle.
+[.discourse-part]
+_Principle._
 But it is at best a great mistake.
 For their belief and assertion is, That Christ, who is the Word that was with God,
 and was God, and is so forever, hath enlightened every man that cometh into the world,
@@ -395,11 +420,13 @@ so the light of the Divine Word is the sun of our souls;
 the glorious luminary of the intellectual world, and they that walk in it,
 will by it be led to blessedness.
 
-Perversion 2. The Quakers hold, That the light within them is God,
+[.discourse-part]
+_Perversion 2._ The Quakers hold, That the light within them is God,
 Christ and the holy Spirit; so that every Quaker has whole God,
 Christ and holy Spirit in him, which is gross blasphemy.
 
-Principle.
+[.discourse-part]
+_Principle._
 This is also a mistake of their belief.
 They never said that every Divine illumination or manifestation of Christ,
 in the hearts of men, was whole God, Christ or the Spirit,
@@ -437,10 +464,12 @@ Certainly, though they are called Christians,
 they must be no whit less anti-christs than those obstinate Jews of old,
 who opposed his more visible and bodily appearance.
 
-Perversion 3. By the Quakers`' doctrine every man must be saved, for every man, they say,
+[.discourse-part]
+_Perversion 3._ By the Quakers`' doctrine every man must be saved, for every man, they say,
 is savingly enlightened.
 
-Principle.
+[.discourse-part]
+_Principle._
 Not so either:
 for though the light or grace of God hath and doth more or less appear to all men,
 and brings salvation to as many as are taught by
@@ -457,11 +486,13 @@ In short, though men are enlightened or visited with a saving light or grace,
 yet the Quakers never concluded, nor can it rightly be concluded from their testimony,
 that such men must necessarily and absolutely be saved, whether they obey or rebel.
 
-Perversion 4. By the Quakers`' Light or Spirit, they may be moved to murder, treason,
+[.discourse-part]
+_Perversion 4._ By the Quakers`' Light or Spirit, they may be moved to murder, treason,
 theft or any such like wickedness, because they say that such as are so led,
 have the light within them.
 
-Principle.
+[.discourse-part]
+_Principle._
 This never was their doctrine, nor is it consequent of it.
 For though they hold that all have light, they never said that all obeyed it,
 or that evil men, as such, or in such things, were led by it.
@@ -493,12 +524,15 @@ without which, all profession of religion is mere formality, and hypocrisy.
 So that man`'s sin and destruction are of himself, but his help is in God alone,
 through Jesus Christ, our blessed sacrifice and sanctifier.
 
-=== Section II. Of Infallibility and Perfection.
+[.old-style]
+=== Section II. / Of Infallibility and Perfection.
 
-Perversion 5. The Quakers must all be infallible and perfect,
+[.discourse-part]
+_Perversion 5._ The Quakers must all be infallible and perfect,
 if they have such an infallible Light in them.
 
-Principle.
+[.discourse-part]
+_Principle._
 No such matter: this is also a great abuse of their true meaning.
 They say, the spirit of Truth is pure, perfect, unerrable in itself,
 or else it were very unfit to lead men out of error and impurity.
@@ -531,12 +565,14 @@ Gen. 17:1. Duet. 18:13. Job 1:1,8. 2, 3, etc.; 8:20. Ps. 18:32;
 2 Cor. 13:11-9. Eph. 4:13. 1 Thess. 3:10. 2 Tim. 3:17. James 1:4.
 1 Pet. 5:10. Heb. 6:1. 1 John 1:6-9.; 2:20,27; 3:5-8.; 4:17.
 
-=== Section III.
-Of the Scriptures, their truth, authority, and service.
+[.old-style]
+=== Section III. / Of the Scriptures, their truth, authority, and service.
 
-Perversion 6. The Quakers deny the Scriptures, for they deny them to be the Word of God.
+[.discourse-part]
+_Perversion 6._ The Quakers deny the Scriptures, for they deny them to be the Word of God.
 
-Principle.
+[.discourse-part]
+_Principle._
 They own and style the Scriptures, as they own and style themselves; viz.,
 a declaration of those things most truly believed, given forth in former ages,
 by the inspiration of the holy Spirit;
@@ -579,9 +615,11 @@ And to be sure he is the only right expounder as well as the author of holy Scri
 without whose light, spirit, or grace,
 they cannot be savingly read by those that read them.
 
-Perversion 7. They deny them to be any means whereby to resist temptation.
+[.discourse-part]
+_Perversion 7._ They deny them to be any means whereby to resist temptation.
 
-Principle.
+[.discourse-part]
+_Principle._
 This is a very uncharitable aspersion.
 True it is, that they deny the Scriptures merely, or of themselves,
 to be sufficient to resist temptations; for then all that have them and read them,
@@ -596,12 +634,15 @@ through the good Spirit of God, coming in upon their spirits,
 in the reading and considering of them;
 and wish heartily they were more in request with the professors of Christianity.
 
-=== Section IV. Of the holy Spirit of God, and its office, with respect to man, and of ministry, etc.
+[.old-style]
+=== Section IV. / Of the holy Spirit of God, and its office, with respect to man, and of ministry, etc.
 
-Perversion 8. The Quakers assert the Spirit of God to be the immediate teacher,
+[.discourse-part]
+_Perversion 8._ The Quakers assert the Spirit of God to be the immediate teacher,
 and that there is no other means now to be used, as ministry, ordinances, etc.
 
-Principle.
+[.discourse-part]
+_Principle._
 They never spoke such language, and their daily practice confutes the reflection.
 
 But herein we perceive the great subtlety of Satan, as well as in other things,
@@ -648,11 +689,14 @@ Nor are they without spiritual songs,
 making melody in their hearts to God their Redeemer, by the same Holy Ghost,
 as often as they are comforted and moved by it, as was the primitive practice.
 
-=== Section V. Of the Holy Three, or Scripture Trinity.
+[.old-style]
+=== Section V. / Of the Holy Three, or Scripture Trinity.
 
-Perversion 9. The Quakers deny the Trinity.
+[.discourse-part]
+_Perversion 9._ The Quakers deny the Trinity.
 
-Principle.
+[.discourse-part]
+_Principle._
 Nothing less: they believe in the holy three, or Trinity of Father, Word and Spirit,
 according to Scripture.
 And that these three are truly and properly one; of one nature as well as will.
@@ -678,11 +722,14 @@ as in all other points; preferring self-denial to opinion, and charity to knowle
 according to that great Christian doctrine, 1 Cor.
 xiii.
 
-=== Section VI. Of the Divinity of Christ.
+[.old-style]
+=== Section VI. / Of the Divinity of Christ.
 
-Perversion 10. The Quakers deny Christ to be God.
+[.discourse-part]
+_Perversion 10._ The Quakers deny Christ to be God.
 
-Principle.
+[.discourse-part]
+_Principle._
 A most untrue and unreasonable censure:
 for their great and characteristic principle being this, that Christ, as the Divine Word,
 lighteth the souls of all men that come into the world,
@@ -693,12 +740,14 @@ for they truly and expressly own him to be so, according to Scripture; viz.,
 In him was Life, and that Life the light of men; and he is God over all,
 blessed forever.
 
-=== Section VII.
-Of the Manhood of Christ.
+[.old-style]
+=== Section VII. / Of the Manhood of Christ.
 
-Perversion 11. The Quakers deny the human nature of Christ.
+[.discourse-part]
+_Perversion 11._ The Quakers deny the human nature of Christ.
 
-Principle.
+[.discourse-part]
+_Principle._
 We never taught, said, or held so gross a thing,
 if by human nature be understood the manhood of Christ Jesus.
 For as we believe him to be God over all, blessed forever,
@@ -706,13 +755,15 @@ so we do as truly believe him to be of the seed of Abraham and David after the f
 and therefore truly and properly man, like us in all things,
 and once subject to all things for our sakes, sin only excepted.
 
-=== Section VIII.
-Of Christ Jesus, his Death and Sufferings.
+[.old-style]
+=== Section VIII. / Of Christ Jesus, his Death and Sufferings.
 
-Perversion 12. The Quakers expect to be justified and saved by the Light within them,
+[.discourse-part]
+_Perversion 12._ The Quakers expect to be justified and saved by the Light within them,
 and not by the death and sufferings of Christ.
 
-Principle.
+[.discourse-part]
+_Principle._
 This is both unfairly and untruly stated and charged upon us.
 But the various senses of the word justification,
 oblige me here to distinguish the use of it; for in the natural and proper sense,
@@ -825,12 +876,15 @@ and is now as truly the Son of Man in glory, as the head of our manhood,
 which shall also be glorified, if we now receive him into our hearts, as the true Light,
 that leads in the way of life eternal, and continue in well-doing to the end.
 
-=== Section IX. Of Good Works.
+[.old-style]
+=== Section IX. / Of Good Works.
 
-Perversion 13. Thus it is the Quakers set up works, and meriting by works,
+[.discourse-part]
+_Perversion 13._ Thus it is the Quakers set up works, and meriting by works,
 like the papists; whereby justification by faith in Christ is laid aside.
 
-Principle.
+[.discourse-part]
+_Principle._
 By no means: but they say with the Apostle James, ch.
 ii., that true faith in Christ cannot be without works,
 any more than a body can live without a spirit; and that where there is life,
@@ -889,12 +943,15 @@ Christ Jesus, who is made unto them, as he was to the saints of old, wisdom,
 righteousness, sanctification and redemption; that he that glorieth,
 might glory in the Lord.
 
-=== Section X. Of Water-Baptism and the Supper.
+[.old-style]
+=== Section X. / Of Water-Baptism and the Supper.
 
-Perversion 14. The Quakers deny the two great sacraments or ordinances of the Gospel,
+[.discourse-part]
+_Perversion 14._ The Quakers deny the two great sacraments or ordinances of the Gospel,
 baptism and the supper.
 
-Principle.
+[.discourse-part]
+_Principle._
 Whatever is truly and properly a Gospel ordinance, they desire to own and practise:
 but they observe no such language in the Scripture as in the reflection.
 They do confess the practice of John`'s baptism and the supper is to be found there;
@@ -956,11 +1013,14 @@ and henceforth they have but one Lord, one faith, one baptism, one bread,
 and one cup of blessings; and that is the new wine of the kingdom of God,
 which is within.
 
-=== Section XI. Of the Resurrection, and Everlasting Recompense.
+[.old-style]
+=== Section XI. / Of the Resurrection, and Everlasting Recompense.
 
-Perversion 15. They acknowledge no resurrection of the dead, nor rewards to come.
+[.discourse-part]
+_Perversion 15._ They acknowledge no resurrection of the dead, nor rewards to come.
 
-Principle.
+[.discourse-part]
+_Principle._
 In this also we are greatly abused.
 We deny not, but believe the resurrection according to the Scripture, not only from sin,
 but also from death and the grave:
@@ -995,13 +1055,15 @@ and press, as an encouragement to faithfulness, upon one another:
 and the contrary therefore must be both an unjust,
 and an improbable suggestion of their adversaries.
 
-=== Section XII.
-Of Civil Honour and Respect.
+[.old-style]
+=== Section XII. / Of Civil Honour and Respect.
 
-Perversion 16. The Quakers deny all civil honour and respect,
+[.discourse-part]
+_Perversion 16._ The Quakers deny all civil honour and respect,
 but what is relative or equal between men.
 
-Principle.
+[.discourse-part]
+_Principle._
 We honour all men in the Lord,
 but not in the spirit and fashion of this world that passeth away.
 And though we do not pull off our hats, or make courtesyings, or give flattering titles,
@@ -1031,15 +1093,28 @@ If to dissent from these things, be to be vile,
 we are contented to be accounted more vile, having Christ`'s commands, primitive example,
 and our own convictions on our side.
 
-=== Section XIII.
-Of Civil Government.
+[.old-style]
+=== Section XIII. / Of Civil Government.
 
-Perversion 17. The Quakers are enemies to all government.
-First, in that every one acteth according to his own conceit.
-Secondly, because they will not support civil government.
-Thirdly, because they refuse to give evidence upon oath, as the law requires.
+[.discourse-part]
+_Perversion 17._ The Quakers are enemies to all government.
 
-Principle.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ in that every one acteth according to his own conceit.
+
+[.numbered]
+_Secondly,_ because they will not support civil government.
+
+[.numbered]
+_Thirdly,_ because they refuse to give evidence upon oath, as the law requires.
+
+====
+
+[.discourse-part]
+_Principle._
 That this is a calumny, their lives and conversations sufficiently show;
 for no people give the magistrates less trouble,
 or cause the burden to sit lighter upon their shoulders than these people do.
@@ -1059,10 +1134,12 @@ in all parts of the world, have their recourse, by chosen messengers, or by epis
 The business of which meetings, in their several degrees,
 is to promote virtue and charity, peace and unity.
 
-Perversion 18. The Quakers will not support civil government, and so are useless,
+[.discourse-part]
+_Perversion 18._ The Quakers will not support civil government, and so are useless,
 if not dangerous to government.
 
-Principle.
+[.discourse-part]
+_Principle._
 This also is untrue, upon experience:
 for what people is more industrious under government,
 or pay their taxes better to it than they do?
@@ -1098,9 +1175,11 @@ that Christ, the blessed Shepherd of his flock,
 will ever preserve the faithful followers of his meekness
 and the disciples of his peaceable and forgiving doctrine.
 
-Perversion 19. The Quakers refuse to give evidence, etc.
+[.discourse-part]
+_Perversion 19._ The Quakers refuse to give evidence, etc.
 
-Principle.
+[.discourse-part]
+_Principle._
 It cannot be their fault, which is so much their desire, viz.,
 To be able to give evidence upon all occasions.
 Nor, with justice, can it be reputed their stubbornness, but their tenderness,
@@ -1220,11 +1299,11 @@ by this despised and most abused people called Quakers.
 So be it.
 Amen.
 
+[.old-style]
 === Postscript.
 
-Being an exhortation to all people, to turn speedily to the Lord,
-and seek him while he may be found, whatever persuasion they are of,
-or forms they are under, before the dreadful day of God`'s vengeance overtake them.
+[.blurb]
+=== Being an exhortation to all people, to turn speedily to the Lord, and seek him while he may be found, whatever persuasion they are of, or forms they are under, before the dreadful day of God`'s vengeance overtake them.
 
 O ye inhabitants of the world, but more especially you that know this people,
 and among whom the testimony which they bear, hath been held forth; hear,
@@ -1339,6 +1418,7 @@ Amen.
 
 Written in behalf of the said people, for the information and good of all, by
 
+[.signed-section-signature]
 William Penn.
 
 [.asterism]
@@ -1357,7 +1437,7 @@ In the third a number of doctrines are noted, on which Friends are, by these wri
 supposed to hold erroneous opinions.
 
 To these several charges, William Penn returned an answer,
-in a small work entitled "`The New Athenians, no noble Bereans.`"
+in a small work entitled _The New Athenians, No Noble Bereans._
 
 In this tract he sufficiently exposed the unsoundness of the charges,
 and vindicated the doctrine and practice of Friends.
@@ -1417,24 +1497,32 @@ are afterwards stated and answered.
 In the last section,
 the various advantages which would result from the adoption of the plan are enumerated.
 
-First, The effusion of blood, and the tears of the numerous widows and orphans,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ The effusion of blood, and the tears of the numerous widows and orphans,
 consequent upon war, would be spared.
 
-Second, The reputation of Christianity,
+[.numbered]
+_Second,_ The reputation of Christianity,
 which has been greatly impaired in the view of unbelieving nations,
 by the prosecution of war, would be restored.
 The Author of Christianity is emphatically styled the Prince of peace.
 In his kingdom the lion is to lie down with the lamb; not the lamb with the lion.
 
-Third, The enormous expenditures of war would be saved;
+[.numbered]
+_Third,_ The enormous expenditures of war would be saved;
 and the resources of nations might therefore be applied
 to objects directly conducive to general prosperity.
 
-Fourth, The desolation of towns and countries,
+[.numbered]
+_Fourth,_ The desolation of towns and countries,
 of which various parts of Europe had recently furnished such terrible examples,
 would be saved.
 
-Fifth, The convenience and safety of commerce and travelling would be greatly promoted.
+[.numbered]
+_Fifth,_ The convenience and safety of commerce and travelling would be greatly promoted.
 The perplexities and delays to which travellers are subjected
 from the jealousy of the various governments of Europe,
 would be avoided;
@@ -1451,7 +1539,8 @@ as they too generally are amongst that class of people.
 Hence more harmony, and a more virtuous education of their children,
 might be expected to exist in the families of princes.
 
-Finally, In the conclusion, he shows that a plan, nearly analogous to his,
+[.numbered]
+_Finally,_ In the conclusion, he shows that a plan, nearly analogous to his,
 had been actually adopted to a limited extent, in some provinces of the Netherlands;
 and that Henry IV., one of the greatest monarchs who ever reigned in France,
 had it in contemplation to compel the princes to adopt one of a similar character,
@@ -1460,10 +1549,16 @@ He adds, "`this great king`'s example tells us it is fit to be done;
 Sir William Temple`'s history shows us by a surpassing instance, that it may be done;
 and Europe by her incomparable miseries, makes it now necessary to be done.`"
 
+====
+
 The following letter written in the autumn of 1693, while he remained in retirement,
 shows the warmth of his friendship,
 and the state of piety in which his mind was preserved:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Friend,
 
 I was surprised last night, when I was told of thy great illness and weakness,
@@ -1484,7 +1579,10 @@ and with my letter of sending her a few books: but I know not how I have been pr
 The all-wise God give us faith to believe all shall work together for the best!
 So, with our true love and concern for thee and thine, I rest thy most assured friend,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 William Penn had now been about three years, in great measure, secluded from the world,
 and from the public service of society.
@@ -1593,6 +1691,9 @@ for the virtues of Gulielma Maria Penn.
 But the best account of her character and end, is given by her husband,
 which containing several edifying passages, is here inserted.
 
+[.embedded-content-document.letter]
+--
+
 My dear wife,
 after eight months illness (though she never perfectly
 recovered her weakness the year before,
@@ -1654,7 +1755,7 @@ She would not suffer me to neglect any public meeting, after I had my liberty,
 upon her account, saying often, '`O go my dearest! do not hinder any good for me.
 I desire thee go: I have cast my care upon the Lord: I shall see thee again.`'
 
-"`About three hours before her end, a relation taking leave of her, she said again,
+About three hours before her end, a relation taking leave of her, she said again,
 '`I have cast my care upon the Lord.
 My dear love to all Friends,
 and (lifting up her dying hands and eyes) prayed the Lord
@@ -1673,7 +1774,9 @@ yet most equal and undaunted in danger.
 Religious as well as ingenuous, without affectation.
 An easy mistress, and good neighbour, especially to the poor.
 Neither lavish, nor penurious, but an example of industry, as well as of other virtues.
-Therefore our great loss is her own eternal gain.`"
+Therefore our great loss is her own eternal gain.
+
+--
 
 Before passing from the events of 1693,
 it may be proper to take a transient notice of the charges against William Penn,
