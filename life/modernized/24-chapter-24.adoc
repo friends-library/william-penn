@@ -1,4 +1,4 @@
-== Chapter XXIV.
+== Chapter XXIII.
 
 One of the objects which William Penn had in view, in returning to England,
 was the adjustment of the dispute with Lord Baltimore.
@@ -160,9 +160,14 @@ This production, as was probably intended, was attributed to him.
 To disabuse the credulous public,
 and satisfy his friends that the imputation was erroneous, he issued the following paper.
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 To my esteemed friends, called Quakers,
 on occasion of two copies of verses printed and subscribed W. P.
 
+[.salutation]
 Dear friends,
 
 I have written this for your satisfaction, and yet not for yours, as you well say,
@@ -209,15 +214,23 @@ with the credit of all the fine and foolish fancy they are laboured with:
 contenting myself against all defamations that I have this
 defence of my religion and conduct in my conclusion;
 
-First, That the Grace of God within me, and the Scriptures without me,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ That the Grace of God within me, and the Scriptures without me,
 are the foundation and declaration of my faith and religion,
 and let any man get better if he can.
 
-Secondly, That the profession I make of this religion, is in the same way and manner,
+[.numbered]
+_Secondly,_ That the profession I make of this religion, is in the same way and manner,
 that I have used for almost these eighteen years last past.
 
-Thirdly, That my civil conduct, I humbly bless my God, has been with peace on earth,
+[.numbered]
+_Thirdly,_ That my civil conduct, I humbly bless my God, has been with peace on earth,
 and good will to all men, from the king on the throne, to the beggar on the dunghill.
+
+====
 
 I have ever loved England, and moderation to all parties in it, and long seen,
 and foreseen the consequences of the lack of it.
@@ -228,19 +241,26 @@ nor abuse and undo one another for God`'s sake.
 These have been, these are, and with God`'s strength shall be,
 through all the crooked and uneven paths of time, the principles and practice of,
 
+[.signed-section-closing]
 Your ancient and constant friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Worminghurst-place, the last of the Second month, called April, 1685.
 
+[.postscript]
 P+++.+++ S. If this will not serve and satisfy the mistaken,
 for the malicious I fear are past cure, let them but prove the report upon any body,
 and I will yet, as late in the day as it looks for such work,
 effectually convince them with the judgment of the law,
 that ought to be every honest man`'s shield.
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 The charge of his being at least popishly inclined, continued to be entertained;
 and some persons in the higher ranks appear to have given credit to it.
@@ -252,8 +272,13 @@ a correspondence followed, which terminated in a full conviction,
 in the mind of the latter, that the suspicion was groundless.
 The correspondence is subjoined.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Penn to Dr. Tillotson.
 
+[.salutation]
 Worthy friend,
 
 Being often told that Dr. Tillotson should suspect me, and so report me, a papist,
@@ -273,17 +298,28 @@ the very best part of true religion: I mean not a charity that can change with a
 but bear all, as I can Dr. Tillotson in what he dissents from me,
 and in this reflection too, if said, which is not yet believed by,
 
+[.signed-section-closing]
 Your Christian true friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Charing-cross, 22nd of the Eleventh month, 1685-6.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Tillotson to William Penn.
 
+[.signed-section-context-open]
 Jan.
 26, 1685.
 
+[.salutation]
 Honoured sir,
 
 The demand of your letter is very just and reasonable, and the manner of it very kind,
@@ -329,12 +365,21 @@ yet in the main I believed them to be very honest.
 I thank you for your letter, and have a just esteem of the Christian temper of it,
 and rest,
 
+[.signed-section-closing]
 Your faithful friend,
 
-Jo. Tillotson.`"
+[.signed-section-signature]
+Jo. Tillotson.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Penn to Dr. Tillotson.
 
+[.salutation]
 Worthy friend,
 
 Having a much less opinion of my own memory, than of Dr. Tillotson`'s truth,
@@ -384,14 +429,24 @@ and their pompous cult; where at this time I shall leave the business,
 with all due and sensible acknowledgments to your friendly temper,
 and assurance of the sincere wishes and respects of your affectionate real friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Charing-cross, the 29th of the Eleventh month, 1686.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Penn to Dr. Tillotson.
 
+[.signed-section-context-open]
 Charing-cross, 27th of Second month, 1686.
 
+[.salutation]
 Worthy friend,
 
 This should have been a visit,
@@ -412,14 +467,24 @@ when it is to right a man`'s reputation, and disabuse the too credulous world.
 For to me it seems from a private friendship, to become a moral duty to the public,
 which, with a person of so great morality, must give success to the reasonable desire of,
 
+[.signed-section-closing]
 Your very real friend,
 
+[.signed-section-signature]
 William Penn.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Tillotson to William Penn.
 
+[.signed-section-context-open]
 April the 29th, 1686.
 
+[.salutation]
 Sir,
 I am very sorry that the suspicion which I had entertained concerning you,
 of which I gave you the true account in my former letter,
@@ -435,9 +500,13 @@ but will seek the first opportunity to visit you at Charing-cross,
 and renew our acquaintance, in which I took great pleasure.
 I rest,
 
+[.signed-section-closing]
 Your faithful friend,
 
+[.signed-section-signature]
 Jo. Tillotson.
+
+--
 
 A work written by the Duke of Buckingham, in defence of liberty of conscience,
 for which he had always been an advocate, near this time drew from an anonymous author,
@@ -447,7 +516,7 @@ misrepresentations and contradictions of the writer,
 with the force of argument and keenness of wit for which he was, at times, so remarkable.
 
 A larger tract soon followed, entitled,
-"`A Persuasive to Moderation,`" the object of which was to show
+_A Persuasive to Moderation,_ the object of which was to show
 the propriety of a general toleration to church dissenters.
 This is a very valuable treatise;
 and though the doctrine which the author was then labouring to establish,
@@ -535,7 +604,7 @@ and receiving the sacrament according to the rites of the church of England,
 should abjure the doctrine of transubstantiation.]
 
 The object in view was very congenial with William Penn`'s opinions and principles.
-In his "`Persuasive to Moderation,`" then just published, he had expressed the sentiment,
+In his _Persuasive to Moderation,_ then just published, he had expressed the sentiment,
 that the business of the state might be better managed,
 by allowing the prince to choose his agents out of six denominations,
 than by limiting him to one.
@@ -655,6 +724,9 @@ and deputed William Penn, in conjunction with some others, to present it.
 Being admitted to the king,
 William Penn introduced the address by a speech to the following import.
 
+[.embedded-content-document]
+--
+
 It was the saying of our blessed Lord to the captious Jews in the case of tribute,
 '`Render to Caesar the things that are Caesar`'s,
 and to God the things that are God`'s.`' As this distinction ought
@@ -682,7 +754,12 @@ our General Assembly from all those parts, met at London about our church affair
 has appointed us to wait upon the king with our humble thanks, and me to deliver them;
 which I do, by this address, with all the affection and respect of a dutiful subject.
 
+--
+
 The address of the Yearly Meeting was then read, being as follows:
+
+[.embedded-content-document.address]
+--
 
 We cannot but bless and praise the name of Almighty God,
 who has the hearts of princes in his hand,
@@ -713,7 +790,13 @@ and while we live, it shall be our endeavour, through God`'s grace, to demean ou
 as in conscience to God and duty to the king, we are obliged, his peaceable,
 loving and faithful subjects.
 
+--
+
+[.offset]
 To this the king then replied,
+
+[.embedded-content-document]
+--
 
 Gentlemen, I thank you heartily for your address.
 Some of you know, I am sure you do, Mr. Penn,
@@ -722,6 +805,8 @@ and that all men ought to have the liberty of their consciences.
 What I have promised in my declaration I will continue to perform as long as I live.
 And I hope, before I die,
 to settle it so that after ages shall have no reason to alter it.
+
+--
 
 It has been made a subject of censure that Friends and other dissenters,
 should offer their acknowledgments to the king for a favour which
@@ -794,8 +879,8 @@ as that of Charles II. had been.
 William Penn, therefore,
 with a view of promoting the good work of placing the religious
 liberties of the people upon a solid and permanent basis,
-produced a tract, entitled, "`Good advice to the church of England,
-Roman Catholics and Protestant Dissenters.
+produced a tract, entitled, _Good Advice to the Church of England,
+Roman Catholics and Protestant Dissenters._
 In which it is endeavoured to be made appear, that it is their duty,
 principle and interest to abolish the penal laws and tests.
 Beati Pacifici.`"
@@ -847,9 +932,7 @@ In Germany, the two religions were peaceably maintained together.
 
 The church of England was deemed by many, a bulwark against popery;
 but this she could hardly be, when she was bringing in the worst part of popery,
-as she declared
-
-persecution to be.
+as she declared persecution to be.
 The part of popery to which the church of England most successfully objects,
 is her violence; and this is indeed the only part she has cause to fear.
 The doctrines of the papists are easily refuted, but forcing others to their faith,
@@ -927,8 +1010,8 @@ that monarch would probably have escaped the disasters
 which clouded the rest of his life.
 
 A second tract on the repeal of the penal laws, entitled,
-"`The great and popular objection against the repeal of the penal laws,
-briefly stated and considered,`" soon followed.
+_The Great and Popular Objection Against the Repeal of the Penal Laws,
+Briefly Stated and Considered,_ soon followed.
 This being of a temporary nature, is not contained in the printed works of our author.
 
 William Penn had now been about three years absent from his American possessions.
