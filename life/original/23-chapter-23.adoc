@@ -1,4 +1,4 @@
-== Chapter XXIII.
+== Chapter XXII.
 
 1684+++.+++ It has been already mentioned that William Penn, in the autumn of 1682,
 paid a visit to Lord Baltimore,
@@ -99,6 +99,10 @@ in Pennsylvania and the territories thereto belonging;
 which manifests his tender and paternal regard for the inhabitants of his American plantations.
 It is as follows, viz:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dear friends,
 
 The salutation of my love is unto you who make a profession
@@ -190,9 +194,13 @@ and your dwellings glorious:
 which is the daily humble supplication of my soul to my God and your God,
 and to my Father and your Father; who am, with unfeigned love, in that lasting relation,
 
+[.signed-section-closing]
 Your tender, faithful friend and brother,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 After residing nearly two years in Pennsylvania,
 and adjusting the concerns of his government,
@@ -255,9 +263,14 @@ But such was the activity of his mind and his zeal for the religious
 preservation and advancement of his friends in Pennsylvania,
 that he wrote from on board the vessel the following epistle; viz.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 For Thomas Lloyd, J. Claypoole, J. Simcock, Charles Taylor and J. Harrison,
 to be communicated in meetings in Pennsylvania, etc, among Friends.
 
+[.salutation]
 Dear friends,
 
 My love and my life is to you and with you; and no water can quench it,
@@ -309,9 +322,13 @@ So, dear friends, my love again salutes you all, wishing that grace, mercy and p
 with all temporal blessings, may abound richly among you;--so says, so prays,
 your friend and lover in the Truth,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 From on board the ketch Endeavour, the Sixth month, 1684.
+
+--
 
 Oldmixon, a contemporary author, who appears to have derived his information in part,
 at least, from William Penn,
