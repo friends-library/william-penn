@@ -1,4 +1,4 @@
-== Chapter XXII.
+== Chapter XXI.
 
 William Penn having completed his preparations for a voyage to America,
 went in the sixth month of this year, on board the ship Welcome, of three hundred tons,
@@ -7,6 +7,10 @@ addressed a valedictory epistle to his friends in England.
 He also wrote the following letter to Stephen Crisp, a valuable minister of the Gospel,
 who travelled and suffered considerably in the service of his Divine Master.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear Stephen Crisp,
 
 My dear and lasting love in the Lord`'s everlasting Truth reaches to you,
@@ -37,9 +41,13 @@ God Almighty, immortal and eternal, be with us,
 that in the body and out of the body we may be his forever!
 I am, in the ancient dear fellowship,
 
+[.signed-section-closing]
 Your faithful friend and brother,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 As this voyage and residence in America,
 were likely to keep him separated from his family, during a considerable time,
@@ -48,6 +56,10 @@ in relation to their conduct during his absence.
 This communication is filled with important suggestions upon the economy of life,
 and is worthy of a careful perusal, notwithstanding its length.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My dear wife and children,
 
 My love, which neither sea nor land, nor death itself,
@@ -69,13 +81,18 @@ Now I am to leave you,
 and that without knowing whether I shall ever see you more in this world,
 take my counsel into your bosom, and let it dwell with you in my stead while you live.
 
-First:
+[.numbered-group]
+====
+
+[.numbered]
+_First:_
 Let the fear of the Lord and a zeal and love to his glory dwell richly in your heart;
 and you will watch for good over yourself and your dear children and family,
 that no rude, light or bad thing be committed: else God will be offended,
 and he will repent himself of the good he intends you and yours.
 
-Secondly: Be diligent in meetings for worship and business;
+[.numbered]
+_Secondly:_ Be diligent in meetings for worship and business;
 stir up yourself and others herein; it is your duty and place:
 and let meetings be kept once a day in the family to wait upon the Lord,
 who has given us much time for ourselves.
@@ -89,7 +106,8 @@ and grieve not yourself with careless servants; they will disorder you: rather p
 and let them go, if they will not be better by admonitions:
 this is best to avoid many words, which I know wound the soul and offend the Lord.
 
-Thirdly: Cast up your income, and see what it daily amounts to;
+[.numbered]
+_Thirdly:_ Cast up your income, and see what it daily amounts to;
 by which you may be sure to have it in your sight and power to keep within compass:
 and I beseech you to live low and sparingly, till my debts are paid;
 and then enlarge as you see it convenient.
@@ -112,7 +130,8 @@ may prove a yoke and burden too hard and heavy in the end.
 Wherefore keep dominion over yourself, and let your children, good meetings and Friends,
 be the pleasure of your life.
 
-Fourthly: And now, my dearest, let me recommend to your care my dear children;
+[.numbered]
+_Fourthly:_ And now, my dearest, let me recommend to your care my dear children;
 abundantly beloved of me, as the Lord`'s blessings,
 and the sweet pledges of our mutual and endeared affection.
 Above all things endeavour to breed them up in the love of virtue,
@@ -124,7 +143,8 @@ Religion in the heart leads into this true civility,
 teaching men and women to be mild and courteous in their behaviour,
 an accomplishment worthy indeed of praise.
 
-Fifthly: Next breed them up in a love one of another:
+[.numbered]
+_Fifthly:_ Next breed them up in a love one of another:
 tell them it is the charge I left behind me;
 and that it is the way to have the love and blessing of God upon them;
 also what his portion is, who hates, or calls his brother fool.
@@ -156,6 +176,8 @@ When grown big, have most care for them;
 for then there are more snares both within and without.
 When marriageable, see that they have worthy persons in their eye, of good life,
 and good fame for piety and understanding.
+
+====
 
 I need no wealth, but sufficiency; and be sure their love be dear, fervent and mutual,
 that it may be happy for them.
@@ -272,11 +294,11 @@ and then speaking as if you would persuade, not impose.
 Affront none, neither revenge the affronts that are done to you;
 but forgive and you shall be forgiven of your heavenly Father.
 
-"`In making friends consider well first; and when you are fixed be true,
+In making friends consider well first; and when you are fixed be true,
 not wavering by reports nor deserting in affliction,
 for that becomes not the good and virtuous.
 
-"`Watch against anger, neither speak nor act in it; for, like drunkenness,
+Watch against anger, neither speak nor act in it; for, like drunkenness,
 it makes a man a beast, and throws people into desperate inconveniences.
 
 Avoid flatterers, for they are thieves in disguise; their praise is costly,
@@ -298,7 +320,7 @@ let your virtues be your ornaments, remembering life is more than food,
 and the body than raiment.
 Let your furniture be simple and cheap.
 Avoid pride, avarice and luxury.
-Read my '`No Cross, no Crown.`' There is instruction.
+Read my [.book-title]#No Cross, no Crown.# There is instruction.
 Make your conversation with the most eminent for wisdom and piety;
 and shun all wicked men as you hope for the blessing of God and
 the comfort of your father`'s living and dying prayers.
@@ -379,9 +401,13 @@ So farewell to my thrice dearly beloved wife and children!
 Yours, as God pleases, in that which no waters can quench, no time forget,
 nor distance wear away, but remains forever,
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Worminghurst, 4th of Sixth month, 1682.
+
+--
 
 The Welcome proceeded to sea about the beginning of the seventh month (September).
 The number of passengers, who were chiefly Friends, was about one hundred.
@@ -416,9 +442,29 @@ that if the power of government was not expressly granted,
 it was understood as connected with the grant of the territory.
 For it is not doing justice to the wisdom or integrity of William Penn,
 to suppose that he would signalize his arrival in America,
-by an act of usurpation.
-{footnote-paragraph-split}
-It may be recollected that the first Europeans who settled on the Delaware,
+by an act of usurpation.]
+Having arranged his concerns at New-Castle, he soon afterwards proceeded to Uplands.
+The name of this place was then changed to Chester,
+in compliment to one of the companions of his voyage,
+who emigrated from Chester in England.
+An assembly was convened at that place consisting
+of an equal number from the province and territories.
+It was not composed of members elected for the purpose,
+but of such freemen as chose to attend.
+
+The session lasted but three days,
+yet some legislation of great importance to the colonists was effected.
+
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ An act was passed for the union of the province and territories.
+
+[.numbered]
+2+++.+++ An act to naturalize the Dutch, Swedes,
+and other foreigners then residing within the province and territories.^
+footnote:[It may be recollected that the first Europeans who settled on the Delaware,
 were Swedes and Dutch, principally the former; and that in 1665,
 the latter obtained the complete ascendency.
 In 1664, these settlements, were subjected to the authority of the British crown.
@@ -436,30 +482,16 @@ In Great Britain, naturalization is effected only by act of parliament.
 By an act passed in the reign of James the First,
 no person could be naturalized without taking the oaths of allegiance and supremacy,
 and receiving the sacrament of the Lord`'s supper.
-See Blackstone, Vol. I. 374. Hence we see the reason,
+See [.book-title]#Blackstone, Vol. I.# 374. Hence we see the reason,
 why an act of naturalization was judged necessary to entitle the
 Dutch and Swedish inhabitants of the province and territories,
 to the full enjoyment of all their civil rights.]
 
-Having arranged his concerns at New-Castle, he soon afterwards proceeded to Uplands.
-The name of this place was then changed to Chester,
-in compliment to one of the companions of his voyage,
-who emigrated from Chester in England.
-An assembly was convened at that place consisting
-of an equal number from the province and territories.
-It was not composed of members elected for the purpose,
-but of such freemen as chose to attend.
-
-The session lasted but three days,
-yet some legislation of great importance to the colonists was effected.
-
-1+++.+++ An act was passed for the union of the province and territories.
-
-2+++.+++ An act to naturalize the Dutch, Swedes,
-and other foreigners then residing within the province and territories,
-
+[.numbered]
 3+++.+++ The laws agreed upon in England, were, with some alterations and additions,
 accepted and confirmed.
+
+====
 
 These laws are understood to have been chiefly the work of William Penn,
 and manifest a particular anxiety to preserve the rights of conscience unimpaired,
@@ -573,6 +605,10 @@ The following letter,
 addressed to a person who had cast some unkind reflections upon him,
 affords a forcible exposition of his motives and labours.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My old friend,
 
 I could speak largely of God`'s dealings with me in getting this thing.
@@ -613,11 +649,16 @@ and the fellowship of his tender heavenly Spirit,
 and our faith is for ourselves and one another, that the Lord will be with us a King,
 and a Counsellor forever.
 
+[.signed-section-closing]
 Your ancient, though grieved friend,
 
+[.signed-section-signature]
 William Penn.
 
-Chester, 5th of the Twelfth month, 1682,
+[.signed-section-context-close]
+Chester, 5th of the Twelfth month, 1682.
+
+--
 
 In the autumn of this year, but whether previously to his visit to Maryland, or not,
 is a little doubtful, was held at Shackamaxon, the celebrated treaty with the Indians.
@@ -644,7 +685,10 @@ between Governor Gordon and the chiefs of several nations of Indians,
 who then resided on the Susquehanna,
 the governor addressed the Indians to the following import:
 
-"`My brethren!
+[.embedded-content-document.address]
+--
+
+My brethren!
 You have been faithful to your leagues with us!
 Your leagues with William Penn and his governors are in writing on record,
 that our children and our children`'s children may have them in everlasting remembrance.
@@ -653,47 +697,61 @@ by telling them to your children, and they again to the next generation;
 so that they remain stamped on your minds, never to be forgotten.
 The chief heads or strongest links of this chain, I find are these nine, namely:
 
-1st. That all William Penn`'s people or Christians,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ That all William Penn`'s people or Christians,
 and all the Indians should be brethren, as the children of one father,
 joined together as with one heart, one head, and one body.
 
-2nd. That all paths should be open and free to both Christians and Indians.
+[.numbered]
+_2nd._ That all paths should be open and free to both Christians and Indians.
 
-3rd. That the doors of the Christians`' houses should be open to the Indians,
+[.numbered]
+_3rd._ That the doors of the Christians`' houses should be open to the Indians,
 and the houses of the Indians open to the Christians,
 and that they should make each other welcome as their friends.
 
-4th. That the Christians should not believe any false rumours or reports of the Indians,
+[.numbered]
+_4th._ That the Christians should not believe any false rumours or reports of the Indians,
 nor the Indians believe any such rumours or reports of the Christians,
 but should first come as brethren to inquire of each other;
 and that both Christians and Indians,
 when they have any such false reports of their brethren,
 they should bury them as in a bottomless pit.
 
-5th. That if the Christians heard any ill-news, that may be to the hurt of the Indians,
+[.numbered]
+_5th._ That if the Christians heard any ill-news, that may be to the hurt of the Indians,
 or the Indians hear any such ill-news, that may be to the injury of the Christians,
 they should acquaint each other with it speedily, as true friends and brethren.
 
-6th. That the Indians should do no manner of harm to the Christians,
+[.numbered]
+_6th._ That the Indians should do no manner of harm to the Christians,
 nor to their creatures, nor the Christians do any hurt to the Indians,
 but each treat the other as brethren.
 
-7th. But as there are wicked people in all nations,
+[.numbered]
+_7th._ But as there are wicked people in all nations,
 if either Indians or Christians should do any harm to each other,
 complaint should be made of it by the persons suffering, that right might be done,
 and when satisfaction is made, the injury or wrong should be forgot,
 and be buried as in the bottomless pit.
 
-8th. That the Indians should in all things assist the Christians,
+[.numbered]
+_8th._ That the Indians should in all things assist the Christians,
 and the Christians assist the Indians against all wicked people that would disturb them.
 
-9th. And lastly,
+[.numbered]
+_9th._ And lastly,
 that both Christians and Indians should acquaint their children
 with this league and firm chain of friendship made between them,
 and that it should always be made stronger and stronger,
 and be kept bright and clean without rust or spot,
 between our children and children`'s children while the creeks and rivers run,
 and while the sun, moon and stars endure.
+
+====
 
 This is the only authentic account that we possess
 of the stipulations of the great treaty,
@@ -764,19 +822,30 @@ When William Penn came here, he had six objects principally in view,
 and to which his first attention was to be directed.
 They were--
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ To organize his government.
 
+[.numbered]
 2+++.+++ To visit his co-religionists on the shores of the Delaware in Pennsylvania and New-Jersey.
 
+[.numbered]
 3+++.+++ To conciliate the Indians.
 
+[.numbered]
 4+++.+++ To pay his respects to the governor of New-York,
 who had had the command over Pennsylvania.
 
+[.numbered]
 5+++.+++ To fix upon a proper spot to build his capital city.
 
+[.numbered]
 6+++.+++ To visit Lord Baltimore,
 with whom he had differences respecting the limits of his province.
+
+====
 
 It is to be remarked, and much to the honour of our great founder,
 that if the treaty took place before his journey to Baltimore,
@@ -892,7 +961,7 @@ he must have been on the 14th on his way to Maryland,
 and could not have been at Shackamaxon to treat with the Indians.
 We must, therefore, reject that date, the envelope notwithstanding.
 
-"`We then consider ourselves at liberty to fix the epoch of the great treaty,
+We then consider ourselves at liberty to fix the epoch of the great treaty,
 at such time as we shall think most consistent with probability,
 and we believe that to be on his return from New-York, about the latter end of November.
 The season was then beautiful, as is generally the fall season in our country.
@@ -944,6 +1013,8 @@ will for a long time hereafter employ their pencil and their pen to this noble t
 We hope that the memory of the great treaty, and of our illustrious founder,
 will remain engraved on the memory of our children
 and our children`'s children to the end of time.
+
+--
 
 This imperfect account of the great treaty, the best now upon record,
 serves to show that the conditions were faithfully observed by the Indians.
@@ -1004,7 +1075,6 @@ and was attended with its usual deteriorating consequences.^
 footnote:[The most formidable evil visited upon the Indians,
 and flowing from their connection with the Europeans,
 was the introduction of ardent spirits.
-{footnote-paragraph-split}
 That
 terrible agent did not fail to ensnare the unreflecting Indian,
 and feeding the fierce passions of his unsubdued nature, fitted him for every atrocity,
@@ -1034,7 +1104,6 @@ do henceforth presume to sell or exchange any rum or brandy, or any other liquor
 at any time, to any Indian within this province; and if anyone shall offend therein,
 the person so convicted, shall, for every such offence,
 pay five pounds.`"
-{footnote-paragraph-split}
 The same subject
 claimed the attention of the Yearly Meeting of Friends,
 in 1685, and 1687, and advice correspondent with the efforts of the proprietary,
@@ -1118,6 +1187,9 @@ describing the situation of the colony at this time,
 is deemed on account of its native and beautiful simplicity,
 not unworthy a place in these memoirs.
 
+[.embedded-content-document.letter]
+--
+
 After our arrival, +++[+++says he,]
 we found it a wilderness.
 The chief inhabitants were Indians and some Swedes, who received us in a friendly manner;
@@ -1196,6 +1268,8 @@ and those who were already convinced, and who continued faithful,
 were not only blessed with plenty of the fruits of the earth,
 but also with the dew of heaven.
 
+--
+
 In the sixth month of this year,
 William Penn wrote a letter to the Free Society of
 Traders of Pennsylvania residing in London;
@@ -1208,8 +1282,16 @@ Of this interesting communication, the following portion may suffice.
 [.asterism]
 '''
 
-For the province, the general condition of it take as follows:
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== For the province, the general condition of it take as follows:
+
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ The country itself in its soil, air, water, seasons and produce,
 both natural and artificial, is not to be despised.
 The land contains various sorts of earth, as sand, yellow and black, poor and rich.
@@ -1221,10 +1303,12 @@ than those that lie by navigable waters.
 We have much of another soil, and that is a black hasel-mould,
 upon a stony or rocky bottom.
 
+[.numbered]
 II. The air is sweet and clear, the heavens serene like the south parts of France,
 rarely overcast; and as the woods come by numbers of people to be more cleared,
 that itself will refine.
 
+[.numbered]
 III.
 The waters are generally good,
 for the rivers and brooks have mostly gravel and stony bottoms,
@@ -1232,6 +1316,7 @@ and in number hardly credible.
 We have also mineral waters, that operate in the same manner with Barnet and North-Hall,
 not two miles from Philadelphia.
 
+[.numbered]
 IV. For the seasons of the year,
 having by God`'s goodness now lived over the coldest and hottest,
 that the oldest liver in the province can remember,
@@ -1263,6 +1348,7 @@ A remedy that seems to have a peculiar providence in it to the inhabitants;
 the multitude of trees yet standing, being liable to retain mists and vapours,
 and yet not one quarter so thick as I expected.
 
+[.numbered]
 V+++.+++ The natural produce of the country, of vegetables, is trees, fruits, plants, flowers.
 The trees of most note, are the black walnut, cedar, cyprus, chesnut, poplar, gumwood,
 hickory, sassafras, ash, beech and oak of various sorts, as red, white and black,
@@ -1296,6 +1382,7 @@ But to solve the doubt, I intend, if God give me life, to try both,
 and hope the consequence will be as good wine,
 as any European countries of the same latitude yield.
 
+[.numbered]
 VI.^
 footnote:[Note.
 That Edward Jones, son-in-law to Thomas Wynn, living`' on the Schuylkill,
@@ -1308,6 +1395,7 @@ The artificial produce of the country, is wheat, barley, oats, rye, peas, beans,
 squashes, pumpkins, water-melons, muskmelons,
 and all herbs and roots that our gardens in England usually bring forth.
 
+[.numbered]
 VII.
 Of living creatures, fish, fowl and the beasts of the woods; here are various sorts,
 some for food and profit, and some for profit only.
@@ -1330,24 +1418,28 @@ and two companies of whalers, whose boats are built, will soon begin their work,
 which has the appearance of a considerable improvement.
 To say nothing of our reasonable hopes of good cod in the bay.
 
+[.numbered]
 VIII.
 We have no lack of horses, and some are very good and shapely enough;
 two ships have been freighted to Barbados with horses and pipe-staves,
 since my coming in.
 Here is also plenty of cow-cattle, and some sheep; the people plough mostly with oxen.
 
+[.numbered]
 IX. There are diverse plants, that not only the Indians tell us,
 but we have had occasion to prove by swellings, burnings, cuts, etc,
 that they are of great virtue, suddenly curing the patient.
 And for smell, I have observed several, especially one, the wild myrtle;
 the others I know not what to call, but are most fragrant.
 
+[.numbered]
 X+++.+++ The woods are adorned with lovely flowers, for colour, greatness, figure and variety.
 I have seen the gardens of London best stored with that sort of beauty,
 but think they may be improved by our woods.
 I have sent a few to a person of quality this year for a trial.
 Thus much of the country, next of the natives, or aborigines.
 
+[.numbered]
 XI. The natives I shall consider in their persons, language, manners,
 religion and government, with my sense of their original.
 For their persons, they are generally tall, straight,
@@ -1362,6 +1454,7 @@ are not common to them; for I have seen as comely European-like faces among them
 as on your side the sea; and truly an Italian complexion has not much more of the white,
 and the noses of several of them have as much of the Roman.
 
+[.numbered]
 XII.
 Their language is lofty, yet narrow, but like the Hebrew; in signification full,
 like short-hand in writing; one word serves in the place of three,
@@ -1381,6 +1474,7 @@ are the names of persons.
 If one ask them for anything they have not, they will answer, Mattd ne Hattd,
 which to translate is, not I have, instead of I have not.
 
+[.numbered]
 XIII.
 Of their customs and manners, there is much to be said, I will begin with children.
 The children will go very young, at nine months commonly; if boys,
@@ -1393,6 +1487,7 @@ which they must do when they are old;
 for the wives are the true servants of the husbands;
 otherwise the men are very affectionate to them.
 
+[.numbered]
 XIV.
 When the young women are fit for marriage,
 they wear something upon their heads for an advertisement,
@@ -1400,6 +1495,7 @@ but so as their faces are hardly to be seen, but when they please.
 The age they marry at, if women, is about thirteen and fourteen, if men,
 seventeen and eighteen; they are rarely older.
 
+[.numbered]
 XV. Their houses are mats, or barks of trees, set on poles,
 in the fashion of an English barn, but out of the power of the winds,
 for they are hardly higher than a man; they lie on reeds or grass.
@@ -1407,6 +1503,7 @@ In travel, they lodge in the woods about a great fire,
 with the mantle of Dussills they wear by day, wrapt about them,
 and a few boughs stuck round them.
 
+[.numbered]
 XVI.
 Their diet is maize, or Indian corn, several ways prepared;
 sometimes roasted in the ashes, sometimes beaten and boiled with water,
@@ -1414,6 +1511,7 @@ which they call hominy; they also make cakes, not unpleasant to eat.
 They have likewise several sorts of beans and peas, that are good nourishment;
 and the woods and rivers are their larder.
 
+[.numbered]
 XVII.
 If a European comes to see them, or calls for lodging at their house or wigwam,
 they give him the best place and first cut.
@@ -1424,6 +1522,7 @@ If you give them anything to eat or drink, well, for they will not ask;
 and be it little or much, if it be with kindness, they are well pleased,
 else they go away sullen, but say nothing.
 
+[.numbered]
 XVIII.
 They are great concealers of their own resentments, brought to it, I believe,
 by the revenge that has been practised among them; in either of these,
@@ -1436,6 +1535,7 @@ he made an offering to her kindred, for atonement and liberty of marriage;
 as two others did to the kindred of their wives, who died a natural death.
 For till widowers have done so, they must not marry again.
 
+[.numbered]
 XIX.
 In liberality they excel, nothing is too good for their friend; give them a fine gun,
 coat or other thing, it may pass twenty hands before it sticks; light of heart,
@@ -1468,6 +1568,7 @@ If they are heated with liquors, they are restless till they have enough to slee
 that is their cry, Some more, and I will go to sleep; but when drunk,
 one of the most wretched spectacles in the world.
 
+[.numbered]
 XX. In sickness, impatient to be cured, and for it give anything,
 especially for their children, to whom they are extremely natural.
 They drink at those times, a decoction of some roots in spring-water;
@@ -1479,6 +1580,7 @@ They are choice of the graves of their dead; for lest they should be lost by tim
 and fall to common use, they pick off the grass that grows upon them,
 and heap up the fallen earth with great care and exactness.
 
+[.numbered]
 XXI.
 These poor people are under a dark night in things relating to religion, to be sure,
 the tradition of it; yet they believe in a God and immortality,
@@ -1505,6 +1607,7 @@ But they that go, must carry a small present in their money, it may be six-pence
 which is made of the bone of a fish; the black is with them as gold, the white, silver;
 they call it all wampum.
 
+[.numbered]
 XXII.
 Their government is by kings, whom they call Sachems, and those by succession,
 but always of the mother`'s side.
@@ -1513,6 +1616,7 @@ but his brother by the mother, or the children of his sister, whose sons,
 and after them the children of her daughters will reign; for no woman inherits;
 the reason they render for this way of descent is, that their issue may not be spurious.
 
+[.numbered]
 XXIII.
 Every king has his council, and that consists of all the old and wise men of his nation,
 which perhaps is two hundred people.
@@ -1559,6 +1663,7 @@ and having now such a one that had treated them well,
 they should never do him or his any wrong.
 At every sentence of which they shouted, and said, Amen, in their way.
 
+[.numbered]
 XXIV.
 The justice they have is pecuniary.
 In case of any wrong or evil fact, be it murder itself,
@@ -1570,6 +1675,7 @@ that she breeds children, which men cannot do.
 It is rare that they fall out, if sober; and if drunk, they forgive it, saying,
 It was the drink, and not the man, that abused them.
 
+[.numbered]
 XXV.
 We have agreed, that in all differences between us, six of each side shall end the matter.
 Do not abuse them, but let them have justice, and you win them.
@@ -1588,6 +1694,7 @@ for it were miserable indeed for us to fall under
 the just censure of the poor Indian conscience,
 while we make profession of things so far transcending.
 
+[.numbered]
 XXVI.
 For their origin, I am ready to believe them of the Jewish race, I mean,
 of the stock of the Ten Tribes, and that for the following reasons; first,
@@ -1606,6 +1713,7 @@ customs of women, with many things that do not now occur.
 So much for the natives, next the old planters will be considered in this relation,
 before I come to our colony, and the concerns of it.
 
+[.numbered]
 XXVII.
 The first planters in these parts were the Dutch,
 and soon after them the Swedes and Finns.
@@ -1615,6 +1723,7 @@ the Dutch looking upon them as intruders upon their purchase and possession,
 which was finally ended in the surrender made by John Rizeing, the Swedish governor,
 to Peter Styvesant, governor for the states of Holland, Anno 1655.
 
+[.numbered]
 XXVIII.
 The Dutch inhabit mostly those parts of the province, that lie upon or near to the bay,
 and the Swedes the freshes of the river Delaware.
@@ -1634,11 +1743,13 @@ and almost every house full; rare to find one of them without three or four boys
 and as many girls; some six, seven and eight sons.
 And I must do them that right, I see few young men more sober and laborious.
 
+[.numbered]
 XXIX.
 The Dutch have a meeting-place for religious worship at New-Castle, and the Swedes,
 three, one at Christiana, one at Tenecum, and one at Wicoco,
 within half a mile of this town.
 
+[.numbered]
 XXX.
 There rests, that I speak of the condition we are in, and what settlement we have made,
 in which I will be as short as I can; for I fear, and not without reason,
@@ -1651,6 +1762,7 @@ Those of most eminency, are Christiana, Brandywine, Skilpot and Schuylkill;
 any one of which has room to lay up the royal navy of England,
 there being from four to eight fathom water.
 
+[.numbered]
 XXXI.
 The lesser creeks or rivers, yet convenient for sloops and ketches of good burden,
 are Lewis, Mespilion, Cedar, Dover, Cranbrook, Feversham, and Georges below,
@@ -1677,6 +1789,7 @@ in the nature of common arbitrators, to hear and end differences between man and
 and spring and fall there is an orphans`' court in each county,
 to inspect and regulate the affairs of orphans and widows.
 
+[.numbered]
 XXXII.
 Philadelphia, the expectation of those that are concerned in this province,
 is at last laid out, to the great content of those here,
@@ -1725,3 +1838,7 @@ and give an easier motion to the administration of affairs; however,
 as it is some men`'s duty to plough, some to sow, some to water, and some to reap,
 so it is the wisdom as well as duty of a man, to yield to the mind of Providence,
 and cheerfully, as well as carefully, embrace and follow the guidance of it.
+
+====
+
+--
