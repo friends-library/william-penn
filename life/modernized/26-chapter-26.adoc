@@ -1011,6 +1011,7 @@ and henceforth they have but one Lord, one faith, one baptism, one bread,
 and one cup of blessings; and that is the new wine of the kingdom of God,
 which is within.
 
+[.old-style]
 === Section XI. / Of the Resurrection, and Everlasting Recompense.
 
 [.discourse-part]
@@ -1688,7 +1689,6 @@ which containing several edifying passages, is here inserted.
 [.embedded-content-document.letter]
 --
 
-[.salutation]
 My dear wife,
 after eight months illness (though she never perfectly
 recovered her weakness the year before,
