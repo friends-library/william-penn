@@ -1,4 +1,4 @@
-== Chapter XXIX.
+== Chapter XXIII.
 
 There can be no doubt that William Penn, upon his arrival in England,
 paid all the needful attention to the subject, which occasioned his voyage;
@@ -52,6 +52,10 @@ he wrote a preface to the works of John Whitehead.
 
 In 1705, he addressed a short epistle to his friends, as follows:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 My dear friends,
 
 Hold all your meetings in that which set them up, the heavenly power of God,
@@ -66,7 +70,10 @@ and his living witnesses in and to an evil generation.
 So prays your friend and brother,
 through the many tribulations that lead to the rest and kingdom of God.
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 In the same year he visited the meetings of Friends in the western parts of England,
 where he had good service, and his testimony was effectual to the information of many.
@@ -269,8 +276,13 @@ Roused by a clear perception of the evils necessarily resulting from the
 prevalence of these dispositions and the scandal which they occasioned,
 he addressed to the assembly, the following energetic expostulation.
 
+[.embedded-content-document.address]
+--
+
+[.signed-section-context-open]
 London, 29th Fourth month, 1710.
 
+[.salutation]
 My old friends,
 
 It is a mournful consideration, and the cause of deep affliction to me, that I am forced,
@@ -496,7 +508,10 @@ in the truth, having but the same true interest.
 I am, with great truth and most sincere regard, your real friend,
 as well as just proprietor and governor,
 
+[.signed-section-signature]
 William Penn.
+
+--
 
 It does not appear that any reply was returned by the assembly to this epistle.
 But the effect upon the people of the province seems to have been electric.
@@ -581,7 +596,10 @@ but as near the Truth in the love of it as before.
 He was then incapable of any business,
 and yet as sensible of the enjoyment of the Truth as at any time in his life.
 
-"`When I went,`" says he, "`to his house,
+[.embedded-content-document.testimony]
+--
+
+When I went, +++[+++says he,+++]+++ to his house,
 I thought myself strong enough to see him in that condition; but when I entered the room,
 and perceived the great defect of his expressions for want of memory,
 it greatly bowed my spirit,
@@ -599,7 +617,9 @@ in an evening meeting we had there; wherein we were greatly comforted,
 so that I was ready to think this was a sort of sequestration
 of him from all the concerns of this life,
 which so much oppressed him; not in judgment, but in mercy,
-that he might not be oppressed thereby to the end.`"
+that he might not be oppressed thereby to the end.
+
+--
 
 In 1715, the annual visit of the first-mentioned Friend was repeated.
 His memory was found to be still more defective,
@@ -642,6 +662,9 @@ yet as regards his everlasting prospects, his sun went down in brightness.
 
 The account given by Thomas Story relative to his funeral, is in the following words:
 
+[.embedded-content-document.testimony]
+--
+
 On the 1st of sixth month, we arrived at Rushcomb late in the evening,
 where we found the widow and most of the family together.
 Our coming occasioned a fresh remembrance of the deceased,
@@ -649,7 +672,7 @@ and also a renewed flood of many tears from all eyes.
 A solid time we had, but few words among us for some time;
 for it was a deep baptizing season, and the Lord was near at that time.
 
-"`Here I stayed till the 5th, and that day accompanied the corpse to the grave,
+Here I stayed till the 5th, and that day accompanied the corpse to the grave,
 at Jordan`'s meeting-place, in the county of Bucks,
 where we had a large meeting of Friends and others, from many places.
 And as the Lord had made choice of him, in the days of his youth,
@@ -659,6 +682,8 @@ so he did not leave him in his last moments,
 but honoured the occasion with his blessed presence,
 and gave us a happy season of his goodness, to the general satisfaction of all,
 the meeting being well spoken of by strangers afterwards.
+
+--
 
 Having now traced the course of William Penn from
 his youth to the close of his earthly pilgrimage,
@@ -705,8 +730,11 @@ by the following testimony issued a few months after his death.
 [.asterism]
 '''
 
-A Testimony of Friends in Pennsylvania Concerning Their Deceased Friend and Governor,
-William Penn.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== A Testimony of Friends in Pennsylvania Concerning Their Deceased Friend and Governor, William Penn.
 
 We find ourselves under obligation and concern, both in duty and affection,
 to give this mark of our love and the honourable regard we bear
@@ -784,8 +812,11 @@ immortality is given him by our Lord Jesus, and as he faithfully bore the cross,
 the crown, which was his hope, and long since in his eye, is his possession;
 and his soul received into that bliss prepared and appointed for the righteous.
 
+[.signed-section-context-close]
 Signed at the time of our General Meeting, held in Philadelphia, the 16th of first month,
-1718-19.`"
+1718-19.
+
+--
 
 This testimony bears the signatures of fifty Friends, and among them that of David Lloyd,
 who was speaker of the assembly to which in 1710, that pathetic epistle was addressed.
