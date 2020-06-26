@@ -1,4 +1,4 @@
-== Chapter XXVII.
+== Chapter XXVI.
 
 1694.--As William Penn had been honourably acquitted of
 those charges which prevented his return to America,
@@ -27,21 +27,30 @@ under the title of A brief account of the rise and progress of the people called
 [.asterism]
 '''
 
+[.old-style]
 === A Brief Account of the Rise and Progress of the People called Quakers.
 
+[.blurb]
 === An Epistle to the Reader.
 
 This account of the people called Quakers, etc, was written in the fear and love of God:
-First, As a standing testimony to that ever blessed Truth, in the inward parts,
+
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ As a standing testimony to that ever blessed Truth, in the inward parts,
 with which God in my youthful time, visited my soul,
 and for the sense and love of which I was made willing, in no ordinary way,
 to relinquish the honours and interests of the world.
 
-Secondly, As a testimony for that despised people, whom God in his great mercy,
+[.numbered]
+_Secondly,_ As a testimony for that despised people, whom God in his great mercy,
 has gathered and united by his own blessed spirit in the holy profession of it;
 whose fellowship I value above all worldly greatness.
 
-Thirdly, In love and honour to the memory of that worthy servant of God, George Fox,
+[.numbered]
+_Thirdly,_ In love and honour to the memory of that worthy servant of God, George Fox,
 the first instrument thereof,
 and therefore styled by me the great and blessed apostle of our day.
 As this gave birth to what is here presented to thy view, in the first edition of it,
@@ -69,14 +78,16 @@ whom he hath sent to enlighten and redeem the world: which knowledge is, indeed,
 eternal life.
 And that thou, reader, mayest obtain it, is the earnest desire of him that is ever
 
+====
+
+[.signed-section-closing]
 Thine in so good a work,
 
+[.signed-section-signature]
 William Penn.
 
-=== Section I.
-
-Containing a brief account of divers dispensations of God in the world,
-to the time he was pleased to raise this despised people called Quakers.
+[.old-style]
+=== Section I. / Containing a brief account of divers dispensations of God in the world, to the time he was pleased to raise this despised people called Quakers.
 
 Divers have been the dispensations of God,
 since the creation of the world to the sons of men;
@@ -409,11 +420,8 @@ and brought them to an utter and lamentable loss as to their eternal state;
 and they grew very troublesome to the better sort of people,
 and furnished the looser with an occasion to profane.
 
-=== Section II.
-
-Of the rise of the people called Quakers, their fundamental principle,
-doctrine and practice, in twelve points resulting from it; their progress and sufferings:
-an expostulation with England thereupon.
+[.old-style]
+=== Section II. / Of the rise of the people called Quakers, their fundamental principle, doctrine and practice, in twelve points resulting from it; their progress and sufferings: an expostulation with England thereupon.
 
 It was about that very time, as you may see in George Fox`'s Annals, that the eternal,
 wise and good God, was pleased, in his infinite love,
@@ -574,7 +582,7 @@ This, I say,
 is as the root of the goodly tree of doctrines that grew and branched out from it,
 which I shall now mention in their natural and experimental order.
 
-First, Repentance from dead works to serve the living God.
+First, repentance from dead works to serve the living God.
 Which comprehends three operations.
 First, a sight of sin.
 Secondly, a sense and godly sorrow for sin.
@@ -645,6 +653,10 @@ and efficacy of the general doctrine before observed,
 in their lives and examples.
 As,
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Communion and loving one another.
 This is a noted mark in the mouth of all sorts of people concerning them, They will meet,
 they will help and stick one to another.
@@ -656,6 +668,7 @@ and constant care to meet to worship God and help one another,
 be any mark of primitive Christianity, they had it, blessed be the Lord,
 in an ample manner.
 
+[.numbered]
 II. To love enemies.
 This they both taught and practised.
 For they did not-only refuse to be revenged for injuries done them,
@@ -666,6 +679,7 @@ of which many and singular instances might be given; endeavouring,
 through faith and patience, to overcome all injustice and oppression,
 and preaching this doctrine as Christian, for others to follow.
 
+[.numbered]
 III.
 Another was, The sufficiency of truth-speaking,
 according to Christ`'s own form of sound words, of yea, yea, and nay, nay,
@@ -684,6 +698,7 @@ And hereby they exclude, with all true, all false and profane swearing;
 for which the land did and doth mourn, and the great God was,
 and is not a little offended with it.
 
+[.numbered]
 IV. Not fighting, but suffering, is another testimony peculiar to this people;
 they affirm that Christianity teacheth people to beat their swords into plough-shares,
 and their spears into pruning-hooks, and to learn war no more;
@@ -715,6 +730,7 @@ whilst they, of all others, religion set aside,
 have given the civil magistrate the least occasion
 of trouble in the discharge of his office.
 
+[.numbered]
 V+++.+++ Another part of the character of this people was and is,
 they refuse to pay tithes or maintenance to a national ministry;
 and that for two reasons: the one is, they believe all compelled maintenance,
@@ -728,6 +744,7 @@ So that it is not matter of humour nor sullenness, but pure conscience towards G
 that they cannot help to support national ministries where they dwell,
 which have but too much and too visibly become ways of worldly advantage and preferment.
 
+[.numbered]
 VI. Not to respect persons, was and is another of their doctrines and practices,
 for which they were often buffeted and abused.
 They affirmed it to be sinful to give flattering titles,
@@ -746,6 +763,7 @@ yet they that will remember what Christ said to the Jews, "`How can ye believe,
 which receive honour one of another,`" will abate of their resentment,
 if his doctrine has any credit with them.
 
+[.numbered]
 VII.
 They also used the plain language of thee and thou to a single person,
 whatever was his degree among men: and indeed, the wisdom of God was much seen,
@@ -763,6 +781,7 @@ And what good, alas! had their religion done them,
 who were so sensibly touched with indignation for the use of this plain,
 honest and true speech?
 
+[.numbered]
 VIII.
 They recommend silence by their example, having very few words upon all occasions.
 They were at a word in dealing: nor could their customers, with many words,
@@ -781,18 +800,20 @@ as well as in other things, was burdensome to them;
 and therefore they did not only decline to use them,
 but found themselves often pressed to reprove the practice.
 
+[.numbered]
 IX. For the same reason they forbore drinking to people, or pledging of them,
 as the manner of the world is: a practice that is not only unnecessary, but they thought,
 evil in the tendencies of it, being a provocation to drink more than did people good,
 as well as that it was in itself vain and heathenish.
 
+[.numbered]
 X+++.+++ Their way of marriage is peculiar to them,
 and shows a distinguishing care above other societies professing Christianity.
 They say that marriage is an ordinance of God,
 and that God only can rightly join man and woman in marriage:
 therefore they use neither priest nor magistrate; but the man and woman concerned,
 take each other as husband and wife, in the presence of credible witnesses,
-promising to each '`other, with God`'s assistance,
+promising to each other, with God`'s assistance,
 to be loving and faithful in that relation, till death shall separate them.
 But antecedent to this,
 they first present themselves to the Monthly Meeting for the affairs of the church,
@@ -841,6 +862,7 @@ and it is free from the inconveniences, with which other methods are attended:
 their care and checks being so many, and such,
 as that no clandestine marriages can be performed among them.
 
+[.numbered]
 XI. It may not be unfit to say something here of their births and burials,
 which make up so much of the pomp of too many called Christians.
 For births, the parents name their own children:
@@ -851,6 +873,7 @@ of the birth and name of the child or children: which is recorded in a proper bo
 in the Monthly Meeting to which the parents belong;
 avoiding the accustomed ceremonies and festivals.
 
+[.numbered]
 XII.
 Their burials are performed with the same simplicity.
 If the body of the deceased be near any public meeting-place,
@@ -884,6 +907,8 @@ of the substance of things neglected or undone: and as they aim at no more,
 so that simplicity of life is what they observe with great satisfaction;
 though it sometimes happens not to be without the
 mockeries of the vain world they live in.
+
+====
 
 These things, to be sure,
 gave them a rough and disagreeable appearance with the generality;
@@ -1044,11 +1069,13 @@ and not a delusion, as thy mistaken teachers have made thee believe.
 And this thou shalt find by their marks and fruits,
 if thou wilt consider them in the spirit of moderation.
 
-=== Section III.
+[.old-style]
+=== Section III. / Of the qualifications of their Ministry. Eleven marks that it is Christian.
 
-Of the qualifications of their Ministry.
-Eleven marks that it is Christian.
+[.numbered-group]
+====
 
+[.numbered]
 I+++.+++ They were changed men themselves before they went about to change others.
 Their hearts were rent as well as their garments changed;
 and they knew the power and work of God upon them.
@@ -1056,6 +1083,7 @@ And this was seen by the great alteration it made,
 and their stricter course of life and more godly
 conversation that immediately followed upon it.
 
+[.numbered]
 II. They went not forth, nor preached in their own time or will, but in the will of God:
 and spoke not their own studied matter, but as they were opened and moved of his Spirit,
 with which they were well acquainted in their own conversion:
@@ -1069,6 +1097,7 @@ as thousands can witness.
 And as they freely received what they had to say from the Lord,
 so they freely administered it to others.
 
+[.numbered]
 III.
 The bent and stress of their ministry was conversion to God; regeneration and holiness.
 Not schemes of doctrines and verbal creeds, nor new forms of worship;
@@ -1077,6 +1106,7 @@ and reducing the ceremonious and formal part, and pressing earnestly the substan
 the necessary and profitable part to the soul; as all, upon a serious reflection,
 must and do acknowledge.
 
+[.numbered]
 IV. They directed people to the Spirit of Truth in themselves, though not of themselves,
 by which all that they asserted, preached and exhorted others to,
 might be wrought in them, and known to them, through experience, to be true;
@@ -1111,6 +1141,7 @@ which is more than theory and speculation, upon which most other ministers depen
 for here is certainty;
 a bottom upon which man may boldly appear before God in the great day of account.
 
+[.numbered]
 V+++.+++ They reached to the inward state and condition of people,
 which is an evidence of the virtue of the Spirit of Truth,
 and of their ministering from it, and not from their own imaginations, glosses,
@@ -1137,6 +1168,7 @@ that such as have turned to it have not found true, and more;
 and that one-half had not been told them of what they have seen of the power, purity,
 wisdom and goodness of God therein.
 
+[.numbered]
 VI. The accomplishments with which this Spirit fitted
 even some of the meanest of this people,
 for their work and service:
@@ -1150,6 +1182,7 @@ past) though there was not the least ground of truth for any such reflection;
 in that their ministers are known, the places of their abode,
 their kindred and education.
 
+[.numbered]
 VII.
 That they came forth low, despised and hated, as the primitive Christians did,
 and not by the help of worldly wisdom or power, as former reformations,
@@ -1158,6 +1191,7 @@ But in all things, it may be said, this people were brought forth in the cross;
 in a contradiction to the ways, worships, fashions and customs of this world; yea,
 against wind and tide, that so no flesh might glory before God.
 
+[.numbered]
 VIII.
 They could have no design to themselves in this work,
 thus to expose themselves to scorn and abuse; to spend and be spent:
@@ -1178,6 +1212,7 @@ as God is light, the blood of Jesus Christ his Son should cleanse them from all 
 Thus John 1:19-4. Chap.
 iii. 20, 21. 1 John 1:5-7.
 
+[.numbered]
 IX. Their known great constancy and patience in suffering for their testimony,
 in all the branches of it; and that sometimes unto death, by beatings, bruisings,
 long and crowded imprisonments and noisome dungeons:
@@ -1188,10 +1223,12 @@ almost in all parts, not easily to be expressed, and less to have been endured,
 but by those who have the support of a good and glorious cause;
 refusing deliverance by any indirect ways or means, as often as it was offered to them.
 
+[.numbered]
 X+++.+++ That they not only showed no disposition to revenge,
 when it was at any time in their power, but forgave their cruel enemies;
 showing mercy to those who had none for them.
 
+[.numbered]
 XI. Their plainness with those in authority, like the ancient prophets,
 not fearing to tell them to their faces, of their private and public sins;
 and their prophecies to them of their afflictions and downfall,
@@ -1200,6 +1237,8 @@ as of the plague and fire of London, in express terms,
 and likewise particular ones to divers persecutors, which accordingly overtook them,
 and were very remarkable in the places where they dwelt,
 which in time may be made public for the glory of God.
+
+====
 
 Thus, reader, thou seest this people in their rise, principles, ministry and progress,
 both their general and particular testimony; by which thou mayest be informed how,
@@ -1217,11 +1256,8 @@ and under which reproach none suffered more than the primitive Christians themse
 who were the honour of Christianity,
 and the great lights and examples of their own and succeeding ages.
 
-=== Section IV.
-
-Of the discipline and practice of this people, as a religious Society.
-The church power they own and exercise, and that which they reject and condemn;
-with the method of their proceedings against erring and disorderly persons.
+[.old-style]
+=== Section IV. / Of the discipline and practice of this people, as a religious Society. The church power they own and exercise, and that which they reject and condemn; with the method of their proceedings against erring and disorderly persons.
 
 This people increasing daily both in town and country,
 an holy care fell upon some of the elders among them,
@@ -1408,14 +1444,8 @@ to the glory of the Most High God,
 and for a just memorial to that worthy and excellent man,
 his faithful servant and apostle to this generation of the world.
 
-=== Section V.
-
-Of the first instrument or person by whom God was
-pleased to gather this people into the way they profess.
-His many excellent qualifications; showing a Divine, and not an human power,
-to have been their original in him.
-His troubles and sufferings both from without and within.
-His end and triumph.
+[.old-style]
+=== Section V. / Of the first instrument or person by whom God was pleased to gather this people into the way they profess. His many excellent qualifications; showing a Divine, and not an human power, to have been their original in him. His troubles and sufferings both from without and within. His end and triumph.
 
 I am now come to the third head or branch of my preface, viz., The instrumental author.
 For it is natural for some to say, well, here are the people and work,
@@ -1566,6 +1596,10 @@ I return to this excellent man; and for his personal qualities, natural,
 moral and divine, as they appeared in his converse with the brethren,
 and in the church of God, take as follows:
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ He was a man whom God endued with a clear and wonderful depth;
 a discerner of other`'s spirits, and very much a master of his own.
 And though that side of his understanding which lay next to the world,
@@ -1612,17 +1646,20 @@ reverence and thankfulness for his love and mercy therein to mankind:
 in which mind I remain, and shall, I hope, through the Lord`'s strength,
 to the end of my days.
 
+[.numbered]
 II. In his testimony or ministry,
 he much laboured to open Truth to the people`'s understandings,
 and to bottom them upon the principle and principal, Christ Jesus the light of the world;
 that by bringing them to that Spirit which is from God in themselves,
 they might the better know and judge of him and themselves.
 
+[.numbered]
 III.
 He had an extraordinary gift in opening the Scriptures.
 He would go to the marrow of things, and show the mind,
 harmony and fulfilling of them with much plainness, and to great comfort and edification.
 
+[.numbered]
 IV. The mystery of the first and second Adam, of the fall and restoration,
 of the law and Gospel, and shadows and substance, of the servant`'s and Son`'s state,
 and the fulfilling of the Scriptures in Christ and by Christ, the true light,
@@ -1632,6 +1669,7 @@ In all which he was witnessed to be of God;
 being sensibly felt to speak that which he had received of Christ,
 and was his own experience, in that which never errs or fails.
 
+[.numbered]
 V+++.+++ But above all, he excelled in prayer.
 The inwardness and weight of his spirit,
 the reverence and solemnity of his address and behaviour,
@@ -1644,6 +1682,7 @@ And truly it was a testimony that he knew and lived nearer to the Lord than othe
 for they that know him most,
 will see most reason to approach him with reverence and fear.
 
+[.numbered]
 VI. He was of an innocent life, no busybody, nor self-seeker;
 neither touchy nor critical: what fell from him was very inoffensive,
 if not very edifying.
@@ -1655,6 +1694,7 @@ Thousands can truly say he was of an excellent spirit and savour among them,
 and because thereof,
 the most excellent spirits loved him with an unfeigned and unfading love.
 
+[.numbered]
 VII.
 He was an incessant labourer: for in his younger time, before his many,
 great and deep sufferings and travels had enfeebled his body for itinerant services,
@@ -1671,6 +1711,7 @@ And besides his labour in the ministry, which was frequent and serviceable,
 he wrote much, both to them that are within, and to those who are without the communion.
 But the care he took of the affairs of the church in general was very great.
 
+[.numbered]
 VIII.
 He was often where the records of the business of the church are kept,
 and where the letters from the many meetings of God`'s
@@ -1684,11 +1725,14 @@ according to the nature of them.
 So that the churches, or any of the suffering members thereof,
 were sure not to be forgotten nor delayed in their desires, if he were there.
 
+[.numbered]
 IX. As he was unwearied, so he was undaunted in his services for God and his people;
 he was no more to be moved to fear than to wrath.
 His behaviour at Derby, Litchfield, Appleby, before Oliver Cromwell, at Launceston,
 Scarborough, Worcester, and Westminster-hall, with many other places and exercises,
 did abundantly evidence it, to his enemies as well as to his friends.
+
+====
 
 But as in the primitive times,
 some rose up against the blessed apostles of our Lord Jesus Christ,
@@ -1801,17 +1845,8 @@ I have done, as to this part of my preface,
 when I have left this short epitaph to his name,
 "`Many sons have done virtuously in this day; but dear George, thou excellest them all.`"
 
-=== Section VI.
-
-Containing five several exhortations.
-First, general, reminding this people of their primitive integrity and simplicity.
-Secondly, in particular, to the ministry.
-Thirdly, to the young convinced.
-Fourthly, to the children of Friends.
-Fifthly, to those that are yet strangers to this people and way; to whom this book,
-(and that to which it was a preface in its former edition) may come.
-All the several exhortations accommodated to their several states and conditions;
-that all may answer the end of God`'s glory and their own salvation.
+[.old-style]
+=== Section VI. / Containing five several exhortations. First, general, reminding this people of their primitiveintegrity and simplicity. Secondly, in particular, to the ministry. Thirdly, to the young convinced. Fourthly, to the children of Friends. Fifthly, to those that are yet strangers to this people and way; to whom this book, (and that to which it was a preface in its former edition) may come. All the several exhortations accommodated to their several states and conditions; that all may answer the end of God`'s glory and their own salvation.
 
 And now, friends,
 you that profess to walk in the way that this blessed
@@ -2404,16 +2439,18 @@ knowing the beauty and benefit of it above all worldly treasures,
 has chosen it for his chiefest joy; and therefore recommends it to thy love and choice,
 because he is with great sincerity and affection,
 
+[.signed-section-closing]
 Thy soul`'s friend,
 
+[.signed-section-signature]
 William Penn.
 
 [.asterism]
 '''
 
-He also wrote in the same year, a Visitation to the Jews,
+He also wrote in the same year, a _Visitation to the Jews,_
 by way of appendix to a book published by John Tomkins,
-called "`The Harmony of the Old and New Testament.`"
+called _The Harmony of the Old and New Testament._
 
 After expressing his desire for the redemption of the Jews,
 as being the descendants of Abraham, Isaac, and Jacob,
@@ -2446,7 +2483,10 @@ admonished to embrace the Christian religion;
 and to receive the Son and sent of the Father.
 He thus concludes the tract: viz.
 
-"`And hear and bear this word, I beseech you, from me.
+[.embedded-content-document]
+--
+
+And hear and bear this word, I beseech you, from me.
 You can never see, know or hear the happiness of the coming of the Messiah,
 till you come to a prepared frame of mind.
 You must repent of your sins, turn from them and watch against all temptations,
@@ -2456,7 +2496,9 @@ know a fitting to receive and own the Messiah,
 and enjoy the blessed benefits that accrue by him to all those who embrace him.
 He did come sufferingly and will come triumphantly, but those only can receive him,
 and have the comfort and advantage of his first and second coming,
-that come to know and receive him in his light and spirit in their hearts.`"
+that come to know and receive him in his light and spirit in their hearts.
+
+--
 
 In the ninth, tenth and eleventh months he travelled in the work of the ministry,
 in the counties of Gloucester, Somerset, Devon and Dorset,
@@ -2473,6 +2515,10 @@ He appears however to have been fully occupied,
 if we may judge from the tenor of a letter written from that city to John Gratton,
 a fellow-labourer in the work of the Gospel: an extract from which is here given.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear John Gratton,
 
 Thy dear and tender love I feel by thy kind lines,
@@ -2509,16 +2555,19 @@ who had married Sir John Rhodes`'s sister:) I remember them in my prayers to the
 that they may travel on to the end, and receive the crown of faithfulness.
 So, in the Lord`'s love, dearly farewell
 
+[.signed-section-closing]
 Thy cordial friend and loving brother,
 
+[.signed-section-signature]
 William Penn.
 
+--
+
 In the year 1695, a writer who chose to conceal his name,
-published what he called an answer to William Penn`'s Key;
+published what he called an answer to William Penn`'s _Key;_
 a tract which has been noticed under the transactions of 1692.
 This drew from him a reply containing further illustrations
-of the subjects embraced in the Key.
-There is near the beginning of this reply,
+of the subjects embraced in the _Key._ There is near the beginning of this reply,
 a passage in relation to his conduct during the preceding reign,
 which evincing a consciousness of the integrity of his motives, may be here inserted.
 
@@ -2618,12 +2667,16 @@ but while the bill was depending,
 he presented a brief memorial to the house of commons on the subject,
 of which the following is a copy.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the Honourable House of Commons.
 
-A few words crave their perusal,
-upon occasion of the Bill to excuse the people called Quakers from swearing.
+[.blurb]
+=== A few words crave their perusal, upon occasion of the Bill to excuse the people called Quakers from swearing.
 
-"`That the request of the people called Quakers,
+That the request of the people called Quakers,
 may be indulged by the members of this honourable house,
 it is humbly proposed to them to consider the nature
 and fulness of the security they offer;
@@ -2639,14 +2692,19 @@ and are under the same reverence in their simple and solemn aye or no,
 and therefore give the same security;
 I shall beg this honourable house to consider three things:
 
-First, that this people make it an article of their faith and practice,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ that this people make it an article of their faith and practice,
 and a great part of their characteristic, not to swear at all.
 They think, whether mistaken or no,
 that the righteousness of Christianity does not need nor use an oath;
 so that you have their religion, in the highest exercises of it, in human affairs,
 for your security.
 
-Secondly, that they have often, and at very dear rates, proved to the world,
+[.numbered]
+_Secondly,_ that they have often, and at very dear rates, proved to the world,
 they mean what they say; since they have frequently chosen to lose their estates,
 and lie and die in jail, rather than save the one, or deliver the other,
 by deviating from their principle; and since in such cases,
@@ -2657,7 +2715,8 @@ is a more aggravated crime than perjury in others;
 since they excuse themselves from not swearing,
 by a profession of an exacter simplicity and greater strictness.
 
-Lastly, they humbly hope, that being to suffer for untruth as for perjury,
+[.numbered]
+_Lastly,_ they humbly hope, that being to suffer for untruth as for perjury,
 their request will not be uneasy; since they subject their integrity to trial,
 upon the hazard of a correction, that is so much greater than the nature of the offence,
 in the eye of the law, would bear.
@@ -2669,7 +2728,12 @@ request they may not be left exposed in theirs; but that by your wisdom and good
 they may be provided for, in true proportion to the exigencies they are under;
 which will engage them in the best wishes for your prosperities.
 
+====
+
+[.signed-section-signature]
 William Penn.
+
+--
 
 The issue of the case was the passage of a law,
 to come into force on the 4th of third month 1696,
@@ -2710,8 +2774,8 @@ granted the affirmation under the belief that it
 was in reality an oath of a disguised form.
 Writers are not, indeed, altogether agreed what constitutes an oath.
 If we regard the legal definition, we must perceive that this affirmation was not an oath.
-It was in these words, I, A. B., do declare in the presence of Almighty God,
-the witness of the truth of what I say.
+It was in these words, _I, A. B., do declare in the presence of Almighty God,
+the witness of the truth of what I say._
 But according to legal authorities, "`what is universally understood by an oath, is,
 that the person who takes it, imprecates the vengeance of God upon him,
 if the oath he takes is false.`"]
@@ -2731,6 +2795,9 @@ both in regard to his understanding, which was of the brightest order,
 and the more substantial virtues of the heart.
 The account which he has given of this son is too interesting to be omitted;
 it is as follows:
+
+[.embedded-content-document.testimony]
+--
 
 My very dear child and eldest son, Springett Penn,
 from his childhood manifested a disposition to goodness,
@@ -2923,7 +2990,10 @@ and those to whose hands this account may come,
 for their remembrance and preparation for their great and last change;
 and I shall have my end in making my dear child thus far public.
 
+[.signed-section-signature]
 William Penn
+
+--
 
 The year in which the events last mentioned occurred,
 appears to have been passed by William Penn chiefly at home;
@@ -2939,15 +3009,13 @@ and is as follows:
 [.asterism]
 '''
 
-=== Primitive Christianity Revived, in the Faith and Practice of the People Called Quakers;
+[.old-style]
+=== Primitive Christianity Revived, in the Faith and Practice of the People Called Quakers; / written in testimony to the present dispensation of God through them, to the world; that prejudices may be removed, the simple informed, the well-inclined encouraged, and the Truth and its innocent friends rightly represented.
 
-written in testimony to the present dispensation of God through them, to the world;
-that prejudices may be removed, the simple informed, the well-inclined encouraged,
-and the Truth and its innocent friends rightly represented.
-
+[.blurb]
 === Epistle to the Reader.
 
-Br this short treatise, thou wilt perceive the subject of it, viz:
+By this short treatise, thou wilt perceive the subject of it, viz:
 The light of Christ in man, as the manifestation of God`'s love for man`'s happiness.
 Forasmuch as this is a peculiar testimony and characteristic of the people called Quakers,
 and their great fundamental in religion;
@@ -3027,15 +3095,19 @@ in the perusal of this short treatise, that thou mayest receive real benefit by 
 to his glory and thine own comfort, which is the desire and end of him that wrote it;
 who is in the bonds of Christian charity, very much and very ardently,
 
+[.signed-section-closing]
 Thy real friend,
 
+[.signed-section-signature]
 William Penn.
 
-=== Section I.1. Their fundamental '`principle.
-2+++.+++ The nature of it.
-3+++.+++ Called by several names.
-4+++.+++ They refer all to this, as to faith and practice, ministry and worship.
+[.old-style]
+=== Section I. / 1. Their fundamental principle. 2+++.+++ The nature of it. 3+++.+++ Called by several names. 4+++.+++ They refer all to this, as to faith and practice, ministry and worship.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That which the people called Quakers lay down, as a main fundamental in religion,
 is this, That God, through Christ, hath placed his Spirit in every man,
 to inform him of his duty, and to enable him to do it;
@@ -3045,10 +3117,12 @@ whatever name they may bear or profession they may make of religion.
 This is their ancient, first and standing testimony.
 With this they began, and this they bore, and do bear to the world.
 
+[.numbered]
 2+++.+++ By this spirit they understand something that is Divine; and though in man,
 yet not of man, but of God; and that it came from him,
 and leads to him all those that will be led by it.
 
+[.numbered]
 3+++.+++ There are divers ways of speaking, which they have been led to use,
 by which they declare and express what this Spirit is,
 about which I think fit to precaution the reader, viz., They call it,
@@ -3070,6 +3144,7 @@ is not of man, but of God, and therefore divine: and one in itself,
 though diversely expressed by the holy men,
 according to the various manifestations and operations thereof.
 
+[.numbered]
 4+++.+++ It is to this spirit of light, life, and grace, that this people refer all:
 for they say it is the great agent in religion; that, without which,
 there is no conviction, so no conversion or regeneration;
@@ -3084,6 +3159,8 @@ But on the contrary, that the reason of so much irreligion among Christians,
 so much superstition instead of devotion, and so much profession without enjoyment,
 and so little heart-reformation, is, because people in religion overlook the Holy Spirit,
 and leave it behind them.
+
+====
 
 They will be religious without it, and Christians without it,
 though this be the only means of making them so indeed.
@@ -3103,20 +3180,30 @@ as contents of that which follows, they declare that this Spirit is, first, Divi
 Secondly, universal.
 Thirdly, efficacious: In that it gives man,
 
-First, the knowledge of God and of himself,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ the knowledge of God and of himself,
 and therein a sight of his duty and disobedience to it.
 
-Secondly,
+[.numbered]
+_Secondly,_
 it begets a true sense and sorrow for sin in those
 that seriously regard the convictions of it.
 
-Thirdly, it enables them to forsake sin, and sanctifies from it.
+[.numbered]
+_Thirdly,_ it enables them to forsake sin, and sanctifies from it.
 
-Fourthly, it applies God`'s mercies in Christ for the forgiveness of sins that are past,
+[.numbered]
+_Fourthly,_ it applies God`'s mercies in Christ for the forgiveness of sins that are past,
 unto justification, upon sincere repentance and obedience.
 
-Fifthly, it gives to the faithful, perseverance unto a perfect man,
+[.numbered]
+_Fifthly,_ it gives to the faithful, perseverance unto a perfect man,
 and the assurance of blessedness world without end.
+
+====
 
 To the truth of all which, they call in a threefold evidence: First, the Scriptures,
 which give an ample witness, especially those of the New and better Testament.
@@ -3127,16 +3214,13 @@ and the answer God has given to their ministry: which, to impartial observers,
 have commended the doctrine, and gives me occasion to abstract their history,
 in divers particulars, for a conclusion to this little treatise.
 
-=== Section II.
+[.old-style]
+=== Section II. / 1+++.+++ The evidence of Scripture for the light of Christ, John 1:4. 9. 2+++.+++ His Divinity. 3+++.+++ All things created by him. 4+++.+++ What he is to man, as to salvation.
 
-1+++.+++ The evidence of Scripture for the light of Christ, John 1:4. 9.
+[.numbered-group]
+====
 
-2+++.+++ His Divinity.
-
-3+++.+++ All things created by him.
-
-4+++.+++ What he is to man, as to salvation.
-
+[.numbered]
 1+++.+++ I shall begin with the evidence of the blessed Scriptures of Truth,
 for this Divine light, the first and most common word used by them,
 to express and denominate it by,
@@ -3151,6 +3235,7 @@ Verse 4. In him was life, and the life was the light of men.
 
 Verse 9. That was the true light, which lighteth every man that cometh into the world.
 
+[.numbered]
 2+++.+++ I have begun with him,
 who began his history with him that was the beginning of the creation of God;
 the most beloved disciple, and longest liver of all the apostles,
@@ -3166,6 +3251,7 @@ or have lower thoughts of him than he deserved.
 The Word then, is Divine, and an apt term it is, that the evangelist styles him by,
 since it is so great an expression of the wisdom and power of God to men.
 
+[.numbered]
 3+++.+++ "`All things were made by him.`"
 If so, he wants no power.
 And if we were made by him, we must be new made by him too, or we can never enjoy God.
@@ -3174,6 +3260,7 @@ and that nothing can be too hard for such a sufficiency as made all things,
 and without which nothing was made, that was made.
 As man`'s Maker must be his husband, so his Creator must be his Redeemer also.
 
+[.numbered]
 4+++.+++ "`In him was life, and the life was the light of men.`"
 This is our point.
 The evangelist first begins with the nature and being of the Word:
@@ -3183,6 +3270,8 @@ The Word was life, and the life was the light of men.
 The relation must be very near and intimate, when the very life of the Word,
 that was with God, and was God, is the light of men: as if men were next to the Word,
 and above all the rest of his works; for it is not said so of any other creature.
+
+====
 
 Man cannot be without light then; no not a Divine light: for if this be not Divine,
 which is the life of the Divine Word,
@@ -3197,11 +3286,13 @@ and who lighteth every man; to wit, the Word that took flesh:
 so that both the Divine nature, and universality of the light of Christ within,
 are confirmed together.
 
-=== Section III.1. How this Scripture is wrested.
-2+++.+++ That it is a natural light; 3. That it lighteth not all;
-4+++.+++ That it is only the doctrine and life of Christ when in the flesh; all answered,
-and its Divinity and universality proved.
+[.old-style]
+=== Section III. / 1. How this Scripture is wrested. 2+++.+++ That it is a natural light; 3. That it lighteth not all; 4+++.+++ That it is only the doctrine and life of Christ when in the flesh; all answered, and its Divinity and universality proved.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ But though there be no passage or proposition to be found in Holy Scripture,
 in which mankind is more interested, or that is more clearly laid down by the Holy Ghost,
 than this I have produced,
@@ -3215,6 +3306,7 @@ and mentioned in those verses which only concern his eternal power and Godhead.
 But because I would be understood, and treat of things with all plainness,
 I will open the terms of the objection as well as I can, and then give my answer to it.
 
+[.numbered]
 2+++.+++ If by natural be meant a created thing, as man is,
 or any thing that is requisite to the composition of man, I deny it:
 the text is expressly against it, and says, the light with which man is lighted,
@@ -3238,6 +3330,7 @@ our intellectual luminary, that informs our mind,
 and gives us true judgment and distinction about those things
 that more immediately concern our better and inward man.
 
+[.numbered]
 3+++.+++ But others will have this text read thus, not that the Word enlightens all mankind,
 but that all who are enlightened, are enlightened by him,
 thereby not only narrowing and abusing the text, but rendering God partial,
@@ -3248,6 +3341,7 @@ yea, the ungodly, and that God desires not the death of any,
 but rather that all should repent and come to the knowledge of the Truth and be saved;
 and that the grace of God has appeared to all men, etc.
 
+[.numbered]
 4+++.+++ There is a third sort who will needs have it understood,
 not of any illumination by a Divine light or spirit in man,
 but by the doctrine Christ preached, and the life and example he lived,
@@ -3288,15 +3382,15 @@ and indeed so are all his followers from other people, by receiving and obeying 
 There are many other Scriptures, of both Testaments, that refer to the light within;
 either expressly, or impliedly; which for brevity`'s sake, I shall waive reciting.
 
-=== Section IV.1. The virtue of the light within; it gives discerning.
-2+++.+++ It manifests God.
-3+++.+++ It gives life to the soul.
-4+++.+++ It is the apostolical message.
-5+++.+++ Objection answered about two lights.
-6+++.+++ About natural and spiritual light: not two darknesses within,
-therefore not two lights within.
-7+++.+++ The apostle John answers the objection fully: the light the same, I. John 2:8-9.
+====
 
+[.old-style]
+=== Section IV. / 1. The virtue of the light within; it gives discerning. 2+++.+++ It manifests God. 3+++.+++ It gives life to the soul. 4+++.+++ It is the apostolical message. 5+++.+++ Objection answered about two lights. 6+++.+++ About natural and spiritual light: not two darknesses within, therefore not two lights within. 7+++.+++ The apostle John answers the objection fully: the light the same, I. John 2:8-9.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The third thing,
 is the virtue and efficacy of this light for the end for which God hath given it,
 viz. To lead and guide the soul of man to blessedness.
@@ -3333,6 +3427,7 @@ as is both expressed and abundantly implied in this passage of our Saviour.
 And if it reveals God, to be sure it manifests Christ, who flows and comes from God.
 Who then would oppose or slight this blessed light?
 
+[.numbered]
 2+++.+++ But that this light doth manifest God,
 is yet evident from Rom. 1:19. Because that which
 may be known of God is manifest in men,
@@ -3357,6 +3452,7 @@ Why by this light in the conscience, which the wicked rebel against, Job 24:13.
 Who for that cause, know not the ways, nor abide in the paths thereof:
 for its ways are ways of pleasantness, and all its paths are peace, to them that obey it.
 
+[.numbered]
 3+++.+++ But the light giveth the light of life, which is eternal life,
 to them that receive and obey it.
 Thus, says the blessed Saviour of the world, "`I am the light of the world,
@@ -3368,6 +3464,7 @@ That is, the light becomes eternal life to the soul: that as it is the life of t
 which is the light in man, so it becomes the life in man, through his obedience to it,
 as his heavenly light.
 
+[.numbered]
 4+++.+++ Furthermore, this light was the very ground of the apostolical message,
 as the beloved disciple assures us: "`This then is the message,
 which we have heard of him, and declare unto you, that God is light,
@@ -3384,6 +3481,7 @@ Fourthly, that it is the way to obtain forgiveness of sin, and sanctification fr
 Fifthly, that it is the means to have peace and fellowship with God and his people,
 his true church, redeemed from the pollutions of the world.
 
+[.numbered]
 5+++.+++ Some perhaps, may object, as indeed it hath been more than once Objected upon us,
 that this is another light, not that light wherewith every man is enlightened.
 But the same apostle, in his evangelical history, tells us, that in the Word was life,
@@ -3398,6 +3496,7 @@ and in his epistles, to be sure he would have noted to us his distinction:
 but we read of none, and by the properties ascribed in each writing,
 we have reason to conclude he meant the same.
 
+[.numbered]
 6+++.+++ But if any shall yet object, That this is to be understood of a spiritual light,
 and that ours is to be a natural one, I shall desire them to do two things: first,
 to prove that a natural light, as they phrase it, doth manifest God,
@@ -3463,6 +3562,7 @@ and not in a third, or other state or region.
 I am sure, that which manifests and reproves darkness, cannot be darkness.
 This all men must confess.
 
+[.numbered]
 7+++.+++ And as if the apostle John would have anticipated their objection, viz: "`It is true,
 your light within reproves for evil,
 but it is not therefore the Divine light which leads into higher things,
@@ -3512,22 +3612,26 @@ The more general the mercy is, the greater,
 and therefore the greater obligation upon man to live humbly and thankfully for it.
 And to those alone that do so, are its Divine secrets revealed.
 
-=== Section V.1. The light the same with the spirit.
-It is of God; proved by its properties.
-2+++.+++ The properties of the spirit compared with those of the light.
-3+++.+++ The light and grace flow from the same source, proved by their agreeing properties.
-4+++.+++ An objection answered.
-5+++.+++ Difference in manifestation, or operation, especially in Gospel times,
-but not in principle, illustrated.
+====
 
-1+++.+++ Objection: But some may say, We could willingly allow to the Spirit and grace of God,
+[.old-style]
+=== Section V. / 1. The light the same with the spirit. It is of God; proved by its properties. 2+++.+++ The properties of the spirit compared with those of the light. 3+++.+++ The light and grace flow from the same source, proved by their agreeing properties. 4+++.+++ An objection answered. 5+++.+++ Difference in manifestation, or operation, especially in Gospel times, but not in principle, illustrated.
+
+[.numbered-group]
+====
+
+[.numbered]
+
+[.discourse-part]
+1+++.+++ _Objection:_ But some may say, We could willingly allow to the Spirit and grace of God,
 which seemed to be the peculiar blessing of the new and second covenant,
 and the fruit of the coming of Christ, all that which you ascribe to the light within;
 but except it appeared to us that this light were
 the same in nature with the Spirit and grace of God,
 we cannot easily bring ourselves to believe what you say in favour of the light within.
 
-Answer: This objection, at first look, seems to carry weight with it:
+[.discourse-part]
+_Answer:_ This objection, at first look, seems to carry weight with it:
 but upon a just and serious review, it will appear to have more words than matter,
 show than substance: yet because it gives occasion to solve scruples,
 that may be thrown in the way of the simple, I shall attend it throughout.
@@ -3554,6 +3658,7 @@ Lastly, it is the armour of the children of God against Satan, Ps. 27:1,
 The Lord is my light, whom shall I fear?
 Rom. 13:12, Let us put on the armour of light.
 
+[.numbered]
 2+++.+++ Now let all this be compared with the properties of the Holy Spirit,
 and their agreement will be very manifest.
 First, it proceeded from God, because it is the Spirit of God, Rom. 6:11. Secondly,
@@ -3570,6 +3675,7 @@ After this,
 I hope none will deny that this light and this Spirit must be of one and the same nature,
 that work one and the same effect, and tend evidently to one and the same holy end.
 
+[.numbered]
 3+++.+++ And what is said of the light and Spirit, may also,
 very well be said of the light and grace of God; in that, First,
 the grace floweth from Christ, the Word, that took flesh, as well as the light;
@@ -3590,13 +3696,17 @@ My grace is sufficient for thee.
 A high testimony from heaven, to the power of this teaching and saving grace,
 under the strongest temptations.
 
-4+++.+++ Objection.
+[.numbered]
+
+[.discourse-part]
+4+++.+++ _Objection._
 But there is little mention made of the Spirit, and none of the grace,
 before Christ`'s coming, and therefore the Spirit,
 as spoken of in the writings of the New Testament, and especially the grace,
 must be another, and a nobler thing than the light within.
 
-Answer.
+[.discourse-part]
+_Answer._
 By no means another thing, but another name,
 for another manifestation or operation of the same Spirit.
 It is called light from the distinction and discerning it gives.
@@ -3622,6 +3732,7 @@ It is certainly the same in nature and kind; and so is this blessed Spirit,
 under all its several dispensations, manifestations and operations,
 for the benefit of man`'s soul, ever since the world began.
 
+[.numbered]
 5+++.+++ But this is most freely, humbly and thankfully acknowledged by us,
 that the dispensation of the Gospel was the clearest, fullest, and noblest of all other;
 both with regard to the coming of Christ in the flesh,
@@ -3661,17 +3772,24 @@ and grace to teach, help, and comfort him.
 It is sufficient in all circumstances of of life,
 to them that diligently mind and obey it.
 
-=== Section VI.1. An objection answered: All are not good, though all are lighted.
-2+++.+++ Another objection answered, that Gospel truths were known before Christ`'s coming.
-3+++.+++ Another: The gentiles had the same light, though not with those advantages:
-proved from Scripture.
+====
 
-1+++.+++ Objection.
+[.old-style]
+=== Section VI. / 1. An objection answered: All are not good, though all are lighted. 2+++.+++ Another objection answered, that Gospel truths were known before Christ`'s coming. 3+++.+++ Another: The gentiles had the same light, though not with those advantages: proved from Scripture.
+
+[.numbered-group]
+====
+
+[.numbered]
+
+[.discourse-part]
+1+++.+++ _Objection._
 But some may yet say, If it be as you declare, how comes it,
 that all who are enlightened, are not so good as they should be;
 or as you say this would make them?
 
-Answer.
+[.discourse-part]
+_Answer._
 Because people do not receive and obey it: all men have reason,
 but all men are not reasonable.
 Is it the fault of the grain, in the granary, that it yields no increase,
@@ -3700,12 +3818,16 @@ and then it is that man comes to offer up himself to God a reasonable sacrifice.
 Then a man indeed; a complete man; such a man as God made,
 when he made man in his own image, and gave him paradise for his habitation.
 
-2+++.+++ Objection.
+[.numbered]
+
+[.discourse-part]
+2+++.+++ _Objection._
 But some yet object, If mankind had always the Holy Spirit,
 how comes it that Gospel truths were not so fully known before the coming of Christ,
 to those that were obedient to it.
 
-Answer.
+[.discourse-part]
+_Answer._
 Because a child is not a grown man, nor the beginning the end;
 and yet he that is the beginning, is also the end: the Spirit is the same,
 though not the manifestation.
@@ -3766,11 +3888,14 @@ Of the same blessed Word he says elsewhere, "`It is a lamp unto my feet,
 and a lanthorn to my paths.`"
 In short, a light to him in his way to blessedness.
 
-3+++.+++ Objection.
+[.numbered]
+
+[.discourse-part]
+3+++.+++ _Objection._
 But if the Jews had this light, it does not follow that the gentiles had it also;
 but by your doctrine all have it.
 
-Answer.
+_Answer._
 Yes, and it is the glory of this doctrine which we profess,
 that God`'s love is therein held forth to all.
 And besides the texts cited in general,
@@ -3837,22 +3962,26 @@ and thought it no lessening to the reputation of Christianity,
 that it was defended in many gentile authors, as well as that they used and urged them,
 to engage their followers to the faith, as Paul did the Athenians with their own poets.
 
-=== Section VII.1. An objection answered about the various dispensations of God: the principle the same.
-2+++.+++ God`'s work of a piece, and Truth the same under divers shapes.
-3+++.+++ The reason of the prevalency of idolatry.
-4+++.+++ The Quakers`' testimony the best antidote against it, viz.:
-Walking by the Divine Spirit in man.
-5+++.+++ It was God`'s end in all his manifestations,
-that man might be God`'s image and delight.
+====
 
-1+++.+++ Objection.
+[.old-style]
+=== Section VII. / 1. An objection answered about the various dispensations of God: the principle the same. 2+++.+++ God`'s work of a piece, and Truth the same under divers shapes. 3+++.+++ The reason of the prevalency of idolatry. 4+++.+++ The Quakers`' testimony the best antidote against it, viz.: Walking by the Divine Spirit in man. 5+++.+++ It was God`'s end in all his manifestations, that man might be God`'s image and delight.
+
+[.numbered-group]
+====
+
+[.numbered]
+
+[.discourse-part]
+1+++.+++ _Objection._
 But it may be said, If it were one Holy Spirit, why so many modes and shapes of religion,
 since the world began?
 For the Patriarchal, Mosaical, and Christian, have their great differences;
 to say nothing of what has befallen the Christian,
 since the publication of it to the world.
 
-Answer.
+[.discourse-part]
+_Answer._
 I know not how properly they may be called divers religions,
 that assert the true God for the object of worship;
 the Lord Jesus Christ for the only Saviour; and the light, or Spirit of Christ,
@@ -3873,6 +4002,7 @@ as he is the great light of the world: yet all its Sowings mediately through oth
 have still been from the same Spirit,
 cooperating with the manifestation of it immediately in man`'s own particular.
 
+[.numbered]
 2+++.+++ This is of great weight, for our information and encouragement, that God`'s work,
 in reference to man, is all of a piece, and in itself, lies in a narrow compass,
 and that his eye has ever been upon the same thing in all his dispensations, viz.,
@@ -3886,6 +4016,7 @@ to engage them from false gods and ill lives;
 seeing them sunk so much below their nobler part, and what he made them,
 that like brute beasts, they knew not their own strength and excellency.
 
+[.numbered]
 3+++.+++ And if we do but well consider the reason of the prevalency of idolatry,
 upon the earlier and darker times of the world,
 of which the Scripture is very particular, we shall find that it ariseth from this;
@@ -3918,6 +4049,7 @@ and Jer.
 x., where the Holy Ghost confutes and rebukes the people,
 and mocks their idols with a sort of holy disdain.
 
+[.numbered]
 4+++.+++ Now that which is furthest from idolatry, and the best antidote against it,
 is the Spirit of God we have spoken of;
 and the more people`'s minds are turned and brought to it, and they resolve their faith,
@@ -3944,6 +4076,7 @@ but in sincerity, with and in life, being Divinely prepared and animated;
 which brings man not only to offer up right worship,
 but also into intimate communion and fellowship with God, who is a Spirit.
 
+[.numbered]
 5+++.+++ And if it be duly weighed,
 it will appear that God in all his manifestations of himself,
 hath still come nearer and nearer to the insides of men,
@@ -3988,14 +4121,18 @@ and the world that is without end.
 Much might be said of this order of things, and their respective excellencies,
 but I must be brief.
 
-=== Section VIII.
-1+++.+++ The doctrines of satisfaction and justification owned and worded according to Scripture.
-2+++.+++ What constructions we cannot believe of them, and which is an abuse of them,
-3+++.+++ Christ owned a sacrifice and a mediator.
-4+++.+++ Justification twofold, from the guilt of sin, and from the power and pollution of it.
-5+++.+++ Exhortation to the reader upon the whole.
+====
 
-1+++.+++ Objection.
+[.old-style]
+=== Section VIII. / 1+++.+++ The doctrines of satisfaction and justification owned and worded according to Scripture. 2+++.+++ What constructions we cannot believe of them, and which is an abuse of them, 3+++.+++ Christ owned a sacrifice and a mediator. 4+++.+++ Justification twofold, from the guilt of sin, and from the power and pollution of it. 5+++.+++ Exhortation to the reader upon the whole.
+
+[.numbered-group]
+====
+
+[.numbered]
+
+[.discourse-part]
+1+++.+++ _Objection._
 Though there be many good things said, how Christ appears and works in a soul, to awaken,
 convince and convert it;
 yet you seem not particular enough about the death and sufferings of Christ:
@@ -4005,7 +4142,8 @@ Christ`'s satisfaction to God for our sins,
 and that you do not believe, that the active and passive obedience of Christ,
 when he was in the world, is the alone ground of a sinner`'s justification before God.
 
-Answer.
+[.discourse-part]
+_Answer._
 The doctrines of satisfaction and justification, truly understood,
 are placed in so strict an union, that the one is a necessary consequence of the other,
 and what we say of them, is what agrees with the suffrage of Scripture,
@@ -4018,12 +4156,15 @@ I shall first speak negatively, what we do not own,
 which perhaps hath given occasion to those who have been more hasty than wise,
 to judge us defective in our belief of the efficacy
 of the death and sufferings of Christ to justification:
-2+++.+++ First, We cannot believe that Christ is the cause, but the effect of God`'s love,
+
+[.numbered]
+2+++.+++ _First,_ We cannot believe that Christ is the cause, but the effect of God`'s love,
 according to the testimony of the beloved disciple, John, chap,
 iii--God so loved the world, that he gave his only begotten Son into the world,
 that whosoever believeth in him should not perish, but have everlasting life.
 
-Secondly, We cannot say, God could not have taken another way to save sinners,
+[.numbered]
+_Secondly,_ We cannot say, God could not have taken another way to save sinners,
 than by the death and sufferings of his Son, to satisfy his justice,
 or that Christ`'s death and sufferings were a strict and rigid satisfaction
 for that eternal death and misery due to man for sin and transgression;
@@ -4031,12 +4172,14 @@ for such a notion were to make God`'s mercy little concerned in man`'s salvation
 and indeed we are at too great a distance from his infinite wisdom and power,
 to judge of the liberty or necessity of his actings.
 
-Thirdly, We cannot say Jesus Christ was the greatest sinner in the world,
+[.numbered]
+_Thirdly,_ We cannot say Jesus Christ was the greatest sinner in the world,
 (because he bore our sins on his cross, or because he was made sin for us,
 who knew no sin) an expression of great levity and unsoundness,
 yet often said by great preachers and professors of religion.
 
-Fourthly, We cannot believe that Christ`'s death and sufferings so satisfy God,
+[.numbered]
+_Fourthly,_ We cannot believe that Christ`'s death and sufferings so satisfy God,
 or justify men, as that they are thereby accepted of God.
 They are indeed thereby put into a state capable of being accepted of God,
 and through the obedience of faith and sanctification of the spirit,
@@ -4059,6 +4202,7 @@ or thoroughly justified and accepted with God.
 Thus far negatively.
 Now positively what we own as to justification.
 
+[.numbered]
 3+++.+++ We do believe that Jesus Christ was our holy sacrifice, atonement, and propitiation;
 that he bore our iniquities,
 and that by his stripes we were healed of the wounds Adam gave us in his fall;
@@ -4070,6 +4214,7 @@ and that through the offering up of himself once for all, through the eternal Sp
 he hath forever perfected those (in all times) that were sanctified,
 who walked not after the flesh, but after the spirit, Rom. 8:1. Mark that.
 
+[.numbered]
 4+++.+++ In short, justification consists of two parts, or hath a two-fold consideration,
 viz. justification from the guilt of sin,
 and justification from the power and pollution of sin;
@@ -4111,6 +4256,7 @@ Such deceive themselves, and at the great and final judgment their sentence will
 who live and die in a reproveable and condemnable state;
 but, "`Go ye cursed, etc.`"
 
+[.numbered]
 5+++.+++ Wherefore, O my reader,
 rest not thyself wholly satisfied with what Christ
 has done for thee in his blessed person without thee,
@@ -4138,16 +4284,15 @@ behold the new covenant fulfilled, the church and worship of Christ,
 the great anointed of God, and the great anointing of God,
 in his holy high priesthood and offices in his church!
 
-=== Section IX.1. A confession to Christ and his work, both in doing and suffering.
-2+++.+++ That ought not to make void our belief and testimony
-of his inward and spiritual appearance in the soul.
-3+++.+++ What our testimony is in the latter respect:
-that it is impossible to be saved by Christ without us,
-while we reject his work and power within us.
-4+++.+++ The dispensation of grace, in its nature and extent.
-5+++.+++ A further acknowledgment to the death and, sufferings of Christ.
-6+++.+++ The conclusion, showing our adversaries`' unreason ableness.
+====
 
+[.old-style]
+=== Section IX. / 1. A confession to Christ and his work, both in doing and suffering. 2+++.+++ That ought not to make void our belief and testimony of his inward and spiritual appearance in the soul. 3+++.+++ What our testimony is in the latter respect: that it is impossible to be saved by Christ without us, while we reject his work and power within us. 4+++.+++ The dispensation of grace, in its nature and extent. 5+++.+++ A further acknowledgment to the death and, sufferings of Christ. 6+++.+++ The conclusion, showing our adversaries`' unreason ableness.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ And lest any should say we are equivocal in our expressions,
 and allegorize away Christ`'s appearance in the flesh;
 meaning only thereby our own flesh; and that as often as we mention him,
@@ -4166,6 +4311,7 @@ and ascended into heaven, and sits on the right hand of God,
 in the power and majesty of his Father; who will one day judge the world by him,
 even that blessed Man, Christ Jesus, according to their works.
 
+[.numbered]
 2+++.+++ But because we so believe, must we not believe what Christ said,
 "`He that is with you shall be in you.`"
 "`I in them, and they in me,`" etc.
@@ -4183,6 +4329,7 @@ nor would our warm and sharp adversaries be so dealt with by others:
 but to do as they would be done to, is too often no part of their practice,
 whatever it be of their profession.
 
+[.numbered]
 3+++.+++ Yet we are very ready to declare to tho whole world, that we cannot,
 think men and women can be saved by their belief of the one,
 without the sense and experience of the other; and that is what we oppose,
@@ -4197,6 +4344,7 @@ he detects the enemy by his light in the conscience,
 and enables the creature to resist him, and all his fiery darts; and finally,
 so to fight the good fight of faith, as to overcome him, and lay hold on eternal life.
 
+[.numbered]
 4+++.+++ And this is the dispensation of grace, which we declare has appeared to all,
 more or less; teaching those who will receive it,
 "`to deny ungodliness and worldly lusts, and to live soberly, righteously,
@@ -4224,6 +4372,7 @@ and perseverance a natural fruit of conversion, and being born of God;
 But such, through faithfulness, continue to the end, and obtain the promise,
 even everlasting life.
 
+[.numbered]
 5+++.+++ But let my reader take this along with him, that we do acknowledge that Christ,
 through his holy doing and suffering, for being a Son he learned obedience,
 has obtained mercy of God his Father for mankind,
@@ -4298,6 +4447,7 @@ those who live in that which made him suffer, know not,
 though they profess to be saved by his death and sufferings.
 Much more might be said as to this matter, but I must be brief.
 
+[.numbered]
 6+++.+++ To conclude this chapter, we wonder not that we should be mistaken,
 mis-construed and mis-represented, in what we believe and do to salvation,
 since our betters have been so treated in the primitive times.
@@ -4328,12 +4478,15 @@ and in the midst of the paths of judgment,
 that their souls may come to inherit substance; even durable riches and righteousness,
 in the kingdom of the Father, world without end.
 
-=== Section X.1. Of the true worship of God, in what it stands.
-2+++.+++ Of the true ministry, that it is by inspiration.
-3+++.+++ The Scripture plain in that case.
-4+++.+++ Christ`'s ministers, true witnesses, they speak what they know, not by report.
-5+++.+++ Christ`'s ministers preach freely, it is one of their marks.
+====
 
+[.old-style]
+=== Section X. / 1. Of the true worship of God, in what it stands. 2+++.+++ Of the true ministry, that it is by inspiration. 3+++.+++ The Scripture plain in that case. 4+++.+++ Christ`'s ministers, true witnesses, they speak what they know, not by report. 5+++.+++ Christ`'s ministers preach freely, it is one of their marks.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ As the Lord wrought effectually, by his Divine grace, in the hearts of this people,
 so he thereby brought them to a Divine worship and ministry;
 they came to experience Christ`'s words, viz. That God is a spirit,
@@ -4373,6 +4526,7 @@ who has called us, and brought us to his own spiritual worship;
 in obedience to whom we are what we are,
 in our separation from the divers ways of worship in the world.
 
+[.numbered]
 2+++.+++ And as our worship stands in the operation of the Spirit of Truth in our inward parts,
 as before expressed, so does our ministry.
 For as the holy testimonies of the servants of God of old,
@@ -4392,6 +4546,7 @@ And if we are to minister what we receive, then not what we study,
 collect and beat out of our own brains, for that is not the mind of Christ,
 but our imaginations, and this will not profit the people.
 
+[.numbered]
 3+++.+++ This was recommended to the Corinthians by the apostle Paul, 1 Cor. 14.
 that they should speak as they were moved, or as any thing was revealed to them,
 by the Spirit, for the edification of the church; for, says he, Ye may all prophesy;
@@ -4410,6 +4565,7 @@ which is the very end and work of the Gospel ministry.
 It must be inspired men, men gifted by God, taught and influenced by his heavenly Spirit,
 that can be qualified for so great, so inward, and so spiritual a work.
 
+[.numbered]
 4+++.+++ Ministers of Christ are his witnesses, and the credit of a witness is,
 that he has heard, seen or handled.
 And thus the beloved disciple states the truth and authority of their mission and ministry.
@@ -4429,6 +4585,7 @@ He it is that breathes, and lays his hands, upon his own ministers; he anoints t
 and recruits their cruse, and renews their horn with oil, that they may have it fresh,
 for every occasion and service he calls them to, and engages them in.
 
+[.numbered]
 5+++.+++ Nor is this all, but as they receive freely, freely they give;
 they do not teach for hire, divine for money, nor preach for gifts or rewards.
 It was Christ`'s holy command to his ministers to give freely, and it is our practice.
@@ -4453,12 +4610,16 @@ that where any religion has a strong temptation of gain to induce men to be mini
 there is great danger of their running faster to that calling,
 than becomes a true Gospel minister.
 
-1+++.+++ Objection.
+[.numbered]
+
+[.discourse-part]
+1+++.+++ _Objection._
 But does not this sort of ministry and worship tend to make people careless,
 and to raise spiritual pride in others,
 may it not give an occasion to great mischief and irreligion?
 
-Answer.
+[.discourse-part]
+_Answer._
 By no means, for when people are of age, they, of right, expect their inheritances;
 and the end of all words is to bring people to the great Word, Christ Jesus,
 and then the promise of God is accomplished; "`They shall be all taught of me,
@@ -4559,17 +4720,15 @@ and to call and gather others to the knowledge of it, who are yet going astray;
 and blessed be God, it is not in vain, since many are thereby added to the church,
 that we hope and believe shall be saved.
 
-=== Section XI.1. Against tithes.
-2+++.+++ Against all swearing.
-3 Against war among Christians.
-4+++.+++ Against the salutations of the times.
-5+++.+++ And for plainness of speech.
-6+++.+++ Against mixed marriages.
-7+++.+++ And for plainness in apparel, etc.
-No sports and pastimes after the manner of this world.
-8+++.+++ Of observing days.
-9+++.+++ Of care of the poor; peace and conversation.
+====
 
+[.old-style]
+=== Section XI. / 1. Against tithes. 2+++.+++ Against all swearing. 3 Against war among Christians. 4+++.+++ Against the salutations of the times. 5+++.+++ And for plainness of speech. 6+++.+++ Against mixed marriages. 7+++.+++ And for plainness in apparel, etc. No sports and pastimes after the manner of this world. 8+++.+++ Of observing days. 9+++.+++ Of care of the poor; peace and conversation.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ As God has been pleased to call us from a human ministry,
 so we cannot for conscience sake support and maintain it, and upon that score,
 and not out of humour or covetousness, we refuse to pay tithes,
@@ -4578,6 +4737,7 @@ many books have been written in our defence.
 We cannot support what we cannot approve, but have a testimony against;
 for thereby we should be found inconsistent with ourselves.
 
+[.numbered]
 2+++.+++ We dare not swear, because Christ forbids it; Matt. 5:34. 37. and James,
 his true follower.
 It is needless as well as evil, the reason of swearing being untruth,
@@ -4589,6 +4749,7 @@ and therefore the use of it is needless, superfluous and cometh of evil.
 The apostle James taught the same doctrine, and the primitive Christians practised it,
 as may be seen in the Book of Martyrs; as also the earliest and best of the reformers.
 
+[.numbered]
 3+++.+++ We also believe, that war ought to cease among the followers of the Lamb Christ Jesus,
 who taught his disciples to forgive and love their enemies, and not to war against them,
 and kill them;
@@ -4600,6 +4761,7 @@ love and persuasion having more force than weapons of war.
 Nor would the worst men easily be brought to hurt those that they really think love them.
 It is love and patience that must in the end have the victory.
 
+[.numbered]
 4+++.+++ We dare not give worldly honour,
 or use the frequent and modish salutations of the times, seeing plainly, that vanity,
 pride, and ostentation, belong to them.
@@ -4610,6 +4772,7 @@ It is not to distinguish ourselves as a party, nor out of pride, ill-breeding or
 but in obedience to the sight and sense we have received from the Spirit of Christ,
 of the evil rise and tendency thereof.
 
+[.numbered]
 5+++.+++ For the same reason we have returned to the first plainness of speech,
 viz. thou and thee, to a single person, which though men give no other to God,
 they will hardly endure it from us.
@@ -4620,6 +4783,7 @@ but we are now better known, and people better informed.
 In short, it is also both Scripture and grammar, and we have propriety of speech for it,
 as well as peace in it.
 
+[.numbered]
 6+++.+++ We cannot allow of mixed marriages, that is,
 to join with such as are not of our Society; but oppose and disown them,
 if at any time any of our profession so grossly err from the rule of their communion;
@@ -4627,6 +4791,7 @@ yet restore them upon sincere repentance, but not disjoin them.
 The book I wrote of the rise and progress of the people called Quakers,
 is more full and express herein.
 
+[.numbered]
 7+++.+++ Plainness in apparel and furniture, is another testimony peculiar to us,
 in the degree we have borne it to the world; as also few words, and being at a word.
 Likewise temperance in food,
@@ -4638,26 +4803,31 @@ to enter into judgment with us for every intemperance or excess;
 and herein we hope we have been no ill examples,
 nor scandal unto any that have a due consideration of things.
 
+[.numbered]
 8+++.+++ We cannot, in conscience to God, observe holy days,
 (so called) the public fasts and feasts,
 because of their human institution and ordination,
 and that they have not a Divine warrant, but are appointed in the will of man.
 
+[.numbered]
 9+++.+++ Lastly, We have been led by the good Spirit of our Lord Jesus Christ,
 of which I have treated in this discourse, according to primitive practice,
 to have a due care over one another, for the preservation of the whole Society,
 in a conversation more suitable to their holy profession.
 
-First, In respect to a strict walking both towards those that are without,
+[.numbered]
+_First,_ In respect to a strict walking both towards those that are without,
 and those that are within; that their conversation in the world,
 and walking in and towards the church, may be blameless.
 That as they may be strict in the one, so they may be faithful in the other.
 
-Secondly, That collections be made to supply the wants of the poor,
+[.numbered]
+_Secondly,_ That collections be made to supply the wants of the poor,
 and that care be taken of widows and orphans, and such as are helpless,
 as well in counsel as about substance.
 
-Thirdly, That all such as intend to marry, if they have parents,
+[.numbered]
+_Thirdly,_ That all such as intend to marry, if they have parents,
 or are under the direction of guardians or trustees, are obliged,
 first to declare to them their intention,
 and have their consent before they propose it to one another,
@@ -4667,7 +4837,8 @@ they are by them allowed to solemnize their marriage in a public select meeting,
 for that purpose appointed, and not otherwise;
 whereby all clandestine and indirect marriages are prevented among us.
 
-Fourthly, And to the end that this good order may be observed,
+[.numbered]
+_Fourthly,_ And to the end that this good order may be observed,
 for the comfort and edification of the Society, in the ways of truth and soberness,
 select meetings, of care and business, are fixed in all parts where we inhabit,
 which are held monthly, and which resolve into Quarterly Meetings,
@@ -4677,6 +4848,8 @@ has called us to be a people to his praise, may have it from us, through his bel
 and our ever-blessed and only Redeemer, Jesus Christ, for he is worthy, worthy,
 now and ever.
 Amen.
+
+====
 
 Thus, reader, thou hast the character of the people called Quakers, in their doctrine,
 worship, ministry, practice and discipline;
@@ -4861,6 +5034,10 @@ or confirmed by appropriate quotations chiefly from the New Testament.
 This paper was mostly drawn up by William Penn,
 and signed by him and three other Friends; it is as follows:
 
+[.embedded-content-document.paper]
+--
+
+[.old-style]
 === Gospel Truths.
 
 Sober reader, if thou hadst rather we should be in the right than in the wrong;
@@ -4876,22 +5053,29 @@ which are the double and agreeing record of true religion.
 Published to inform the moderate inquirer, and reclaim the prejudiced to a better temper;
 which God grant, to his glory and their peace.
 
-1+++.+++ "`It is our belief that God is, and that he is a rewarder of all them that fear him,
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ It is our belief that God is, and that he is a rewarder of all them that fear him,
 with eternal rewards of happiness; and that those that fear him not,
 shall be turned into hell.
 Heb. 11:16. Rev. 22:12. Rom. 2:5-8. Ps. 9:17.
 
-2+++.+++ "`That there are three that bear record in heaven; the Father, the Word,
+[.numbered]
+2+++.+++ That there are three that bear record in heaven; the Father, the Word,
 and the Spirit; and these three are really one. 1 John 5:7.
 
-3+++.+++ "`That the Word was made flesh, and dwelt among men, and was, and is,
+[.numbered]
+3+++.+++ That the Word was made flesh, and dwelt among men, and was, and is,
 the only begotten of the Father, full of grace and truth; his beloved Son,
 in whom he is well pleased, and whom we are to hear in all things;
 who tasted death for every man, and died for sin, that we might die to sin,
 and by his power and Spirit be raised up to newness of life here,
 and to glory hereafter. John 1:14. Matt. 3:17. Heb. 2:9.
 
-4+++.+++ "`That as we are only justified from the guilt of sin, by Christ the propitiation,
+[.numbered]
+4+++.+++ That as we are only justified from the guilt of sin, by Christ the propitiation,
 and not by works of righteousness that we have done;
 so there is an absolute necessity that we receive and obey,
 to unfeigned repentance and amendment of life, the holy light and Spirit of Jesus Christ,
@@ -4903,7 +5087,8 @@ his precious blood cleanseth us from all sin;
 as well from the pollution as from the guilt of sin.
 Rom. 3:22 to 26. chap. 3:1, 2, 3, 4. 1 John 5:7.
 
-5+++.+++ "`That Christ is the great light of the world,
+[.numbered]
+5+++.+++ That Christ is the great light of the world,
 who lighteth every man that cometh into the world, and is full of grace and truth,
 and giveth to all, light for light, and grace for grace;
 and by his light and grace he inwardly appears to man,
@@ -4911,7 +5096,8 @@ and teaches such as will be taught by him, '`That denying ungodliness and worldl
 they should live soberly, righteously, and godly,
 in this present world.`'
 
-6+++.+++ "`That this light and grace, which is God`'s gift,
+[.numbered]
+6+++.+++ That this light and grace, which is God`'s gift,
 through Christ to man, is that which shows us our sins, reproves us for them,
 and would lead all out of them that obey it, to serve God in fear and love,
 all their days.
@@ -4920,14 +5106,16 @@ and walk according to it, shall die in their sins; and where Christ is gone,
 they shall never come, who is undefiled, and separated from sinners. Eph. 5:13.
 John 16:7. Prov. 1:20 to 24. John 8:24.
 
-7+++.+++ "`This is that Spirit by which God prepares the heart to worship him aright;
+[.numbered]
+7+++.+++ This is that Spirit by which God prepares the heart to worship him aright;
 and all the duties of religion, as praying, praising, and preaching,
 ought to be performed through the sanctifying power and assistance of it;
 other worship being but formal and will-worship, with which we cannot in conscience join,
 nor can we maintain or uphold it. Rom. 8:26.
 1 Pet. 4:10-11.
 
-8+++.+++ "`Worship in this Gospel-day is inward and spiritual: for God is a spirit,
+[.numbered]
+8+++.+++ Worship in this Gospel-day is inward and spiritual: for God is a spirit,
 as Christ teacheth, and he will now be worshipped in Spirit and in truth,
 being most suitable to his Divine nature.
 Wherefore we wait in our assemblies to feel God`'s
@@ -4937,39 +5125,48 @@ that we may preach in power as well as words; and as God promised and Christ ord
 without money, and without price. John 4:23-24.
 1 Thess. 1:5. Isaiah 65:1. Rev. 22:17. Matt. 10:8.
 
-9+++.+++ "`This also leads us to deny all the vain customs and fashions of the world,
+[.numbered]
+9+++.+++ This also leads us to deny all the vain customs and fashions of the world,
 and to avoid excess in all things, that our moderation may be seen of all men,
 because the Lord is at hand to see and judge us, according to our deeds. Tit. 2:12.
 Rom. 12:2. Phil. 4:5. Ecc.
 12:14. Matt. 16:27. Rom. 2:6. Rev. 20:12.
 
-10+++.+++ "`We believe in the necessity of the one baptism of Christ,
+[.numbered]
+10+++.+++ We believe in the necessity of the one baptism of Christ,
 as well as of his one supper,
 which he promiseth to eat with those that open the door of their hearts to him,
 being the baptism and supper signified by the outward signs; which, though we disuse,
 we judge not those that conscientiously practise '`them. Matt. 3:11.
 Eph. 4:1. 1 Pet. 3:21-22. John vi. Rev. 3:20.
 
-11+++.+++ "`We honour government; for we believe it is an ordinance of God;
+[.numbered]
+11+++.+++ We honour government; for we believe it is an ordinance of God;
 and that we ought in all things to submit, by doing or suffering;
 but esteem it a great blessing, where the administration is a terror to evil doers,
 and a praise to them that do well. Rom. 13:1-5.
+
+====
 
 This hath all along been the general stream and tendency both of our ministry and writings,
 as our books will make appear,
 notwithstanding what ill-minded and prejudiced persons may
 have strained to misrepresent us and our Christian profession.
 
+[.signed-section-signature]
 William Penn, Thomas Story, Anthony Sharp, George Rook.
 
+[.signed-section-context-close]
 Dublin, the 4th^
 footnote:[This date is erroneous, as it is the day on which they embarked at Holyhead.
 It probably ought to be the 24th, as they left Cork on the 27th.]
 of the Third month, 1698.
 
+--
+
 John Plympton also published a paper which he called,
-"`A Quaker no Christian;`" which William Penn answered by another entitled,
-"`The Quaker a Christian.`"
+_A Quaker No Christian;_ which William Penn answered by another entitled,
+_The Quaker a Christian._
 He also reprinted the eighth and ninth chapters of his Primitive Christianity Revived;
 which satisfied the people generally, that Plympton`'s charges were groundless.
 
@@ -4984,10 +5181,16 @@ On the 1st of fourth month,
 he and his companions had a large and satisfactory meeting at Wexford.
 Soon after this they addressed the following epistle to the Yearly Meeting of London.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 An Epistle to the Yearly Meeting at London.
 
+[.signed-section-context-open]
 Lamb`'s-town, in Ireland, the 2nd of the Fourth month, 1698.
 
+[.salutation]
 Dear friends and brethren,
 
 It is not the least of our exercises that we are thus far outwardly
@@ -5066,17 +5269,24 @@ nor distance wear out of our remembrances,
 and in which we desire to be remembered of you to the Lord of our household,
 we dearly and tenderly salute and embrace you, and remain,
 
+[.signed-section-closing]
 Your loving and faithful brethren,
 
+[.signed-section-signature]
 William Penn, John Everot, Thomas Story.
 
-Postscript.
+[.postscript]
+
+[.blurb]
+=== Postscript.
 
 Friends here have been zealous and liberal in printing and re-printing,
 and freely distributing great quantities, and to very good purpose,
 of several books and papers written in defence of Truth,
 and for information of the simple and misinformed,
 which we hope will also fall under your consideration.
+
+--
 
 Proceeding in company with several other Friends towards Waterford,
 where a meeting was appointed to be held at five o`'clock in the afternoon,
@@ -5338,8 +5548,10 @@ William Penn also produced the following short essay, entitled:
 [.asterism]
 '''
 
-=== A Testimony to the Truth of God, as held by the people called Quakers: being a short vindication of them, from the abuses and misrepresentations often put upon them by envious apostates, and mercenary adversaries.
+[.old-style]
+=== A Testimony to the Truth of God, / as held by the people called Quakers: being a short vindication of them, from the abuses and misrepresentations often put upon them by envious apostates, and mercenary adversaries.
 
+[.blurb]
 === To the Reader.
 
 Occasion having been given us, which we never sought,
@@ -5362,7 +5574,8 @@ and what hardships we have laboured under, through the prejudice of some,
 and the unreasonable credulity of others, and that we are a people in earnest for heaven,
 and in that way our blessed Lord trod for us to glory.
 
-=== "`A Testimony To the Truth of God, etc.
+[.blurb]
+=== A Testimony To the Truth of God, etc.
 
 By the observation we are led to make from Francis Bugg`'s late book,
 upon the bishop of Norwich giving him his recommendatory letter to the clergy, etc,
@@ -5415,7 +5628,11 @@ without any proof, we think ourselves obliged to vindicate our profession,
 by freely declaring, as now we do, without any mental reservation,
 our sincere belief of the very things they most unjustly charge us with denying.
 
-1+++.+++ Concerning God.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ _Concerning God._
 Because we declare, that God is a God nigh at hand,
 and that he is according to his promise,
 become the teacher of his people by his Spirit in these latter days;
@@ -5437,7 +5654,8 @@ viz. Emmanuel, God with us, we are represented as blasphemers against that God;
 with whom we leave our innocent and suffering cause.
 Isaiah 7:1,14. 28. 58:17. 66:1,2. 2 Cor. 6:16. Rev. 21:8.
 
-2+++.+++ Concerning Jesus Christ.
+[.numbered]
+2+++.+++ _Concerning Jesus Christ._
 Because we believe that the Word which was made flesh, and dwelt amongst men,
 and was and is the only begotten of the Father, full of grace and Truth; his beloved Son,
 in whom he is well pleased, and whom we ought to hear in all things;
@@ -5472,7 +5690,8 @@ whatever may be ignorantly or maliciously insinuated to the contrary,
 either by our declared enemies or mistaken neighbours. Duet. 15:18.
 Mic. 5:2. John 1:1-3. Rev. 22:16.
 
-3+++.+++ Concerning the Holy Scriptures.
+[.numbered]
+3+++.+++ _Concerning the Holy Spriptures._
 Because we assert the Holy Spirit to be the first
 great and general rule and guide of true Christians,
 as that by which God is worshipped, sin detected, conscience convicted, duty manifested,
@@ -5517,7 +5736,8 @@ John 4:24 and xvi.
 8+++.+++ Rom. 1:19. Luke 1:1-2. Tim.
 Iii. 16, 17. 2 Pet. 3:16.
 
-4+++.+++ Concerning magistracy.
+[.numbered]
+4+++.+++ _Concerning magistracy._
 Because we have not actively complied with divers statutes,
 which have been made to force an uniformity to what we had no faith in,
 but the testimony of our consciences is against, and because, for conscience sake,
@@ -5546,7 +5766,8 @@ is the fervent desire of our souls,
 that the blessing and peace of God may be continued thereupon. Job 32:21.
 John 5:44. Acts 5:29. 1 Pet. 2:13-14.
 
-5+++.+++ Concerning baptism.
+[.numbered]
+5+++.+++ _Concerning baptism._
 Because we do not find in any place in the four Evangelists,
 that Jesus Christ instituted baptism by water, to come in the room of circumcision,
 or to be the baptism proper to his kingdom, which stands in righteousness,
@@ -5571,7 +5792,8 @@ we decline the use thereof. Mark 1:8.
 Luke 3:16. John 1:17. Acts 1:5. Rom.
 14:17. Rom. 2:28-29. 1 Cor. 1:17. 2 Cor. 12:9.
 
-6+++.+++ Concerning breaking bread, etc.
+[.numbered]
+6+++.+++ _Concerning breaking bread, etc._
 Because we also disuse the outward ceremony of breaking bread and drinking wine,
 which is commonly called the Lord`'s supper,
 we are therefore rendered deniers and contemners of the Lord`'s supper:
@@ -5598,7 +5820,8 @@ but the wine that Christ promised to drink new with his disciples, is such an es
 that without it none have, nor can have eternal life. Matt. 26:29.
 Mark 14:25. John 6:41,50,51,58,63. Rev. 3:20.
 
-7+++.+++ Concerning the light of Christ.
+[.numbered]
+7+++.+++ _Concerning the light of Christ._
 Because we assert the sufficiency of the light within, it being the light of Christ,
 viz. That if men live up to the teaching thereof,
 in all manner of faithfulness and obedience, they shall not abide in darkness,
@@ -5614,7 +5837,8 @@ in his wisdom and providence, affords us for our edification and comfort,
 no more than did that blessed apostle, who said, '`Ye need not that any man teach you,
 but as the same anointing teacheth, you all things, and is truth, and is no lie.`'
 
-8+++.+++ Concerning the Father, the Word, and the Spirit.
+[.numbered]
+8+++.+++ _Concerning the Father, the Word, and the Spirit._
 Because we have been very cautious in expressing our faith concerning that great mystery,
 especially in such school terms and philosophical distinctions as are unscriptural,
 if not unfounded,
@@ -5633,7 +5857,8 @@ when the contrary centers only in imaginations and strife,
 and in persecution where it runs high and to parties,
 as may be read in bloody characters in the ecclesiastical histories.
 
-9+++.+++ Concerning works.
+[.numbered]
+9+++.+++ _Concerning works._
 Because we make evangelical obedience a condition to salvation;
 and works wrought in us by the Spirit, to be an evidence of faith; and holiness of life,
 to be both necessary and rewardable; it hath been insinuated against us,
@@ -5646,7 +5871,8 @@ but by his own free grace is he pleased to accept of us through faith in,
 and obedience to, his blessed Son the Lord Jesus Christ. Heb. 5:9.
 and 12:14.
 
-10+++.+++ Of Christ`'s being our example.
+[.numbered]
+10+++.+++ _Of Christ`'s being our example._
 Because in some cases we have said the Lord Jesus was our great example,
 and that his obedience to his Father doth not excuse ours;
 but as by keeping his commandments, he abode in his Father`'s love,
@@ -5660,7 +5886,8 @@ who for his sake, will look upon fallen man that hath justly merited the wrath o
 upon his return by repentance, faith and obedience, as if he had never sinned at all. 1 John 2:12.
 Rom. 3:26. and x. 9, 10. Heb. 5:9.
 
-11+++.+++ Concerning freedom from sin.
+[.numbered]
+11+++.+++ _Concerning freedom from sin._
 Because we have urged the necessity of a perfect freedom from sin,
 and a thorough sanctification in body, soul and spirit, whilst on this side the grave,
 by the operation of the holy and perfect Spirit of our Lord Jesus Christ,
@@ -5672,7 +5899,8 @@ and see in part: the perfection of wisdom, glory and happiness,
 being reserved for another and better world. John 8:24-25.
 Heb. 13:20-21. Heb. 6.
 
-12+++.+++ Concerning worship to God.
+[.numbered]
+12+++.+++ _Concerning worship to God._
 Because we say with the apostle, that men ought to pray, preach, sing, etc,
 with the Spirit, and that without the preparation and assistance of it,
 no man can rightly worship God, all worship without it being formal and carnal,
@@ -5686,7 +5914,8 @@ by which they are made capable to worship him acceptably, be it in praying, prea
 or praising of God: and how warrantable our practice herein is from Holy Scripture,
 see Ps. 25:5. 37:7. 27:14. 130:5, 6. Hosea 12:6.
 
-13+++.+++ Of God and Christ being in man.
+[.numbered]
+13+++.+++ _Of God and Christ being in man._
 Because we say, as do the Holy Scriptures, that God is light, and that Christ is light,
 and that God is in Christ, and that Christ by his light,
 lighteth every man that cometh into the world,
@@ -5706,7 +5935,8 @@ may experience their hearts cured of the maladies which sin hath brought upon th
 in order to complete salvation from sin here, and from wrath to come hereafter. 2 Cor. 5:9.
 1 John 1:5.
 
-14+++.+++ Of Christ`'s coming both in flesh and Spirit.
+[.numbered]
+14+++.+++ _Of Christ`'s coming both in flesh and Spirit._
 Because the tendency, generally speaking, of our ministry,
 is to press people to the inward and spiritual appearance of Christ,
 by his Spirit and grace in their hearts, to give them a true sight and sense of,
@@ -5734,7 +5964,8 @@ and sits at God`'s right hand, in the power and majesty of his Father; and that 
 God the Father, will one day judge the whole world, both of quick and dead,
 according to their works.
 
-15+++.+++ Concerning the resurrection.
+[.numbered]
+15+++.+++ _Concerning the resurrection._
 Because from the authority of Holy Scripture, as well as right reason,
 we deny the resurrection of the same gross and corruptible body,
 and are neither over inquisitive,
@@ -5774,7 +6005,8 @@ it is from an experience of the work of the same Spirit in ourselves,
 which seems to us the truest way of expounding Scripture,
 in what concerns saving knowledge.
 
-16+++.+++ Concerning separation.
+[.numbered]
+16+++.+++ _Concerning separation._
 Because we are separated from the public communion and worship,
 it is too generally concluded, that we deny the doctrines received by the church,
 and consequently introduce a new religion: whereas we differ least,
@@ -5794,6 +6026,8 @@ and leads to worship God rightly, which is in his Spirit and in Truth,
 with hearts sanctified by the Truth, which is a living and acceptable worship,
 and stands in power, not formality, nor in the traditions and prescriptions of men,
 in synods and convocations, but in the Holy Spirit.
+
+====
 
 First, in showing us our real wants,
 and then in helping our infirmities with sighs and groans, and sometimes words,
@@ -5918,7 +6152,7 @@ and with contempt of civil magistrates.
 These tracts were presented to some of the members of parliament,
 to prejudice them against the Society and prepare the way for ulterior measures.
 But these calumnies were not permitted to pass without reply.
-William Penn briefly noticed them in his "`Testimony to the Truth,`" above mentioned.
+William Penn briefly noticed them in his _Testimony to the Truth,_ above mentioned.
 George Whitehead also answered them, refuting their unfounded assertions,
 and exposing the ungenerous designs of their authors.
 Friends took care to present copies of this answer to the members of parliament,
@@ -5927,6 +6161,9 @@ But as an antidote to these malignant attempts,
 while this answer was passing through its stages of preparation and the press,
 William Penn issued the following brief remonstrance,
 bespeaking the patience of their rulers, till they were better informed.
+
+[.embedded-content-document.address]
+--
 
 It does not surprise us to be evilly entreated,
 and especially by those that have an interest in doing it.
@@ -5951,6 +6188,8 @@ since we have already repeatedly answered their objections in print,
 and think it our duty as well as wisdom,
 to use the liberty the government has favoured us with,
 in as peaceable and inoffensive a manner as may be.
+
+--
 
 These envious priests and their coadjutor Francis Bugg,
 managed to get up two petitions to parliament, one from Norfolk,
@@ -5984,9 +6223,14 @@ contributed in no inconsiderable degree, to that salutary change.
 
 The following epistle, written about this time, is worthy of a place in these memoirs;
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 For the Friends, brethren and sisters of the Yearly Meeting at Bristol,
 for this present year.
 
+[.signed-section-context-open]
 Worminghurst, 4th of Third month, 1699.
 
 My dearly beloved friends and brethren in the Lord.--Dear and precious
@@ -6045,4 +6289,7 @@ over sea and land, to you, and all God`'s heritage,
 
 Your tenderly affectioned and faithful friend and brother,
 
+[.signed-section-signature]
 William Penn.
+
+--
