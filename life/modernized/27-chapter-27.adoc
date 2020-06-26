@@ -27,7 +27,6 @@ under the title of _A Brief Account of the Rise and Progress of the People Calle
 [.asterism]
 '''
 
-
 [.old-style]
 === A Brief Account of the Rise and Progress of the People Called Quakers.
 
@@ -2510,7 +2509,6 @@ From this journey he returned to London, but of his employment there I find no a
 He appears however to have been fully occupied,
 if we may judge from the tenor of a letter written from that city to John Gratton,
 a fellow-labourer in the work of the Gospel: an extract from which is here given.
-sa
 
 [.embedded-content-document.letter]
 --
@@ -2725,6 +2723,8 @@ this inferior member, with all due respect, claiming a relation to it,
 request they may not be left exposed in theirs; but that by your wisdom and goodness,
 they may be provided for, in true proportion to the exigencies they are under;
 which will engage them in the best wishes for your prosperities.
+
+====
 
 [.signed-section-signature]
 William Penn.
@@ -3003,7 +3003,6 @@ and is as follows:
 [.asterism]
 '''
 
-
 [.old-style]
 === Primitive Christianity Revived, in the Faith and Practice of the People Called Quakers; / written in testimony to the present dispensation of God through them, to the world; that prejudices may be removed, the simple informed, the well-inclined encouraged, and the Truth and its innocent friends rightly represented.
 
@@ -3154,9 +3153,6 @@ But on the contrary, that the reason of so much irreligion among Christians,
 so much superstition instead of devotion, and so much profession without enjoyment,
 and so little heart-reformation, is, because people in religion overlook the Holy Spirit,
 and leave it behind them.
-
-====
-
 They will be religious without it, and Christians without it,
 though this be the only means of making them so indeed.
 So natural is it to man in his degenerate state, to prefer sacrifice before obedience,
@@ -3170,6 +3166,9 @@ no man can make himself; but that the Holy Spirit will make all men so,
 who will embrace the convictions and teachings of it,
 being the root of all true religion in man,
 and the good Seed from which all good fruits proceed.
+
+====
+
 To sum up what they say upon the nature and virtue of it,
 as contents of that which follows, they declare that this Spirit is, first, Divine.
 Secondly, universal.
@@ -3221,14 +3220,12 @@ for this Divine light, the first and most common word used by them,
 to express and denominate it by,
 as well as most apt and proper in this dark state of the world.
 
-John 1:1. In the beginning was the Word, and the Word was with God,
+[.syllogism]
+* John 1:1. In the beginning was the Word, and the Word was with God,
 and the Word was God.
-
-Verse 8. All things were made by him.
-
-Verse 4. In him was life, and the life was the light of men.
-
-Verse 9. That was the true light, which enlightens every man that comes into the world.
+* Verse 8. All things were made by him.
+* Verse 4. In him was life, and the life was the light of men.
+* Verse 9. That was the true light, which enlightens every man that comes into the world.
 
 [.numbered]
 2+++.+++ I have begun with him,
@@ -3615,8 +3612,6 @@ And to those alone that do so, are its Divine secrets revealed.
 ====
 
 [.numbered]
-
-[.discourse-part]
 1+++.+++ _Objection:_ But some may say, We could willingly allow to the Spirit and grace of God,
 which seemed to be the peculiar blessing of the new and second covenant,
 and the fruit of the coming of Christ, all that which you ascribe to the light within;
@@ -3691,8 +3686,6 @@ A high testimony from heaven, to the power of this teaching and saving grace,
 under the strongest temptations.
 
 [.numbered]
-
-[.discourse-part]
 4+++.+++ _Objection._
 But there is little mention made of the Spirit, and none of the grace,
 before Christ`'s coming, and therefore the Spirit,
@@ -3775,8 +3768,6 @@ to them that diligently mind and obey it.
 ====
 
 [.numbered]
-
-[.discourse-part]
 1+++.+++ _Objection._
 But some may yet say, If it be as you declare, how comes it,
 that all who are enlightened, are not so good as they should be;
@@ -3813,8 +3804,6 @@ Then a man indeed; a complete man; such a man as God made,
 when he made man in his own image, and gave him paradise for his habitation.
 
 [.numbered]
-
-[.discourse-part]
 2+++.+++ _Objection._
 But some yet object, If mankind had always the Holy Spirit,
 how comes it that Gospel truths were not so fully known before the coming of Christ,
@@ -3882,8 +3871,6 @@ and a lanthorn to my paths.`"
 In short, a light to him in his way to blessedness.
 
 [.numbered]
-
-[.discourse-part]
 3+++.+++ _Objection._
 But if the Jews had this light, it does not follow that the gentiles had it also;
 but by your doctrine all have it.
@@ -3965,8 +3952,6 @@ to engage their followers to the faith, as Paul did the Athenians with their own
 ====
 
 [.numbered]
-
-[.discourse-part]
 1+++.+++ _Objection._
 But it may be said, If it were one Holy Spirit, why so many modes and shapes of religion,
 since the world began?
@@ -4124,8 +4109,6 @@ but I must be brief.
 ====
 
 [.numbered]
-
-[.discourse-part]
 1+++.+++ _Objection._
 Though there be many good things said, how Christ appears and works in a soul, to awaken,
 convince and convert it;
@@ -4152,8 +4135,6 @@ to judge us defective in our belief of the efficacy
 of the death and sufferings of Christ to justification:
 
 [.numbered]
-
-[.discourse-part]
 2+++.+++ _First,_ We cannot believe that Christ is the cause, but the effect of God`'s love,
 according to the testimony of the beloved disciple, John, chap,
 iii--God so loved the world, that he gave his only begotten Son into the world,
@@ -4608,8 +4589,6 @@ there is great danger of their running faster to that calling,
 than becomes a true Gospel minister.
 
 [.numbered]
-
-[.discourse-part]
 1+++.+++ _Objection._
 But does not this sort of ministry and worship tend to make people careless,
 and to raise spiritual pride in others,
@@ -4852,8 +4831,8 @@ Amen.
 Thus, reader, you have the character of the people called Quakers, in their doctrine,
 worship, ministry, practice and discipline;
 compare it with Scripture and primitive example, and we hope you will find,
-that this short discourse has, in good measure, answered the title of it:
-[.book-title]#Primitive Christianity Revived,
+that this short discourse has, in good measure,
+answered the title of it: [.book-title]#Primitive Christianity Revived,
 in the Principles and Practice of the People Called Quakers.#
 
 [.asterism]
@@ -5272,15 +5251,15 @@ Your loving and faithful brethren,
 William Penn, John Everot, Thomas Story.
 
 [.postscript]
+====
 
-[.blurb]
-=== Postscript.
-
-Friends here have been zealous and liberal in printing and re-printing,
+P.S. Friends here have been zealous and liberal in printing and re-printing,
 and freely distributing great quantities, and to very good purpose,
 of several books and papers written in defence of Truth,
 and for information of the simple and misinformed,
 which we hope will also fall under your consideration.
+
+====
 
 --
 
@@ -6228,7 +6207,10 @@ for this present year.
 [.signed-section-context-open]
 Worminghurst, 4th of Third month, 1699.
 
-My dearly beloved friends and brethren in the Lord.--Dear and precious
+[.salutation]
+My dearly beloved friends and brethren in the Lord,
+
+Dear and precious
 is the fellowship of the Lord`'s people to me,
 and has ever been since the first day I knew his precious truth,
 and tasted of the power and virtue of it in my soul.
