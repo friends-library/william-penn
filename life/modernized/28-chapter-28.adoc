@@ -1,4 +1,4 @@
-== Chapter XXVIII.
+== Chapter XXVII.
 
 About fifteen years had now passed away since William Penn left his province in America.
 In the year to which we have arrived, he found his way open to return.
@@ -15,10 +15,10 @@ especially those in the early walks of life.
 [.asterism]
 '''
 
-=== The Advice of William Penn to His Children, Relating to Their Civil and Religious Conduct.
+[.old-style]
+=== The Advice of William Penn to His Children, Relating to Their Civil and Religious Conduct. / Section I.
 
-=== Section I.
-
+[.salutation]
 My dear children,
 
 Not knowing how long it may please God to continue me among you,
@@ -257,6 +257,7 @@ and shall now descend to particulars,
 that you may more directly apply what I have said in general both as to
 your religious and civil direction in your pilgrimage upon earth.
 
+[.blurb]
 === Section II.
 
 I will begin here also, with the beginning of time, the morning: so soon as you wake,
@@ -616,6 +617,7 @@ yet I will be more particular as to those good and gracious qualifications,
 with which I pray God Almighty to season and accomplish you,
 to his glory and your temporal and eternal felicity.
 
+[.blurb]
 === Section III.
 
 Be humble: it becomes a creature; a depending and borrowed being,
@@ -1118,7 +1120,7 @@ Abuse it not therefore to ambition or avarice.
 Let necessity, charity and conveniency govern it, and il will be well employed,
 and you may expect prosperous returns.
 
-"`Frugality is a virtue too, and not of little use in life, the better way to be rich,
+Frugality is a virtue too, and not of little use in life, the better way to be rich,
 for it has less toil and temptation.
 Il is proverbial, a penny saved is a penny got.
 It has a significant moral;
@@ -1185,8 +1187,8 @@ which made the apostle put them together in his epistle to the Galatians 5:20-21
 The evil fruits of this part of intemperance are so many and great,
 that upon a serious reflection, I believe there is not a country, town or family, almost,
 that does not labour under the mischief of it.
-I recommend to your perusal the first part of,
-'`No Cross no Crown,`' and of the '`Address to Protestants`',
+I recommend to your perusal the
+first part of, [.book-title]#No Cross no Crown,# and of the _Address to Protestants,_
 in which I am more particular in my censure of it.
 But the virtue of temperance does not only regard eating, drinking and apparel;
 but furniture, attendance, expense, gain, parsimony, business, diversion, company,
@@ -1249,6 +1251,7 @@ You have grace from God for that end, and it is sufficient: employ it,
 and you cannot miss of temperance,
 nor therein of the truest happiness in all your conduct.
 
+[.signed-section-signature]
 William Penn.
 
 [.asterism]
@@ -1466,6 +1469,9 @@ and from on board the ship, while lying at the Isle of Wight,
 he addressed the following farewell epistle to his friends wherever scattered in England,
 Ireland, Scotland, Holland, Germany or other parts of Europe.
 
+[.embedded-content-document.epistle]
+--
+
 My dearly beloved, and highly esteemed in Christ, our heavenly head;
 the living and good Shepherd of the sheep, by whom we have been found out,
 (one of a family, and two of a tribe,) and made one holy flock and family unto him,
@@ -1630,9 +1636,13 @@ however mis-understood and treated by some whom I heartily forgive.
 Accept you my services, and ever love and remember, my dear friends and brethren,
 your old, true, and affectionate friend, brother, and servant, in Christ Jesus.
 
+[.signed-section-signature]
 William Penn.
 
+[.signed-section-context-close]
 Cowes, Isle of Wight, weighing anchor, the 3rd of the seventh month, 1699.
+
+--
 
 They sailed on the 9th of seventh month,
 and were nearly three months before they reached their intended port.
@@ -2079,8 +2089,13 @@ Having decided upon a voyage to Europe,
 William Penn again convened the assembly at Philadelphia,
 to whom on the 15th of seventh month, he delivered the following address:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 The Governor`'s Speech to the Assembly at Philadelphia.
 
+[.salutation]
 Friends,
 
 You cannot be more concerned than I am at the frequency of your service in assembly,
@@ -2149,10 +2164,18 @@ and that I desire and expect from you, for your own sakes,
 since it may so much contribute to the disappointment of those
 that too long have sought the ruin of our young country.
 
+--
+
+[.offset]
 To this they returned the following answer:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 The Assembly`'s Address to the Governor.
 
+[.salutation]
 May it please the proprietary and governor,
 
 We have this day in our assembly read your speech, delivered yesterday, in council;
@@ -2169,9 +2192,13 @@ not doubting the performance of what you have been so lovingly pleased to promis
 do in much humility, and as a token of our gratitude,
 return unto you the unfeigned thanks of this house.
 
+[.signed-section-closing]
 Subscribed by order of the House,
 
+[.signed-section-signature]
 Joseph Growdon, Speaker.
+
+--
 
 It is not necessary to enter into a detail of the proceedings of this assembly.
 Suffice it to observe, that the jealousies of the lower counties again appeared;
@@ -2186,6 +2213,8 @@ to secure the inhabitants of the province and territories
 in the full enjoyment of their conscientious rights,
 I shall transcribe them for the information of my readers.
 
+[quote]
+____
 Because no people can be truly happy,
 though under the greatest enjoyment of civil liberties,
 if abridged of the freedom of their consciences, as to religious profession and worship;
@@ -2210,6 +2239,7 @@ my heirs and assigns, that the first article of this charter,
 relating to liberty of conscience, and every part and clause therein,
 according to the true intent and meaning thereof,
 shall be kept and remain without any alteration, inviolably forever.
+____
 
 The news that William Penn was going to England,
 soon brought a number of Indians to visit him.
