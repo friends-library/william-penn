@@ -251,11 +251,15 @@ William Penn.
 Worminghurst-place, the last of the Second month, called April, 1685.
 
 [.postscript]
+====
+
 P+++.+++ S. If this will not serve and satisfy the mistaken,
 for the malicious I fear are past cure, let them but prove the report upon any body,
 and I will yet, as late in the day as it looks for such work,
 effectually convince them with the judgment of the law,
 that ought to be every honest man`'s shield.
+
+====
 
 [.signed-section-signature]
 William Penn.

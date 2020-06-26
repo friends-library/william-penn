@@ -319,10 +319,14 @@ I am, more than I can say, thy great lover and respectful friend,
 William Penn.
 
 [.postscript]
+====
+
 P+++.+++ S. I refer thee to the enclosed for passages.
 We visited Giftall and Hooftman, and they us.
 They were at one or two of the meetings at Amsterdam.
-Vale in aternum!
+_Vale in aternum!_
+
+====
 
 --
 
@@ -524,7 +528,11 @@ Yours in that which is eternal!
 William Penn.
 
 [.postscript]
+====
+
 P+++.+++ S. Let this be sent to Friends in High and Low Dutchland.
+
+====
 
 [.signed-section-context-close]
 Harwich, 24th of the Eighth month, 1677.
@@ -610,11 +618,15 @@ Your true friend,
 Elizabeth.
 
 [.postscript]
+====
+
 P+++.+++ S. I almost forgot to tell you that my sister writes me word,
 she had been glad you had taken your journey by Osnaburg to return to Amsterdam.
 There is also a drossard of Limburg near this place,
-(to whom I gave an exemplar of Robert Barclay`'s Apology,)
+(to whom I gave an exemplar of Robert Barclay`'s [.book-title]#Apology,#)
 very desirous to speak with some of the Friends.
+
+====
 
 --
 
@@ -721,11 +733,15 @@ Your fellow-feeling brother in the unchangeable Truth,
 William Penn.
 
 [.postscript]
+====
+
 P+++.+++ S. Truth greatly prevails in these islands,
 and grows daily famous over the heads of its peevish opposers: and Friends,
 who have heard lately of you, travail and sympathize with you; you are not alone,
 and He that is in you, is greater than he that is in the world.
 Farewell.
+
+====
 
 --
 
