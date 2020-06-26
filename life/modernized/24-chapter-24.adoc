@@ -422,8 +422,8 @@ if he offends against those plain methods of understanding,
 which God has made us to know things by, and which are inseparable from us,
 I must beg his pardon; as I do the doctor`'s for this length,
 upon the assurance he has given me of his doing the like upon better information;
-which that he may fully have, I recommend him to my Address to Protestants,
-from page 133 to the end, and to the four first chapters of my No Cross, No Crown;
+which that he may fully have, I recommend him to my _Address to Protestants,_
+from page 133 to the end, and to the four first chapters of my [.book-title]#No Cross, No Crown;#
 to say nothing of our most unceremonious and unworldly way of worship,
 and their pompous cult; where at this time I shall leave the business,
 with all due and sensible acknowledgments to your friendly temper,
@@ -659,7 +659,7 @@ The object of his visit to the continent, was a religious one, but of the partic
 very little is known.
 It appears he visited his friends at Amsterdam,
 and was at the house of William Sewel the historian,
-who was then engaged in translating his account of Pennsylvania, and No Cross, No Crown,
+who was then engaged in translating his account of Pennsylvania, and [.book-title]#No Cross, No Crown,#
 into the Low Dutch language.
 With him he carried on for some time a correspondence in Latin,
 some portions of which were used by Thomas Clarkson in his biography of William Penn.
@@ -686,7 +686,7 @@ from that unprincipled crew.
 Still Friends were persecuted as popish recusants,
 particularly by the act of 23 Elizabeth, for twenty pounds a month,
 on account of absence from the national worship.
-Application being made to the king, he was pleased to grant a nolle prosequi,
+Application being made to the king, he was pleased to grant a _nolle prosequi,_
 and gave orders to the attorney-general,
 that no writs should be issued out of the exchequer against Friends on these accounts.
 Thus the ruin of great numbers of Friends was prevented,
@@ -884,7 +884,7 @@ produced a tract, entitled, _Good Advice to the Church of England,
 Roman Catholics and Protestant Dissenters._
 In which it is endeavoured to be made appear, that it is their duty,
 principle and interest to abolish the penal laws and tests.
-Beati Pacifici.`"
+_Beati Pacifici._
 
 This tract was published without the author`'s name,
 as the Persuasive to moderation had been,
