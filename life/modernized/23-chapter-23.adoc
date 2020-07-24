@@ -268,7 +268,7 @@ that he wrote from on board the vessel the following epistle:
 
 [.letter-heading]
 For Thomas Lloyd, J. Claypoole, J. Simcock, Charles Taylor and J. Harrison,
-to be communicated in meetings in Pennsylvania, etc, among Friends.
+to be communicated in meetings in Pennsylvania, etc., among Friends.
 
 [.salutation]
 Dear friends,

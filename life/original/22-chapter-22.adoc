@@ -1085,7 +1085,7 @@ the wise and virtuous lawgiver of Pennsylvania saw, on his arrival,
 the necessity of interposing his authority to correct mischiefs
 which had existed antecedent to his possession of the province;
 he therefore, in 1682, declared and enacted, that, "`Whereas, divers persons, as English,
-Dutch, Swedes, etc, have been wont to sell to the Indians, rum and brandy,
+Dutch, Swedes, etc., have been wont to sell to the Indians, rum and brandy,
 and such like distilled spirits,
 though they know the said Indians are notable to govern themselves in the use thereof,
 but do commonly drink of it to such excess as makes themselves destroy one another,
@@ -1157,7 +1157,7 @@ great numbers of emigrants arrived from England, Ireland, Wales, Holland and Ger
 who extended their settlements into the interior of the country.
 The Welsh settled on both sides of the Schuylkill,
 and have left in the names of the townships, Merion, Haverford, Radnor, Tredyffin,
-Gwynedd, etc, a lasting memorial of their original locations.
+Gwynedd, etc., a lasting memorial of their original locations.
 Among the emigrants from Germany, were a number of Friends,
 formerly inhabitants of Crisheim in the Palatinate,
 among whom William Penn had travelled in the service of the Gospel during the year 1677.
@@ -1424,7 +1424,7 @@ Here is also plenty of cow-cattle, and some sheep; the people plough mostly with
 
 [.numbered]
 IX. There are divers plants, that not only the Indians tell us,
-but we have had occasion to prove by swellings, burnings, cuts, etc,
+but we have had occasion to prove by swellings, burnings, cuts, etc.,
 that they are of great virtue, suddenly curing the patient.
 And for smell, I have observed several, especially one, the wild myrtle;
 the others I know not what to call, but are most fragrant.
@@ -1779,7 +1779,7 @@ Which, after my acknowledgments of their affection,
 I did as freely remit to the province and the traders to it.
 And for the well government of the said counties,
 courts of justice are established in every county, with proper officers, as justices,
-sheriffs, clerks, constables, etc, which courts are held every two months.
+sheriffs, clerks, constables, etc., which courts are held every two months.
 But to prevent law-suits, there are three peacemakers chosen by every county-court,
 in the nature of common arbitrators, to hear and end differences between man and man;
 and spring and fall there is an orphans`' court in each county,
