@@ -1,4 +1,4 @@
-[#ch4, short="Some Objections Considered and Answered"]
+[short="Some Objections Considered and Answered"]
 == Chapter IV
 
 [.chapter-subtitle--blurb]

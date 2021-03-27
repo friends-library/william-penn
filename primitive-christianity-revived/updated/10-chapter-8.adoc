@@ -1,4 +1,4 @@
-[#ch8, short="Several Exhortations"]
+[short="Several Exhortations"]
 == Chapter VIII
 
 [.chapter-subtitle--blurb]

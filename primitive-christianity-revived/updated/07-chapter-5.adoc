@@ -1,4 +1,4 @@
-[#ch5, short="The Doctrines of Justification and Salvation"]
+[short="The Doctrines of Justification and Salvation"]
 == Chapter V
 
 [.chapter-subtitle--blurb]

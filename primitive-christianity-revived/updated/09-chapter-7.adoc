@@ -1,4 +1,4 @@
-[#ch7, short="Other Distinctive Principles and Practices"]
+[short="Other Distinctive Principles and Practices"]
 == Chapter VII
 
 [.chapter-subtitle--blurb]

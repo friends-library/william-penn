@@ -1,4 +1,4 @@
-[#ch2, short="The First Instrumental Author"]
+[short="The First Instrumental Author"]
 == Chapter II
 
 [.chapter-subtitle--blurb]
