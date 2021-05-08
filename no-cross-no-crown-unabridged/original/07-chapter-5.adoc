@@ -1,26 +1,25 @@
 == Chapter V.
 
-1+++.+++ Of unlawful self; it is two-fold: 1st, in religion; 2nd,
-in morality.--2. Of those that are most formal, superstitious,
-and pompous in worship.--3. God`'s rebuke of carnal apprehensions.--4.
-Christ drew off his disciples from the Jewish exterior worship,
-and instituted a more spiritual one.--5. Stephen is full and plain in
-this matter.--6. Paul refers the temple of God twice to man.--7. Of the
-cross of these worldly worshippers.--8. Flesh and blood make their cross,
-therefore cannot be crucified by it.--9. They are yokes
-without restraint.--10. Of the gaudiness of their cross,
-and their respect to it.--11. A recluse life no true gospel abnegation.--12.
-Comparison between Christ`'s self-denial and theirs:
-his leads to purity in the world, theirs to voluntary imprisonment,
-that they might not be tempted of the world.
-The mischief which that example, if followed, would do to the world.
-It destroys useful society and honest labour.
-A lazy life the usual refuge of idleness, poverty,
-and guilty age.--13. Of Christ`'s cross in this case.
-The impossibility that such an external application can remove
-an internal cause.--14. An exhortation to the men of this belief,
-not to deceive themselves.
+[.chapter-synopsis]
+* 1+++.+++ Of unlawful self; it is two-fold: 1st, in religion; 2nd, in morality.
+* 2+++.+++ Of those that are most formal, superstitious, and pompous in worship.
+* 3+++.+++ God`'s rebuke of carnal apprehensions.
+* 4+++.+++ Christ drew off his disciples from the Jewish exterior worship, and instituted a more spiritual one.
+* 5+++.+++ Stephen is full and plain in this matter.
+* 6+++.+++ Paul refers the temple of God twice to man.
+* 7+++.+++ Of the cross of these worldly worshippers.
+* 8+++.+++ Flesh and blood make their cross, therefore cannot be crucified by it.
+* 9+++.+++ They are yokes without restraint.
+* 10+++.+++ Of the gaudiness of their cross, and their respect to it.
+* 11+++.+++ A recluse life no true gospel abnegation.
+* 12+++.+++ Comparison between Christ`'s self-denial and theirs: his leads to purity in the world, theirs to voluntary imprisonment, that they might not be tempted of the world. The mischief which that example, if followed, would do to the world. It destroys useful society and honest labour. A lazy life the usual refuge of idleness, poverty, and guilty age.
+* 13+++.+++ Of Christ`'s cross in this case. The impossibility that such an external application can remove an internal cause.
+* 14+++.+++ An exhortation to the men of this belief, not to deceive themselves.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ I am now come to unlawful self, which, more or less,
 is the immediate concern of much the greater part of mankind.
 This unlawful self is two-fold.
@@ -30,6 +29,7 @@ And they are both of infinite consequence to be considered by us.
 In which I shall be as brief as I may, with ease to my conscience,
 and no injury to the matter.
 
+[.numbered]
 II. That unlawful self in religion that ought to be mortified by the cross of Christ,
 is man`'s invention and performance of worship to God as divine, which is not so,
 either in its institution or performance.
@@ -61,6 +61,7 @@ for when men can think Him such a one as themselves,
 it is not to be wondered if they address Him in a way that
 would be the most pleasing from others to themselves.
 
+[.numbered]
 III.
 But what said the Almighty to such a sensual people of old, much upon the like occasion?
 "`Thou thoughtest I was such an one as thyself, but I will reprove thee,
@@ -87,6 +88,7 @@ can be adequately worshipped by those human inventions,
 the refuge of an apostate people from the primitive
 power of religion and spirituality of Christian worship.
 
+[.numbered]
 IV. Christ drew off his disciples from the glory and worship of the outward temple,
 and instituted a more inward and spiritual worship, in which He instructed his followers,
 "`Ye shall neither in this mountain,
@@ -112,6 +114,7 @@ but to do the will of God, to keep his commandments, and commune with thine own 
 and sin not; take up thy cross, meditate in his holy law,
 and follow the example of Him whom the Father hath sent.
 
+[.numbered]
 V+++.+++ Wherefore Stephen, that bold and constant martyr of Jesus, told the Jews,
 when a prisoner at the bar for disputing about the end of their beloved temple,
 and its services, but falsely accused of blasphemy; "`Solomon,`" said Stephen,
@@ -145,6 +148,7 @@ Behold, O carnal and superstitious man, the true worshipper, and the place of Go
 This is the house and temple of Him whom the heaven of heavens cannot contain;
 a house self cannot build, nor the art or power of man prepare or consecrate.
 
+[.numbered]
 VI. Paul, that great apostle of the Gentiles,
 twice expressly refers the word temple to man:
 once in his epistle to the church of Corinth; "`Know ye not,`" says he,
@@ -204,6 +208,7 @@ Miserable apostacy that it is! and a wretched supplement
 in the loss and absence of the apostolic life,
 the spiritual glory of the primitive church.
 
+[.numbered]
 VII.
 But yet some of these admirers of external pomp and
 glory in worship would be thought lovers of the cross,
@@ -221,6 +226,7 @@ So that the cross is become their ensign, that do nothing but what they list.
 Yet by that they would be thought his disciples, who never did his own will,
 but the will of his heavenly Father.
 
+[.numbered]
 VIII.
 This is such a cross as flesh and blood can carry, for flesh and blood invented it;
 therefore not the cross of Christ, that is to crucify flesh and blood.
@@ -236,6 +242,7 @@ and whose figure and workmanship are but the invention and labour of worldly art
 Is it possible that such crosses should mend their makers?
 Surely not.
 
+[.numbered]
 IX. These are yokes without restraint, and crosses that never contradict:
 a whole cart-load of them would leave a man as unmortified as they find him.
 Men may sooner knock their brains out with them than their sins; and that, I fear,
@@ -243,6 +250,7 @@ too many of them know in their very consciences that use them, indeed adore them
 which can only happen to the false cross, are proud of them too,
 since the true one leaves no pride, where it is truly borne.
 
+[.numbered]
 X+++.+++ For as their religion, so their cross is very gaudy and triumphant: but in what?
 In precious metals and gems, the spoil of superstition upon the people`'s pockets.
 These crosses are made of earthly treasure,
@@ -254,6 +262,7 @@ I could appeal to themselves of this great vanity and superstition.
 O! how very short is this of the blessed cross of Jesus,
 that takes away the sins of the world!
 
+[.numbered]
 XI. Nor is a recluse life, the boasted righteousness of some, much more commendable,
 or one whit nearer to the nature of the true cross:
 for if it be not unlawful as other things are, it is unnatural,
@@ -270,6 +279,7 @@ and out of the way of temptation, than content in it.
 No thanks if they commit not what they are not tempted to commit.
 What the eye views not, the heart craves not, as well as rues not.
 
+[.numbered]
 XII.
 The cross of Christ is of another nature; it truly overcomes the world,
 and leads a life of purity in the face of its allurements;
@@ -308,6 +318,7 @@ if aged, a long life of guilt sometimes flies to superstition for a refuge,
 and after having had its own will in other things,
 would finish it in a wilful religion to make God amends.
 
+[.numbered]
 XIII.
 But taking up the cross of Jesus is a more interior exercise:
 it is the circumspection and discipline of the soul
@@ -325,6 +336,7 @@ convents are more mischievous to the world than exchanges.
 And yet retirement is both an excellent and needful thing;
 crowds and throngs were not much frequented by the ancient holy pilgrims.
 
+[.numbered]
 XIV.
 But then examine, O man, thy foundation, what it is, and who placed thee there;
 lest in the end it should appear thou hast put an eternal cheat upon thy own soul.
@@ -356,3 +368,5 @@ where they might undisturbedly wait upon God, pass through their religious exerc
 and, being thereby strengthened, may, with more power over their own spirits,
 enter into the business of the world again: though the less the better, to be sure.
 For divine pleasures are found in a free solitude.
+
+====

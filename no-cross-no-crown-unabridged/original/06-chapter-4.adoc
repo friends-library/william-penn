@@ -1,27 +1,36 @@
 == Chapter IV.
 
-1+++.+++ What is the great work of the cross?
-The answer to this is of great moment.--2. The work of the cross is self-denial.--3.
-What was the cup and cross of Christ?--4. What is our cup and cross?--5. Our
-duty is to follow Christ as our captain.--6. Of the distinction in self,
-a lawful and unlawful self.--7. What the lawful self is.--8. That it is to be
-denied in some cases by Christ`'s doctrine and example.--9. By the Apostle`'s
-pattern.--10. The danger of preferring lawful self above our duty to God.--11.
-The reward of self-denial an excitement to it.--12. This doctrine as old as Abraham.--13.
-His obedience of faith memorable.--14. Job a great instance of self-denial,
-his contentment.--15. Moses also a mighty example,
-his neglect of Pharaoh`'s court.--16. His choice.--17. The reason of it,
-viz. the recompense of reward.--18. Isaiah no inconsiderable instance, who of a courtier,
-became a holy prophet.--19. These instances concluded with that of holy Daniel,
-his patience and integrity,
-and the success they had upon the king.--20. There might be many mentioned
-to confirm this blessed doctrine.--21. All must be left for Christ,
-as men would be saved.--22. The way of God is a way of faith and
-self-denial.--23. An earnest supplication and exhortation to all,
-to attend upon these things.
+[.chapter-synopsis]
+* 1+++.+++ What is the great work of the cross? The answer to this is of great moment.
+* 2+++.+++ The work of the cross is self-denial.
+* 3+++.+++ What was the cup and cross of Christ?
+* 4+++.+++ What is our cup and cross?
+* 5+++.+++ Our duty is to follow Christ as our captain.
+* 6+++.+++ Of the distinction in self, a lawful and unlawful self.
+* 7+++.+++ What the lawful self is.
+* 8+++.+++ That it is to be denied in some cases by Christ`'s doctrine and example.
+* 9+++.+++ By the Apostle`'s pattern.
+* 10+++.+++ The danger of preferring lawful self above our duty to God.
+* 11+++.+++ The reward of self-denial an excitement to it.
+* 12+++.+++ This doctrine as old as Abraham.
+* 13+++.+++ His obedience of faith memorable.
+* 14+++.+++ Job a great instance of self-denial, his contentment.
+* 15+++.+++ Moses also a mighty example, his neglect of Pharaoh`'s court.
+* 16+++.+++ His choice.
+* 17+++.+++ The reason of it, viz. the recompense of reward.
+* 18+++.+++ Isaiah no inconsiderable instance, who of a courtier, became a holy prophet.
+* 19+++.+++ These instances concluded with that of holy Daniel, his patience and integrity, and the success they had upon the king.
+* 20+++.+++ There might be many mentioned to confirm this blessed doctrine.
+* 21+++.+++ All must be left for Christ, as men would be saved.
+* 22+++.+++ The way of God is a way of faith and self-denial.
+* 23+++.+++ An earnest supplication and exhortation to all, to attend upon these things.
 
 But fourthly, What is the great work and business of the cross respecting man?
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ This indeed is of that mighty moment to be truly, plainly, and thoroughly answered,
 that all that went before seems only to serve for preface to it;
 and miscarrying in it to be no less than a misguidance
@@ -29,6 +38,7 @@ of the soul about its way to blessedness.
 I shall therefore pursue the question, with God`'s help,
 and the best knowledge He hath given me in the experience of several years`' discipleship.
 
+[.numbered]
 II. The great work and business of the cross of Christ in man is self-denial;
 a word of as much depth in itself as of sore contradiction to the world,
 little understood but less embraced by it, yet it must be borne for all that.
@@ -46,6 +56,7 @@ and be baptized with the baptism I am baptized with;`"
 but their reward he left to his Father.^
 footnote:[Matt. 20:21-23.]
 
+[.numbered]
 III.
 What was his cup he drank, and baptism he suffered?
 I answer,
@@ -53,6 +64,7 @@ they were the denial and offering up of himself by the eternal Spirit to the wil
 undergoing the tribulations of his life and agonies
 of his death upon the cross for man`'s salvation.
 
+[.numbered]
 IV. What is our cup and cross that we should drink and suffer?
 They are the denial and offering up of ourselves, by the same Spirit,
 to do or suffer the will of God for his service and glory,
@@ -66,6 +78,7 @@ being within fortified with the almightiness of an immortal God,
 He travelled through all the straits and difficulties of humanity, and first,
 of all others, trod the untrodden path to blessedness.
 
+[.numbered]
 V+++.+++ O come! let us follow Him, the most unwearied,
 the most victorious captain of our salvation;
 // lint-disable invalid-characters "æ"
@@ -89,6 +102,7 @@ It is this most perfect pattern of self-denial we must follow,
 if ever we will come to glory;
 to do which let us consider self-denial in its true distinction and extent.
 
+[.numbered]
 VI. There is a lawful and unlawful self: and both must be denied for the sake of him,
 who in submission to the will of God counted nothing dear that he might save us.
 And, though the world be scarcely in any part of it at that pass
@@ -99,6 +113,7 @@ and for that it may possibly meet with some that are so far advanced
 in this spiritual warfare as to receive some service from it,
 I shall at least touch upon it.
 
+[.numbered]
 VII.
 The lawful self which we are to deny, is that conveniency, ease, enjoyment, and plenty,
 which in themselves are so far from being evil,
@@ -120,6 +135,7 @@ footnote:[Phil. 2:5-8.]
 that he might deliver us an example of pure humility,
 and entire submission to the will of our heavenly Father.
 
+[.numbered]
 VIII.
 It is the doctrine he teaches us in these words, "`He that loveth father or mother,
 son or daughter, more than me, is not worthy of me.`"^
@@ -138,6 +154,7 @@ This doctrine of self-denial is the condition to eternal happiness,
 and take up his cross and follow me.`"^
 footnote:[Matt. 16:24.]
 
+[.numbered]
 IX. This made those honest fishermen quit their lawful trades and follow him,
 when he called them to it,
 and others that waited for the consolation of Israel to offer up their estates,
@@ -161,6 +178,7 @@ O beware, that thy comforts prove not snares first, and then curses: to overrate
 is to provoke him that gave them to take them away again: come,
 and follow him that giveth life eternal to the soul.
 
+[.numbered]
 X+++.+++ Woe to them that have their hearts in their earthly
 possessions! for when they are gone,
 their heaven is gone with them.
@@ -178,6 +196,7 @@ However, he will not trouble himself to think of the other world,
 till he is sure he must live no longer in this: but then, alas! it may prove too late;
 not to Abraham, but to Dives he may go; the story is as true as sad.
 
+[.numbered]
 XI. But on the other hand,
 it is not for nought that the disciples of Jesus deny themselves; and indeed,
 Christ himself had the eternal joy in his eye:
@@ -207,6 +226,7 @@ contempt of the world.
 To this is owing the constancy of the martyrs, as to their blood,
 the triumph of the Truth.
 
+[.numbered]
 XII.
 Nor is this a new doctrine; it is as old as Abraham.^
 footnote:[Gen.
@@ -223,6 +243,7 @@ So apt are people not to understand what they commend; nay, to despise those act
 when they meet them in the people of their own times,
 which they pretend to admire in their ancestors.
 
+[.numbered]
 XIII.
 But he obeyed: the consequence was, that God gave him a mighty land.
 This was the first reward of his obedience.
@@ -274,6 +295,7 @@ O stupid world!
 O worldly Christians; not only strangers,
 but enemies to this excellent faith! and whilst so, the rewards of it you can never know.
 
+[.numbered]
 XIV.
 But Job presses hard upon Abraham: his self-denial also was very signal.
 For when the messengers of his afflictions came thick upon him,
@@ -299,6 +321,7 @@ that when after his skin worms should have consumed his body,
 yet with his eyes he should see his God.
 Thus was the heart of Job both submitted to and comforted in the will of God.
 
+[.numbered]
 XV. Moses is the next great example in sacred story for remarkable self-denial,
 before the times of Christ`'s appearance in the flesh.
 He had been saved when an infant, by an extraordinary providence, and it seems,
@@ -314,6 +337,7 @@ at least of being chief minister of affairs under that wealthy and powerful prin
 For Egypt was then what Athens and Rome were after, the most famous for learning, art,
 and glory.
 
+[.numbered]
 XVI.
 But Moses, ordained for other work and guided by a higher principle,
 no sooner came to years of discretion, than the impiety of Egypt,
@@ -334,6 +358,7 @@ than to enjoy the pleasures of sin for a season; esteeming the reproaches of Chr
 which he suffered for making that unworldly choice,
 greater riches than all the treasures of that kingdom.
 
+[.numbered]
 XVII.
 Nor was he so foolish as they thought him; he had reason on his side; for it is said,
 he had an eye to the recompense of reward,
@@ -348,6 +373,7 @@ but the nature and duration of the reward.
 His faith corrected his affections, and taught him to sacrifice the pleasure of self,
 to the hope he had of a future more excellent recompense.
 
+[.numbered]
 XVIII.
 Isaiah^
 footnote:[Dorotheus in his Lives of the Prophets.]
@@ -360,6 +386,7 @@ made a martyr of him in the end,
 for they barbarously sawed him asunder in the reign of king Manasseh.
 Thus died that excellent man, and commonly called the Evangelical Prophet.
 
+[.numbered]
 XIX.
 I shall add, of many, one example more, and that is from the fidelity of Daniel;
 a holy and wise young man,
@@ -374,6 +401,7 @@ at last it advanced him greatly in the world;
 and the God of Daniel was made famous and terrible through
 his perseverance even in the eyes of heathen kings.
 
+[.numbered]
 XX. What shall I say of all the rest,
 who counted nothing dear that they might do the will of God,
 abandoned their worldly comforts, and exposed their ease and safety,
@@ -391,6 +419,7 @@ and that not as some would fain have it, viz. for us, that we need not; but for 
 that we might deny ourselves, and so be the true followers of his blessed example.^
 footnote:[1 Peter 2:20-22.]
 
+[.numbered]
 XXI.
 Whoever therefore thou art that wouldst do the will of God, but faintest in thy desires,
 from the opposition of worldly considerations, remember I tell thee,
@@ -408,6 +437,7 @@ stand in thy soul`'s way, and interrupt thy obedience to the voice of God,
 and thy conformity to his holy will revealed in thy soul, thou art engaged,
 under the penalty of damnation, to part with them.
 
+[.numbered]
 XXII.
 The way of God is a way of faith, as dark to sense, as mortal to self.
 It is the children of obedience, who count, with holy Paul, all things dross and dung,
@@ -441,6 +471,7 @@ They that want power, are such as do not receive Christ in his convictions upon 
 and such will always want it; but such as do, they receive power, like those of old,
 to become the children of God, through the pure obedience of faith.
 
+[.numbered]
 XXIII.
 Wherefore, let me beseech you, by the love and mercy of God,
 by the life and death of Christ, by the power of his Spirit, and the hope of immortality,
@@ -483,3 +514,5 @@ remembering they are stewards, and must deliver up their accounts to an impartia
 Therefore not to self but to him they live, and in him die,
 and are blessed with them that die in the Lord.
 And thus I conclude my discourse on the right use of lawful self.
+
+====

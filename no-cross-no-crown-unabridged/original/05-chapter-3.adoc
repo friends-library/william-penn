@@ -1,42 +1,50 @@
 == Chapter III.
 
-1+++.+++ What the cross of Christ is.
-A figurative speech,
-but truly the Divine power that mortifies the world.--2. It is so called
-by the apostle Paul to the Corinthians.--3. Where it is the cross appears,
-and must be borne?
-Within; where the lusts are,
-there they must be crucified.--4. Experience teaches every one this;
-to be sure Christ asserts it, from within comes murder, etc.,
-and that is the house where the strong man must be
-bound.--5. How is the cross to be borne?
-The way is spiritual, a denial of self, of the pleasure of sin; to please God,
-and obey his will as manifested to the soul by the
-light He gives it.--6. This shows the difficulty,
-yet the necessity of the cross.
+[.chapter-synopsis]
+* 1+++.+++ What the cross of Christ is. A figurative speech, but truly the Divine power that mortifies the world.
+* 2+++.+++ It is so called by the apostle Paul to the Corinthians.
+* 3+++.+++ Where it is the cross appears, and must be borne? Within; where the lusts are, there they must be crucified.
+* 4+++.+++ Experience teaches every one this; to be sure Christ asserts it, from within comes murder, etc., and that is the house where the strong man must be bound.
+* 5+++.+++ How is the cross to be borne? The way is spiritual, a denial of self, of the pleasure of sin; to please God, and obey his will as manifested to the soul by the light He gives it.
+* 6+++.+++ This shows the difficulty, yet the necessity of the cross.
 
 The daily cross being then, and still, O Christendom! the way to glory,
 that the succeeding matter, which wholly relates to the doctrine of it,
 may come with most evidence and advantage upon thy conscience
 it is most seriously to be considered by thee,--
 
-First, What the cross of Christ is?
+[.numbered-group]
+====
 
-Secondly, Where the cross of Christ is to be taken up?
+[.numbered]
+_First,_ What the cross of Christ is?
 
-Thirdly, How, and after what manner it is to be borne?
+[.numbered]
+_Secondly,_ Where the cross of Christ is to be taken up?
 
-Fourthly, What is the great work and business of the cross?
+[.numbered]
+_Thirdly,_ How, and after what manner it is to be borne?
+
+[.numbered]
+_Fourthly,_ What is the great work and business of the cross?
 In which, the sins it crucifies, with the mischiefs that attend them,
 will be at large expressed.
 
-Fifthly and lastly,
+[.numbered]
+_Fifthly and lastly,_
 I shall add many testimonies from living and dying persons of great reputation,
 either for their quality, learning, or piety,
 as a general confirmation of the whole tract.
 
+====
+
+[.offset]
 To the first, What is the cross of Christ?
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ The cross of Christ is a figurative speech, borrowed from the outward tree,
 or wooden cross, on which Christ submitted to the will of God,
 suffering death at the hands of evil men.
@@ -51,6 +59,7 @@ For nothing else can mortify sin,
 or make it easy for us to submit to the Divine will
 in things otherwise very contrary to their own.
 
+[.numbered]
 II. The preaching of the cross, therefore, in primitive times was fitly called by Paul,
 that famous and skilful apostle in spiritual things,
 "`the power of God,`" though to them that perish, then, as now, "`foolishness.`"
@@ -66,6 +75,7 @@ and dedicated their time and care to the pleasure of their corrupt appetites,
 to whom all yoke and bridle were and are intolerable,
 the preaching of the cross was and is foolishness.
 
+[.numbered]
 III.
 Well: but then where does this cross appear, and where must it be taken up?
 
@@ -81,6 +91,7 @@ and where sin lives, there it must die: it must be crucified.
 Custom in evil hath made it natural to men to do evil; and as the soul rules the body,
 so the corrupt nature sways the whole man: but still, it is all from within.
 
+[.numbered]
 IV. Experience teaches every son and daughter of Adam to assent to this;
 for the enemy`'s temptations are ever directed to the mind, which is within:
 if they take not, the soul sins not; if they are embraced, lust is presently conceived,
@@ -110,6 +121,7 @@ All which makes it easy to know where the cross must be taken up,
 by which alone the strong man must be bound, his goods spoiled,
 and his temptations resisted, that is, within, in the heart of man.
 
+[.numbered]
 V+++.+++ But in the next place, how and in what manner is the cross to be daily borne?
 
 The way, like the cross, is spiritual:
@@ -134,6 +146,7 @@ that Judas in themselves, which, not enduring the heat of the siege,
 and being impatient in the hour of temptation, would,
 by its near relation to the tempter, more easily betray their souls into his hands.
 
+[.numbered]
 VI. O this shows to every one`'s experience how hard it
 is to be a true disciple of Jesus! the way is narrow indeed,
 and the gate very strait, where not a word, no not a thought must slip the watch,
@@ -149,3 +162,5 @@ for they cannot bear the cross;
 and they that cannot endure the cross must never have the crown.
 To reign, it is necessary first to suffer.^
 footnote:[Phil. 2:12; 1 Cor. 15:50.]
+
+====
