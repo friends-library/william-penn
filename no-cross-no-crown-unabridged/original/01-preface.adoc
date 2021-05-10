@@ -12,6 +12,7 @@ ____
 
 == Preface.
 
+[.salutation]
 Reader,
 
 The great business of man`'s life, is to answer the end for which he lives;
@@ -105,10 +106,10 @@ the common enemies of mankind; and having conquered them through a life of self-
 by the power of the Cross of Jesus,
 they may at last attain to the eternal rest and kingdom of God.
 
-So desireth, so prayeth,
+So desireth, so prayeth, Friendly Reader,
 
-Friendly Reader,
-
+[.signed-section-closing]
 Thy fervent Christian Friend,
 
+[.signed-section-signature]
 William Penn.

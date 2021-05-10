@@ -1,23 +1,21 @@
 == Chapter II.
 
-1+++.+++ By this Christendom may see her lapse, how foul it is, and next,
-the worse for her pretence to Christianity.--2. But there is mercy with God upon repentance,
-and propitiation in the blood of Jesus.--3. He is
-the light of the world that reproves the darkness,
-that is, the evil of the world; and he is to be known within.--4. Christendom,
-like the inn of old, is full of other guests: she is advised to believe in, receive,
-and apply to Christ.--5. Of the nature of true faith;
-it brings power to overcome every appearance of evil:
-this leads to consider the Cross of Christ,
-which has been so much wanted.--6. The apostolic ministry, and end of it;
-its blessed effect; the character of apostolic times.--7. The glory of the cross,
-and its triumph over the heathen world.
-A measure to Christendom, what she is not, and should be.--8. Her declension,
-and cause of it.--9. The miserable effects that followed.--10. From the
-consideration of the cause the cure may be more easily known,
-viz., Not faithfully taking up the daily cross; then,
-faithfully taking it daily up must be the remedy.
+[.chapter-synopsis]
+* 1+++.+++ By this Christendom may see her lapse, how foul it is, and next, the worse for her pretence to Christianity.
+* 2+++.+++ But there is mercy with God upon repentance, and propitiation in the blood of Jesus.
+* 3+++.+++ He is the light of the world that reproves the darkness, that is, the evil of the world; and he is to be known within.
+* 4+++.+++ Christendom, like the inn of old, is full of other guests: she is advised to believe in, receive, and apply to Christ.
+* 5+++.+++ Of the nature of true faith; it brings power to overcome every appearance of evil: this leads to consider the Cross of Christ, which has been so much wanted.
+* 6+++.+++ The apostolic ministry, and end of it; its blessed effect; the character of apostolic times.
+* 7+++.+++ The glory of the cross, and its triumph over the heathen world. A measure to Christendom, what she is not, and should be.
+* 8+++.+++ Her declension, and cause of it.
+* 9+++.+++ The miserable effects that followed.
+* 10+++.+++ From the consideration of the cause the cure may be more easily known, viz., Not faithfully taking up the daily cross; then, faithfully taking it daily up must be the remedy.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ By all which has been said, O Christendom! and by that better help,
 if thou wouldst use it, the lamp the Lord has lighted in thee, not utterly extinct,
 it may evidently appear, first, how great and full thy backsliding has been, who,
@@ -29,6 +27,7 @@ thou hast nevertheless valued thy corrupt self upon thy profession of Christiani
 and fearfully deluded thyself with the hopes of salvation.
 The first makes thy disease dangerous, but the last almost incurable.
 
+[.numbered]
 II. Yet, because there is mercy with God that he may be feared,
 and that he takes no delight in the eternal death of poor sinners, no,
 though backsliders themselves,^
@@ -43,6 +42,7 @@ footnote:[Matt. 1:21; Luke 1:77; Rom. 3:25; Heb. 9:24-28; 1 John 2:1-2.]
 Now, behold the remedy! an infallible cure, one of God`'s appointing; a precious elixir,
 indeed, that never fails; and that universal medicine which no malady could ever escape.
 
+[.numbered]
 III.
 But thou wilt say, What is Christ?
 and where is he to be found?
@@ -61,6 +61,7 @@ and he with me.`"^
 footnote:[Rev. 3:20.]
 What door can this be but that of the heart of man?
 
+[.numbered]
 IV. Thou, like the inn of old, hast been full of guests;
 thy affections have entertained other lovers;
 there has been no room for thy Saviour in thy soul.
@@ -108,6 +109,7 @@ and the door of thine heart open to his knocks.
 Thou wilt yield to the discoveries of his light,
 and the teachings of his grace will be very dear to thee.
 
+[.numbered]
 V+++.+++ It is the nature of true faith to beget a holy fear of offending God,
 a deep reverence to his precepts,
 and a most tender regard to the inward testimony of his Spirit,
@@ -145,6 +147,7 @@ and consequently of their work that first laboured in the Christian vineyard,
 will be needful; and if therein something be repeated,
 the weight and dignity of the subject will bear it, without the need of an apology.
 
+[.numbered]
 VI. The work of apostleship, we are told by a prime labourer in it,
 was to turn people "`from darkness to light, and from the power of Satan unto God.`"^
 footnote:[Acts 26:18.]
@@ -221,6 +224,7 @@ but he was the Jew that was one inwardly, and that circumcision which was of the
 in the Spirit, and not in the letter, whose praise is not of man, but of God.^
 footnote:[Rom. 2:28-29.]
 
+[.numbered]
 VII.
 Indeed,
 the glory of the cross shined so conspicuously through
@@ -263,6 +267,7 @@ eligible than the comforts of the world,
 and the reproaches of one than all the honour of the other,
 there was then surely no temptations in it that could shake the integrity of Christendom.
 
+[.numbered]
 VIII.
 By this short draught of what Christendom was, thou mayest see, O Christendom,
 what thou are not, and consequently what thou oughtest to be.
@@ -323,6 +328,7 @@ though fruitful in the invention of ceremonious ornaments,
 yet barren in the blessed fruits of the Spirit.
 And a thousand shells cannot make one kernel, or many dead corpses one living man.
 
+[.numbered]
 IX. Thus religion fell from experience to tradition, and worship from power to form,
 from life to letter; and, instead of putting up lively and powerful requests,
 animated by a deep sense of want and the assistance
@@ -346,6 +352,7 @@ not in the faith that purifies the soul, and therefore can never receive what is
 so that a man may say with truth, thy condition is worse by thy religion,
 because thou art tempted to think thyself better for it, and art not.
 
+[.numbered]
 X+++.+++ Well;
 by this prospect that is given thee of thy foul fall from primitive Christianity,
 and the true cause of it,--to wit,
@@ -367,3 +374,5 @@ Blood requires blood; his cross is the death of sin, that caused his death;
 and he the death of death, according to that passage, O death!
 I will be thy death!^
 footnote:[Hos. 13:14; 1 Cor. 15:55.]
+
+====

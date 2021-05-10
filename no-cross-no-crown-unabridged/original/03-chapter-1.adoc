@@ -1,33 +1,21 @@
 == Chapter I.
 
-1+++.+++ Of the necessity of the Cross of Christ in general;
-yet the little regard Christians have to it.--2.
-The degeneracy of Christendom from purity to lust,
-and moderation to excess.--3. That worldly lusts
-and pleasures are become the care and study of Christians,
-so that they have advanced upon the impiety of infidels.--4.
-This defection a second part to the Jewish tragedy,
-and worse than the first:
-the scorn Christians have cast on their Saviour.--5.
-Sin is of one nature all the world over;
-sinners are of the same church, the devil`'s children:
-profession of religion in wicked men makes them but the worse.--6. A wolf is not a lamb;
-a sinner cannot be, whilst such, a saint.--7. The wicked will persecute the good; this,
-false Christians have done to the true, for non-compliance with their superstitions;
-the strange carnal measures false Christians have taken of Christianity;
-the danger of that self-seduction.--8. The sense of that has obliged me
-to make this discourse for a dissuasive against the world`'s lusts,
-and an invitation to take up the daily cross of Christ as the way left
-us by him to blessedness.--9. Of the self-condemnation of the wicked;
-that religion and worship are comprised in doing the will of God.
-The advantage good men have over bad men in the last
-judgment.--10. A supplication for Christendom,
-that she may not be rejected in that great assize of the world.
-She is exhorted to consider what relation she bears to Christ; if her Saviour, how saved,
-and from what: what her experience is of that great work.
-That Christ came to save from sin and wrath by consequence; not to save men in sin,
-but from it, and so from the wages of it.
+[.chapter-synopsis]
+* 1+++.+++ Of the necessity of the Cross of Christ in general; yet the little regard Christians have to it.
+* 2+++.+++ The degeneracy of Christendom from purity to lust, and moderation to excess.
+* 3+++.+++ That worldly lusts and pleasures are become the care and study of Christians, so that they have advanced upon the impiety of infidels.
+* 4+++.+++ This defection a second part to the Jewish tragedy, and worse than the first: the scorn Christians have cast on their Saviour.
+* 5+++.+++ Sin is of one nature all the world over; sinners are of the same church, the devil`'s children: profession of religion in wicked men makes them but the worse.
+* 6+++.+++ A wolf is not a lamb; a sinner cannot be, whilst such, a saint.
+* 7+++.+++ The wicked will persecute the good; this, false Christians have done to the true, for non-compliance with their superstitions; the strange carnal measures false Christians have taken of Christianity; the danger of that self-seduction.
+* 8+++.+++ The sense of that has obliged me to make this discourse for a dissuasive against the world`'s lusts, and an invitation to take up the daily cross of Christ as the way left us by him to blessedness.
+* 9+++.+++ Of the self-condemnation of the wicked; that religion and worship are comprised in doing the will of God. The advantage good men have over bad men in the last judgment.
+* 10+++.+++ A supplication for Christendom, that she may not be rejected in that great assize of the world. She is exhorted to consider what relation she bears to Christ; if her Saviour, how saved, and from what: what her experience is of that great work. That Christ came to save from sin and wrath by consequence; not to save men in sin, but from it, and so from the wages of it.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Though the knowledge and obedience of the doctrine of the cross
 of Christ be of infinite moment to the souls of men,
 for that is the only door to true Christianity,
@@ -43,6 +31,7 @@ that the generality of Christendom do miserably deceive
 and disappoint themselves in the great business of Christianity,
 and their own salvation.
 
+[.numbered]
 II. For,
 let us be never so tender and charitable in the survey of those nations
 that entitle themselves to any interest in the holy name of Christ,
@@ -75,6 +64,7 @@ and the pride of life,`" which, says he, "`are not of the Father, but of the wor
 that lieth in wickedness.`"^
 footnote:[1 John 2:16.]
 
+[.numbered]
 III.
 It is a mournful reflection, but a truth no confidence can be great enough to deny,
 that these worldly lusts fill up the study, care,
@@ -92,6 +82,7 @@ and committed with such invention and excess,
 that they have stumbled and embittered infidels to a degree of scorning that holy religion,
 to which their good example should have won their affections.
 
+[.numbered]
 IV. This miserable defection from primitive times,
 when the glory of Christianity was the purity of its professors,
 I cannot but call the second and worst part of the
@@ -123,6 +114,7 @@ since they that reject the grace now in their own hearts,
 are one in stock and generation with the hard-hearted Jews,
 that resisted the grace that then appeared in and by Christ.
 
+[.numbered]
 V+++.+++ Sin is of one nature all the world over; for though a liar is not a drunkard,
 nor a swearer a whoremonger, nor either properly a murderer,
 yet they are all of a church; all branches of the one wicked root; all of kin.
@@ -163,6 +155,7 @@ to gratify the passion that they most indulge.
 Thus as God said of old, they make him serve with their sins and for their sins too.^
 footnote:[Isa. 43:24.]
 
+[.numbered]
 VI. Let no man deceive his own soul; "`grapes are not gathered of thorns,
 nor figs of thistles:`"^
 footnote:[Matt. 7:16]
@@ -181,6 +174,7 @@ much noted for the seat of the kings of Babylon,
 and at that time the place in the world of the greatest pride and luxury.
 As she was then, so mystical Babylon is now the great enemy of God`'s people.
 
+[.numbered]
 VII.
 True it is, "`they that are born of the flesh,
 hate and persecute them that are born of the spirit,`"^
@@ -234,6 +228,7 @@ and the judgments of the great God break their lethargy,
 and undeceive their poor wretched souls with the anguish of the wicked,
 as the reward of their work.
 
+[.numbered]
 VIII.
 This has been, is, and will be the doom of all worldly Christians: an end so dreadful,
 that if there were nothing of duty to God, or obligation to men, being a man,
@@ -275,6 +270,7 @@ they that walk not according to that Holy Spirit, by his doctrine, are not in Ch
 that is, have no interest in him, nor just claim to salvation by him:
 and consequently there is condemnation to such.
 
+[.numbered]
 IX. And the truth is, the religion of the wicked is a lie: "`there is no peace,
 saith the prophet, to the wicked.`"^
 footnote:[Isa. 48:22.]
@@ -347,6 +343,7 @@ for the recompense of reward that I have promised to them that love me, and fain
 enter ye into the joy of your Lord,
 and inherit the kingdom prepared for you from the foundation of the world.
 
+[.numbered]
 X+++.+++ O Christendom! my soul most fervently prays,
 that after all thy lofty profession of Christ, and his meek and holy religion,
 thy unsuitable and un-Christ-like life may not cast
@@ -387,3 +384,5 @@ and take up their daily cross and follow him;
 such as rather deny themselves the pleasure of fulfilling their
 lusts than sin against the knowledge he has given them of his will,
 or do that they know they ought not to do.
+
+====
