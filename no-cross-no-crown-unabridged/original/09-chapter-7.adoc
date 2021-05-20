@@ -1,27 +1,27 @@
 == Chapter VII.
 
-1+++.+++ Of pride, the first capital lust;
-its rise.--2. Its definition and distinction.--3.
-That an inordinate desire of knowledge in Adam,
-introduced man`'s misery.--4. He thereby lost his integrity.--5.
-Knowledge puffs up.--6. The evil effects of false,
-and the benefit of true knowledge.--7. Cain`'s example a proof in the
-case.--8. The Jews`' pride in pretending to be wiser than Moses,
-God`'s servant,
-in setting their post by God`'s post.--9. The effect of which was
-the persecution of the true prophets.--10. The divine knowledge
-of Christ brought peace on earth.--11. Of the blind guides,
-the priests, and the mischief they have done.--12. The fall of Christians,
-and the pride they have taken in it, hath exceeded the Jews;
-under the profession of their new-moulded Christianity,
-they have murdered the witness of the Lord Jesus.--13. The angels sang
-peace on earth at the birth of the Lord of meekness and humility:
-but the pride of the Pharisees withstood and calumniated him.--14.
-As Adam and the Jews lost themselves by their ambition,
-so the Christians losing the fear of God, grew creed and worship-makers,
-with this injunction, Conform or burn.--15. The evil effects of this in Christendom,
-so called.--16. The way of recovery out of such miserable defection.
+[.chapter-synopsis]
+* 1+++.+++ Of pride, the first capital lust; its rise.
+* 2+++.+++ Its definition and distinction.
+* 3+++.+++ That an inordinate desire of knowledge in Adam, introduced man`'s misery.
+* 4+++.+++ He thereby lost his integrity.
+* 5+++.+++ Knowledge puffs up.
+* 6+++.+++ The evil effects of false, and the benefit of true knowledge.
+* 7+++.+++ Cain`'s example a proof in the case.
+* 8+++.+++ The Jews`' pride in pretending to be wiser than Moses, God`'s servant, in setting their post by God`'s post.
+* 9+++.+++ The effect of which was the persecution of the true prophets.
+* 10+++.+++ The divine knowledge of Christ brought peace on earth.
+* 11+++.+++ Of the blind guides, the priests, and the mischief they have done.
+* 12+++.+++ The fall of Christians, and the pride they have taken in it, hath exceeded the Jews; under the profession of their new-moulded Christianity, they have murdered the witness of the Lord Jesus.
+* 13+++.+++ The angels sang peace on earth at the birth of the Lord of meekness and humility: but the pride of the Pharisees withstood and calumniated him.
+* 14+++.+++ As Adam and the Jews lost themselves by their ambition, so the Christians losing the fear of God, grew creed and worship-makers, with this injunction, Conform or burn.
+* 15+++.+++ The evil effects of this in Christendom, so called.
+* 16+++.+++ The way of recovery out of such miserable defection.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Having thus discharged my conscience against that part of unlawful self,
 that fain would be a Christian, a believer, a saint,
 whilst a plain stranger to the cross of Christ, and the holy exercises of it;
@@ -55,6 +55,7 @@ and aspire above the order of their creation.
 This was their pride, and this sad defection their dismal fall;
 who are reserved in chains of darkness unto the judgment of the great day of God.
 
+[.numbered]
 II. Pride, that pernicious evil, which begins this chapter,
 did also begin the misery of mankind: a most mischievous quality;
 and so commonly known by its motions and sad effects,
@@ -71,6 +72,7 @@ the last excess is that of worldly furniture and ornaments.
 To the just and true witness of the eternal God, placed in the souls of all people,
 I appeal as to the truth of these things.
 
+[.numbered]
 III.
 To the first, it is plain,
 that an inordinate desire of knowledge introduced man`'s misery,
@@ -89,6 +91,7 @@ made him unworthy of the blessings he received from God.
 This drives him out of paradise; and instead of being lord of the whole world,
 Adam becomes the wretchedest vagabond of the earth.
 
+[.numbered]
 IV. A strange change! that instead of being as gods,
 they should fall below the very beasts;
 in comparison of whom even God had made them as gods.
@@ -104,6 +107,7 @@ the image in which God had made man, he became a crooked, twining, twisting serp
 the image of that unrighteous spirit, to whose temptations he yielded up,
 with his obedience, his paradisaical happiness.
 
+[.numbered]
 V+++.+++ Nor is this limited to Adam; for all who have fallen short of the glory of God,
 are right-born sons of his disobedience.
 They, like him, have eaten of what they have been forbidden:
@@ -123,6 +127,7 @@ insensible of the love of God, of his Holy Spirit, power and wisdom;
 of the light and joy of his countenance, and of the evidence of a good conscience,
 and the co-witnessing and approbation of God`'s Holy Spirit.
 
+[.numbered]
 VI. So that fallen Adam`'s knowledge of God stood no more in a
 daily experience of the love and work of God in his soul,
 but in a notion of what he once did know and experience:
@@ -138,6 +143,7 @@ and an imaginary conception and paraphrase upon the experiences
 and prophecies of such holy men and women of God,
 as in all ages have deserved the style and character of his true children.
 
+[.numbered]
 VII.
 As such a knowledge of God cannot be true, so by experience we find,
 that it ever brings forth the quite contrary fruits to the true wisdom.
@@ -154,6 +160,7 @@ This is the science, falsely so called: and as it is impure, so it is unpeaceabl
 and hard to be entreated; froward, perverse, and persecuting;
 jealous that any should be better than they, and hating and abusing those that are.
 
+[.numbered]
 VIII.
 It was this pride made Cain a murderer:^
 footnote:[Gen. 4:8.]
@@ -171,6 +178,7 @@ the refusal of it upon his brother`'s life:
 and without any regard to natural affection, or the low and early condition of mankind,
 he barbarously dyed his hands in his brother`'s blood.
 
+[.numbered]
 IX. The religion of the apostatized Jews did no better; for, having lost the inward life,
 power, and spirit of the law, they were puffed up with that knowledge they had:
 and their pretences to Abraham, Moses, and the promises of God, in that frame,
@@ -178,6 +186,7 @@ served only to blow them up into an insufferable pride, arrogancy, and cruelty.
 For they could not bear true vision when it came to visit them;
 and entertained the messengers of their peace as if they had been wolves and tigers.
 
+[.numbered]
 X+++.+++ Yea, it is remarkable, the false prophets, the great engineers against the true ones,
 were ever sure to persecute them as false; and, by their interest with earthly princes,
 or the poor seduced multitude, made them the instruments of their malice.
@@ -187,6 +196,7 @@ which made holy Stephen cry out, "`Ye stiff-necked and uncircumcised in heart an
 ye do always resist the Holy Ghost: as did your fathers, so do ye.`"^
 footnote:[Acts 7:51.]
 
+[.numbered]
 XI. The true knowledge came with the joy of angels, singing, "`Peace on earth,
 and good-will towards men;`"^
 footnote:[Luke 2:14.]
@@ -203,6 +213,7 @@ footnote:[John 11:48.]
 that is, he will take away our credit with the people; they will adhere to him,
 and desert us; and so we shall lose our power and reputation with the multitude.
 
+[.numbered]
 XII.
 And the truth is, he came to level their honour, to overthrow their Rabbiship,
 and by his grace to bring the people to that inward knowledge of God, which they,
@@ -213,6 +224,7 @@ and who were so far from being the true doctors and lively expounders of it,
 that in reality they were the children of the devil,
 who was a proud liar and cruel murderer from the beginning.
 
+[.numbered]
 XIII.
 Their pride in false knowledge having made them incapable
 of receiving the simplicity of the gospel,
@@ -245,6 +257,7 @@ vi. 20.]
 This was the sense of apostolical times,
 when the divine grace gave the true knowledge of God, and was the guide of Christians.
 
+[.numbered]
 XIV.
 Well, but what has been the success of those ages that followed the apostolical?
 Any whit better than that of the Jewish times?
@@ -283,6 +296,7 @@ and the Jews from the law of God, has beguiled the Christians, by lying vanities
 to depart from the Christian law of holiness, and so they are become slaves to him;
 for he rules in the hearts of the children of disobedience.
 
+[.numbered]
 XV. And it is observable, that as pride,
 which is ever followed by superstition and obstinacy,
 put Adam upon seeking a higher station than God placed him in; and as the Jews,
@@ -298,6 +312,7 @@ the fruit of the wisdom that is from below;
 witness their numerous and perplexed councils and creeds, with Conform or burn,
 at the end of them.
 
+[.numbered]
 XVI.
 And as this unwarrantable pride set them first at work,
 to pervert the spirituality of the Christian worship,
@@ -352,6 +367,7 @@ to solicit and obtain benefices of larger title and income.
 So that with their pride and avarice, which good old Peter foresaw would be their snares,
 they have drawn after them ignorance, misery, and irreligion upon Christendom.
 
+[.numbered]
 XVII.
 The way of recovery from this miserable defection
 is to come to a saving knowledge of religion;
@@ -368,3 +384,5 @@ and thus thou wilt arrive at the knowledge of God and Christ,
 that brings eternal life to the soul:
 a well-grounded assurance from what a man feels and knows within himself:
 such shall not be moved with evil tidings.
+
+====

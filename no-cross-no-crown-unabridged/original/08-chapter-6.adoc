@@ -1,46 +1,29 @@
 == Chapter VI.
 
-1+++.+++ But men of more refined belief and practice are yet concerned in this unlawful
-self about religion.--2. It is the rise of the performance of worship God regards.--3.
-True worship is only from a heart prepared by God`'s Spirit.--4. The soul of
-man is dead without the divine breath of life,
-and so not capable of worshipping the living God.--5.
-We are not to study what to pray for.
-How Christians should pray.
-The aid they have from God.--6. The way of obtaining this preparation: it is by waiting,
-as David and others did of old, in holy silence,
-that their wants and supplies are best seen.--7.
-The whole and the full think they need not this waiting,
-and so use it not; but the poor in spirit are of another mind, wherefore the Lord hears,
-and fills them with his good things.--8. If there were not this preparation,
-the Jewish times would have been more holy and spiritual than the gospel;
-for even then it was required; much more now.--9. As sin, so formality,
-cannot worship God: thus David, Isaiah,
-etc.--10. God`'s own forms and institutions hateful to Him,
-unless his own Spirit use them;
-much more those of man`'s contriving.--11. God`'s children ever met God in his way,
-not their own; and in his way they always found help and comfort.
-In Jeremiah`'s time it was the same;
-his goodness was manifested to his children that waited truly upon him:
-it was an inward sense and enjoyment of him they thirsted after.
-Christ charged his disciples also to wait for the
-Spirit.--12. This doctrine of waiting further opened,
-and ended with an allusion to the pool of Bethesda;
-a lively figure of inward waiting and its blessed
-effects.--13. Four things necessary to worship;
-the sanctification of the worshipper, and the consecration of the offering,
-and the thing to be prayed for, and lastly, faith to pray in: and all must be right,
-that is, of God`'s giving.--14. The great power of faith in prayer;
-witness the importunate woman.
-The wicked and formal ask, and receive not; the reason why.
-But Jacob and his true offspring, the followers of his faith,
-prevail.--15. This shows why Christ upbraided his disciples with their little faith.
-The necessity of faith.
-Christ works no good on men without it.--16. This faith
-is not only possible now but necessary.--17. What it is,
-further unfolded.--18. Who the heirs of this faith are;
-and what were the noble works of it in the former ages of the just.
+[.chapter-synopsis]
+* 1+++.+++ But men of more refined belief and practice are yet concerned in this unlawful self about religion.
+* 2+++.+++ It is the rise of the performance of worship God regards.
+* 3+++.+++ True worship is only from a heart prepared by God`'s Spirit.
+* 4+++.+++ The soul of man is dead without the divine breath of life, and so not capable of worshipping the living God.
+* 5+++.+++ We are not to study what to pray for. How Christians should pray. The aid they have from God.
+* 6+++.+++ The way of obtaining this preparation: it is by waiting, as David and others did of old, in holy silence, that their wants and supplies are best seen.
+* 7+++.+++ The whole and the full think they need not this waiting, and so use it not; but the poor in spirit are of another mind, wherefore the Lord hears, and fills them with his good things.
+* 8+++.+++ If there were not this preparation, the Jewish times would have been more holy and spiritual than the gospel; for even then it was required; much more now.
+* 9+++.+++ As sin, so formality, cannot worship God: thus David, Isaiah, etc.
+* 10+++.+++ God`'s own forms and institutions hateful to Him, unless his own Spirit use them; much more those of man`'s contriving.
+* 11+++.+++ God`'s children ever met God in his way, not their own; and in his way they always found help and comfort. In Jeremiah`'s time it was the same; his goodness was manifested to his children that waited truly upon him: it was an inward sense and enjoyment of him they thirsted after. Christ charged his disciples also to wait for the Spirit.
+* 12+++.+++ This doctrine of waiting further opened, and ended with an allusion to the pool of Bethesda; a lively figure of inward waiting and its blessed effects.
+* 13+++.+++ Four things necessary to worship; the sanctification of the worshipper, and the consecration of the offering, and the thing to be prayed for, and lastly, faith to pray in: and all must be right, that is, of God`'s giving.
+* 14+++.+++ The great power of faith in prayer; witness the importunate woman. The wicked and formal ask, and receive not; the reason why. But Jacob and his true offspring, the followers of his faith, prevail.
+* 15+++.+++ This shows why Christ upbraided his disciples with their little faith. The necessity of faith. Christ works no good on men without it.
+* 16+++.+++ This faith is not only possible now but necessary.
+* 17+++.+++ What it is, further unfolded.
+* 18+++.+++ Who the heirs of this faith are; and what were the noble works of it in the former ages of the just.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ But there be others of a more refined speculation, and reformed practice,
 who dare not use, and less adore, a piece of wood or stone, an image of silver and gold;
 nor yet allow of that Jewish, or rather Pagan pomp in worship, practised by others,
@@ -60,6 +43,7 @@ For said Christ, "`But I say unto you, that every idle word that men shall speak
 they shall give an account thereof in the day of judgment.`"^
 footnote:[Matt. 12:36.]
 
+[.numbered]
 II. For first, it is not performing duties of religion,
 but the rise of the performance that God looks at.
 Men may, and some do, cross their own wills in their own wills:
@@ -75,6 +59,7 @@ For men have no more brought their worship to the test, than their sins: nay les
 for they have ignorantly thought the one a sort of excuse for the other;
 and not that their religious performances should need a cross, or an apology.
 
+[.numbered]
 III.
 But true worship can only come from a heart prepared by the Lord.^
 footnote:[Prov. 16:1; Rom. 8:14.]
@@ -95,6 +80,7 @@ by no means; they are for the sake of the congregation:
 it is the language of the soul God hears, nor can that speak but by the Spirit,
 or groan aright to Almighty God without the assistance of it.
 
+[.numbered]
 IV. The soul of man, however lively in other things, is dead to God,
 till He breathe the spirit of life into it: it cannot live to Him, much less worship Him,
 without it.
@@ -113,6 +99,7 @@ as is now too superstitiously and presumptuously practised; but rather as they t
 so we now, are not to pray our own prayers, but his: that is,
 such as He enables us to make, as He enabled them then.
 
+[.numbered]
 V+++.+++ For if we are not to take thought what we shall say when we come before worldly princes,
 because it shall then be given us; and that "`it is not we that speak,
 but the Spirit of our heavenly Father that speaketh in us;`"^
@@ -131,8 +118,10 @@ and then he loves to hear the language of it.
 In which the body ought never to go before the soul: his ear is open to such requests,
 and his Spirit strongly intercedes for those that offer them.
 
+[.numbered]
 VI. But it may be asked, how shall this preparation be obtained?
 
+[.discourse-part]
 I answer: By waiting patiently, yet watchfully and intently upon God:
 "`Lord,`" says the Psalmist, "`thou hast heard the desire of the humble;
 thou wilt prepare their heart, thou wilt cause thine ear to hear:`"^
@@ -178,6 +167,7 @@ and delivers them,`" and then invites all to come and taste how good the Lord is
 He will bless them that fear the Lord, both small and great.`"^
 footnote:[Ps. 115:13.]
 
+[.numbered]
 VII.
 But what is that to them that are not hungry?
 "`They that be whole need not a physician:`"^
@@ -207,6 +197,7 @@ Jacob was a plain man, of an upright heart: and they that are so, are his seed.
 And though (with him) they may be as poor as worms in their own eyes,
 yet they receive power to wrestle with God, and prevail as he did.
 
+[.numbered]
 VIII.
 But without the preparation and consecration of this power,
 no man is fit to come before God;
@@ -234,6 +225,7 @@ between him and those that disobey his commandments,
 and live not the life of his blessed cross and self-denial.^
 footnote:[2 Cor. 6:15-16.]
 
+[.numbered]
 IX. But as sin, so formality cannot worship God; no,
 though the manner were of his own ordination.
 Which made the prophet, personating one in a great strait, cry out,
@@ -313,6 +305,7 @@ But verily God hath heard me: he hath attended to the voice of my prayer.
 Blessed be God, who hath not turned away my prayer, nor his mercy from me.`"^
 footnote:[Ps. 66:16,20.]
 
+[.numbered]
 X+++.+++ Much of this kind might be cited,
 to show the displeasure of God against even his own forms of worship,
 when performed without his own Spirit,
@@ -414,6 +407,7 @@ and such can never wait rightly upon him.
 Great reason had David for what he said,
 who had with so much comfort and advantage met the Lord in his blessed way.
 
+[.numbered]
 XI. The prophet Isaiah tells us,
 that though the chastisements of the Lord were sore upon the people for their backslidings,
 yet in the way of his judgments, in the way of his rebukes and displeasure,
@@ -485,6 +479,7 @@ if so much waiting and preparation by the Spirit
 was requisite to fit them to preach to man;
 some, at least, may be needful to fit us to speak to God.
 
+[.numbered]
 XII.
 I will close this great Scripture doctrine of waiting,
 with that passage in John about the pool of Bethesda: "`There is at Jerusalem,
@@ -547,6 +542,7 @@ and with the tongue it curses men, made in his similitude.
 It calls Jesus LORD, but not by the Holy Ghost; and often names the name of Jesus, yea,
 bows the knee to it too; but departs not from iniquity: this is abominable to God.
 
+[.numbered]
 XIII.
 In short, there are four things so necessary to worshipping God aright,
 and which put its performance beyond man`'s power,
@@ -600,6 +596,7 @@ footnote:[Isaiah 66:2.]
 to the sick heart, the wounded soul, the hungry and thirsty,
 the weary and heavy laden ones: such sincerely want a helper.
 
+[.numbered]
 XIV.
 Nor is this sufficient to complete gospel-worship; the fourth requisite must be had,
 and that is faith; true faith, precious faith, the faith of God`'s chosen,
@@ -634,6 +631,7 @@ that "`the just live by faith.`"
 For worship is the supreme act of man`'s life;
 and whatever is necessary to inferior acts of religion must not be wanting there.
 
+[.numbered]
 XV. This may moderate the wonder in any,
 why Christ so often upbraided his disciples with, O ye of little faith! yet tells us,
 that one grain of it, though as little as that of mustard, one of the least of seeds,
@@ -672,6 +670,7 @@ footnote:[Matt. 21:20-22.]
 This one passage convicts Christendom of gross infidelity; for she prays,
 and receives not.
 
+[.numbered]
 XVI.
 But some may say, It is impossible to receive all that a man may ask.
 It is not impossible to receive all that a man, that so believes, can ask.
@@ -695,6 +694,7 @@ for so the author to the Hebrews teaches.
 And if it be else impossible to please God,
 it must be so to pray to God without this precious faith.
 
+[.numbered]
 XVII.
 But some may say, What is this faith that is so necessary to worship,
 and gives it such acceptance with God and returns that benefit to men?
@@ -715,6 +715,7 @@ and John with victory over the world; "`This,`" says be,
 "`is the victory which overcomes the world, even our faith.`"^
 footnote:[1 John 5:4.]
 
+[.numbered]
 XVIII.
 The heirs of this faith are the true children of Abraham,^
 footnote:[John 16:10-9.]
@@ -731,3 +732,5 @@ But let it suffice, that by it the holy ancients endured all trials,
 overcame all enemies, prevailed with God, renowned his truth, finished their testimony,
 and obtained the reward of the faithful, a crown of righteousness,
 which is the eternal blessedness of the just.
+
+====

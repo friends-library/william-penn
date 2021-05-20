@@ -1,17 +1,21 @@
 == Chapter VIII.
 
-1+++.+++ Pride craves power as well as knowledge.--2. The case of Korah,
-etc. a proof.--3. Absalom`'s ambition confirms it.--4. Nebuchadnezzar`'s
-does the like.--5. The history of Pisistratus,
-// lint-disable invalid-characters "æ"
-Alexander, Cæsar, etc. shows the same thing.--6. The Turks are a lively proof,
-who have shed much blood to gratify pride for power.--7. The last ten years in
-Christendom exceed in proof of this.--8. Ambition rests not in courts,
-it finds room in private breasts too,
-and spoils families and societies.--9. Their peace
-is great that limit their desires by God`'s grace,
-and having power, use it to the good of others.
+[.chapter-synopsis]
+* 1+++.+++ Pride craves power as well as knowledge.
+* 2+++.+++ The case of Korah, etc. a proof.
+* 3+++.+++ Absalom`'s ambition confirms it.
+* 4+++.+++ Nebuchadnezzar`'s does the like.
+* 5+++.+++ The history of Pisistratus,
+// lint-disable invalid-characters "æ" Alexander, Cæsar, etc. shows the same thing.
+* 6+++.+++ The Turks are a lively proof, who have shed much blood to gratify pride for power.
+* 7+++.+++ The last ten years in Christendom exceed in proof of this.
+* 8+++.+++ Ambition rests not in courts, it finds room in private breasts too, and spoils families and societies.
+* 9+++.+++ Their peace is great that limit their desires by God`'s grace, and having power, use it to the good of others.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ But let us see the next most common, eminent, and mischievous effect of this evil.
 Pride does extremely crave power,
 than which not one thing has proved more troublesome and destructive to mankind.
@@ -21,6 +25,7 @@ with the slavery and misery that have followed,
 both our own experience and unquestionable histories,
 acquaint us to have been the effect of ambition, which is the lust of pride after power.
 
+[.numbered]
 II. How specious soever might be the pretences of Korah, Dathan, and Abiram,
 against Moses,
 it was their emulation of his mighty power in the camp of
@@ -30,6 +35,7 @@ for they had a mind to be the heads and leaders of the people.
 The consequence of which was a remarkable destruction
 to themselves and all their unhappy accomplices.
 
+[.numbered]
 III.
 Absalom, too,
 was for the people`'s rights against the tyranny of his father and his king;^
@@ -41,6 +47,7 @@ and that he resolved to sacrifice his duty as a son and
 subject to the importunities of his restless pride;
 which brought a miserable death to himself and an extraordinary slaughter upon his army.
 
+[.numbered]
 IV. Nebuchadnezzar is a lively instance of the excessive lust of pride for power.
 His successes and empire were too heady for him:
 so much too strong for his understanding, that he forgot he did not make himself,
@@ -61,6 +68,7 @@ But we are told, that while the words were in his mouth,
 a voice from heaven rebuked the pride of his spirit,
 and he was driven from the society of men, to graze among the beasts of the field.
 
+[.numbered]
 V+++.+++ If we look into the histories of the world,
 we shall find many instances to prove the mischief of this lust of pride.
 I will mention a few of them for their sakes who have either not read or considered them.
@@ -83,6 +91,7 @@ insomuch that his successors hardly left one they did not kill or banish;
 unless such as turned to be flatterers of their unjust acquisition,
 and the imitators of their debauched manners.
 
+[.numbered]
 VI. The Turks are a great proof to the point in hand, who to extend their dominion,
 have been the cause of shedding much blood, and laying many stately countries waste.
 And yet they are to be outdone by apostate Christians;
@@ -97,6 +106,7 @@ all natural affection is sacrificed to the fury of this lust:
 and therefore are stories so often stained with the murder of parents, children, uncles,
 nephews, masters, etc.
 
+[.numbered]
 VII.
 If we look abroad into remoter parts of the world, we shall rarely hear of wars;
 but in Christendom rarely of peace.
@@ -116,6 +126,7 @@ It is too tedious, nor is it my business, to be particular:
 it has been often well observed by others, and is almost known to all, I mean the French,
 Spanish, German, English, and Dutch wars.
 
+[.numbered]
 VIII.
 But ambition does not only dwell in courts and senates:
 it is too natural to every private breast to strain for power.
@@ -135,6 +146,7 @@ but for securing to themselves the wealth and glory of this world,
 and adjourning the care of salvation to a sick bed, and the extreme moments of life;
 if yet they believe a life to come.
 
+[.numbered]
 IX. To conclude this head; great is their peace,
 who know a limit to their ambitious minds;
 that have learned to be contented with the appointments and bounds of Providence:
@@ -146,3 +158,5 @@ and as becomes those who have an interest in a better, in the good time and will
 cheerfully leave this; when the ambitious, conscious of their evil practices,
 and weighed down to their graves with guilt,
 must go to a tribunal that they can neither awe nor bribe.
+
+====
