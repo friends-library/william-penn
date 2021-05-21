@@ -5,8 +5,8 @@
 * 2+++.+++ The case of Korah, etc. a proof.
 * 3+++.+++ Absalom`'s ambition confirms it.
 * 4+++.+++ Nebuchadnezzar`'s does the like.
-* 5+++.+++ The history of Pisistratus,
-// lint-disable invalid-characters "æ" Alexander, Cæsar, etc. shows the same thing.
+// lint-disable invalid-characters "æ"
+* 5+++.+++ The history of Pisistratus, Alexander, Cæsar, etc. shows the same thing.
 * 6+++.+++ The Turks are a lively proof, who have shed much blood to gratify pride for power.
 * 7+++.+++ The last ten years in Christendom exceed in proof of this.
 * 8+++.+++ Ambition rests not in courts, it finds room in private breasts too, and spoils families and societies.
@@ -39,8 +39,7 @@ to themselves and all their unhappy accomplices.
 III.
 Absalom, too,
 was for the people`'s rights against the tyranny of his father and his king;^
-footnote:[2 Sam.
-xv.]
+footnote:[2 Sam. 15.]
 at least with this pretence he palliated his ambition;
 but his rebellion showed he was impatient for power,
 and that he resolved to sacrifice his duty as a son and
@@ -55,8 +54,7 @@ or that his power had a superior.
 He makes an image, and all must bow to it, or be burnt.
 And when Shadrach, Meshach, and Abednego refused to comply, "`Who,`" says he,
 "`is that God that shall deliver you out of my hands?`"^
-footnote:[Dan.
-iii.]
+footnote:[Dan. 3.]
 And notwithstanding the convictions he had upon him,
 at the constancy of those excellent men, and Daniel`'s interpretation of his dreams,
 it was not long before the pride of his power had filled his heart, and then his mouth,
