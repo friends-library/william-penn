@@ -1,49 +1,49 @@
 == Chapter IX.
 
-1+++.+++ The third evil effect of pride is love of honour and respect.
-Too many are guilty of it.--2. It had like to have cost Mordecai dear.
-Great mischief has befallen nations on this account.--3.
-The world is out in the business of true honour,
-as well as in that of true science.--4. Reasons why the author,
-and the rest of the people he walks with, use not these fashions.--5. The first is,
-the sense they had in the hour of their conviction,
-of the unsuitableness of them to the Christian spirit and practice,
-and that the root they came from was pride and self-love.--6. Reproach could not move
-them from that sense and practice accordingly.--7. They do it not to make sects,
-or for distinction.--8. Nor yet to countenance formality,
-but passively let drop vain customs,
-and so are negative to forms.--9. Their behaviour is a test upon the world.--10. And
-this cross to the world a test upon them.--11. The second reason against them is their
-emptiness.--12. Honour in Scripture is not so taken as it is in the world.
-It is used for obedience.--13. It is used for preferments.--14. A digression
-about folly in a Scripture sense.--15. Honour is used for reputation.--16.
-Honour is also attributed to functions and capacities,
-by way of esteem.--17. Honour is taken for help and countenance of inferiors.--18.
-Honour is used for service and esteem to all states and capacities:
-honour all men.--19. Yet there is a limitation, in a sense, to the righteous,
-by the Psalmist; to honour the godly,
-and contemn the wicked.--20. Little of this honour found in the
-world`'s fashions.--21. The third reason against them is,
-they mock and cheat people of the honour due to them.--22. The author
-and his friends are for true honour.--23. The fourth reason is,
-that if the fashions carried true honour in them, the debauched could honour men,
-which cannot be.--24. The fifth reason is, that then men of spite, hypocrisy,
-and revenge, could pay honour,
-which is impossible.--25. The sixth reason is drawn from the antiquity
-of true honour.--26. The seventh reason is from the rise of the vain honour,
-and the teachers of it, wherein the clown, upon a comparison,
-excels the courtier for a man of breeding.--27. The
-eighth reason against these honours is,
-that they may be had for money,
-which true honour cannot be.--28. The ninth and last reason is,
-because the holy Scripture expressly forbids them to true Christians.--29. As in the
-case of Mordecai.--30. A passage between a bishop and the author in this matter.--31.
-Likewise the case of Elihu in Job.--32. Also the doctrine of Christ to his disciples.--33.
-Paul against conforming to the world`'s fashions.--34. Peter against fashioning ourselves
-according to the world`'s lusts.--35. James against respect to persons.--36. Yet Christians
-are civil and mannerly in a right way.--37. But unlike the world in the nature of it,
-and motives to it.--38. Testimonies in favour of our dissent and practice.
+[.chapter-synopsis]
+* 1+++.+++ The third evil effect of pride is love of honour and respect. Too many are guilty of it.
+* 2+++.+++ It had like to have cost Mordecai dear. Great mischief has befallen nations on this account.
+* 3+++.+++ The world is out in the business of true honour, as well as in that of true science.
+* 4+++.+++ Reasons why the author, and the rest of the people he walks with, use not these fashions.
+* 5+++.+++ The first is, the sense they had in the hour of their conviction, of the unsuitableness of them to the Christian spirit and practice, and that the root they came from was pride and self-love.
+* 6+++.+++ Reproach could not move them from that sense and practice accordingly.
+* 7+++.+++ They do it not to make sects, or for distinction.
+* 8+++.+++ Nor yet to countenance formality, but passively let drop vain customs, and so are negative to forms.
+* 9+++.+++ Their behaviour is a test upon the world.
+* 10+++.+++ And this cross to the world a test upon them.
+* 11+++.+++ The second reason against them is their emptiness.
+* 12+++.+++ Honour in Scripture is not so taken as it is in the world. It is used for obedience.
+* 13+++.+++ It is used for preferments.
+* 14+++.+++ A digression about folly in a Scripture sense.
+* 15+++.+++ Honour is used for reputation.
+* 16+++.+++ Honour is also attributed to functions and capacities, by way of esteem.
+* 17+++.+++ Honour is taken for help and countenance of inferiors.
+* 18+++.+++ Honour is used for service and esteem to all states and capacities: honour all men.
+* 19+++.+++ Yet there is a limitation, in a sense, to the righteous, by the Psalmist; to honour the godly, and contemn the wicked.
+* 20+++.+++ Little of this honour found in the world`'s fashions.
+* 21+++.+++ The third reason against them is, they moc and cheat people of the honour due to them.
+* 22+++.+++ The author and his friends are for true honour.
+* 23+++.+++ The fourth reason is, that if the fashions carried true honour in them, the debauched could honour men, which cannot be.
+* 24+++.+++ The fifth reason is, that then men of spite, hypocrisy, and revenge, could pay honour, which is impossible.
+* 25+++.+++ The sixth reason is drawn from the antiquity of true honour.
+* 26+++.+++ The seventh reason is from the rise of the vain honour, and he teachers of it, wherein the clown, upon a comparison, excels the courtier for a man of breeding.
+* 27+++.+++ The eighth reason against these honours is, that they may be had for money, which true honour cannot be.
+* 28+++.+++ The ninth and last reason is, because the holy Scripture expressly forbids them to true Christians.
+* 29+++.+++ As in the case of Mordecai.
+* 30+++.+++ A passage between a bishop and the author in this matter.
+* 31+++.+++ Likewise the case of Elihu in Job.
+* 32+++.+++ Also the doctrine of Christ to his disciples.
+* 33+++.+++ Paul against conforming to the world`'s fashions.
+* 34+++.+++ Peter against fashioning ourselves according to the world`'s lusts.
+* 35+++.+++ James against respect to persons.
+* 36+++.+++ Yet Christians are civil and mannerly in a right way.
+* 37+++.+++ But unlike the world in the nature of it, and motives to it.
+* 38+++.+++ Testimonies in favour of our dissent and practice.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ The third evil effect of pride, is an excessive desire of personal honour and respect.
 
 Pride, therefore loves power, that she might have homage,
@@ -52,6 +52,7 @@ expose themselves to her anger and revenge.
 And as pride, so this evil effect is more or less diffused through corrupt mankind;
 and has been the occasion of great animosity, and mischief in the world.
 
+[.numbered]
 II. We have a pregnant instance in holy writ,
 what malice and revenge proud man is capable of, when not gratified in this particular.
 It had almost cost Mordecai his neck, and the whole people of the Jews their lives,
@@ -78,6 +79,7 @@ if the whole ceremony was worth the life of a man, considering the dignity of th
 and the importance of the life of man, both with respect to God his Creator, himself,
 and the benefit of civil society.
 
+[.numbered]
 III.
 But the truth is, the world, under its degeneracy from God,
 is as much out of the way as to true honour and respect, as in other things;
@@ -93,6 +95,7 @@ which Jesus teaches,^
 footnote:[John 5:44.]
 they would not covet these very vanities, much less insist upon them.
 
+[.numbered]
 IV. And here give me leave to set down the reasons more particularly, why I,
 and the people with whom I walk in religious society, have declined, as vain and foolish,
 several worldly customs and fashions of respect, much in request at this time of day:
@@ -101,6 +104,7 @@ and with the meekness and inquiry of a sober and discreet mind,
 read and weigh what may be here alleged in our defence: and if we are mistaken,
 rather pity and inform, than despise and abuse our simplicity.
 
+[.numbered]
 V+++.+++ The first and most pressing motive upon our spirits,
 to decline the practice of these present customs, pulling off the hat,
 bowing the body or knee,
@@ -164,6 +168,7 @@ that they grew in the night-time, and came from an ill root;
 and that they only delighted a vain and ill mind,
 and that much pride and folly were in them.
 
+[.numbered]
 VI. And though we easily foresaw the storms of reproach
 that would fall upon us for our refusing to practise them;
 yet we were so far from being shaken in our judgment,
@@ -180,6 +185,7 @@ and his usual titles of honour; to deny to pledge his healths,
 or play with him at cards and dice, than any other principle we maintained:
 for being less in his view, it seemed not so much in his way.
 
+[.numbered]
 VII.
 And though it be frequently objected that we seek to set up outward forms of preciseness,
 and that is but as a green ribbon, the badge of the party, the better to be known:
@@ -193,6 +199,7 @@ and see things as they are in their proper natures and seeds,
 they will then know their own burden, and easily acquit us,
 without the imputation of folly or hypocrisy herein.
 
+[.numbered]
 VIII.
 To say that we strain at small things,
 which becomes not people of so fair pretensions to liberty and freedom of spirit:
@@ -211,6 +218,7 @@ we only passively let fall the practice of what we
 are taught to believe is vain and unchristian:
 in which we are negative to forms: for we leave off, we do not set up forms.
 
+[.numbered]
 IX. The world is so set upon the ceremonious parts and outside of things,
 that it has well beseemed the wisdom of God in all ages to bring forth
 his dispensations with very different appearances to their settled customs;
@@ -226,6 +234,7 @@ therefore I call it a test,
 because it shows where the hearts and affections of the people stick,
 after all their great pretence to more excellent things.
 
+[.numbered]
 X+++.+++ It is also a mighty trial upon God`'s people,
 in that they are put upon the discovery of their contradiction
 to the customs generally received and esteemed in the world;
@@ -246,6 +255,7 @@ footnote:[John 17:5.]
 This was the first reason of our declining to practise the before-mentioned honours,
 respect, etc.
 
+[.numbered]
 XI. The second reason why we decline and refuse the present
 use of these customs in our addresses and salutations,
 is from the consideration of their very emptiness and vanity:
@@ -255,10 +265,11 @@ and they not according to primitive practice neither, so is honour and respect t
 there being little of that in the world as well as of the other; and to be sure,
 in these customs, none that is justifiable by Scripture or reason.
 
+[.numbered]
 XII.
 In Scripture we find the word honour often and diversely used.
 First for obedience: as when God saith, "`They that honour me;`"^
-footnote:[1 Sam. 2:30:]
+footnote:[1 Sam. 2:30.]
 that is, that keep my commandments.
 "`Honour the king;`"^
 footnote:[1 Pet. 2:17.]
@@ -301,6 +312,7 @@ In this it was he placed the honour of his capacity, and the respect of his sold
 and not in hats and legs: nor are such customs yet in use amongst soldiers,
 being effeminate, and unworthy of masculine gravity.
 
+[.numbered]
 XIII.
 In the next place, honour is used for preferment to trust and eminent employments.
 So the Psalmist, speaking to God: "`For thou hast crowned him with glory and honour:`"^
@@ -326,6 +338,7 @@ and hate the fear of the Lord;^
 footnote:[Prov. 13:18;]
 which only maketh one of his wise men.
 
+[.numbered]
 XIV.
 And as virtue and wisdom are the same, so folly and wickedness.
 Thus Shechem`'s lying with Dinah, Jacob`'s daughter, is called:^
@@ -354,9 +367,10 @@ as then understood by the Holy Ghost, and those that were led thereby;
 and the apprehension of it,
 and the practice of those latter ages of professed Christians.
 
+[.numbered]
 XV. But honour is also taken for reputation, and it is so understood with us:
 "`A gracious woman,`" says Solomon, "`retaineth honour;`"^
-footnote:[Prov. 11:16]
+footnote:[Prov. 11:16.]
 that is, she keeps her credit: and by her virtue, maintains her reputation,
 of sobriety and chastity.
 In another place, "`It is an honour for a man to cease from strife:`"^
@@ -364,7 +378,7 @@ footnote:[Prov. 20:3:]
 that is, it makes for his reputation, as a wise and good man.
 Christ uses the word thus, where he says, "`A prophet is not without honour,
 save in his own country;`"^
-footnote:[Matt. 13:57;]
+footnote:[Matt. 13:57.]
 that is, he has credit, and is valued, save at home.
 The apostle to the Thessalonians has a saying to this effect:
 "`That every one of you should know how to possess
@@ -374,6 +388,7 @@ that is, in chastity and sobriety.
 In all which nothing of the fashions by us declined
 is otherwise concerned than to be totally excluded.
 
+[.numbered]
 XVI.
 There is yet another use of the word honour in Scripture,
 and that is to functions and capacities: as, "`An elder is worthy of double honour:`"^
@@ -393,6 +408,7 @@ Marriage is honourable too, with this proviso, that the bed be undefiled:^
 footnote:[Heb. 13:4.]
 so that the honour of marriage, is the chastity of the married.
 
+[.numbered]
 XVII.
 The word honour, in the Scripture, is also used from superiors to inferiors.
 Which is plain in the instance of Ahasuerus to Haman;
@@ -423,6 +439,7 @@ And so we see it daily among men:
 if the great visit or concern themselves to aid the poor; we say,
 that such a great man did me the honour to come and see, or help me in my need.
 
+[.numbered]
 XVIII.
 I shall conclude this with one passage more, and that is a very large, plain,
 and pertinent one: "`Honour all men, and love the brotherhood:`"^
@@ -435,6 +452,7 @@ Because they are the creation of God, and the most noble part of his creation to
 they are also thy own kind: be natural, and assist them with what thou canst;
 be ready to perform any real respect, and yield them any good or countenance thou canst.
 
+[.numbered]
 XIX.
 And yet there seems a limitation to the command, Honour all men,
 in that passage of godly David, "`Who shall abide in thy tabernacle?
@@ -451,6 +469,7 @@ and inferiors: honour, to superiors is obedience; to equals, love; to inferiors,
 countenance and help: that is honour after God`'s mind,
 and the holy people`'s fashion of old.
 
+[.numbered]
 XX. But how little of all this is to be seen or had in a poor empty hat, bow, cringe,
 or gaudy, flattering title, let the truth-speaking witness of God in all mankind judge.
 For I must not appeal to corrupt, proud, and self-speaking man,
@@ -462,6 +481,7 @@ the accustomed ceremonies of honour and respect;
 because we find no such notion or expression of honour and respect,
 recommended to us by the Holy Ghost in the Scriptures of truth.
 
+[.numbered]
 XXI.
 Our third reason for not using them as testimonies of honour and respect is,
 because there is no discovery of honour or respect to be made by them:
@@ -471,6 +491,7 @@ giving them nothing in the show of something.
 There is in them no obedience to superiors, no love to equals,
 no help or countenance to inferiors.
 
+[.numbered]
 XXII.
 We are, we declare to the whole world, for true honour and respect; we honour the king,
 our parents, our masters, our magistrates, our landlords, one another; yea, all men,
@@ -478,6 +499,7 @@ after God`'s way, used by holy men and women of old time:
 but we refuse these customs as vain and deceitful;
 not answering the end they are used for.
 
+[.numbered]
 XXIII.
 But, fourthly, there is yet more to be said: we find that vain, loose,
 and worldly people are the great lovers and practisers of them,
@@ -489,6 +511,7 @@ and that they are very liberal of, nor are any more expert at it.
 This is to us a proof that no true honour can be testified by those customs,
 which vanity and looseness love and use.
 
+[.numbered]
 XXIV.
 Next to them I will add hypocrisy, and revenge too.
 For how little do many care for each other!
@@ -503,6 +526,7 @@ Men do not these things to palliate ill-will,
 which are the testimonies of quite the contrary.
 It is absurd to imagine it, because impossible to be done.
 
+[.numbered]
 XXV.
 Our sixth reason is, that honour was from the beginning:
 but hat-respects and most titles are of late:
@@ -511,6 +535,7 @@ and consequently true honour stands not in them.
 And that which ever was the way to express true honour is the best way still;
 and this the Scripture teaches better than dancing-masters can do.
 
+[.numbered]
 XXVI.
 Seventhly, if honour consists in such-like ceremonies, then will it follow,
 that they are most capable of showing honour who perform it most exactly,
@@ -539,6 +564,7 @@ unnatural to their shape; and, if it were not fashionable,
 ridiculous to the view of all people;
 and is therefore to the Eastern countries a proverb.
 
+[.numbered]
 XXVII.
 But yet, eighthly, real honour consists not in a hat, bow, or title,
 because all these things may be had for money, for which reason,
@@ -554,12 +580,14 @@ If parents would honour God in the help of his poor
 with the substance they bestow on such an education,
 they would find a far better account in the end.
 
+[.numbered]
 XXVIII.
 But lastly, we cannot esteem bows, titles, and pulling off of hats, to be real honour,
 because such-like customs have been prohibited by God, his Son,
 and servants in days past.
 This I shall endeavour to show by three or four express authorities.
 
+[.numbered]
 XXIX.
 My first example and authority is taken from the story of Mordecai and Haman;
 so close to this point,
@@ -609,6 +637,7 @@ shall we bow then?
 O no!
 Let us follow our blessed Leader.
 
+[.numbered]
 XXX.
 But before I leave this section, it is fit I add, that in conference with a late bishop,
 and none of the least eminent, upon this subject and instance,
@@ -640,6 +669,7 @@ but has mightily prevailed; and therefore is a Prince forever,
 and "`of his government there shall be no end.`"^
 footnote:[Isa. 9:7.]
 
+[.numbered]
 XXXI.
 The next Scripture instance I urge against these customs, is a passage in Job,
 thus expressed: "`Let me not, I pray you, accept any man`'s person;
@@ -722,6 +752,7 @@ and he in his anger and jealousy should take me soon away,
 or bring sudden death and an untimely end upon me, I dare not use,
 I dare not give such titles unto men.
 
+[.numbered]
 XXXII.
 But if we had not this to allege from the Old Testament writings,
 it should and ought to suffice with Christians,
@@ -774,6 +805,7 @@ do distinctly reach and allude to those of our own time;
 for the declining of which we have suffered so much scorn and abuse,
 both in our persons and estates; God forgive the unreasonable authors of it!
 
+[.numbered]
 XXXIII.
 The apostle Paul has a saying of great weight and fervency, in his epistle to the Romans,
 very agreeable to this doctrine of Christ; it is this:
@@ -789,10 +821,13 @@ Rome was the seat of Cæsar, and the empire; the mistress of invention.
 Her fashions, as those of France now, were as laws to the world, at least at Rome:
 whence it is proverbial,
 
+[verse]
+____
 // lint-disable invalid-characters "æ"
 Cum fueris Romæ, Romano vivito more.
 
 When thou art at Rome, thou must do as Rome does.
+____
 
 But the apostle is of another mind; he warns the Christians of that city,
 that they be not conformed; that is,
@@ -810,6 +845,7 @@ footnote:[John 3:21.]
 try whether they are wrought in God or not; that so you may prove or know,
 what is that good, and acceptable, and perfect will of God.
 
+[.numbered]
 XXXIV.
 The next scripture authority we appeal to, in our vindication,
 is a passage of the apostle Peter,
@@ -849,6 +885,7 @@ in its respects and honours;
 for that is not to be a peculiar or separate people from them, but to be like them,
 because conformable to them.
 
+[.numbered]
 XXXV.
 I shall conclude my scripture testimonies against the foregoing respects,
 with that memorable and close passage of the apostle James against
@@ -924,6 +961,7 @@ as plainly as any other impiety condemned in his doctrine?
 I earnestly beg the lovers, users, and expecters of these ceremonies,
 to let this I have written have some consideration and weight with them.
 
+[.numbered]
 XXXVI.
 However, Christians are not so ill-bred as the world think; for they show respect too:
 but the difference between them lies in the nature of the respect they perform,
@@ -941,6 +979,7 @@ which is far from respect to the mere persons of men,
 or having their persons in admiration for reward:
 much less on such mean and base motives as wealth and sumptuous raiment.
 
+[.numbered]
 XXXVII.
 We shall easily grant, our honour, as our religion, is more hidden;
 and that neither are so discernible by worldly men, nor grateful to them.
@@ -954,8 +993,15 @@ And then let them examine, what in them, and about them,
 agrees with Christ`'s doctrine and life; and they may soon resolve,
 whether they are real Christians, or but Heathens christened with the name of Christians.
 
+====
+
+[.blurb]
 === Some Testimonies from Ancient and Modern Writers in Favour of Our Behavior
 
+[.numbered-group]
+====
+
+[.numbered]
 XXXVIII.
 Marlorat, out of Luther and Calvin,
 upon that remarkable passage I just now urged from the apostle James,
@@ -975,6 +1021,7 @@ and that none is to be honoured, upon any account but holiness.`' Thus much Marl
 But if this be true doctrine,
 we are much in the right in refusing conformity to the vain respects of worldly men.
 
+[.numbered]
 XXXIX.
 But I shall add to these, the admonition of a learned ancient writer,
 who lived about 1200 years since, of great esteem, namely Jerom,
@@ -995,6 +1042,7 @@ Nor is it material in what state a man is born; the new creature hath no distinc
 But if we will forget how we all descended from one Father;
 we ought at least perpetually to remember that we have but one Saviour.`'
 
+[.numbered]
 XL. But since I am engaged against these fond and fruitless customs,
 the proper effects and delights of vain and proud minds,
 let me yet add one memorable passage more, as it is related by the famous Casaubon,
@@ -1033,3 +1081,5 @@ But I shall proceed to what remains yet further to be said in our defence,
 for declining another custom,
 which helps to make us so much the stumbling-block of this light, vain,
 and inconsiderate age.
+
+====

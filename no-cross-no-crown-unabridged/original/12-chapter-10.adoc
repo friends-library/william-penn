@@ -1,18 +1,22 @@
 == Chapter X.
 
-1+++.+++ Another piece of nonconformity to the world, which is our simple and plain speech,
-thou for you.--2. Justified from the use of words and numbers,
-singular and plural.--3. It was, and is the Hebrew, Greek, and Latin speech,
-in schools and universities.--4. It is the language of all nations.--5. The original
-of the present customs defends our disuse of it.--6. If custom should prevail,
-in a sense it would be on our side.--7. It cannot be uncivil or improper,
-for God himself, the fathers, prophets, Christ,
-and his apostles used it.--8. An instance given in the case of Peter,
-in the palace of the high priest.--9. It is the practice of men to God in their prayers:
-the pride of man to expect better to himself.--10. Testimonies
-of several writers in vindication of us.--11. The Author`'s convictions;
-and his exhortation to his reader.
+[.chapter-synopsis]
+* 1+++.+++ Another piece of nonconformity to the world, which is our simple and plain speech, thou for you.
+* 2+++.+++ Justified from the use of words and numbers, singular and plural.
+* 3+++.+++ It was, and is the Hebrew, Greek, and Latin speech, in schools and universities.
+* 4+++.+++ It is the language of all nations.
+* 5+++.+++ The original of the present customs defends our disuse of it.
+* 6+++.+++ If custom should prevail, in a sense it would be on our side.
+* 7+++.+++ It cannot be uncivil or improper, for God himself, the fathers, prophets, Christ, and his apostles used it.
+* 8+++.+++ An instance given in the case of Peter, in the palace of the high priest.
+* 9+++.+++ It is the practice of men to God in their prayers: the pride of man to expect better to himself.
+* 10+++.+++ Testimonies of several writers in vindication of us.
+* 11+++.+++ The Author`'s convictions; and his exhortation to his reader.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ There is another piece of our nonconformity to the world,
 that renders us very clownish to the breeding of it, and that is, thou for you,
 and that without difference or respect to persons:
@@ -23,6 +27,7 @@ though it is very probable height of mind, in some of those that blame us,
 will very hardly allow them to believe that the word reasonable
 is reconcileable with so silly a practice as this is esteemed.
 
+[.numbered]
 II. Words of themselves are but as so many marks set and
 employed for necessary and intelligible mediums,
 or means,
@@ -43,6 +48,7 @@ to ten men, as to say, you love, to one man?
 Or, why not, I love, for we love; and we love, instead of I love?
 Doubtless it is the same, though most improper, and in speech ridiculous.
 
+[.numbered]
 III.
 Our next reason is; if it be improper or uncivil speech, as termed by this vain age,
 how comes it that the Hebrew, Greek, and Roman authors, used in schools and universities,
@@ -53,6 +59,7 @@ Is it reasonable that children should be whipped at school for putting you for t
 as having made false Latin; and yet that we must be, though not whipped, reproached,
 and often abused, when we use the contrary propriety of speech?
 
+[.numbered]
 IV. But in the third place, it is neither improper nor uncivil, but much otherwise;
 because it is used in all languages, speeches, and dialects, and that through all ages.
 This is very plain: as for example, it was God`'s language when he first spake to Adam,
@@ -80,6 +87,7 @@ was doubtless the first reason for the distinction,
 so cannot that be justly disused till the reason be first removed;
 which can never be whilst two are in the world.
 
+[.numbered]
 V+++.+++ But this is not all;
 it was first ascribed in way of flattery to proud popes and emperors,
 imitating the heathens`' vain homage to their gods;
@@ -103,6 +111,7 @@ which is the same with madame in French.
 So prevalent hath pride and flattery been in all ages,
 the one to give and the other to receive respects, as they term it.
 
+[.numbered]
 VI. But some will tell us, custom should rule us; and that is against us.
 But it is easily answered, and more truly,
 that though in things reasonable or indifferent, custom is obliging or harmless,
@@ -121,6 +130,7 @@ but to use the same word for one and many, when there are two,
 and that only to please a proud and haughty humour in man,
 is not reasonable in our sense: which we hope is Christian, though not modish.
 
+[.numbered]
 VII.
 But if thou to a single person be improper or uncivil, God himself,
 all the holy fathers and prophets, Christ Jesus, and his apostles, the primitive saints,
@@ -137,6 +147,7 @@ Read of each in Chaucer, Spenser, Waller, Cowley, Dryden, etc.
 Why then should it be so homely, ill-bred, and insufferable in us?
 This, I conceive, can never be answered.
 
+[.numbered]
 VIII.
 I doubt not at all that something altogether as singular
 attended the speech of Christ and his disciples:
@@ -164,6 +175,7 @@ which made Peter remember his dear suffering Lord`'s words: and he went forth,
 and wept bitterly; that he had denied his Master,
 who was then delivered up to die for him.
 
+[.numbered]
 IX. But our last reason is of most weight with me, and because argumentum ad hominem,
 it is most heavy with our despisers, which is this:
 it should not therefore be urged upon us,
@@ -236,14 +248,15 @@ the light of Christ in your own hearts will overrule it; and this Spirit,
 against which we testify, shall then appear to be what we say it is.
 Say not I am serious about slight things; but beware you of levity in serious things.
 
+[.numbered]
 X+++.+++ Before I close, I shall add a few testimonies from men of general credit,
 in favour of our nonconformity to the world in this particular.
 
 Luther, the great reformer, whose sayings were oracles with the age he lived in,
 and of no less reputation now, with many that object against us,
-was so far from condemning our plain speech, that in his Ludus,
+was so far from condemning our plain speech, that in his _Ludus,_
 he sports himself with you to a single person as an incongruous and ridiculous speech,
-viz. Magister, vos estis iratus?
+viz. _Magister, vos estis iratus?_
 Master, are you angry?
 As absurd with him in Latin, as My masters, art thou angry?
 is in English.
@@ -284,6 +297,7 @@ knowing assuredly, that "`for every idle word that men shall speak,
 they shall give account thereof in the day of judgment.`"^
 footnote:[Matt. 12:36.]
 
+[.numbered]
 XI. Wherefore, reader, whether thou art a night-walking Nicodemus, or a scoffing scribe;
 one that would visit the blessed Messiah, but in the dark customs of the world,
 that thou mightest pass as undiscerned, for fear of bearing his reproachful cross;
@@ -359,3 +373,5 @@ whether it be the spirit of the world or of the Father, that is so angry with ou
 plain, and harmless thou and thee:
 that so every plant that God our heavenly Father hath not
 planted in the sons and daughters of men may be rooted up.
+
+====
