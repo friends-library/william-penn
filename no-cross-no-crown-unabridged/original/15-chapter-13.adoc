@@ -619,10 +619,8 @@ than that which was given it by one line of Ovid`'s:
 
 [verse]
 ____
-_-- Multa_
-
 // lint-disable invalid-characters "æ"
-_Luxuriæ desunt, omnia avaritiæ._
+_Multa luxuriæ desunt, omnia avaritiæ._
 ____
 
 [.offset]
@@ -641,11 +639,8 @@ This is just his antipode, who having all things, yet hath nothing.
 [verse]
 ____
 And O! what man`'s condition can be worse
-
 Than his, whom plenty starves, and blessings curse?
-
 The beggars but a common fate deplore,
-
 The rich poor man`'s emphatically poor.
 ____
 
