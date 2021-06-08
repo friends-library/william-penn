@@ -1,19 +1,33 @@
 == Chapter XIII.
 
-1+++.+++ Avarice, the second capital lust,
-its definition and distinction.--2. It consists in a desire
-of unlawful things.--3. As in David`'s case about Uriah`'s
-wife.--4. Also Ahab`'s about Naboth`'s vineyard.--5. Next,
-in unlawful desires of lawful things.--6. Covetousness is a mark of false prophets.--7.
-A reproach to religion.--8. An enemy to government.--9. Treacherous.--10. Oppressive.--11.
-Judas an example.--12. So Simon Magus.--13. Lastly,
-in unprofitable hoarding of money.--14. The covetous man a common
-evil.--15. His hypocrisy.--16. Gold his god.--17. He is sparing,
-to death.--18. Is reproved by Christ and his followers.--19. Ananias`'
-and Sapphira`'s sin and judgment.--20. William Tindall`'s discourse on
-that subject referred unto.--21. Peter Charron`'s testimony against it.--22.
-Abraham Cowley`'s witty and sharp satire upon it.
+[.chapter-synopsis]
+* 1+++.+++ Avarice, the second capital lust, its definition and distinction.
+* 2+++.+++ It consists in a desire of unlawful things.
+* 3+++.+++ As in David`'s case about Uriah`'s wife.
+* 4+++.+++ Also Ahab`'s about Naboth`'s vineyard.
+* 5+++.+++ Next, in unlawful desires of lawful things.
+* 6+++.+++ Covetousness is a mark of false prophets.
+* 7+++.+++ A reproach to religion.
+* 8+++.+++ An enemy to government.
+* 9+++.+++ Treacherous.
+* 10+++.+++ Oppressive.
+* 11+++.+++ Judas an example.
+* 12+++.+++ So Simon Magus.
+* 13+++.+++ Lastly,in unprofitable hoarding of money.
+* 14+++.+++ The covetous man a common evil.
+* 15+++.+++ His hypocrisy.
+* 16+++.+++ Gold his god.
+* 17+++.+++ He is sparing, to death.
+* 18+++.+++ Is reproved by Christ and his followers.
+* 19+++.+++ Ananias`' and Sapphira`'s sin and judgment.
+* 20+++.+++ William Tindall`'s discourse on that subject referred unto.
+* 21+++.+++ Peter Charron`'s testimony against it.
+* 22+++.+++ Abraham Cowley`'s witty and sharp satire upon it.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ I am come to the second part of this discourse, which is avarice, or covetousness,
 an epidemic and a raging distemper in the world,
 attended with all the mischiefs that can make men miserable in themselves,
@@ -35,6 +49,7 @@ that the working of the love of riches out of the hearts of people,
 is as much the business of the cross of Christ,
 as the rooting out of any one sin that man is fallen into.
 
+[.numbered]
 II. And first, of desiring, or coveting of unlawful things:
 it is expressly forbidden by God himself,
 in the law He delivered to Moses upon Mount Sinai,
@@ -54,6 +69,7 @@ Therefore was it said of old,
 We have many remarkable instances of this in Scripture;
 two of which I will briefly report.
 
+[.numbered]
 III.
 David, though otherwise a good man, by unwatchfulness is taken;
 the beauty of Uriah`'s wife was too hard for him, being disarmed,
@@ -89,6 +105,7 @@ the law was not his lamp and light, at that instant; he was a wanderer from his 
 his strong tower, and so surprised: then and there it was the enemy met him,
 and vanquished him.
 
+[.numbered]
 IV. The second instance is that of Naboth`'s vineyard:^
 footnote:[1 Kings, xxi.]
 it was coveted by Ahab and Jezebel: that, which led them to such an unlawful desire,
@@ -116,6 +133,7 @@ that will yet exclaim against the iniquity of this part of covetousness;
 and by their seeming abhorrence of it, would excuse themselves of all guilt in the rest:
 let us consider that.
 
+[.numbered]
 V+++.+++ The next,
 and most common part of covetousness is the unlawful desire of lawful things;
 especially of riches.
@@ -184,6 +202,7 @@ and many foolish and hurtful lusts.
 O man of God,`" saith he to his beloved friend Timothy, "`flee these things,
 and follow after righteousness, faith, patience, and meekness,`"
 
+[.numbered]
 VI. Peter was of the same mind;
 for he maketh covetousness to be one of the great marks of the
 false prophets and teachers that should arise among Christians,
@@ -205,6 +224,7 @@ if they may:
 they live not with that dependence and regard to Providence to which they are exhorted,
 nor is godliness, with content, great gain to them.
 
+[.numbered]
 VII.
 And truly it is a reproach to a man, especially to a religious man,
 that he knows not when he hath enough; when to leave off; when to be satisfied:
@@ -246,6 +266,7 @@ be not from the love of money in those that have ten times more than they began 
 and much more than they spend or need,
 I know not what testimony man can give of his love for anything.
 
+[.numbered]
 VIII.
 To conclude: It is an enemy to government in magistrates; for it tends to corruption.
 Wherefore those that God ordained were such as feared Him and hated covetousness.
@@ -262,6 +283,7 @@ and to give the old time to think of leaving this world well,
 in which they have been so busy, that they might obtain a share in the other,
 of which they have been so careless.
 
+[.numbered]
 IX. There is yet another mischief to government;
 for covetousness leads men to abuse and defraud it,
 by concealing or falsifying the goods they deal in:
@@ -270,6 +292,7 @@ so as to avoid the payment of dues, or owning the goods of enemies for gain;
 or that they are not well made, or full of measure;
 with abundance of that sort of deceit.
 
+[.numbered]
 X+++.+++ But covetousness has caused destructive feuds in families;
 for estates falling into the hands of those whose avarice has put them
 upon drawing greater profit to themselves than was consistent with justice,
@@ -277,6 +300,7 @@ has given birth to much trouble, and caused great oppression; it too often falli
 that such executors have kept the right owners out
 of possession with the money they should pay them.
 
+[.numbered]
 XI. But this is not all; for covetousness betrays friendship;
 a bribe cannot be better placed to do an ill thing, or undo a man.
 Nay, it is too often a murderer both of soul and body; of the soul,
@@ -316,6 +340,7 @@ if He rule not, and be not above all beloved in you, ye are reprobates:
 in an undone condition!^
 footnote:[2 Cor. 13:5.]
 
+[.numbered]
 XII.
 The other covetous man is Simon the sorcerer, a believer too:
 but his faith could not go deep enough for covetousness.^
@@ -339,6 +364,7 @@ be so lavish in their tables, houses, furniture, apparel, and gaming,
 there would be no such temptation to covet earnestly after what they could not spend:
 for there is but here and there a miser that loves money for money`'s sake.
 
+[.numbered]
 XIII.
 Which leads to the last and basest part of covetousness, which is yet the most sordid,
 to wit, hoarding up, or keeping money unprofitably, both to others and themselves too.
@@ -370,6 +396,7 @@ for this man`'s talents are hid in his bags out of sight, in vaults, under board
 behind wainscots: else upon bonds and mortgages, growing but as underground;
 for it is good to none.
 
+[.numbered]
 XIV.
 The covetous man hates all useful arts and sciences as vain,
 lest they should cost him something the learning:
@@ -378,6 +405,7 @@ He lets houses fall, to prevent the charge of repairs: and for his spare diet,
 plain clothes, and mean furniture, he would place them to the account of moderation.
 O monster of a man! that can take up the cross for covetousness, and not for Christ.
 
+[.numbered]
 XV. But he pretends negatively to some religion too; for he always rails at prodigality,
 the better to cover his avarice.
 If you would bestow a box of spikenard on a good man`'s head; to save money,
@@ -387,6 +415,7 @@ or the causes of his poverty,
 or that he can bestow his money upon those that deserve it better;
 who rarely opens his purse till quarter-day for fear of losing it.
 
+[.numbered]
 XVI.
 But he is more miserable than the poorest; for he enjoys not what he yet fears to lose;
 they fear not what they do not enjoy.
@@ -395,6 +424,7 @@ but he is wretched that hungers with money in a cook`'s shop:
 yet having made a god of his gold, who knows,
 but he thinks it unnatural to eat what he worships?
 
+[.numbered]
 XVII.
 But, which aggravates this sin, I have myself once known some,
 that to get money have wearied themselves into the grave;
@@ -402,6 +432,7 @@ and to be true to their principle, when sick would not spare a fee to a doctor,
 to help the poor slave to live; and so died to save charges:
 a constancy that canonizes them martyrs for money.
 
+[.numbered]
 XVIII.
 But now let us see what instances the Scripture will give
 us in reproof of the sordid hoarders and hiders of money.
@@ -429,6 +460,7 @@ What! none in the heavens?
 No, unless you become willing to be poor men, can resign all, live loose to the world,
 have it at arm`'s end, yea, under foot; a servant, and not a master.
 
+[.numbered]
 XIX.
 The other instance is a very dismal one too: it is that of Ananias and Sapphira.
 In the beginning of the apostolical times,
@@ -485,11 +517,12 @@ and the world to us; that, like the days of paradise,
 the earth might again be the footstool, and the treasure of the earth a servant,
 and not a god to man!--Many have written against this vice; three I will mention.
 
+[.numbered]
 XX. William Tindall, that worthy apostle of the English reformation,
-has an entire discourse, to which I refer the reader, entitled,
-The Parable of the Wicked Mammon.
+has an entire discourse, to which I refer the reader, entitled, [.book-title]#The Parable of the Wicked Mammon.#
 The next is--
 
+[.numbered]
 XXI.
 Peter Charron, a famous Frenchman, and in particular for the book he wrote of wisdom,
 hath a chapter against covetousness; part of which take as followeth:
@@ -556,6 +589,7 @@ My next testimony is yielded by an author not unlikely
 to take with some sort of people for his wit;
 may they equally value his morality, and the judgment of his riper time.
 
+[.numbered]
 XXII.
 Abraham Cowley, a witty and ingenious man, yieldeth us the other testimony:
 of avarice he writeth thus: "`There are two sorts of avarice,
@@ -583,27 +617,32 @@ as we say, every stone to fling at it;
 among which I do not remember a finer correction
 than that which was given it by one line of Ovid`'s:
 
-Multa
-
+[verse]
+____
 // lint-disable invalid-characters "æ"
-Luxuriæ desunt, omnia avaritiæ.
+_Multa luxuriæ desunt, omnia avaritiæ._
+____
 
+[.offset]
 Which is,
 
+[verse]
+____
 Much is wanting to luxury, all to avarice.
+____
 
 To which saying I have a mind to add one member, and render it thus: poverty wants some,
 luxury many, avarice all things.
 Somebody saith of a virtuous and wise man that having nothing, he hath all.
 This is just his antipode, who having all things, yet hath nothing.
 
+[verse]
+____
 And O! what man`'s condition can be worse
-
 Than his, whom plenty starves, and blessings curse?
-
 The beggars but a common fate deplore,
-
 The rich poor man`'s emphatically poor.
+____
 
 "`I wonder how it cometh to pass, that there hath never been any law made against him:
 against him do I say?
@@ -621,3 +660,5 @@ I might be endless against them,
 but I am almost choked with the superabundance of the matter.
 Too much plenty impoverisheth me, as it doth them.`"
 Thus much against avarice, that moth of the soul, and canker of the mind.
+
+====

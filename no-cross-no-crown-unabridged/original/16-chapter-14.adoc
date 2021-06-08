@@ -1,18 +1,21 @@
 == Chapter XIV.
 
-1+++.+++ Luxury, what it is, and the mischief of it to mankind.
-An enemy to the cross of Christ.--2. Of luxury in diet, how unlike Christ,
-and contrary to Scripture.--3. The mischief it does to the bodies,
-as well as the minds of people.--4. Of luxury in the excess of apparel,
-and of recreations; that sin brought the first coat:
-people not to be proud of the badge of their misery.--5. The recreations of the times,
-enemies to virtue: they rise from degeneracy.--6. The end of clothes allowable;
-the abuse reprehended.--7. The chief recreation of good men of old was to serve God,
-and do good to mankind, and follow honest vocations,
-not vain sports and pastimes.--8. The Heathen knew and did better things.
-The sobriety of infidels above Christians.--9. Luxury condemned in the case of the rich
-man.--10. The doctrine of the Scripture positively against a voluptuous life.
+[.chapter-synopsis]
+* 1+++.+++ Luxury, what it is, and the mischief of it to mankind. An enemy to the cross of Christ.
+* 2+++.+++ Of luxury in diet, how unlike Christ, and contrary to Scripture.
+* 3+++.+++ The mischief it does to the bodies, as well as the minds of people.
+* 4+++.+++ Of luxury in the excess of apparel, and of recreations; that sin brought the first coat: people not to be proud of the badge of their misery.
+* 5+++.+++ The recreations of the times, enemies to virtue: they rise from degeneracy.
+* 6+++.+++ The end of clothes allowable; the abuse reprehended.
+* 7+++.+++ The chief recreation of good men of old was to serve God, and do good to mankind, and follow honest vocations, not vain sports and pastimes.
+* 8+++.+++ The Heathen knew and did better things. The sobriety of infidels above Christians.
+* 9+++.+++ Luxury condemned in the case of the rich man.
+* 10+++.+++ The doctrine of the Scripture positively against a voluptuous life.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ I am now come to the other extreme, and that is luxury,
 which is an excessive indulgence of self, in ease and pleasure.
 This is the last great impiety struck at in this discourse of the holy cross of Christ,
@@ -53,6 +56,7 @@ Him that laid down his life for the love of them.
 Or that He will give them a place in heaven, that refuse Him any in their hearts on earth.
 But let us examine luxury in all its parts.
 
+[.numbered]
 II. Luxury has many parts; the first that is forbidden by the self-denying Jesus,
 is gluttony, "`Take no thought, saying, What shall we eat,
 or what shall we drink?--for after these things do the Gentiles seek:`"^
@@ -133,6 +137,7 @@ O blessed men!
 O blessed spirits!
 Let my soul dwell with yours forever.
 
+[.numbered]
 III.
 But the diseases which luxury begets and nourishes, make it an enemy to mankind:
 for besides the mischief it brings to the souls of people, it undermines health,
@@ -148,6 +153,7 @@ and so forgetters of God: but which is sad, and yet just,
 the end of those that forget God, is to be turned into hell.^
 footnote:[Ps. 9:19.]
 
+[.numbered]
 IV. But there is another part of luxury that has great place with vain man and woman,
 and that is the gorgeousness of apparel, one of the most foolish, because most costly,
 empty, and unprofitable excesses people can well be guilty of.
@@ -194,6 +200,7 @@ are invented on purpose to excite lust:
 which still puts them at a greater distance from a simple and harmless state,
 and enslaves their minds to base concupiscence.
 
+[.numbered]
 V+++.+++ Nor is it otherwise with recreations, as they call them; for these are nearly related.
 Man was made a noble, rational, grave creature; his pleasure stood in his duty,
 and his duty in obeying God: which is to love, fear, adore, and serve Him;
@@ -236,6 +243,7 @@ for none but those who are led by the Spirit of God are the children of God,^
 footnote:[Rom. 8:14; Gal. 5:23.]
 which guides into all temperance and meekness.
 
+[.numbered]
 VI. But the Christian world, as it would be called, is justly reprovable,
 because the very end of the first institution of apparel is grossly perverted.
 The utmost service that clothes originally were designed for,
@@ -251,6 +259,7 @@ only for the sake of other curiosities that must be tacked upon them,
 although they neither fence from cold, nor distinguish sexes;
 but signally display their wanton, fantastic, full-fed minds, that have them.
 
+[.numbered]
 VII.
 Then the recreations were to serve God, be just, follow their vocations,
 mind their flocks, do good,
@@ -271,6 +280,7 @@ as are such inventions of the care and pleasure of men!
 It is a mark of great stupidity that such vanities should exercise the noble mind of man,
 and image of the great Creator of heaven and earth.
 
+[.numbered]
 VIII.
 Of this many among the very Heathens of old had so
 clear a prospect that they detested all such vanity,
@@ -312,6 +322,7 @@ are repugnant to the duty, reason, and true pleasure of man,
 and absolutely in consistent with that wisdom, knowledge, manhood, temperance, industry,
 which render man truly noble and good.
 
+[.numbered]
 IX. Again these things, which have been hitherto condemned,
 have never been the conversation or practice of the holy men and women of old times,
 whom the Scriptures recommend for holy examples, worthy of imitation.
@@ -371,6 +382,7 @@ In short, Lazarus was a good man, the other a great man: the one poor and temper
 the other rich and luxurious: there are too many of them alive; and it were well,
 if his doom might awaken them to repentance.
 
+[.numbered]
 X+++.+++ Nor were the twelve apostles, the immediate messengers of the Lord Jesus Christ,
 other than poor men, one a fisherman, another a tent-maker;
 and he that was of the greatest, though perhaps not the best employment,
@@ -402,3 +414,5 @@ who having obtained a good report, and entered into their eternal rest;
 therefore their works follow, and praise them in the gates.^
 footnote:[Rom. 14:17; Heb. 11:2; iv.
 9; Rev. 14:13.]
+
+====

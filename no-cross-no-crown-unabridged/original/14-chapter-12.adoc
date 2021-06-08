@@ -1,15 +1,22 @@
 == Chapter XII.
 
-1+++.+++ The character of a proud man: a glutton upon himself:
-is proud of his pedigree.--2. He is insolent and quarrelsome, but cowardly,
-yet cruel.--3. An ill child, subject,
-and servant.--4. Inhospitable.--5. No friend to any.--6.
-Dangerous and mischievous in power.--7. Of all things,
-pride bad in ministers.--8. They claim prerogative
-above others.--9. And call themselves the clergy:
-their lordliness and avarice.--10. Death swallows
-all.--11. The way to escape these evils.
+[.chapter-synopsis]
+* 1+++.+++ The character of a proud man: a glutton upon himself: is proud of his pedigree.
+* 2+++.+++ He is insolent and quarrelsome, but cowardly, yet cruel.
+* 3+++.+++ An ill child, subject, and servant.
+* 4+++.+++ Inhospitable.
+* 5+++.+++ No friend to any.
+* 6+++.+++ Dangerous and mischievous in power
+* 7+++.+++ Of all things, pride bad in ministers.
+* 8+++.+++ They claim prerogative above others.
+* 9+++.+++ And call themselves the clergy: their lordliness and avarice.
+* 10+++.+++ Death swallows all.
+* 11+++.+++ The way to escape these evils.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ To conclude this great head of pride, let us briefly see, upon the whole matter,
 what is the character of a proud man in himself, and in divers relations and capacities.
 A proud man then is a kind of glutton upon himself;
@@ -26,6 +33,7 @@ much less will he trouble himself to imitate them.
 He can tell you of his pedigree, his antiquity, what estate, what matches;
 but forgets that they are gone, and that he must die too.
 
+[.numbered]
 II. But how troublesome a companion is a proud man!
 Ever positive and controlling; and if you yield not, insolent and quarrelsome:
 yet at the upshot of the matter, cowardly: but if strongest, cruel.
@@ -39,6 +47,7 @@ than be ready to commiserate or relieve them.
 So that compassion and charity are with him as useless
 as humility and meekness are hateful.
 
+[.numbered]
 III.
 A proud man makes an ill child, servant, and subject; he contemns his parents, master,
 and prince; he will not be subject.
@@ -57,6 +66,7 @@ Thus pride destroys the nature of relations: on the one side, learns to contemn 
 and on the other side, it turns love into fear, and makes the wife a servant,
 and the children and servants slaves.
 
+[.numbered]
 IV. But the proud man makes an ill neighbour too; for he is an enemy to hospitality:
 he despises to receive kindness, because he would not show any,
 nor be thought to need it.
@@ -74,6 +84,7 @@ A small thing serves a proud man to pick a quarrel; of all creatures the most je
 sullen, spiteful and revengeful: he can no more forgive an injury,
 than forbear to do one.
 
+[.numbered]
 V+++.+++ Nor is this all: a proud man can never be a friend to anybody.
 For besides that his ambition may always be bribed
 by honour and preferment to betray that relation,
@@ -86,11 +97,12 @@ his mighty soul would know nothing besides himself and vassals to stock the worl
 He values other men, as we do cattle, for their service only; and, if he could,
 would use them so; but as it happens, the number and force are unequal.
 
+[.numbered]
 VI. But a proud man in power is very mischievous;
 for his pride is the more dangerous by his greatness, since from ambition in private men,
 it becomes tyranny in him: it would reign alone; nay live so,
 // lint-disable invalid-characters "æ"
-rather than have competitors: aut Cæsar, aut nullus.
+rather than have competitors: _aut Cæsar, aut nullus._
 Reason must not check it, nor rules of law limit it; and either it can do no wrong,
 or it is sedition to complain of the wrong that it does.
 The men of this temper would have nothing thought amiss they do; at least,
@@ -108,6 +120,7 @@ and are almost ever destroyed by it.
 This is the end pride gives proud men, and the ruin it brings upon them,
 after it has punished others by them.
 
+[.numbered]
 VII.
 But above all things, pride is intolerable in men pretending to religion;
 and of them in ministers; for they are names of the greatest contradiction.
@@ -135,6 +148,7 @@ which indeed exposes him but the more to it: and therefore his fault cannot be t
 by how much it is worse in a minister to do ill, and spurn at reproof,
 than an ordinary man.
 
+[.numbered]
 VIII.
 O, but he pleads an exemption by his office: what!
 Shall he breed up chickens to pick out his own eyes!
@@ -172,9 +186,10 @@ which they are only servants unto.
 Remember the words of Christ, "`Let him that would be greatest be your servant.`"^
 footnote:[Matt. 20:26.]
 
+[.numbered]
 IX. There is but one place to be found in the Holy Scripture,
 // lint-disable invalid-characters "κλήρυς"
-where the word Clerus (κλήρυς), can properly be applied to the church,
+where the word _Clerus_ (κλήρυς), can properly be applied to the church,
 and they have got it to themselves; from whence they call themselves the clergy, that is,
 the inheritance or heritage of God.
 Whereas Peter exhorts the ministers of the gospel,
@@ -201,6 +216,7 @@ footnote:[Isa. 55:2.]
 And why?
 Because then the priest had no vision; and too many now despise it.
 
+[.numbered]
 X+++.+++ But alas! when all is done, what folly, as well as irreligion, is there in pride!
 It cannot add one cubit to any man`'s stature: what crosses can it hinder?
 What disappointments help, or harm frustrate?
@@ -218,6 +234,7 @@ Titles of honour vanish at this extremity; and no power or wealth,
 no distance or respect, can rescue or insure them.
 As the tree falls, it lies; and as death leaves men, judgment finds them.
 
+[.numbered]
 XI. O! what can prevent this ill conclusion?
 And what can remedy this woeful declension from ancient meekness, humility, and piety,
 and that godly life and power which were so conspicuous in the
@@ -273,3 +290,5 @@ by the apostle, doth express it, in a new and living way,^
 footnote:[Heb. 10:19-20.]
 which Jesus had consecrated, that brings all that walk in it to the eternal rest of God:
 whereunto He himself is entered, who is the holy and only blessed Redeemer.
+
+====
