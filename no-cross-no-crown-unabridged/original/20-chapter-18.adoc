@@ -1,30 +1,22 @@
 == Chapter XVIII.
 
-1+++.+++ But if these customs, etc. were but indifferent,
-yet being abused they deserve to be rejected.--2.
-The abuse is acknowledged by those that use them,
-therefore should leave them.--3. Such as pretend to seriousness
-should exemplarily withdraw from such latitudes:
-a wise parent weans his child of what it dotes too much upon;
-and we should watch over ourselves and neighbours.--4. God,
-in the case of the brazen serpent,
-etc. gives us an example to put away the use of abused
-things.--5. If these things were sometimes convenient,
-yet when their use is prejudicial in example,
-they should be disused.--6. Such as yet proceed to love
-their unlawful pleasures more than Christ and his cross;
-the mischief they have brought to persons and estates,
-bodies and souls.--7. Ingenuous people know this to be true:
-an appeal to God`'s witness in the guilty: their state,
-that of Babylon.--8. But temperance in food, and plainness in apparel,
-and sober conversation conduce most to good:
-so the apostle teaches in his epistles.--9. Temperance enriches a land:
-it is a political good, as well as a religious one,
-in all governments.--10. When people have done their duty to God,
-it will be time enough to think of pleasing themselves.--11.
-An address to the magistrates and all people,
-how to convert their time and money to better purposes.
+[.chapter-synopsis]
+* 1+++.+++ But if these customs, etc. were but indifferent, yet being abused they deserve to be rejected.
+* 2+++.+++ The abuse is acknowledged by those that use them, therefore should leave them.
+* 3+++.+++ Such as pretend to seriousness should exemplarily withdraw from such latitudes: a wise parent weans his child of what it dotes too much upon; and we should watch over ourselves and neighbours.
+* 4+++.+++ God, in the case of the brazen serpent, etc. gives us an example to put away the use of abused things.
+* 5+++.+++ If these things were sometimes convenient, yet when their use is prejudicial in example, they should be disused.
+* 6+++.+++ Such as yet proceed to love their unlawful pleasures more than Christ and his cross; the mischief they have brought to persons and estates, bodies and souls.
+* 7+++.+++ Ingenuous people know this to be true: an appeal to God`'s witness in the guilty: their state, that of Babylon.
+* 8+++.+++ But temperance in food, and plainness in apparel, and sober conversation conduce most to good: so the apostle teaches in his epistles.
+* 9+++.+++ Temperance enriches a land: it is a political good, as well as a religious one, in all governments.
+* 10+++.+++ When people have done their duty to God, it will be time enough to think of pleasing themselves.
+* 11+++.+++ An address to the magistrates and all people, how to convert their time and money to better purposes.
 
+[.numbered]
+====
+
+[.numbered]
 I+++.+++ But should these things be as indifferent, as they are proved perniciously unlawful;
 for I never heard any advance their plea beyond the bounds of mere indifferency;
 yet so great is their abuse, so universal the sad effects thereof, like to an infection,
@@ -42,6 +34,7 @@ a perfect abuse enters;
 and consequently they are no longer to be considered in the rank of things simply indifferent,
 but unlawful.
 
+[.numbered]
 II. Now that the whole exchange of things, against which I have so earnestly contended,
 are generally abused by the excess of almost all ages, sexes, and qualities of people,
 will be confessed by many, who yet decline not to conform themselves to them;
@@ -60,6 +53,7 @@ because they find persons reputed sober to imitate them,
 or otherwise give them an example.
 Precepts are not half so forcible as examples.
 
+[.numbered]
 III.
 Every one that pretends to seriousness ought to inspect himself,
 as having been too forward to help on the excess,
@@ -81,6 +75,7 @@ For every man is necessarily obliged thereto;
 and therefore should be so wise as to deny himself the use of such indifferent enjoyments
 as cannot be used by him without too manifest an encouragement to his neighbour`'s folly.
 
+[.numbered]
 IV. God hath sufficiently excited men to what is said;
 for in the case of the brazen serpent,
 which was a heavenly institution and type of Christ,
@@ -94,6 +89,7 @@ And what is an idol but that which the mind puts an over-estimate or value upon?
 None can benefit themselves so much by an indifferent
 thing as others by not using that abused liberty.
 
+[.numbered]
 V+++.+++ If those things were convenient in themselves,
 which is a step nearer necessity than mere indifferency,
 yet when by circumstances they become prejudicial,
@@ -116,6 +112,7 @@ The other obligation is, that they ought so far to condescend to such religious 
 who are offended at these fashions, and that kind of conversation as to reject them.^
 footnote:[Rom. 14:1, to the end.]
 
+[.numbered]
 VI. Now those who, notwithstanding what I have urged, will yet proceed;
 what is it but that they have so involved themselves and their affections in them,
 that it is hardly possible to reform them;
@@ -137,6 +134,7 @@ but are no sooner out of it, than in their vice again.^
 footnote:[Lam. 4:5; Job 21:13-14; Ps. 55:23; xxxvii.
 10; Ecc. 8:12; Ps. 37:1-2; Prov. 2:22.]
 
+[.numbered]
 VII.
 That these things are the case, and almost innumerable more,
 I am persuaded no ingenuous person of any experience will deny: how then,
@@ -199,6 +197,7 @@ where nothing can break through to harm them;
 but where time shall shortly be swallowed up of eternity.^
 footnote:[Luke 12:33-34.]
 
+[.numbered]
 VIII.
 But my arguments against these things end not here:
 for the contrary most of all conduces to good; namely, temperance in food,
@@ -234,6 +233,7 @@ for they laid their treasure up in heaven,^
 footnote:[Matt. 25:21.]
 and endured tribulation for an inheritance that cannot be taken away.
 
+[.numbered]
 IX. But the temperance I plead for is not only religiously but politically good:
 it is the interest of good government to curb and rebuke excesses:
 it prevents many mischiefs.
@@ -266,6 +266,7 @@ and choose the good old path of temperance, wisdom, gravity, and holiness,
 the only way to inherit the blessings of peace and plenty here,
 and eternal happiness hereafter.
 
+[.numbered]
 X+++.+++ Lastly,
 supposing we had none of these foregoing reasons justly
 to reprove the practice of the land in these particulars;
@@ -309,6 +310,7 @@ Viii.
 Acts 10:34; Rom. 2:11; Eph. 6:9; Col. 3:25; 1 Pet. 1:17; James 5:4-5;
 Ps. 41:1; Matt. 25:34-36; James 2:15-16; Ps. 112:9.]
 
+[.numbered]
 XI. I therefore humbly offer an address to the serious consideration of the civil magistrate,
 that,
 if the money which is expended in every parish in such vain fashions as wearing of laces,
@@ -392,3 +394,5 @@ Amen.
 
 [.the-end]
 End of Part I.
+
+====
