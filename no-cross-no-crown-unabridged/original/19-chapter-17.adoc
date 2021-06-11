@@ -1,26 +1,23 @@
 == Chapter XVII.
 
-1+++.+++ The customs, fashions, etc. which make up the attire and pleasure of the age,
-are enemies to inward retirement.--2. Their end is
-to gratify lust.--3. Had they been solid,
-Adam and Eve had not been happy,
-that never had them.--4. But the confidence and presumption of Christians,
-as they would be called,
-in the use of them is abominable.--5. Their authors further condemn them,
-who are usually loose and vain people.--6. Mostly borrowed of the Gentiles,
-that knew not God.--7. An objection of their usefulness considered and answered,
-and the objectors reproved.--8. The best heathens abhorring what pretended Christians
-plead for.--9. The use of these things encourages the authors and makers of them
-to continue in them.--10. The objection of the maintenance of families answered.
-None must do evil, that good should follow:
-but better employments may be found more serviceable
-to the world.--11. Another objection answered:
-GOD no author of their inventions,
-and so not excusable by his institution.--12. People
-pleading for these vanities show what they are.
-An exhortation to the weighty and considerate.
-A great part of the way to true discipleship, is to abandon the school and shop of Satan.
+[.chapter-synopsis]
+* 1+++.+++ The customs, fashions, etc. which make up the attire and pleasure of the age, are enemies to inward retirement.
+* 2+++.+++ Their end is to gratify lust.
+* 3+++.+++ Had they been solid, Adam and Eve had not been happy, that never had them.
+* 4+++.+++ But the confidence and presumption of Christians, as they would be called, in the use of them is abominable.
+* 5+++.+++ Their authors further condemn them, who are usually loose and vain people.
+* 6+++.+++ Mostly borrowed of the Gentiles, that knew not God.
+* 7+++.+++ An objection of their usefulness considered and answered, and the objectors reproved.
+* 8+++.+++ The best heathens abhorring what pretended Christians plead for.
+* 9+++.+++ The use of these things encourages the authors and makers of them to continue in them.
+* 10+++.+++ The objection of the maintenance of families answered. None must do evil, that good should follow: but better employments may be found more serviceable to the world.
+* 11+++.+++ Another objection answered: GOD no author of their inventions, and so not excusable by his institution.
+* 12+++.+++ People pleading for these vanities show what they are. An exhortation to the weighty and considerate. A great part of the way to true discipleship, is to abandon the school and shop of Satan.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Next, those customs and fashions,
 which make up the common attire and conversation of the times,
 do eminently obstruct the inward retirement of people`'s minds,
@@ -83,6 +80,7 @@ footnote:[Prov. 7:10-21.]
 wandering so long abroad, till their lascivious actings bring night home,
 and load their minds and reputations with lust and infamy.
 
+[.numbered]
 II. Here is the end of all their fashions and recreations,
 to gratify the lust of the eye, the lust of the flesh, and the pride of life:^
 footnote:[1 John 2:15-16.]
@@ -98,6 +96,7 @@ that they are destructive of it.
 ^
 footnote:[Ecc. 12:1.]
 
+[.numbered]
 III.
 Were the pleasures of the age true and solid,
 Adam and Eve had been miserable in their innocency, who knew them not:
@@ -127,6 +126,7 @@ the toys, fopperies, and very vanities of this mortal life and perishing world,
 that please, that take, that gain them; on which they dote;
 and think they never have too much time, love, or money to bestow upon them!
 
+[.numbered]
 IV. Thus are their minds employed; and so vain are they in their imaginations,
 and dark in their understandings, that they not only believe them innocent,
 but persuade themselves they are good Christians all this while;
@@ -172,6 +172,7 @@ O! that they would ponder on these things, and watch against,
 and come out of all these vanities, for the coming of the Lord, lest being unprepared,
 and taken up with other guests, they enter not into his everlasting rest.
 
+[.numbered]
 V+++.+++ That which further manifests the unlawfulness
 of these numerous fashions and recreations is,
 that they are either the inventions of vain, idle, and wanton minds,
@@ -212,6 +213,7 @@ and eternal life.^
 footnote:[Eph. 5:1-5, 15, 16; 2 Tim. 2:16,22; Matt. 25:13; Phil. 2:12-13;
 Col. 3:1,2,5; Rom. 2:6-7.]
 
+[.numbered]
 VI. But if I were asked, Whence came they then?
 I could quickly answer, From the Gentiles, that knew not God;
 for some amongst them detested them, as will be shown;
@@ -269,8 +271,10 @@ is said to have been the first person that gave the world a sight of that kind o
 namely, love stories, and verses;
 which have been so diligently imitated by almost all nations ever since in their romances.
 
+[.discourse-part]
 Objection 2.
 
+[.numbered]
 VII.
 I know that some will say, But we have many comedies and tragedies, sonnets, catches,
 etc. that are on purpose to reprehend vice, from whence we learn many commendable things.
@@ -295,7 +299,7 @@ And this appears the rather, from the description given,
 as also that Euripides was supposed to have been torn in pieces by wanton women;
 which doubtless was for declaiming against their impudence:
 // lint-disable invalid-characters "æ"
-and the other being slain in the battle betwixt the Athenians and Lacedæmonians,
+and the other being slain in the battle betwixt the Athenians and _Lacedæmonians,_
 was so regretted, that a law was made,
 that never after such poets should be allowed to bear arms:
 doubtless it was because in losing him they lost a reprover of vice.
@@ -323,6 +327,7 @@ that at last you must betake yourselves to such instructors as were by the sober
 permitted to reclaim the most vicious of the people that were amongst them?
 And such remedies too as below which there is nothing but corporal punishment?
 
+[.numbered]
 VIII.
 This is so far from Christianity, that many of the nobler heathens, men and women,
 were better taught, and better disposed; they found out more heavenly contemplations,
@@ -330,7 +335,7 @@ and subjects of an eternal nature to meditate upon.
 Nay, so far did they outstrip the Christians of these times,
 that they not only were exemplary by their grave and sober conversation;
 // lint-disable invalid-characters "æ"
-but for their public benefit the Athenians instituted the Gynæcosmi, or twenty men,
+but for their public benefit the Athenians instituted the _Gynæcosmi,_ or twenty men,
 who should make it their business to observe the people`'s apparel and behaviour;
 that if any were found immodest, and to demean themselves loosely,
 they had full authority to punish them.
@@ -368,6 +373,7 @@ in vain are all your babbles and set performances, God laughs you to scorn;
 his anger is kindling because of these things: wherefore be ye warned to temperance,
 and repent.
 
+[.numbered]
 IX. Besides, this sort of people are not only wicked, loose, and vain,
 who both invent and act these things;
 but by your great delight in such vain inventions you encourage them therein,
@@ -384,8 +390,10 @@ and that perhaps before the former costly habits shall have done half their serv
 which either must be given away, or new vamped in the cut most à-la-mode.
 O prodigal, yet frequent folly!
 
+[.discourse-part]
 Objection 3.
 
+[.numbered]
 X+++.+++ I know I am coming to encounter the most plausible objection
 they are used to urge when driven to a pinch,
 viz. But how shall those many families subsist whose livelihood depends
@@ -438,8 +446,10 @@ to such intemperate and wanton curiosity: yea,
 to deny ourselves what otherwise perhaps we lawfully could use with a just indifferency,
 if not satisfaction; because of that abuse that is amongst the generality.
 
+[.discourse-part]
 Objection 4.
 
+[.numbered]
 XI. I know, that some are ready further to object:
 Hath God given us these enjoyments on purpose to condemn us, if we use them?
 Answer: But to such miserable, poor, silly souls,
@@ -509,6 +519,7 @@ that they might be regenerated in their minds, changed in their affections,
 and have their whole hearts set on things that are above,
 where moth nor rust can ever pass, or enter to harm or destroy.
 
+[.numbered]
 XII.
 But it is a manifest sign of what mold and make the persons
 are who practise and plead for such shameful Egyptian rags,
@@ -575,3 +586,5 @@ the crafty devil has not ever had, by which to entice and insnare the minds of p
 and totally to divert them from heavenly reflections and divine meditations,
 than the attire, sports, plays, and pastimes of this godless age,
 the school and shop of Satan, hitherto so reasonably condemned.
+
+====

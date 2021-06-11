@@ -1,22 +1,21 @@
 == Chapter XV.
 
-1+++.+++ The judgments of God denounced upon the Jews for their luxury;
-all ranks included.--2. Christ charges his disciples to have a care of the guilt of it:
-a supplication to the inhabitants of England.--3. Temperance pressed upon the
-churches by the apostles.--4. An exhortation to England to measure herself by
-that rule.--5. What Christian recreations are.--6. Who need other sports to pass
-away their time are unfit for heaven and eternity.--7. Man has but a few days:
-they may be better bestowed:
-this doctrine is ungrateful to none that would be truly blessed.--8.
-Not only good is omitted by this luxurious life,
-but evil committed, as breach of marriage and love, loss of health and estate, etc.
-Playhouses and stages most instrumental to this mischief.--9.
-How youth are by them inflamed to vanity:
-what mischief comes of revels, gamings, etc.
-Below the life of noble heathens.--10. The true disciples
-of Jesus are mortified in these things:
-the pleasure and reward of a good employment of time.
+[.chapter-synopsis]
+* 1+++.+++ The judgments of God denounced upon the Jews for their luxury; all ranks included.
+* 2+++.+++ Christ charges his disciples to have a care of the guilt of it: a supplication to the inhabitants of England.
+* 3+++.+++ Temperance pressed upon the churches by the apostles.
+* 4+++.+++ An exhortation to England to measure herself by that rule.
+* 5+++.+++ What Christian recreations are.
+* 6+++.+++ Who need other sports to pass away their time are unfit for heaven and eternity.
+* 7+++.+++ Man has but a few days: they may be better bestowed: this doctrine is ungrateful to none that would be truly blessed.
+* 8+++.+++ Not only good is omitted by this luxurious life, but evil committed, as breach of marriage and love, loss of health and estate, etc. Playhouses and stages most instrumental to this mischief.
+* 9+++.+++ How youth are by them inflamed to vanity: what mischief comes of revels, gamings, etc. Below the life of noble heathens.
+* 10+++.+++ The true disciples of Jesus are mortified in these things: the pleasure and reward of a good employment of time.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ But such excess in apparel and pleasure was not only forbidden in Scripture,
 but it was the ground of that lamentable message
 by the prophet Isaiah to the people of Israel:
@@ -67,6 +66,7 @@ for the greatest men to give themselves the liberty
 of following the vain customs of other nations;
 or of changing the usual end of clothes, or apparel, to gratify foolish curiosity!
 
+[.numbered]
 II. This did the Lord Jesus Christ expressly charge
 his disciples not to be careful about:
 insinuating that such as were could not be his disciples: for, says he,
@@ -118,6 +118,7 @@ It is lust, pride, avarice, that thrust men upon such folly:
 were God`'s kingdom more the exercise of their minds,
 these perishing entertainments would have but little of their time or thoughts.
 
+[.numbered]
 III.
 This self-denying doctrine was confirmed and enforced by the apostles in their example,
 as we have already shown; and in their precepts too,
@@ -175,6 +176,7 @@ walk circumspectly, not as fools, but as wise; redeeming the time,
 because the days are evil.`"^
 footnote:[Eph. 5:1,15-16.]
 
+[.numbered]
 IV. By this, measure yourselves, O inhabitants of this land,
 who think yourselves wronged, if not accounted Christians:
 see what proportion your life and spirit bear with
@@ -205,6 +207,7 @@ and all his followers; for hitherto we have plainly demonstrated,
 that no such way of living, as is in request among you of the land, ever was, or can be,
 truly Christian.
 
+[.numbered]
 V+++.+++ But the best recreation is to do good: and all Christian customs tend to temperance,
 and some good and beneficial end; which more or less may be in every action.^
 footnote:[1 Pet. 1:15; Heb. 10:25; 1 Pet. 4:9-11; Matt. 25:36-37;
@@ -243,6 +246,7 @@ till the hasty calls of death should summon their appearance in another world:
 yet do they think it intolerable, and hardly possible,
 for any to sit so long at a profitable or religious exercise.
 
+[.numbered]
 VI. But how do these think to pass their vast eternity away?
 "`For as the tree falls, so it lies.`"^
 footnote:[Ecc. 11:3.]
@@ -289,6 +293,7 @@ not allowing a quarter of that time toward the great
 concernment of their lives and souls,
 for which that time was given them.
 
+[.numbered]
 VII.
 There is but little need to drive away that, by foolish divertisements,
 which flies away so swiftly of itself; and when once gone, is never to be recalled.
@@ -326,6 +331,7 @@ I say, these resemble most necessary Christian qualifications,
 and what share they have therein,
 let their consciences tell them upon a serious inquiry in the cool of the day.
 
+[.numbered]
 VIII.
 But in the next place,
 such attire and pastimes do not only show the exceeding worldliness of people`'s inclinations,
@@ -337,7 +343,7 @@ money that might be employed for the general good, vainly expended,
 pleasure is taken in mere shame; lusts are gratified,
 the minds of the people alienated from heavenly things, and exercised about mere folly;
 // lint-disable invalid-characters "à"
-and men become acceptable by their trims and the à-la-modeness of their dress and apparel;
+and men become acceptable by their trims and the _à-la-modeness_ of their dress and apparel;
 from whence respect to persons doth so naturally arise,
 that to deny it is to affirm the sun shines not at noon-day;^
 footnote:[James 2:1-9.]
@@ -366,6 +372,7 @@ as will anon particularly be shown;
 and truly nothing but the excessive pleasure people
 take therein could blind their eyes from seeing it.
 
+[.numbered]
 IX. But lastly, the grand indisposition of mind in people to solid, serious,
 and heavenly meditations, by the almost continual,
 as well as pleasant rumination in their minds,
@@ -441,6 +448,7 @@ so the more they pretend to innocency the more they secure the
 minds of people in the common use of their evil consequences,
 that with a mighty confidence they can plead for them.
 
+[.numbered]
 X+++.+++ But as this is plainly not to deny themselves,^
 footnote:[1 John 2:15-17.]
 but on the contrary, to employ the vain inventions of carnal men and women,
@@ -462,3 +470,5 @@ and thereby justly entitled to present happiness, a sweet memorial with posterit
 as well as to a seat at his right hand, where there are joys and pleasures forever:^
 footnote:[Job 36:7; Ps. 5:12; Prov. 10:11-7.]
 than which there can be nothing more honourable, nothing more certain, world without end.
+
+====
