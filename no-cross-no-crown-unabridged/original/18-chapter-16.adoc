@@ -1,11 +1,16 @@
 == Chapter XVI.
 
-1+++.+++ Luxury should not be used by Christians,
-because of its inconsistency with the spirit of Christianity.--2. The
-cup of which Christ`'s true disciples drank.--3. O! who will drink of
-this cup!--4. An objection answered of the nature of God`'s kingdom,
-and what it stands in.--5. Of the frame of the spirit of Christ`'s followers.
+[.chapter-synopsis]
+* 1+++.+++ Luxury should not be used by Christians, because of its inconsistency with the spirit of Christianity.
+* 2+++.+++ The cup of which Christ`'s true disciples drank.
+* 3+++.+++ O! who will drink of this cup!
+* 4+++.+++ An objection answered of the nature of God`'s kingdom, and what it stands in.
+* 5+++.+++ Of the frame of the spirit of Christ`'s followers.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ But the luxury opposed in this discourse should not be allowed among Christians,
 because both that which invents it, delights in it, and pleads so strongly for it,
 is inconsistent with the true spirit of Christianity;
@@ -68,6 +73,7 @@ Ii 12; Heb. 12:28; James 2:5; John 15:14-15; Rom. 8:17; Heb. 2:11, ch.
 xii. 2. 1 Pet. 2:21; Luke 12:29-31; 2 Tim. 5:6; Matt. 19:27-29; Luke 6:22.
 ; John 15:10.]
 
+[.numbered]
 II. And therefore it was that He was pleased to give us, in his own example,
 a taste of what his disciples must expect to drink deeply of, namely,
 the cup of self-denial, cruel trials, and most bitter afflictions:
@@ -97,6 +103,7 @@ even the Lord Jesus Christ, bade them that would be his disciples take up the sa
 and follow Him.^
 footnote:[Luke 14:26-27, 33.]
 
+[.numbered]
 III.
 O who will follow Him!
 Who will be true Christians?
@@ -115,8 +122,10 @@ and exercise it from the divine principle of life,
 and freely write a bill of divorce for every beloved vanity; and all,
 under the Sun of Righteousness is so, compared with Him.
 
+[.discourse-part]
 Objection 1.
 
+[.numbered]
 IV. But some are ready to object, who will not seem to want Scripture for their lusts,
 although it be evidently misapplied.
 The kingdom of God stands not in meats, or in drinks, or in apparel, etc.
@@ -170,6 +179,7 @@ and those they were, and all true Christians are, to be redeemed from resting in
 but the things that are not seen are eternal; those they were,
 and all are to be brought to, and have their affections chiefly fixed upon.
 
+[.numbered]
 V+++.+++ Wherefore a true disciple of the Lord Jesus Christ is
 to have his mind so conversant about heavenly things,
 that the things of this world may be used as if they were not:
@@ -199,3 +209,5 @@ that when Christ shall appear, they might appear with Him in glory who is over a
 God blessed forever.^
 footnote:[Col. 3:1; Rom. 9:5.]
 Amen.
+
+====
