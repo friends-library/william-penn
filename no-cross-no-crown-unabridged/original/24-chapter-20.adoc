@@ -2,20 +2,31 @@
 
 === The doctrine and practice of the blessed Lord Jesus, and his Apostles; the primitive Christians, and those of more modern times, in favour of this discourse.
 
-1+++.+++ The Doctrine of Christ, from Matt. 5. about denial of self.--2. John the Baptist`'s
-example.--3. The testimonies of the apostle Peter,
-etc.--4. Paul`'s godly exhortation against pride, covetousness,
-and luxury.--5. The primitive Christians`' nonconformity to the world.--6.
-Clemens Romanus against the vanity of the Gentiles.--7. Machiavel,
-of the zeal of the primitive Christians.--8. Tertullian, Chrysostom,
-etc. on Matt. 12:36.--9. Gregory Nazianzen.--10. Jerom.--11. Ambrose.--12.
-Augustine.--13. Council of Carthage.--14. Cardan.--15. Gratian.--16. Cardan.--17.
-Waldenses.--18. What they understood by daily bread in the Lord`'s Prayer.--19.
-Their judgment concerning taverns.--20. Dancing,
-Music, etc.--21. An epistle of Bartholomew Tertian to the Waldensian churches,
-etc.--22. Their extreme suffering and faithfulness.
-Their degeneracy reproved, that call them their ancestors.--23. Paulinus, Bishop of Nola,
-relieving slaves and prisoners.--24. Acacius, Bishop of Amida, his charity to enemies.
+[.chapter-synopsis]
+* 1+++.+++ The Doctrine of Christ, from Matt. 5. about denial of self.
+* 2+++.+++ John the Baptist`'s example.
+* 3+++.+++ The testimonies of the apostle Peter, etc.
+* 4+++.+++ Paul`'s godly exhortation against pride, covetousness, and luxury.
+* 5+++.+++ The primitive Christians`' nonconformity to the world.
+* 6+++.+++ Clemens Romanus against the vanity of the Gentiles.
+* 7+++.+++ Machiavel, of the zeal of the primitive Christians.
+* 8+++.+++ Tertullian, Chrysostom, etc. on Matt. 12:36.
+* 9+++.+++ Gregory Nazianzen.
+* 10+++.+++ Jerom.
+* 11+++.+++ Ambrose.
+* 12+++.+++ Augustine.
+* 13+++.+++ Council of Carthage.
+* 14+++.+++ Cardan.
+* 15+++.+++ Gratian.
+* 16+++.+++ Cardan.
+* 17+++.+++ Waldenses.
+* 18+++.+++ What they understood by daily bread in the Lord`'s Prayer.
+* 19+++.+++ Their judgment concerning taverns.
+* 20+++.+++ Dancing, Music, etc.
+* 21+++.+++ An epistle of Bartholomew Tertian to the Waldensian churches, etc.
+* 22+++.+++ Their extreme suffering and faithfulness. Their degeneracy reproved, that call them their ancestors.
+* 23+++.+++ Paulinus, Bishop of Nola, relieving slaves and prisoners.
+* 24+++.+++ Acacius, Bishop of Amida, his charity to enemies.
 
 Having abundantly shown how much the doctrine and the conversation
 of the virtuous Gentiles condemn the pride,
@@ -27,6 +38,10 @@ I shall begin with the blessed Author of that religion.^
 footnote:[The doctrine and practice of the blessed Lord Jesus and his apostles,
 the primitive Christians, and those of more modern times in favour of this discourse.]
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Jesus Christ, in whose mouth there was found no guile, sent from God,
 with a testimony of love to mankind, and who laid down his life for their salvation;
 whom God hath raised by his mighty power to be Lord of all,
@@ -159,6 +174,7 @@ rising above the power of death and the grave, hath led captivity captive,
 and is become the first-born from the dead, and Lord of the living;
 and his living people praise Him, who is worthy forever.
 
+[.numbered]
 II. John the Baptist, who was the fore-runner of Christ`'s appearance in the flesh,
 did by his own abstinence sufficiently declare what sort of person
 it was he came to prepare and bespeak people to receive.
@@ -181,6 +197,7 @@ delicate dishes, rich furniture, stately attendance, and pleasant diversion,
 than for the holy cross of Christ, and blessed narrow way that leadeth to salvation.
 Be ashamed, and repent!
 
+[.numbered]
 III.
 Peter, Andrew, Philip, and the rest of the holy apostles, were,
 by calling as well as doctrine, not a luxurious people;
@@ -220,6 +237,7 @@ when He suffered, He threatened not,
 but committed himself to Him that judgeth righteously.^
 footnote:[1 Pet. 2:21-23.]
 
+[.numbered]
 IV. Paul, who was also an apostle, though, as he saith, born out of due time:
 a man of great knowledge and learning, but, "`I count it,`" saith he,
 "`all loss for the excellency of the knowledge of Christ Jesus, my Lord,
@@ -331,6 +349,7 @@ than a citizen of the world.
 Nor was this only the life and instruction of apostolical teachers;
 the same plainness and simplicity of life was also followed by the first Christians.
 
+[.numbered]
 V+++.+++ "`The primitive Christians,`"^
 footnote:[Animad. in Min. Fel. p. 25.]
 Ouzelius, in his animadversions on Minutius Felix, saith,
@@ -351,6 +370,7 @@ they refused the embellishment of art, and would not wear the furniture of her i
 but as they were singular in their religion,
 so in the way of their conversation among men.
 
+[.numbered]
 VI. Clement Romanus,^
 footnote:[Constit. Clem Rom. 50:1, chap. 2.]
 if author of the constitutions that go under his name, hath this among the rest,
@@ -363,6 +383,7 @@ who in this exactly follows his advice to Timothy, about vain questions,
 doubtful disputes, and opposition of science.
 Let us see how this moderation and purity of manners continued.
 
+[.numbered]
 VII.
 Machiavel,^
 footnote:[Mach. DIsa. 50:2, chap. 5.]
@@ -374,6 +395,7 @@ who commended anything of the Gentile conversation or worship,
 to be burned;`" but that zeal is evidently extinguished,
 and those follies revived among the professors of the religion of Jesus.
 
+[.numbered]
 VIII.
 Tertullian,^
 footnote:[Tert. lib. de Patien. Chrysost.]
@@ -393,6 +415,7 @@ fables, old wives`' tales.`"
 All which sufficiently reprehend the plays, poetry, and romances of the times,
 of great folly, vanity, and sin.
 
+[.numbered]
 IX. Gregory, and this a father of the church, a very extraordinary man,
 was so zealous for the simplicity and purity of the mind, language,
 and lives of the Christians of his time, that he suppressed several Greek authors,
@@ -422,6 +445,7 @@ This was the sense of Gregory Nazianzene, that ancient Christian writer,
 who wore commonly a poor coat, like to a frock; so did Justin Martyr, Jerome, and Austin,
 as their best robe.
 
+[.numbered]
 X+++.+++ Jerom, a famous man, also styled a father of the church,
 above all others seems positive in this matter, in an epistle he wrote to a noble virgin,
 called Demetias, in which he exhorted her, That after she had ended her devotion,
@@ -440,6 +464,7 @@ and compared with the apparel and conversation of the age; for,
 however Pharisee-like they otherwise saint him, and call him an Holy Father, sure it is,
 they reject his counsel.
 
+[.numbered]
 XI. Hilary, bishop of Poictiers, a father of the church,
 and famous for his writings against the Arians, having travelled into Syria,
 was informed, that Abra, his only daughter, whom he left with her mother,
@@ -458,6 +483,7 @@ that taught his daughter to tread upon the mountains of worldly glory;
 and it was not less honourable in her that so readily yielded
 to the excellent counsel of her pious father.
 
+[.numbered]
 XII.
 Ambrose, called a father, who was lieutenant to the province and city of Milan,
 and upon his discreet appeasing the multitude,
@@ -470,6 +496,7 @@ yet doth he in so many words determine the matter thus:
 "`Plays ought not to be known by Christians;`" then not made, heard,
 and defended by Christians; or they must be none that do so.
 
+[.numbered]
 XIII.
 Augustine,^
 footnote:[August. de Civit. Dei. l. ii. c. 7.]
@@ -488,6 +515,7 @@ This would be esteemed intolerable doctrine in a poor Quaker,
 yet will the Quaker rejoice,
 if it be esteemed and followed as good doctrine in Augustine.
 
+[.numbered]
 XIV.
 The council of Carthage, though times began to look somewhat mistier,
 and the purity and spirituality of religion to be
@@ -498,6 +526,7 @@ lest the minds of the people should be defiled by them.
 But this age either hath no such canon, or executeth it not,
 to the shame of their profession.
 
+[.numbered]
 XV. Cardan more particularly relateth,^
 footnote:[Cardan de Sapient. l. 2.]
 how even Gregory the Great was so zealous of preserving purity of manners among Christians,
@@ -511,6 +540,7 @@ escape their honest zeal,
 although the multitude of copies so far frustrated their good intentions,
 as that they are multiplied of late.
 
+[.numbered]
 XVI.
 Gratian also^
 footnote:[Jac. Laurentio de lib. Gentil. p. 40, 41.]
@@ -525,6 +555,7 @@ and yet that they should be so far neglected of this age,
 as not to be judged worthy an imitation.
 But pray let us hear what doctrine the Waldenses teach in this affair.
 
+[.numbered]
 XVII.
 Petrus Bellonius, that great and inquisitive traveller, when he came to Mount Athos,
 where there live in several monasteries six thousand Coloeri, or religious persons,
@@ -540,6 +571,7 @@ etc. though nothing is more grateful in these days.
 Zeno was of the same opinion against poetry.^
 footnote:[Pet. Bell. obser. l. 1, c. 35; ibid. c. 40, cap. 39.]
 
+[.numbered]
 XVIII.
 The Waldenses^
 footnote:[XII. Cap. Hist. de orig. Walden. Vignia Hist. Bibl. p. 130. Dubran Hist.
@@ -579,6 +611,7 @@ Jesus to intend and require another sort of life,
 than what is used by almost all those who account themselves members of his church,
 I shall show out of their own doctrines, as found in their most authentic histories.
 
+[.numbered]
 XIX.
 To be brief, in their exposition upon the Lord`'s prayer,
 that part of it which speaks thus, "`Give us this day our daily bread:`"^
@@ -616,6 +649,7 @@ To which I shall add their judgment and practice concerning taverns,^
 footnote:[Ibid. l. 2, c. 3.]
 public houses for treats and pleasures, with which the land swarms in our days.
 
+[.numbered]
 XX. "`A tavern is the fountain of sin,^
 footnote:[La taverna de maisons de pleisirs es fontana de pecca e schola del diavolo, etc.]
 the school of the devil; it works wonders fitting the place.
@@ -636,7 +670,8 @@ But above other recreations, do but seriously observe,
 of what danger and ill consequence these first reformers thought dancing, music,
 and the like pastimes to be, which are the greatest divertisements of the times, viz.:
 
-XVI.
+[.numbered]
+XXI.
 "`Dancing is the devil`'s procession,^
 footnote:[La bal es la proces.
 del diavol, e qui intra en la bal, etc.]
@@ -771,10 +806,17 @@ To purge and amend, and pacify the spirit.
 To which I add the epistle of one of their pastors,
 as I find it recorded amongst other matters relating to these poor afflicted people.
 
+[.numbered]
 XXII.
 An epistle of pastor Bartholomew Tertian,
 written to the Waldensian churches of the valley of Pragela, thus translated:
 
+====
+
+[.embedded-content-document.epistle]
+--
+
+[.offset]
 Jesus be with you.
 
 To all our faithful and well beloved brethren in Christ Jesus,^
@@ -833,8 +875,15 @@ and that He will be pleased to save all those his faithful, that trust in Christ
 Entirely yours, ready to do you service in all things possible,
 according to the will of God.
 
+[.signed-section-signature]
 Bartholomew Tertian.
 
+--
+
+[.numbered-group]
+====
+
+[.numbered]
 XXIII.
 Behold the life and doctrine, instruction and practice, of the ancient Waldenses.^
 footnote:[Bern de Gir lora. de Hail. Hist. de la Fr. 1. 10. Vesemb. Orat.
@@ -960,6 +1009,7 @@ in turning us from the evil of our ways;
 and unless we are so turned we can have no claim
 to the blessing that comes by Christ to men.
 
+[.numbered]
 XXIV.
 It is reported of Paulinus,^
 footnote:[Eccl. Hist. p. 5, 393.]
@@ -970,6 +1020,7 @@ believing it unworthy of the Christian faith,
 to see God`'s creation labour under the want of what he had to spare.
 All agree this was well done, but few agree to do the same.
 
+[.numbered]
 XXV.
 But more particularly that of Acacius,^
 footnote:[Socrat. Scholast.]
@@ -1034,3 +1085,5 @@ whose experience could not be wanting to give the truest account, how much their
 riches, pleasures, and recreations, conduced to their satisfaction,
 upon a just reckoning, as well before their extreme moments as upon their dying beds,
 when death, that hard passage into eternity, looked them in the face.
+
+====
