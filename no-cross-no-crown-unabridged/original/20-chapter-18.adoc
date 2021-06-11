@@ -13,7 +13,7 @@
 * 10+++.+++ When people have done their duty to God, it will be time enough to think of pleasing themselves.
 * 11+++.+++ An address to the magistrates and all people, how to convert their time and money to better purposes.
 
-[.numbered]
+[.numbered-group]
 ====
 
 [.numbered]
@@ -392,7 +392,7 @@ shall reap glory, honour, and eternal life in the kingdom of the Father:
 whose is the kingdom, the power, and the glory forever.
 Amen.
 
+====
+
 [.the-end]
 End of Part I.
-
-====
