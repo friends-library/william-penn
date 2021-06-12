@@ -1,9 +1,9 @@
 == Chapter VI.
 
+[.chapter-subtitle--blurb]
 Containing five several exhortations: first, general,
-reminding this people of their primitive integrity and simplicity.
-Secondly, in particular, to the ministry.
-Thirdly, to the young convinced.
+reminding this people of their primitive integrity and simplicit.
+Secondly, in particular, to the ministry. Thirdly, to the young convinced.
 Fourthly, to the children of Friends.
 Fifthly, to those that are yet strangers to this people and way, to whom this book,
 and that which it was preface to, in its former edition, may come.
@@ -599,8 +599,11 @@ and that knowing the beauty and benefit of it above all worldly treasures,
 has chosen it for his chiefest joy, and therefore recommends it to thy love and choice,
 because he is with great sincerity and affection,
 
+[.signed-section-closing]
 Thy soul`'s friend,
 
+[.signed-section-signature]
 William Penn.
 
+[.the-end]
 Finis.

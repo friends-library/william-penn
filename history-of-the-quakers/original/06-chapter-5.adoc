@@ -1,11 +1,11 @@
 == Chapter V.
 
-Of the first instrument or person by whom God was
-pleased to gather this people into the way they profess.
-His name George Fox: his many excellent qualifications; showing a divine,
+[.chapter-subtitle--blurb]
+Of the first instrument or person by whom God was pleased to
+gather this people into the way they profess. His name George Fox:
+his many excellent qualifications; showing a divine,
 and not a human power to have been their original in him.
-His troubles and sufferings both from without and within.
-His end and triumph.
+His troubles and sufferings both from without and within. His end and triumph.
 
 I am now come to the third head or branch of my preface, viz. the instrumental author.
 For it is natural for some to say, Well, here is the people and work,
@@ -153,6 +153,10 @@ I return to this excellent man; and for his personal qualities, both natural, mo
 and divine, as they appeared in his converse with the brethren, and in the church of God,
 take as follows:
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ He was a man that God endued with a clear and wonderful depth:
 a discerner of others`' spirits, and very much a master of his own.
 And though that side of his understanding which lay next to the world,
@@ -201,17 +205,20 @@ reverence, and thankfulness for his love and mercy therein to mankind:
 in which mind I remain, and shall, I hope, through the Lord`'s strength,
 to the end of my days.
 
+[.numbered]
 II. In his testimony or ministry,
 he much laboured to open truth to the people`'s understandings,
 and to bottom them upon the principle and principal, Christ Jesus the light of the world;
 that by bringing them to something that was from God in themselves,
 they might the better know and judge of him and themselves.
 
+[.numbered]
 III.
 He had an extraordinary gift in opening the scriptures.
 He would go to the marrow of things, and show the mind, harmony, and fulfilling of them,
 with much plainness, and to great comfort and edification.
 
+[.numbered]
 IV. The mystery of the first and second Adam, of the fall and restoration,
 of the law and gospel, of shadows and substance, of the servant`'s and Son`'s state,
 and the fulfilling of the scriptures in Christ and by Christ the true light,
@@ -221,6 +228,7 @@ in all which he was witnessed to be of God:
 being sensibly felt to speak that which he had received of Christ,
 and was his own experience, in that which never errs nor fails.
 
+[.numbered]
 V+++.+++ But, above all, he excelled in prayer.
 The inwardness and weight of his spirit,
 the reverence and solemnity of his address and behaviour,
@@ -233,6 +241,7 @@ And truly it was a testimony he knew and lived nearer to the Lord than other men
 for they that know Him most,
 will see most reason to approach him with reverence and fear.
 
+[.numbered]
 VI. He was of an innocent life, no busy-body, nor self-seeker:
 neither touchy nor critical: what fell from him was very inoffensive,
 if not very edifying.
@@ -244,6 +253,7 @@ Thousands can truly say, he was of an excellent spirit and savour among them,
 and because thereof,
 the most excellent spirits loved him with an unfeigned and unfading love.
 
+[.numbered]
 VII.
 He was an incessant labourer: for in his younger time, before his many, great,
 and deep sufferings and travels had enfeebled his body for itinerant services,
@@ -260,6 +270,7 @@ both to them that are within, and those that are without, the communion.
 
 But the care he took of the affairs of the church in general was very great.
 
+[.numbered]
 VIII.
 He was often where the records of the business of the church are kept,
 and where the letters from the many meetings of God`'s
@@ -273,11 +284,14 @@ according to the nature of them.
 So that the churches, or any of the suffering members thereof,
 were sure not to be forgotten, or delayed in their desires, if he was there.
 
+[.numbered]
 IX. As he was unwearied, so he was undaunted in his services for God and his people;
 he was no more to be moved to fear than to wrath.
 His behaviour at Derby, Lichfield, Appleby, before Oliver Cromwell, at Launceston,
 Scarborough, Worcester, and Westminster Hall, with many other places and exercises,
 did abundantly evidence it, to his enemies as well as his friends.
+
+====
 
 But as, in the primitive times,
 some rose up against the blessed apostles of our Lord Jesus Christ,
