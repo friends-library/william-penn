@@ -1,20 +1,53 @@
 == Chapter XXI.
 
-=== Serious dying, as well as living testimonies of Men of Fame and Learning, viz.
+[.chapter-subtitle--blurb]
+Serious dying, as well as living testimonies of Men of Fame and Learning, viz.
 
-1+++.+++ Solomon.--2. Chilon.--3. Ignatius.--4. Justin Martyr.--5. Chrysostom.--6.
-Charles V.--7. Michael de Montaigne.--8. Cardinal Wolsey.--9. Sir Philip Sidney.--10.
-Secretary Walsingham.--11. Sir John Mason.--12. Sir Walter Raleigh.--13. H. Wotton.--14.
-Sir Christopher Hatton.--15. Lord Chancellor Bacon.--16. The great Duke of Montmorency.--17.
-Henry Prince of Wales.--18. Philip III.
-King of Spain.--19. Count Gondamor.--20. Cardinal Richlieu.--21.
-Cardinal Mazarine.--22. Chancellor Oxenstiern.--23. Dr. Donne.--24.
-Jo. Selden.--25. H. Grotius.--26. P. Salmasius.--27. Fran.
-Junius.--28. A. Rivetus.--29. The late Earl of Marlborough.--30. Sir Henry Vane.--31.
-Abraham Crowley.--32. Late Earl of Rochester.--33. One of the family of Howard.--34.
-Princess Elizabeth of the Rhine.--35. Commissioner Whitlock.--36. A Sister of the family
-of Penn.--37. My own Father.--38. Anthony Lowther of Mask.--39. Seigneur du Renti.
+[.chapter-synopsis]
+* 1+++.+++ Solomon.
+* 2+++.+++ Chilon.
+* 3+++.+++ Ignatius.
+* 4+++.+++ Justin Martyr.
+* 5+++.+++ Chrysostom.
+* 6+++.+++ Charles V.
+* 7+++.+++ Michael de Montaigne.
+* 8+++.+++ Cardinal Wolsey.
+* 9+++.+++ Sir Philip Sidney.
+* 10+++.+++ Secretary Walsingham.
+* 11+++.+++ Sir John Mason.
+* 12+++.+++ Sir Walter Raleigh.
+* 13+++.+++ H. Wotton.
+* 14+++.+++ Sir Christopher Hatton.
+* 15+++.+++ Lord Chancellor Bacon.
+* 16+++.+++ The great Duke of Montmorency.
+* 17+++.+++ Henry Prince of Wales.
+* 18+++.+++ Philip III. King of Spain.
+* 19+++.+++ Count Gondamor.
+* 20+++.+++ Cardinal Richlieu.
+* 21+++.+++ Cardinal Mazarine.
+* 22+++.+++ Chancellor Oxenstiern.
+* 23+++.+++ Dr. Donne.
+* 24+++.+++ Jo. Selden.
+* 25+++.+++ H. Grotius.
+* 26+++.+++ P. Salmasius.
+* 27+++.+++ Fran. Junius.
+* 28+++.+++ A. Rivetus.
+* 29+++.+++ The late Earl of Marlborough.
+* 30+++.+++ Sir Henry Vane.
+* 31+++.+++ Abraham Crowley.
+* 32+++.+++ Late Earl of Rochester.
+* 33+++.+++ One of the family of Howard.
+* 34+++.+++ Princess Elizabeth of the Rhine.
+* 35+++.+++ Commissioner Whitlock.
+* 36+++.+++ A Sister of the family of Penn.
+* 37+++.+++ My own Father.
+* 38+++.+++ Anthony Lowther of Mask.
+* 39+++.+++ Seigneur du Renti.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Solomon,
 than whom none is believed to have more delighted himself in the enjoyments of the world,
 at least better to have understood them; hear what he says, after all his experience:
@@ -39,6 +72,7 @@ for this is the whole duty of man: for God shall bring every work into judgment,
 whether it be good, or whether it be evil.`"
 O that men would lay this to heart!
 
+[.numbered]
 II. Chilon,^
 footnote:[Severus Apop. p. 175.]
 one of the seven wise men of Greece, already mentioned upon another occasion,
@@ -65,6 +99,7 @@ Oh, tender conscience!
 Yet an Heathen`'s. Where dwells the Christian that excelleth?
 Hard to be found among the great rabbies of Christendom.
 
+[.numbered]
 III.
 Ignatius,^
 footnote:[Ignatius Epist. ad Ephes. Mag. Trall. Eus. 1. iii. c. 32, Rom.]
@@ -80,6 +115,7 @@ I weigh neither visible nor invisible things, so that I may gain Christ.`"
 Oh, heavenly-minded man!
 A blessed martyr of Jesus indeed.
 
+[.numbered]
 IV. Justin Martyr,
 a philosopher who received Christianity five-and-twenty years after the death of Ignatius,
 plainly tells us, in his relation of his conversion to the Christian faith,
@@ -94,12 +130,14 @@ yet when he saw the Christians`' piety and courage, he concluded, no people so t
 less voluptuous, and more set on divine things:
 which first induced him to be a Christian.
 
+[.numbered]
 V+++.+++ Chrysostom, another father, so called, lays this down for necessary doctrine,
 "`To sacrifice the whole soul and body to the Lord,
 is the highest service we can pay unto Him.
 God promiseth mercy unto penitent sinners;
 but He doth not promise them they shall have so much time as tomorrow for their repentance.`"
 
+[.numbered]
 VI. Charles V. Emperor of Germany, King of Spain, and Lord of the Netherlands,
 after three-and-twenty pitched fields, six triumphs, four kingdoms conquered,
 and eight principalities added to his dominions,
@@ -111,6 +149,7 @@ and in that little time of his retreat from them all: that the sincere study, pr
 and practice of the Christian religion,
 had in it such joys and sweetness as courts were strangers to.
 
+[.numbered]
 VII.
 Michael De Montaigne, a lord of France,
 famous with men of letters for his book of Essays, giveth these instructions to others,
@@ -145,6 +184,7 @@ We are nought but ceremony; Ceremony doth trans port us,
 and we leave the Substance of things: we hold fast by the boughs,
 and leave the trunk or body, the Substance of things, behind us.`"
 
+[.numbered]
 VIII.
 Cardinal Wolsey, the most absolute and wealthy minister of state this kingdom ever had,
 that in his time seemed to govern Europe as well as England,
@@ -156,6 +196,7 @@ A dismal reflection for all worldly-minded men; but those more especially,
 who have the power and means of doing more good than ordinary in the world,
 and do it not; which seems to have been the case and reflection of this great man.
 
+[.numbered]
 IX. Sir Philip Sidney, a subject indeed of England, but they say chosen king of Poland,
 whom Queen Elizabeth called her Philip; the Prince of Orange, his master;
 whose friendship the lord Brooks was so proud of,
@@ -175,6 +216,7 @@ since in him was to be seen the end of all natural parts, acquired learning,
 and civil accomplishments.
 His farewell seems spoken without terror, with a clear sense, and an equal judgment.
 
+[.numbered]
 X+++.+++ Secretary Walsingham, an extraordinary man in Queen Elizabeth`'s time,
 towards the conclusion of his days, in a letter to his fellow-secretary Burleigh,
 then lord-treasurer of England, writes thus: "`We have lived enough to our country,
@@ -194,6 +236,7 @@ For true it is, that none can be serious too soon, because none can be good too 
 Away, then, with all foolish talking and jesting,
 and let people mind more profitable things.
 
+[.numbered]
 XI. John Mason, knight, who had been privy-counsellor to four princes,
 and spent much time in the preferments and pleasures of the world,
 retired with these pathetical and regretful sayings: "`After so many years`' experience,
@@ -204,6 +247,7 @@ my privy-counsellor`'s bustles for a hermit`'s retirement,
 and the whole life I lived in the palace, for one hour`'s enjoyment of God in the chapel.
 All things else forsake me, besides my God, my duty, and my prayers.`"
 
+[.numbered]
 XII.
 Sir Walter Raleigh is an eminent instance, being as extraordinary a man,
 as our nation hath produced; in his person well descended; of health, strength,
@@ -234,6 +278,12 @@ He confound all thy fortune and labour, like the drops of rain upon the sandy gr
 Let my experienced advice and fatherly instructions sink deep into thy heart:
 so God direct thee in all thy ways, and fill thy heart with his grace.`"
 
+====
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sir Walter Raleigh`'s Letter to his Wife, after his Condemnation.
 
 You shall receive, my dear wife, my last words, in these my last lines.
@@ -292,9 +342,13 @@ and send us to meet in his glorious kingdom.
 My dear wife, farewell; bless my boy; pray for me;
 and let my true God hold you both in his arms.
 
+[.signed-section-closing]
 Your`'s that was, but not now mine own,
 
+[.signed-section-signature]
 Walter Raleigh.
+
+--
 
 Behold wisdom, resolution, nature, and grace!
 How strong in argument, wise in counsel, firm, affectionate, and devout!
@@ -305,12 +359,17 @@ he had made less noise, and yet done more good to the world and himself.
 It is a sad thing to consider, that, men hardly come to know themselves or the world,
 till they are ready to leave it.
 
+[.numbered-group]
+====
+
+[.numbered]
 XIII.
 Henry Wotton, knight, thought it the greatest happiness in this life,
 "`to be at leisure to be and to do good;`" as in his latter end he was wont to say,
 when he reflected on past times, though a man esteemed sober and learned,
 "`How much time have I to repent of, and how little to do it in!`"
 
+[.numbered]
 XIV.
 Sir Christopher Hatton, a little before his death,
 advised his relations to be serious in the search after
@@ -335,12 +394,14 @@ and the hope of his death; his future happiness, and his portion forever;
 he doth but sapienter descendere in infernum,
 with a great deal of wisdom go down to Hell.
 
+[.numbered]
 XV. Francis Bacon, lord high-chancellor of England, some time before his death,
 confessed, that, to be religious, was to live strictly and severely;
 for if the opinion of another world be false,
 yet the sweetest life in this world is piety, virtue, and honesty; if it were true,
 there be none so wretched and miserable, as loose, carnal, and profane persons.
 
+[.numbered]
 XVI.
 The great duke de Montmorency, colleague to the duke of Orleans,
 brother to the French king, Lewis XIII.,
@@ -355,6 +416,7 @@ immediately he stripped himself of all his finery,
 and put a more grave and modest garment on him: a serious reflection,
 at a time when he best knew what was best.
 
+[.numbered]
 XVII.
 Henry, Prince of Wales, eldest son to king James I.,
 of whom others say many excellent things, hear what account he gives of himself at last:
@@ -389,6 +451,7 @@ which had so long shined in darkness, uncomprehended of it,
 and was at last but just perceived to give a sight
 of what they had been doing all their days.
 
+[.numbered]
 XVIII. Philip III.
 
 King of Spain, seriously reflecting upon the life he had led in the world,
@@ -399,6 +462,7 @@ I lay all that God has given me, my dominion, power, and my life,
 at the feet of Jesus Christ my Saviour.`"
 Would kings would live, as well as die so!
 
+[.numbered]
 XIX.
 Count Gondamor, ambassador in England for that very king,
 and held the ablest man of his time,
@@ -410,6 +474,7 @@ and after all his negotiations and successes in business, said to one of his fri
 he had rather endure hell than sin: so clear and strong were his convictions,
 and so exceeding sinful did sin appear to him, upon a serious consideration of his ways.
 
+[.numbered]
 XX. Cardinal Richelieu, after having been first minister of state of Europe,
 as well as of France, confessed to old Peter de Moulin,
 the famous Protestant of that country, that,
@@ -427,6 +492,7 @@ And being asked one day why he was so sad, answered, "`Monsieur, Monsieur,
 the soul is a serious thing; it must be either sad here for a moment,
 or be sad forever.`"
 
+[.numbered]
 XXI.
 Cardinal Mazarin, reputed the most cunning statesman of his time,
 and who gave great proofs of it in the successes of the French crown, under his ministry:
@@ -440,6 +506,7 @@ and spake one day thus to the Queen-mother of France, "`Madam,
 your favours have undone me.
 Were I to live again, I would be a Capuchin, rather than a courtier.`"
 
+[.numbered]
 XXII.
 Count Oxenstiern, chancellor of Sweden, a person of the first quality, station,
 and ability in his own country, and whose share and success,
@@ -469,12 +536,14 @@ one of the greatest and wisest men of his age,
 while his understanding was as sound and vigorous,
 as his experience and knowledge were great.
 
+[.numbered]
 XXIII.
 Dr. Donne, a great poet, taking his farewell of his friends, on his dying bed,
 left this saying behind him, for them to measure their fancies and their actions by:
 "`I repent of all my life, but that part of it I spent in communion with God,
 and doing good.`"
 
+[.numbered]
 XXIV.
 Selden, one of the greatest scholars and antiquaries of his time:
 one who had taken a diligent survey of what knowledge was considerable amongst the Jews,
@@ -496,6 +565,7 @@ and exhort, and rebuke with all authority.`"
 And indeed it is one of the most comprehensive passages in the Scripture;
 for it comprises the end, means, and recompense of Christianity.
 
+[.numbered]
 XXV.
 Hugo Grotius,
 than whom these latter ages think they have not had a man of more universal knowledge,
@@ -515,6 +585,7 @@ he solemnly answered, "`Be serious.`"
 Such was the sense he had, how much a serious life excelled,
 and was of force towards a dying hour.
 
+[.numbered]
 XXVI.
 To whom I join Salmasius, that famous French scholar, and the other`'s contemporary,
 who after his many volumes of learning,
@@ -526,6 +597,7 @@ had I but one year more, it should be spent in David`'s Psalms, and Paul`'s Epis
 Oh, Sirs,`" said he to those about him, "`mind the world less, and God more:
 the fear of the Lord, that is wisdom; and to depart from evil, that is understanding.`"
 
+[.numbered]
 XXVII.
 Francis Junius, an ingenious person, who hath written his own life,
 as he was reading Tully de Legibus, fell into a persuasion, Nihil curare Deum, nec sui,
@@ -548,6 +620,7 @@ And, as Justin Martyr of old, so he of late professed,
 that the power of godliness in a plain simple Christian wrought so upon him,
 that he could not but take up a strict and a serious life.
 
+[.numbered]
 XXVIII.
 A+++.+++ Rivetus, a man of learning, and much reverenced in the Dutch nation,
 after a long life of study, in search of Divine knowledge, upon his death bed,
@@ -560,9 +633,15 @@ to the voice of God, and learn of Him, who is a Spirit, to be taught of Him,
 and led by Him: For in righteousness such shall be established,
 and great shall be their peace.
 
+[.numbered]
 XXIX.
 A Letter from James, Earl of Marlborough, a little before his Death,
 in the Battle at Sea, on the Coast of Holland, etc.
+
+====
+
+[.embedded-content-document.letter]
+--
 
 I believe the goodness of your nature, and the friendship you have always borne me,
 will receive with kindness the last office of your friend.
@@ -600,8 +679,15 @@ The only great God, and holy God, Father, Son, and Holy Ghost,
 direct you to a happy end of your life, and send us a joyful resurrection!
 So prays your true friend,
 
+[.signed-section-signature]
 Marlborough.
 
+--
+
+[.numbered-group]
+====
+
+[.numbered]
 XXX.
 The late Sir Henry Vane must be too fresh in memory to need a character;
 but it is certain, his parts were of the first rate,
@@ -642,6 +728,7 @@ It is no small reproach to a Christian, whose faith is in immortality,
 and the blessedness of another life, to fear death much,
 which is the necessary passage thereunto.
 
+[.numbered]
 XXXI.
 Abraham Crowley, whom to name, is enough with the men of wit of our time and nation,
 speaks not less in favour of the Temperance and Solitude
@@ -669,12 +756,12 @@ There is no saying shocks me so much, as that which I hear very often,
 "`It would have been but ill spoken of Methuselah,
 in the nine hundred sixty-ninth year of his life.
 But that is not to deceive the world, but to deceive ourselves, as Quintilian saith,
-Vitam fallere.
+_Vitam fallere._
 To draw on still, and amuse and deceive our life,
 till it be advanced insensibly to the fatal period,
 and fall into that pit which nature hath prepared for it.
-The meaning of all this is no more, than that most vulgar saying, Bene Gui latuit,
-bene vixit; He hath lived well, who hath lain well hidden.
+The meaning of all this is no more, than that most vulgar saying, _Bene Gui latuit,
+bene vixit;_ He hath lived well, who hath lain well hidden.
 Which, if it be a truth, the world is sufficiently deceived; For my part, I think it is;
 and that the pleasantest condition in life is in incognito.
 What a brave privilege is it, to be free from all contentions, from all envying,
@@ -701,104 +788,76 @@ and taught by nature to nourish our bodies by the same earth out of which they w
 and to which they must return, and pay at last for their sustenance.
 Behold the Original and Primitive Nobility of all those Great persons,
 who are too proud now not only to Till the ground, but almost to tread upon it.
-We may talk what we please of lilies and lions rampant, and spread eagles in fields d`'or,
-or d`'argent; but if heraldry were guided by Reason,
+We may talk what we please of lilies and lions rampant, and spread eagles in fields _d`'or,_
+or _d`'argent;_ but if heraldry were guided by Reason,
 a Plough in a Field Arable would be the most noble and ancient arms.`'
 
+[verse]
+____
 Blest be the man (and blest is he) whome`'er,
-
 (Plac`'d far out of the roads of Hope or Fear) A little Field, a little Garden, feeds;
-
 The Field gives all that Frugal nature needs:
-
 The wealthy Garden lib`'rally bestows
-
 All she can ask, when she Luxurious grows.
-
 The specious inconveniences that wait
-
 Upon a life of business and of state,
-
 He sees (nor doth the sight disturb his rest)
-
 By Fools desir`'d, by Wicked men possest.
-
 --Ah wretched, and too Solitary, he
-
 Who loves not his own Company:
-
 He`'ll feel the weight of`'t many a day,
-
 Unless he call in sin or vanity
-
 To help to bear`'t away.
+____
 
 Out of Martial,
 he gives us this following epigram which he makes his by Translation and Choice,
 to own Solitude by: I place it here as his.
 
+[verse]
+____
 Would you be free?
 `'Tis your chief wish you say
-
 Come on: I`'ll shew thee, friend, the certain way:
-
 If to no feasts abroad thou lov`'st to go,
-
 Whilst bounteous God doth bread at home bestow:
-
 If thou the goodness of thy clothes dost prize
-
 By thy own Use, and not by others`' Eyes:
-
 If only safe from Weathers, thou canst dwell
-
 In a small House, but a convenient Shell;
-
 If thou without a Sigh or Golden Wish
-
 Canst look upon thy Beechen Bowl, or Dish;
-
 If in thy mind such Power and Greatness be,
-
 The Persian King`'s a Slave, compar`'d with thee.
-
 Whilst this hard truth I teach, methinks I see
-
 The monster, London, laugh at me;
-
 I should at thee too, foolish city,
-
 If it were fit to laugh at Misery;
-
 But thy estate I pity.
-
 Let but thy wicked men from out thee go,
-
 And all the fools that crowd thee so;
-
 Even thou who dost thy millions boast,
-
 A Village less than Islington wilt grow;
-
 A solitude almost.
+____
 
+[.offset]
 I shall conclude him with this prayer of his own.
 
+[verse]
+____
 For the few hours of life allotted me,
-
 Give me (great God) but Bread and Liberty;
-
 I`'ll beg no more; if more thou`'rt pleas`'d to give,
-
 I`'ll thankfully that Overplus receive.
-
 If beyond This no more be freely sent,
-
 I`'ll thank for This, and go away content.
+____
 
 Here ends the wit, the praise, the learning, the city, the court, with Abraham Cowley,
 that once knew and had them all.
 
+[.numbered]
 XXXII.
 The late earl of Rochester was inferior to nobody in wit,
 and hardly anybody ever used it worse,
@@ -822,6 +881,7 @@ and this retreat he made from the world he had so great a name in.
 May the loose wits of the times, as he desired, take warning by him,
 and not leave their repentance to a dying bed!
 
+[.numbered]
 XXXIII.
 A noble young man of the family of Howard,
 having yielded too much to the temptations of youth, when upon his sick bed,
@@ -834,6 +894,7 @@ warning his acquaintance and kindred that came to see him to fear God,
 and forsake the pleasures and vanity of this world:
 and so willingly yielded his soul from the troubles of time, and frailties of mortality.
 
+[.numbered]
 XXXIV.
 The late princess Elizabeth of the Rhine of right claimeth a memorial in this discourse,
 her virtue giving greater lustre to her name than her quality,
@@ -896,6 +957,7 @@ and then departed at her own house in Herwerden, in the year 1680,
 as much lamented as she had lived beloved of the people: to whose real worth, I do,
 with a religious gratitude, for her kind reception, dedicate this memorial.
 
+[.numbered]
 XXXV.
 Bulstrode Whitlock,
 has left his own character in his "`Memoirs of English affairs;`"
@@ -937,6 +999,7 @@ that after the meeting closed in prayer, he rose up, and pulled off his hat, and
 and I humbly bless the name of God, that He has let me live to see this day,
 in which the ancient gospel is again preached to them that dwell upon the earth.`"
 
+[.numbered]
 XXXVI.
 A sister of the family of Penn, in Buckinghamshire,
 a young woman delighting in the finery and pleasures of the world,
@@ -961,6 +1024,7 @@ not to deck and adorn themselves after the manner of the world: for that the Lor
 whom she had seen, appeared unto her in the likeness of a plain countryman,
 without any trimming or ornament whatever; and that his servants ought to be like Him.
 
+[.numbered]
 XXXVII.
 My own father, after thirty years employment, with good success,
 in divers places of eminent trust and honour in his own country,
@@ -1005,6 +1069,7 @@ you will make an end of the priests to the end of the world.
 Bury me by my mother: live all in love: shun all manner of evil:
 and I pray God to bless you all: and He will bless you.`"
 
+[.numbered]
 XXXVIII.
 Anthony Lowther, of Mask, a person of good sense, of a sweet temper, a just mind,
 and of a sober education; when of age to be under his own government,
@@ -1038,6 +1103,7 @@ I shall conclude this chapter of retired, aged, and dying persons,
 with some collections I have made out of the life of a person
 of great piety and quality of the French nation.
 
+[.numbered]
 XXXIX.
 Du Renti, a young nobleman of France, of admirable parts, as well as great birth,
 touched with a sense of the vanity of the world,
@@ -1168,3 +1234,5 @@ that they might apply their hearts to wisdom! of which,
 the fear of the Lord is the true and only beginning.
 And blessed are they that fear always,
 for their feet shall be preserved from the snares of death.
+
+====

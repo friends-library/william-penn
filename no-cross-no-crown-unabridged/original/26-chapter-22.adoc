@@ -1,16 +1,19 @@
 == Chapter XXII.
 
-1+++.+++ Of the way of living among the first Christians.--2.
-An exhortation to all professing Christianity,
-to embrace the foregoing reasons and examples.--3. Plain dealing with such as reject
-them.--4. Their recompenses.--5. The author is better persuaded and assured of some:
-an exhortation to them.--6. Encouragement to the children of light to persevere,
-from a consideration of the excellency of their reward;
-the end and triumph of the Christian conqueror.
-The whole concluded with a brief supplication to Almighty God.
+[.chapter-synopsis]
+* 1+++.+++ Of the way of living among the first Christians.
+* 2+++.+++ An exhortation to all professing Christianity, to embrace the foregoing reasons and examples.
+* 3+++.+++ Plain dealing with such as reject them.
+* 4+++.+++ Their recompenses.
+* 5+++.+++ The author is better persuaded and assured of some: an exhortation to them.
+* 6+++.+++ Encouragement to the children of light to persevere, from a consideration of the excellency of their reward; the end and triumph of the Christian conqueror. The whole concluded with a brief supplication to Almighty God.
 
 === The Conclusion.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Having finished so many testimonies as my time would give me leave,
 in favour of this subject, No Cross, No Crown; no temperance, no happiness; no virtue,
 no reward: no mortification, no glorification:
@@ -57,6 +60,7 @@ but though God`'s kingdom suffer violence by such, yet shall they never enter:
 the life of Christ and his followers hath in all ages been another thing;
 and there is but one way, one guide, one rest; all of which are pure and holy.
 
+[.numbered]
 II. But if any, notwithstanding our many sober reasons,
 and numerous testimonies from Scripture, or the example or experience of religious,
 worldly, and profane living and dying men at home and abroad, of the greatest note, fame,
@@ -123,6 +127,7 @@ at what time they called God their Father, they despised his Son;
 and when He spake of sublime and heavenly mysteries, some cried, He has a devil; others,
 He is mad; and most of them, These are hard sayings, who can hear them?
 
+[.numbered]
 III.
 And to you all that sport yourselves after the manners of the world, let me say,
 that you are of those who profess you know God, but in works deny Him;
@@ -172,6 +177,7 @@ whose shining examples may be conducing to the happiness of others, who,
 beholding such good works, may be converted, and glorify God the Father of lights,
 in whom you all would be eternally blessed.
 
+[.numbered]
 IV. But if the impenitence of any is so great, their pursuit of folly so earnest,
 and notwithstanding what has been thus seriously offered to reclaim them,
 they are resolved to take their course, and not to be at leisure for more divine things,
@@ -196,6 +202,7 @@ footnote:[Rev. 3:20, xxi.
 27, xxii.
 13-15.]
 
+[.numbered]
 V+++.+++ But I am otherwise persuaded of many: yes,
 I am assured the mercies of the everlasting God have been so extended to many,
 that this will prove an effectual call to bring them out of the
@@ -215,6 +222,7 @@ footnote:[John 1:9.]
 follow Him, He will lead you to the city of God, that has foundations,
 into which the wicked cannot enter.
 
+[.numbered]
 VI. Mind not the difficulties of your march;
 great and good things were never enterprised and accomplished without difficulty,
 which does but render their enjoyment more pleasant and glorious in the end.
@@ -291,3 +299,5 @@ that thy great Name may be lifted up in all nations,
 and thy salvation renowned to the ends of the world.
 For thine is the kingdom, the power, and the glory, forever.
 Amen.
+
+====
