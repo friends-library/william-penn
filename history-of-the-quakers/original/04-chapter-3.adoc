@@ -1,14 +1,19 @@
 == Chapter III.
 
-Of the Qualifications of their Ministry.
-Eleven marks that it is Christian.
+[.chapter-subtitle--blurb]
+Of the Qualifications of their Ministry. Eleven marks that it is Christian.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ They were changed men themselves, before they went about to change others.
 Their hearts were rent, as well as their garments;
 and they knew the power and work of God upon them.
 And this was seen by the great alteration it made, and their stricter course of life,
 and more godly conversation that immediately followed upon it.
 
+[.numbered]
 II. They went not forth, or preached, in their own time or will, but in the will of God;
 and spoke not their own studied matters, but as they were opened and moved of his Spirit,
 with which they were well acquainted in their own conversion:
@@ -22,6 +27,7 @@ as thousands can witness.
 And as they freely received what they had to say from the Lord,
 so they freely administered it to others.
 
+[.numbered]
 III.
 The bent and stress of their ministry was conversion to God; regeneration and holiness.
 Not schemes of doctrines and verbal creeds, or new forms of worship:
@@ -30,6 +36,7 @@ and reducing the ceremonious and formal part, and pressing earnestly the substan
 the necessary and profitable part to the soul; as all, upon a serious reflection,
 must and do acknowledge.
 
+[.numbered]
 IV. They directed people to a principle in themselves, though not of themselves,
 by which all that they asserted, preached, and exhorted others to,
 might be wrought in them, and known to them, through experience, to be true;
@@ -65,6 +72,7 @@ Which is more than theory and speculation, upon which most other ministers depen
 for here is certainty;
 a bottom upon which man may boldly appear before God in the great day of account.
 
+[.numbered]
 V+++.+++ They reached to the inward state and condition of people;
 which is an evidence of the virtue of their principle, and of their ministering from it,
 and not from their own imaginations, glosses, or comments upon scripture.
@@ -91,6 +99,7 @@ that such as have turned to it have not found true, and more;
 and that one half had not been told to them of what they have seen of the power, purity,
 wisdom, and goodness of God therein.
 
+[.numbered]
 VI. The accomplishments,
 with which this principle fitted even some of the
 meanest of this people for their work and service,
@@ -104,6 +113,7 @@ though there was not the least ground of truth for any such reflection;
 in that their ministers are known, the places of their abode,
 their kindred and education.
 
+[.numbered]
 VII.
 That they came forth low, and despised, and hated, as the primitive Christians did;
 and not by the help of worldly wisdom or power, as former reformations in part have done:
@@ -111,6 +121,7 @@ but in all things it may be said, this people were brought forth in the cross;
 in a contradiction to the ways, worships, fashions, and customs of this world; yea,
 against wind and tide, that so no flesh might glory before God.
 
+[.numbered]
 VIII.
 They could have no design to themselves in this work,
 thus to expose themselves to scorn and abuse; to spend and be spent;
@@ -130,6 +141,7 @@ as God is light, the blood of Jesus Christ his Son should cleanse them from all 
 Thus John 1:4. 19. Chap.
 iii. 20, 21. 1 John 1:5-7.
 
+[.numbered]
 IX. Their known great constancy and patience in suffering
 for their testimony in all the branches of it;
 and that sometimes unto death, by beatings, bruisings, long and crowded imprisonments,
@@ -140,10 +152,12 @@ almost in all parts, not easily to be expressed, and less to have been endured,
 but by those that have the support of a good and glorious cause;
 refusing deliverance by any indirect ways or means, as often as it was offered unto them.
 
+[.numbered]
 X+++.+++ That they did not only not show any disposition to revenge,
 when it was at any time in their power, but forgave their cruel enemies;
 showing mercy to those that had none for them.
 
+[.numbered]
 XI. Their plainness with those in authority, like the ancient prophets,
 not fearing to tell them to their faces, of their private and public sins;
 and their prophesies to them of their afflictions and downfal,
@@ -151,6 +165,8 @@ when in the top of their glory: also of some national judgments, as of the plagu
 and fire of London, in express terms; and likewise particular ones to divers persecutors,
 which accordingly overtook them; and were very remarkable in the places where they dwelt,
 which in time may be made public for the glory of God.
+
+====
 
 Thus, reader, thou seest this people in their rise, principles, ministry, and progress,
 both their general and particular testimony; by which thou mayst be informed how,
