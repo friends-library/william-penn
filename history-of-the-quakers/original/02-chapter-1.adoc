@@ -1,7 +1,8 @@
 == Chapter I.
 
-[.blurb]
-=== Containing a brief account of divers dispensations of God in the world, to the time he was pleased to raise this despised people, called Quakers.
+[.chapter-subtitle--blurb]
+Containing a brief account of divers dispensations of God in the world,
+to the time he was pleased to raise this despised people, called Quakers.
 
 Divers have been the dispensations of God since the creation of the world,
 unto the sons of men; but the great end of all of them,

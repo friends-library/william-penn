@@ -1,7 +1,9 @@
 == Chapter II.
 
-[.blurb]
-=== Of the rise of this People, their fundamental principle, and doctrine, and practice, in twelve points resulting from it: their progress and sufferings: an expostulation with England thereupon.
+[.chapter-subtitle--blurb]
+Of the rise of this People, their fundamental principle,
+and doctrine, and practice, in twelve points resulting from it:
+their progress and sufferings: an expostulation with England thereupon.
 
 At was about that very time, as you may see in George Fox`'s annals, that the eternal,
 wise, and good God, was pleased, in his infinite love,
