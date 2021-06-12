@@ -1,6 +1,7 @@
 == Chapter XXI.
 
-=== Serious dying, as well as living testimonies of Men of Fame and Learning, viz.
+[.chapter-subtitle--blurb]
+Serious dying, as well as living testimonies of Men of Fame and Learning, viz.
 
 [.chapter-synopsis]
 * 1+++.+++ Solomon.
@@ -794,31 +795,18 @@ a Plough in a Field Arable would be the most noble and ancient arms.`'
 [verse]
 ____
 Blest be the man (and blest is he) whome`'er,
-
 (Plac`'d far out of the roads of Hope or Fear) A little Field, a little Garden, feeds;
-
 The Field gives all that Frugal nature needs:
-
 The wealthy Garden lib`'rally bestows
-
 All she can ask, when she Luxurious grows.
-
 The specious inconveniences that wait
-
 Upon a life of business and of state,
-
 He sees (nor doth the sight disturb his rest)
-
 By Fools desir`'d, by Wicked men possest.
-
 --Ah wretched, and too Solitary, he
-
 Who loves not his own Company:
-
 He`'ll feel the weight of`'t many a day,
-
 Unless he call in sin or vanity
-
 To help to bear`'t away.
 ____
 
@@ -830,47 +818,26 @@ to own Solitude by: I place it here as his.
 ____
 Would you be free?
 `'Tis your chief wish you say
-
 Come on: I`'ll shew thee, friend, the certain way:
-
 If to no feasts abroad thou lov`'st to go,
-
 Whilst bounteous God doth bread at home bestow:
-
 If thou the goodness of thy clothes dost prize
-
 By thy own Use, and not by others`' Eyes:
-
 If only safe from Weathers, thou canst dwell
-
 In a small House, but a convenient Shell;
-
 If thou without a Sigh or Golden Wish
-
 Canst look upon thy Beechen Bowl, or Dish;
-
 If in thy mind such Power and Greatness be,
-
 The Persian King`'s a Slave, compar`'d with thee.
-
 Whilst this hard truth I teach, methinks I see
-
 The monster, London, laugh at me;
-
 I should at thee too, foolish city,
-
 If it were fit to laugh at Misery;
-
 But thy estate I pity.
-
 Let but thy wicked men from out thee go,
-
 And all the fools that crowd thee so;
-
 Even thou who dost thy millions boast,
-
 A Village less than Islington wilt grow;
-
 A solitude almost.
 ____
 
@@ -880,15 +847,10 @@ I shall conclude him with this prayer of his own.
 [verse]
 ____
 For the few hours of life allotted me,
-
 Give me (great God) but Bread and Liberty;
-
 I`'ll beg no more; if more thou`'rt pleas`'d to give,
-
 I`'ll thankfully that Overplus receive.
-
 If beyond This no more be freely sent,
-
 I`'ll thank for This, and go away content.
 ____
 

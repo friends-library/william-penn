@@ -1,6 +1,8 @@
 == Chapter XX.
 
-=== The doctrine and practice of the blessed Lord Jesus, and his Apostles; the primitive Christians, and those of more modern times, in favour of this discourse.
+[.chapter-subtitle--blurb]
+The doctrine and practice of the blessed Lord Jesus, and his Apostles;
+the primitive Christians, and those of more modern times, in favour of this discourse.
 
 [.chapter-synopsis]
 * 1+++.+++ The Doctrine of Christ, from Matt. 5. about denial of self.
@@ -384,8 +386,7 @@ doubtful disputes, and opposition of science.
 Let us see how this moderation and purity of manners continued.
 
 [.numbered]
-VII.
-Machiavel,^
+VII. Machiavel,^
 footnote:[Mach. DIsa. 50:2, chap. 5.]
 no mean author, in his Disputations, assures us,
 "`That the first promoters of Christianity were so diligent in
@@ -396,8 +397,7 @@ to be burned;`" but that zeal is evidently extinguished,
 and those follies revived among the professors of the religion of Jesus.
 
 [.numbered]
-VIII.
-Tertullian,^
+VIII. Tertullian,^
 footnote:[Tert. lib. de Patien. Chrysost.]
 Chrysostom, Theophylact, Gregory Nazianzene, upon these words of Christ,
 "`But I say unto you, that every idle word that men shall speak,
@@ -497,8 +497,7 @@ yet doth he in so many words determine the matter thus:
 and defended by Christians; or they must be none that do so.
 
 [.numbered]
-XIII.
-Augustine,^
+XIII. Augustine,^
 footnote:[August. de Civit. Dei. l. ii. c. 7.]
 more famous for his many books, and knowledge in church affairs,
 whose sentences are oracles with some, gives this as his opinion of plays,
@@ -541,8 +540,7 @@ although the multitude of copies so far frustrated their good intentions,
 as that they are multiplied of late.
 
 [.numbered]
-XVI.
-Gratian also^
+XVI. Gratian also^
 footnote:[Jac. Laurentio de lib. Gentil. p. 40, 41.]
 had such like passages as these, "`We see that the priests of the Lord,
 neglecting the gospel and the prophets, read comedies or play-books,
@@ -572,8 +570,7 @@ Zeno was of the same opinion against poetry.^
 footnote:[Pet. Bell. obser. l. 1, c. 35; ibid. c. 40, cap. 39.]
 
 [.numbered]
-XVIII.
-The Waldenses^
+XVIII. The Waldenses^
 footnote:[XII. Cap. Hist. de orig. Walden. Vignia Hist. Bibl. p. 130. Dubran Hist.
 Bohem. 14. Thuan. in Hist. sui. temp. p. 458. Mat. Paris Hist. of Eng. Angl. 1174;
 Bellar. tom. 2, lib. 1, cap. 26, co. 86. Ecchius. com. loc. c. 28. Apl. l. 6. con.
@@ -612,8 +609,7 @@ than what is used by almost all those who account themselves members of his chur
 I shall show out of their own doctrines, as found in their most authentic histories.
 
 [.numbered]
-XIX.
-To be brief, in their exposition upon the Lord`'s prayer,
+XIX. To be brief, in their exposition upon the Lord`'s prayer,
 that part of it which speaks thus, "`Give us this day our daily bread:`"^
 footnote:[Jo. Paul. Per. Hist. Wald. l. 1. in p. 37, 38. Dona nos le nostre pan quotidian.
 en choi. Memor. Morrel. Vign. Mem. f. 7.]
@@ -671,8 +667,7 @@ of what danger and ill consequence these first reformers thought dancing, music,
 and the like pastimes to be, which are the greatest divertisements of the times, viz.:
 
 [.numbered]
-XXI.
-"`Dancing is the devil`'s procession,^
+XXI. "`Dancing is the devil`'s procession,^
 footnote:[La bal es la proces.
 del diavol, e qui intra en la bal, etc.]
 and he that entereth into a dance entereth into his procession, the devil is the guide,
@@ -807,8 +802,7 @@ To which I add the epistle of one of their pastors,
 as I find it recorded amongst other matters relating to these poor afflicted people.
 
 [.numbered]
-XXII.
-An epistle of pastor Bartholomew Tertian,
+XXII. An epistle of pastor Bartholomew Tertian,
 written to the Waldensian churches of the valley of Pragela, thus translated:
 
 ====
@@ -816,7 +810,7 @@ written to the Waldensian churches of the valley of Pragela, thus translated:
 [.embedded-content-document.epistle]
 --
 
-[.offset]
+[.salutation]
 Jesus be with you.
 
 To all our faithful and well beloved brethren in Christ Jesus,^
@@ -1048,8 +1042,7 @@ whose religion taught so much charity to enemies; which, it is reported, Theodos
 the emperor, commanded Acacius to gratify him in.
 And if the Apostle Paul`'s expression hath any force,
 that "`He is worse than an infidel who provides not for his family;`"^
-footnote:[1 Tim.
-5.]
+footnote:[1 Tim. 5.]
 how greatly doth his example aggravate your shame,
 that can behold such pity and compassion expressed to strangers, nay, enemies,
 and those infidels too, and be so negligent of your own family; (for England, aye,
