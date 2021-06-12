@@ -1,7 +1,14 @@
 == Chapter VI.
 
-[.blurb]
-=== Containing five several exhortations: first, general, reminding this people of their primitive integrity and simplicit. Secondly, in particular, to the ministry. Thirdly, to the young convinced. Fourthly, to the children of Friends. Fifthly, to those that are yet strangers to this people and way, to whom this book, and that which it was preface to, in its former edition, may come. All the several exhortations accommodated to their several states and conditions: that all may answer the end of God`'s glory, and their own salvation.
+[.chapter-subtitle--blurb]
+Containing five several exhortations: first, general,
+reminding this people of their primitive integrity and simplicit.
+Secondly, in particular, to the ministry. Thirdly, to the young convinced.
+Fourthly, to the children of Friends.
+Fifthly, to those that are yet strangers to this people and way, to whom this book,
+and that which it was preface to, in its former edition, may come.
+All the several exhortations accommodated to their several states and conditions:
+that all may answer the end of God`'s glory, and their own salvation.
 
 And now, Friends,
 you that profess to walk in the way that this blessed
