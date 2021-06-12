@@ -1,8 +1,11 @@
 == Chapter XIX.
 
-[.blurb]
-=== The Testimonies of several great, learned, and virtuous personages among the Gentiles, urged against the excesses of the age, in favour of the self-denial, temperance, and piety, recommended in the first part of this discourse.
+[.chapter-subtitle--blurb]
+The Testimonies of several great, learned, and virtuous personages among the Gentiles,
+urged against the excesses of the age, in favour of the self-denial,
+temperance, and piety, recommended in the first part of this discourse.
 
+[.centered]
 === I. Among the Greeks, etc. viz.
 
 [.chapter-synopsis]
@@ -606,6 +609,7 @@ but left to the circumstances of fact; in which no inconvenience was observed to
 
 ====
 
+[.centered]
 === II. The Romans also yielded us instances to our point in hand, viz.
 
 [.chapter-synopsis]
@@ -947,7 +951,8 @@ and for that end they are here collected,
 that such may with more ease and brevity behold the true statutes of the ancients,
 not lost or lessened by the decays of time.
 
-==== III.
+[.centered]
+=== III.
 
 [.section-summary-preface]
 I will now proceed to report the virtuous doctrines and sayings
@@ -1054,7 +1059,6 @@ He saith,
 [verse]
 ____
 Hope all things; for to none belongs despair:
-
 All things to God easy and perfect are.
 ____
 
@@ -1074,7 +1078,6 @@ which he useth according to his free will; in respect of which liberty,
 [verse]
 ____
 --Men are of heavenly race,
-
 Taught by Diviner Nature what t`'embrace.
 ____
 
@@ -1091,7 +1094,6 @@ The Pythagoreans had this distich, among those commonly called the Golden Verses
 [verse]
 ____
 Rid of this body, if the heavens free
-
 You reach, henceforth immortal you shall be.
 ____
 
@@ -1101,7 +1103,6 @@ Or thus:
 [verse]
 ____
 Who after death, arrived at th`' heavenly plain,
-
 Are straight like Gods, and never die again.
 ____
 
@@ -1446,7 +1447,6 @@ His epitaph in English thus:
 [verse]
 ____
 Here lies, who through the truest paths did pass
-
 To th`' world celestial Anaxagoras.
 ____
 
@@ -1992,7 +1992,6 @@ in honour of Capaneus:
 [verse]
 ____
 He was not puff`'d up with his store,
-
 Nor thought himself above the poor.
 ____
 
@@ -2013,7 +2012,6 @@ He was so humble that he conversed with mean and ragged persons: whence Timon th
 [verse]
 ____
 And for companions, gets of servants store,
-
 Of all men the most empty and most poor.
 ____
 
@@ -2024,7 +2022,6 @@ He was mean in his clothes: in his diet, by Philemon thus described:
 [verse]
 ____
 He water drinks, then broth and herbs doth eat;
-
 Teaching his scholars, almost without meat.
 ____
 
@@ -2050,11 +2047,8 @@ These two were his epitaphs, one by Antipater:
 [verse]
 ____
 Here Zeno lies, who tall Olympus scal`'d;
-
 Not heaping Pelion on Ossa`'s head;
-
 Nor by Herculean labours so prevailed;
-
 But found out virtue`'s paths, which thither led.
 ____
 
@@ -2064,7 +2058,6 @@ The other by Xenodotus, the Stoic, thus:
 [verse]
 ____
 Zeno, thy years to hoary age were spent,
-
 Not with vain riches, but with self-content.
 ____
 
