@@ -1,5 +1,6 @@
 == Chapter I.
 
+[.chapter-subtitle--blurb]
 Containing a brief account of divers dispensations of God in the world,
 to the time he was pleased to raise this despised people, called Quakers.
 

@@ -1,8 +1,9 @@
 == Chapter II.
 
-Of the rise of this People, their fundamental principle, and doctrine, and practice,
-in twelve points resulting from it: their progress and sufferings:
-an expostulation with England thereupon.
+[.chapter-subtitle--blurb]
+Of the rise of this People, their fundamental principle,
+and doctrine, and practice, in twelve points resulting from it:
+their progress and sufferings: an expostulation with England thereupon.
 
 At was about that very time, as you may see in George Fox`'s annals, that the eternal,
 wise, and good God, was pleased, in his infinite love,
@@ -161,7 +162,11 @@ This, I say,
 is as the root of the goodly tree of doctrines that grew and branched out from it,
 which I shall now mention in their natural and experimental order.
 
-First, repentance from dead works to serve the living God.
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ repentance from dead works to serve the living God.
 Which comprehends three operations.
 First, a sight of sin.
 Secondly, a sense and godly sorrow for sin.
@@ -187,7 +192,8 @@ the end of his coming being to save his people from the nature and defilement,
 as well as guilt of sin; and, therefore, those that resist his light and Spirit,
 make his coming and offering of none effect to them.
 
-From hence sprang a second doctrine they were led to declare,
+[.numbered]
+From hence sprang a _second_ doctrine they were led to declare,
 as the mark of the prize of the high calling to all true Christians,
 viz. Perfection from sin, according to the scriptures of truth;
 which testify it to be the end of Christ`'s coming, and the nature of his kingdom,
@@ -203,11 +209,14 @@ This they called a redeemed state, regeneration, or the new birth: teaching ever
 according to their foundation, that unless this work was known,
 there was no inheriting of the kingdom of God.
 
-Thirdly, this leads to an acknowledgment of eternal rewards and punishments,
+[.numbered]
+_Thirdly,_ this leads to an acknowledgment of eternal rewards and punishments,
 as they have good reason; for else, of all people, certainly they must be most miserable,
 who, for above forty years, have been exceeding great sufferers for their profession;
 and, in some cases, treated worse than the worst of men; yea,
 as the refuse and off-scouring of all things.
+
+====
 
 This was the purport of their doctrine and ministry; which for the most part,
 is what other professors of Christianity pretend to hold in words and forms,
@@ -231,6 +240,11 @@ that did exemplify and farther explain the truth
 and efficacy of the general doctrine before observed,
 in their lives and examples.
 As,
+
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Communion and loving one another.
 This is a noted mark in the mouths of all sorts of people concerning them:
 they will meet, they will help and stick one to another:
@@ -242,6 +256,7 @@ and having an intimate communion in religion, and constant care to meet to worsh
 and help one another, be any mark of primitive Christianity, they had it,
 blessed be the Lord, in an ample manner.
 
+[.numbered]
 II. To love enemies.
 This they both taught and practised.
 For they did not only refuse to be revenged for injuries done them,
@@ -252,6 +267,7 @@ of which many and singular instances might be given: endeavouring,
 through faith and patience, to overcome all injustice and oppression,
 and preaching this doctrine as Christian, for others to follow.
 
+[.numbered]
 III.
 Another was, the sufficiency of truth-speaking,
 according to Christ`'s own form of sound words, of yea, yea, and nay, nay,
@@ -270,6 +286,7 @@ as others for perjury, if ever guilty of it: and hereby they exclude with all tr
 all false and profane swearing; for which the land did and doth mourn,
 and the great God was, and is, not a little offended with it.
 
+[.numbered]
 IV. Not fighting, but suffering, is another testimony peculiar to this people:
 they affirm that Christianity teacheth people to beat their swords into plough-shares,
 and their spears into pruning-hooks, and to learn war no more;
@@ -301,6 +318,7 @@ whilst they of all others, religion set aside,
 have given the civil magistrate the least occasion
 of trouble in the discharge of his office.
 
+[.numbered]
 V+++.+++ Another part of the character of this people was, and is,
 they refuse to pay tithes or maintenance to a national ministry;
 and that for two reasons: the one is, they believe all compelled maintenance,
@@ -314,6 +332,7 @@ So that it is not matter of humour or sullenness, but pure conscience towards Go
 that they cannot help to support national ministries where they dwell,
 which are but too much and too visibly become ways of worldly advantage and preferment.
 
+[.numbered]
 VI. Not to respect persons, was, and is, another of their doctrines and practices,
 for which they were often buffeted and abused.
 They affirmed it to be sinful to give flattering titles,
@@ -331,6 +350,7 @@ yet they that will remember what Christ said to the Jews,
 "`How can you believe which receive honour one of another?`"
 will abate of their resentment, if his doctrine has any credit with them.
 
+[.numbered]
 VII.
 They also used the plain language of Thee and Thou, to a single person,
 whatever was his degree among men.
@@ -347,6 +367,7 @@ And what good, alas! had their religion done them,
 who were so sensibly touched with indignation for the use of this plain, honest,
 and true speech?
 
+[.numbered]
 VIII.
 They recommended silence by their example, having very few words upon all occasions.
 They were at a word in dealing: nor could their customers, with many words,
@@ -365,12 +386,14 @@ as well as in other things, was burdensome to them; and therefore,
 they did not only decline to use them,
 but found themselves often pressed to reprove the practice.
 
+[.numbered]
 IX. For the same reason they forbore drinking to people, or pledging of them,
 as the manner of the world is: a practice that is not only unnecessary,
 but they thought evil in the tendencies of it,
 being a provocation to drink more than did people good,
 as well as that it was in itself vain and heathenish.
 
+[.numbered]
 X+++.+++ Their way of marriage is peculiar to them;
 and shows a distinguishing care above other societies professing Christianity.
 They say, that marriage is an ordinance of God,
@@ -427,6 +450,7 @@ and it is free of the inconveniences, with which other methods are attended;
 their care and checks being so many, and such,
 as that no clandestine marriages can be performed among them.
 
+[.numbered]
 XI. It may not be unfit to say something here of their births and burials,
 which make up so much of the pomp of too many called Christians.
 For births, the parents name their own children;
@@ -437,6 +461,7 @@ of the birth and name of the child or children; which is recorded in a proper bo
 in the monthly-meeting to which the parents belong;
 avoiding the accustomed ceremonies and festivals.
 
+[.numbered]
 XII.
 Their burials are performed with the same simplicity.
 If the body of the deceased be near any public meeting-place,
@@ -623,3 +648,5 @@ be assured it is he that has been in the midst of this people, in the midst of t
 and not a delusion, as thy mistaken teachers have made thee believe.
 And this thou shalt find by their marks and fruits,
 if thou wilt consider them in the spirit of moderation.
+
+====
