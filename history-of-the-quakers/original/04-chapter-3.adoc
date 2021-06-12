@@ -1,7 +1,7 @@
 == Chapter III.
 
-[.blurb]
-=== Of the Qualifications of their Ministry. Eleven marks that it is Christian.
+[.chapter-subtitle--blurb]
+Of the Qualifications of their Ministry. Eleven marks that it is Christian.
 
 [.numbered-group]
 ====
