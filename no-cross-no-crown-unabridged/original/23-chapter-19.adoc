@@ -1,21 +1,52 @@
 == Chapter XIX.
 
+[.chapter-subtitle--blurb]
 The Testimonies of several great, learned, and virtuous personages among the Gentiles,
-urged against the excesses of the age, in favour of the self-denial, temperance,
-and piety, recommended in the first part of this discourse.
+urged against the excesses of the age, in favour of the self-denial,
+temperance, and piety, recommended in the first part of this discourse.
 
+[.centered]
 === I. Among the Greeks, etc. viz.
 
-1+++.+++ Cyrus.--2. Artaxerxes.--3. Agathocles.--4. Philip.--5. Alexander.--6.
-Ptolemy.--7. Xenophanes.--8. Antigonus.--9. Themistocles.--10. Aristides.--11.
-Pericles.--12. Phocion.--13. Clitomachus.--14. Epaminondas.--15. Demosthenes.--16.
-Agasicles.--17. Agesilaus.--18. Agis.--19. Alcamenes.--20. Alexandrides.--21.
-Anaxilas.--22. Ariston.--23. Archidamus.--24. Cleomenes.--25. Dersyllidas.--26.
-Hippodamus.--27. Leonidas.--28. Lysander.--29. Pausanias.--30. Theopompus,
-etc.--31. The manner of life and government of the
-// lint-disable invalid-characters "æ"
-Lacedæmonians in general.--32. Lycurgus their lawgiver.
+[.chapter-synopsis]
+* 1+++.+++ Cyrus.
+* 2+++.+++ Artaxerxes.
+* 3+++.+++ Agathocles.
+* 4+++.+++ Philip.
+* 5+++.+++ Alexander.
+* 6+++.+++ Ptolemy.
+* 7+++.+++ Xenophanes.
+* 8+++.+++ Antigonus.
+* 9+++.+++ Themistocles.
+* 10+++.+++ Aristides.
+* 11+++.+++ Pericles.
+* 12+++.+++ Phocion.
+* 13+++.+++ Clitomachus.
+* 14+++.+++ Epaminondas.
+* 15+++.+++ Demosthenes.
+* 16+++.+++ Agasicles.
+* 17+++.+++ Agesilaus.
+* 18+++.+++ Agis.
+* 19+++.+++ Alcamenes.
+* 20+++.+++ Alexandrides.
+* 21+++.+++ Anaxilas.
+* 22+++.+++ Ariston.
+* 23+++.+++ Archidamus.
+* 24+++.+++ Cleomenes.
+* 25+++.+++ Dersyllidas.
+* 26+++.+++ Hippodamus.
+* 27+++.+++ Leonidas.
+* 28+++.+++ Lysander.
+* 29+++.+++ Pausanias.
+* 30+++.+++ Theopompus, etc.
+// lint-disable invalid-characters "æ"  
+* 31+++.+++ The manner of life and government of the Lacedæmonians in general.
+* 32+++.+++ Lycurgus their lawgiver.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Cyrus, than whom a greater monarch we hardly find in story,
 is more famous for his virtue than his power; God calls him his shepherd.
 Now let us see the principles of his conduct and life.
@@ -44,16 +75,19 @@ after having sustained itself in a mortal body, should perish when delivered out
 for want of it;`" a saying of perhaps as great weight,
 as may be advanced against Atheism, from more enlightened times.
 
+[.numbered]
 II. Artaxerxes Mnemon, being upon an extraordinary occasion reduced to eat barley bread,
 and dried figs, and drink water, "`What pleasure,`" saith he, "`have I lost till now,
 through my delicacies and excess!`"
 
+[.numbered]
 III.
 Agathocles becoming king of Sicily, from being the son of a potter,
 always to humble his mind to his original,
 would be daily served in earthen vessels upon his table:
 an example of humility and plainness.
 
+[.numbered]
 IV. Philip, king of Macedon, upon three sorts of good news, arrived in one day,
 feared too much success might transport him immoderately;
 and therefore prayed for some disappointments to season his prosperity,
@@ -81,6 +115,7 @@ To conclude with him: being one day fallen along the ground,
 and seeing himself in that posture he cried out,
 "`What a small spot of earth do we take up, and yet the whole world cannot content us!`"
 
+[.numbered]
 V+++.+++ Alexander was very temperate and virtuous in his youth:
 a certain governor having written to him,
 that a merchant of the place had several fine boys to sell,
@@ -99,15 +134,18 @@ he left no riches;`" which made him thus to answer one that asked him dying,
 He was wont to say, He owed more to his master for his education,
 than to his father for his birth; by how much it was less to live, than to live well.
 
+[.numbered]
 VI. Ptolemy, son of Lagus, being reproached for his mean original,
 and his friends angry that he did not resent it; "`We ought,`" says he,
 "`to bear reproaches patiently.`"
 
+[.numbered]
 VII.
 Xenophanes being jeered for refusing to play at a forbidden game, answered:
 "`I do not fear my money, but my reputation: they that make laws, must keep them.`"
 A commendable saying.
 
+[.numbered]
 VIII.
 Antigonus being taken sick, he said,
 it was a warning from God to instruct him of his mortality.
@@ -120,6 +158,7 @@ being pressed by his minions to put a garrison into Athens,
 to hold the Greeks in subjection, he answered,
 "`he had not a stronger garrison than the affections of his people.`"
 
+[.numbered]
 IX. Themistocles, after all the honour of his life, sits down with this conclusion,
 "`That the way to the grave is more desirable than the way to worldly honours.`"
 His daughter being courted by one of little wit and great wealth,
@@ -133,6 +172,7 @@ but many things he could not forget, which were necessary to be forgotten:
 as the honours, glories, pleasures, and conquests he had spent his days in:
 too apt to transport to vain glory.
 
+[.numbered]
 X+++.+++ Aristides, a wise and just Greek,
 of greatest honour and trust with the Athenians;--he
 was a great enemy to cabals in government:
@@ -154,6 +194,7 @@ Aristides having privately heard it from Themistocles, publicly answered the peo
 "`True there was nothing more advantageous,
 nothing more unjust:`" which quashed the project.
 
+[.numbered]
 XI. Pericles, as he mounted the tribunal,
 prayed to God that not a word might fall from him, that might scandalize the people,
 wrong the public affairs, or hurt his own.
@@ -165,6 +206,7 @@ what a lovely creature is that!`"
 To whom Pericles replied, "`It becometh a magistrate not only to have his hands clean,
 but his tongue and eyes also.`"
 
+[.numbered]
 XII.
 Phocion, a famous Athenian, was honest and poor, yea, he contemned riches:
 for a certain governor making rich presents, he returned them; saying,
@@ -189,11 +231,13 @@ than with trouble upon the softest bed: that he ought to do that which is his du
 and what is more is vanity: that he must not carry two faces: that he promise little,
 but keep his promises: the world does the contrary.`"
 
+[.numbered]
 XIII.
 Clitomachus had so great a love to virtue, and practised it with such exactness,
 that if at any time in company he heard wanton or obscene discourse,
 he was wont to quit the place.
 
+[.numbered]
 XIV.
 Epaminondas being invited to a sacrificial feast, so soon as he entered he withdrew,
 because of the sumptuous furniture and attire of the place and people; saying,
@@ -227,6 +271,7 @@ aggravated by his incomparable hazards and services for their freedom and renown
 it is reported of him that he ever bore them patiently,
 often saying that he ought no more to be revenged of his country than of his father.
 
+[.numbered]
 XV. Demosthenes, the great orator of Athens, had these sentences:
 "`That wise men speak little,
 and that therefore nature hath given men two ears and one tongue,
@@ -245,12 +290,14 @@ he would never meddle to govern them.
 In fine, that man`'s happiness was to be like God; and to resemble Him,
 we must love truth and justice.`"
 
+[.numbered]
 XVI.
 // lint-disable invalid-characters "æ"
 Agasicles, king of the Lacedæmonians, or Spartans, which are one,
 was of the opinion that it was better to govern without force: and, says he,
 the means to do it is to govern the people as a father governs his children.
 
+[.numbered]
 XVII.
 Agesilaus, king of the same people, would say,
 that he had rather be master of himself than of the greatest city of his enemies:
@@ -298,6 +345,7 @@ The Egyptians despising him because he had but a small train and a mean equipage
 "`Oh,`" said he,
 "`I will have them to know royalty consists not in vain pomp but in virtue.`"
 
+[.numbered]
 XVIII.
 // lint-disable invalid-characters "æ"
 Agis, another king of Lacedæmon,
@@ -311,6 +359,7 @@ to the place of execution one of his people wept,
 to whom he said, "`Weep not for me;
 for the authors of this unjust death are more in fault than I.`"
 
+[.numbered]
 XIX.
 Alcamenes, king of the same people,
 being asked which was the way to get and preserve honour; answered,
@@ -321,6 +370,7 @@ To a miser, accusing him of being so reserved in his discourse, he said,
 "`I had rather conform to reason than thy covetousness; or,
 I had rather be covetous of my words than money.`"
 
+[.numbered]
 XX. Alexandrides hearing an exile complain of his banishment, saith he,
 "`Complain of the cause of it, to wit, his deserts,
 for there is nothing hurtful but vice.`"
@@ -330,10 +380,12 @@ Being asked why they were so long in making the process of criminals in Lacedæm
 This shows their belief of immortality and eternal blessedness;
 and that even poor criminals, through repentance, may obtain it.
 
+[.numbered]
 XXI.
 Anaxilas would say that the greatest advantage kings had upon other
 men was their power of excelling them in good deeds.
 
+[.numbered]
 XXII.
 Ariston hearing one admire this expression,
 "`We ought to do good to our friends and evil to our enemies;`" answered, "`By no means;
@@ -347,6 +399,7 @@ as if sin could be christened, and impiety entitled to the doctrine of Christ: O
 will not such heathens rise up in judgment against
 our worldly Christians in the great day of God!
 
+[.numbered]
 XXIII.
 // lint-disable invalid-characters "æ"
 Archidamus also, king of Sparta, being asked who was master of Lacedæmonia;
@@ -368,6 +421,7 @@ king of Sicily, sending his daughters rich apparel, he forbad them to wear it, s
 This great man certainly was not of the mind to breed up his children at the exchanges,
 dancing-schools, and play-houses.
 
+[.numbered]
 XXIV.
 Cleomenes, king of the same people, would say, "`That kings ought to be pleasant;
 but not to cheapness and contempt.`"
@@ -376,6 +430,7 @@ He was so just a man in power, that he drove away Demaratus his fellow-king,
 "`Lest,`" saith he, "`he should attempt others less able to resist him,
 and so ruin the state.`"
 
+[.numbered]
 XXV.
 Dersyllidas perceiving that Pyrrhus would force a prince upon his countrymen,
 // lint-disable invalid-characters "æ"
@@ -383,17 +438,20 @@ the Lacedæmonians, whom they lately rejected, stoutly opposed him, saying,
 "`If thou art God, we fear thee not, because we have done no evil;
 and if thou art but a man we are men too.`"
 
+[.numbered]
 XXVI.
 Hippodamus seeing a young man ashamed, that was caught in bad company,
 he reproved him sharply, saying, "`For time to come,
 keep such company as thou needest not blush at.`"
 
+[.numbered]
 XXVII.
 Leonidas, brother to Cleomenes, being offered by Xerxes to be made an emperor of Greece,
 answered, "`I had rather die for my own country,
 than have an unjust command over other men`'s;`" adding, "`Xerxes deceived himself,
 to think it a virtue to invade the right of other men.`"
 
+[.numbered]
 XXVIII.
 Lysander being asked by a person, what was the best frame of government;
 "`That,`" says he, "`where every man hath according to his deserts.`"
@@ -406,6 +464,7 @@ they refused to marry them;
 upon which the ephori condemned each of them in a great sum of money,
 because they preferred money before faith and engagement.
 
+[.numbered]
 XXIX.
 Pausanias, son of Cleombrotus, and colleague of Lysander, beholding,
 among the Persian spoils they took, the costliness of their furniture, said,
@@ -416,6 +475,7 @@ and beholding the magnificence and furniture of the treat; "`What,`" saith he,
 "`do these people mean, that live in such wealth and luxury,
 to attack our meanness and poverty?`"
 
+[.numbered]
 XXX.
 Theopompus saith, "`The way to preserve a kingdom,
 is to embrace the counsel of one`'s friends,
@@ -439,6 +499,7 @@ which may be thought to have given light to the dark body of their courts;
 but their government was wise and just, and the people generally obeyed it;
 making virtue to be true honour, and that honour dearer to them than life.
 
+[.numbered]
 XXXI.
 // lint-disable invalid-characters "æ"
 Lacedæmonian customs, according to Plutarch, were these:
@@ -507,6 +568,7 @@ merits preference to any other in the world.
 But that,`" saith he, "`which is strange, is, that all admire it, but none imitate it.`"
 Nor is this account and judgment fantastical.
 
+[.numbered]
 XXXII.
 Lycurgus, their famous founder and lawgiver, instilled these principles,
 and by his power with them, made them laws to rule them.
@@ -545,12 +607,32 @@ It is remarkable, that he would never suffer the laws to be written, to avoid ba
 and that the judges might not be tied religiously to the letter of the law;
 but left to the circumstances of fact; in which no inconvenience was observed to follow.
 
+====
+
+[.centered]
 === II. The Romans also yielded us instances to our point in hand, viz.
 
-1+++.+++ Cato.--2. Scipio Africanus.--3. Augustus.--4. Tiberius.--5. Vespasian.--6.
-Trajan.--7. Adrian.--8. Marcus Aurelius Antoninus.--9. Pertinax.--10. Pescennius.--11.
-Alexander Severus.--12. Aurelainus.--13. Dioclesian.--14. Julian.--15. Theodosius.
+[.chapter-synopsis]
+* 1+++.+++ Cato.
+* 2+++.+++ Scipio Africanus.
+* 3+++.+++ Augustus.
+* 4+++.+++ Tiberius.
+* 5+++.+++ Vespasian.
+* 6+++.+++ Trajan.
+* 7+++.+++ Adrian.
+* 8+++.+++ Marcus Aurelius Antoninus.
+* 9+++.+++ Pertinax.
+* 10+++.+++ Pescennius.
+* 11+++.+++ Alexander Severus.
+* 12+++.+++ Aurelainus.
+* 13+++.+++ Dioclesian.
+* 14+++.+++ Julian.
+* 15+++.+++ Theodosius.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Cato, that sage Roman, seeing a luxurious man loaded with flesh,
 "`Of what service,`" saith he, "`can that man be, either to himself,
 or the commonwealth?`"
@@ -585,6 +667,7 @@ He repented him, that ever he passed away one day without doing good.
 And that there is no witness any man ought to fear, but that of his own conscience.
 Nor did his practice fall much short of his principles.
 
+[.numbered]
 II. Scipio Africanus, though a great general, loaded with honours and triumphs,
 preferred retirement to them all; being used to say, That he was never less alone,
 than when he was alone: implying, that the most busy men in the world,
@@ -593,6 +676,7 @@ that external solitariness gives the best company within.
 After he had taken Carthage, his soldiers brought him a most beautiful prisoner;
 he answered, "`I am your general;`" refusing to debase himself, or dishonour her.
 
+[.numbered]
 III.
 Augustus eating at the table of one of his friends,
 where a poor slave breaking a crystal vessel, fell upon his knees,
@@ -606,11 +690,13 @@ and both rebuked and imprisoned her for her immodest latitudes.
 The people of Rome complaining that wine was dear, he sent them to the fountains,
 telling them they were cheap.
 
+[.numbered]
 IV. Tiberius would not suffer himself to be called Lord, nor yet His Sacred Majesty: For,
 says he, they are divine titles, and belong not to man.
 The commissioners of his treasury advising him to increase his taxes upon the people,
 he answered, No, it was fit to shear, but not to flay the sheep.
 
+[.numbered]
 V+++.+++ Vespasian was a great and an extraordinary man,
 who maintained something of the Roman virtue in his time.
 One day seeing a young man finely dressed, and richly perfumed,
@@ -621,6 +707,7 @@ he reproved him, and said, "`That it was God who gave and took away empires.`"
 Another time conferring favour upon his enemy, and being asked why he did so,
 he answered, that he should remember the right way.
 
+[.numbered]
 VI. Trajan would say, "`That it became an emperor to act towards his people,
 as he would have his people act towards him.`"
 The governor of Rome having delivered the sword into his hand, and created him emperor;
@@ -628,6 +715,7 @@ The governor of Rome having delivered the sword into his hand, and created him e
 use it against me.`"
 An expression which shows great humility and goodness, making power subservient to virtue.
 
+[.numbered]
 VII.
 Adrian, also emperor, had several sayings worthy of notice: one was,
 "`That a good prince did not think the estates of his subjects belonging to him.`"
@@ -639,6 +727,7 @@ subjects.--Meeting one that was his enemy before he was emperor,
 he cried out to him, "`Now thou hast no more to fear:`" intimating, that,
 having power to revenge himself, he would rather use it to do him good.
 
+[.numbered]
 VIII.
 Marcus Aurelius Antoninus, a good man,
 (the Christians of his time felt it,) commended his
@@ -788,16 +877,19 @@ As he lay dying, and his friends about him, he spake thus: "`Think more of death
 than of me, and that you and all men must die as well as I.`" Adding,
 "`I recommend my son to you, and to God, if he be worthy.`"
 
+[.numbered]
 IX. Pertinax, also emperor, being advised to save himself from the fury of the mutineers,
 answered "`No: what have I done that I should do so?`"
 Showing that innocence is bold, and should never give ground where it can show itself,
 be heard, and have fair play.
 
+[.numbered]
 X+++.+++ Pescennius seeing the corruption that reigned among officers of justice, advised,
 "`That judges should have first salaries,
 that they might do their duty without any other bribes or perquisites.`"
 He said, "`He would not offend the living that he might be praised when he was dead.`"
 
+[.numbered]
 XI. Alexander Severus having tasted both of a private life, and the state of an emperor,
 had this censure; "`Emperors,`" says he,
 "`are ill managers of the public revenue to feed so many unuseful
@@ -822,12 +914,14 @@ the one to perform religion, the other to sell drink therein, he decided the mat
 to worship God than to make a tavern of it.`"
 Behold! by this we may see the wisdom and virtue that shined among the heathens.
 
+[.numbered]
 XII.
 Aurelianus, the emperor, having threat ened a certain town that had rebelled against him,
 That he would not leave a dog alive therein;
 and finding the fear he raised brought them easily to their duty,
 bid his soldiers go kill all their dogs, and pardon the people.
 
+[.numbered]
 XIII.
 Dioclesian would say, that there was nothing more difficult than to reign well:
 and the reason he gave was,
@@ -835,6 +929,7 @@ that those who had the ears of princes do so continually
 lay ambushes to surprise them to their interests,
 that they can hardly make one right step.
 
+[.numbered]
 XIV.
 Julian, coming to the empire, drove from the palace, troops of eunuchs, cooks, barbers,
 &c. His reason was this, That having no women he needed no eunuchs;
@@ -842,9 +937,12 @@ and loving simple plain meat, he needed no cooks: and he said,
 One barber would serve a great many.
 A good example for the luxuri ous Christians of our times.
 
+[.numbered]
 XV. Theodosius the younger was so merciful in his nature,
 that instead of putting people to death,
 he wished it were in his power to call the dead to life again.
+
+====
 
 These were the sentiments of the ancient grandees of the world, to wit, emperors, kings,
 princes, captains, statesmen,
@@ -853,20 +951,51 @@ and for that end they are here collected,
 that such may with more ease and brevity behold the true statutes of the ancients,
 not lost or lessened by the decays of time.
 
-==== III.
+[.centered]
+=== III.
 
-I will now proceed to report the virtuous doctrines and sayings of men of more retirement;
-such as philosophers and writers, both Greeks and Romans,
+[.section-summary-preface]
+I will now proceed to report the virtuous doctrines and sayings
+of men of more retirement; such as philosophers and writers, both Greeks and Romans,
 who in their respective times were masters in the civility, knowledge,
 and virtue that were among the Gentiles,
 being most of them many ages before the coming of Christ, viz.
 
-1+++.+++ Thales.--2. Pythagoras.--3. Solon.--4. Chilon.--5. Periander.--6. Bias.--7. Cleobulus.--8.
-Pittacus.--9. Hippias.--10. The Gymnosophistae.--11. The Bambycatii.--12. The Athenians.--13.
-Anacharsis.--14. Anaxagoras.--15. Heraclitus.--16. Democritus.--17. Socrates.--18. Plato.--19.
-Antisthenes.--20. Xenocrates.--21. Bion.--22. Demonax.--23. Diogenes.--24. Crates.--25.
-Aristotle.--26. Mandanis.--27. Zeno.--28. Seneca.--29. Epictetus.
+[.chapter-synopsis]
+* 1+++.+++ Thales.
+* 2+++.+++ Pythagoras.
+* 3+++.+++ Solon.
+* 4+++.+++ Chilon.
+* 5+++.+++ Periander.
+* 6+++.+++ Bias.
+* 7+++.+++ Cleobulus.
+* 8+++.+++ Pittacus.
+* 9+++.+++ Hippias.
+* 10+++.+++ The Gymnosophistae.
+* 11+++.+++ The Bambycatii.
+* 12+++.+++ The Athenians.
+* 13+++.+++ Anacharsis.
+* 14+++.+++ Anaxagoras.
+* 15+++.+++ Heraclitus.
+* 16+++.+++ Democritus.
+* 17+++.+++ Socrates.
+* 18+++.+++ Plato.
+* 19+++.+++ Antisthenes.
+* 20+++.+++ Xenocrates.
+* 21+++.+++ Bion.
+* 22+++.+++ Demonax.
+* 23+++.+++ Diogenes.
+* 24+++.+++ Crates.
+* 25+++.+++ Aristotle.
+* 26+++.+++ Mandanis.
+* 27+++.+++ Zeno.
+* 28+++.+++ Seneca.
+* 29+++.+++ Epictetus.
 
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Thales, an ancient Greek philosopher,
 being asked by a person that had committed adultery if he might swear, answered,
 "`By no means; for perjury is no less sinful than adultery;
@@ -884,6 +1013,7 @@ that he saw the thoughts as well as actions:
 for being asked of one if he could sin and hide it from God, he answered, '`No:
 how can I when he who thinks evil cannot?`'`"
 
+[.numbered]
 II. Pythagoras, a famous and virtuous philosopher of Italy,
 being asked when men might take the pleasure of their passions, answered,
 "`When they have a mind to be worse.`"
@@ -926,9 +1056,11 @@ This is the principle; and the whole life of man consists in this,
 "`That he follow God;`" and this is the ground of philosophy.
 He saith,
 
+[verse]
+____
 Hope all things; for to none belongs despair:
-
 All things to God easy and perfect are.
+____
 
 The work of the Mind is life.
 The work of God is immortality, eternal life.
@@ -943,9 +1075,11 @@ not content solely with one operation, as all other things drawn along by nature
 which always acts after the same manner, but endued with various gifts,
 which he useth according to his free will; in respect of which liberty,
 
+[verse]
+____
 --Men are of heavenly race,
-
 Taught by Diviner Nature what t`'embrace.
+____
 
 By Diviner Nature, is meant the intellectual soul; as to intellect,
 man approaches nigh to God; as to inferior senses, he recedeth from God.
@@ -957,16 +1091,22 @@ and next him the ideas and forms of all things, more purely and trans parently,
 than secondarily, in created beings.
 The Pythagoreans had this distich, among those commonly called the Golden Verses:
 
+[verse]
+____
 Rid of this body, if the heavens free
-
 You reach, henceforth immortal you shall be.
+____
 
+[.offset]
 Or thus:
 
+[verse]
+____
 Who after death, arrived at th`' heavenly plain,
-
 Are straight like Gods, and never die again.
+____
 
+[.numbered]
 III.
 Solon, esteemed as Thales, one of the seven sages of Greece, a noble philosopher,
 and a lawgiver to the Athenians,
@@ -1101,6 +1241,7 @@ In fine, his two short sentences were these:^
 footnote:[Clem. Alex. Strom. 1.]
 "`Of nothing too much;`" and "`Know thyself.`"
 
+[.numbered]
 IV. Chilon, another of the wise men of Greece, would say,
 that it was the perfection of a man, to foresee and prevent mischiefs;
 that herein good people differ from bad ones, their hopes were firm and assured;
@@ -1134,6 +1275,7 @@ according to law, he advised his friend to appeal from him his judge,
 so to preserve both his friend and the law.
 Thus true and tender was conscience in heathen Chilon.
 
+[.numbered]
 V+++.+++ Periander, prince and philosopher too, would say, that pleasures are mortal,
 but virtues immortal.^
 footnote:[Baart. Suid. Protag. Stob. xxviii.]
@@ -1144,6 +1286,7 @@ Betray not secrets: punish the guilty: restrain men from sin.
 They that would rule safely, must be guarded by love, not arms.
 To conclude,`" saith he, "`live worthy of praise, so wilt thou die blessed.`"
 
+[.numbered]
 VI. Bias, one of the seven wise men, being in a storm with wicked men,
 who cried mightily to God; "`Hold your tongues,`"^
 footnote:[Laert. Stob.]
@@ -1178,6 +1321,7 @@ why he carried none of his; "`I,`" saith he,
 not to be demolished by mortal hands; present with them that stay,
 and not forsaking those that fly.
 
+[.numbered]
 VII.
 Cleobulus, prince and philosopher of Lyndus:^
 footnote:[Laert. Plut. Sympos. Sap. Sep. Stob. Ser.]
@@ -1196,6 +1340,7 @@ Forego enmity.
 Instruct thy children.
 Pray to God, and persevere in godliness.`"
 
+[.numbered]
 VIII.
 Pittacus being asked what was best, he answered, "`to do the present thing well.`"^
 footnote:[Plutarch. Stob. xxviii.]
@@ -1219,6 +1364,7 @@ And to conclude, he earnestly enjoined all to flee corporeal pleasure; "`for,`" 
 "`it certainly brings sorrow: but observe an honest life more strictly than an oath:
 meditate on serious things.`"
 
+[.numbered]
 IX. Hippias, a philosopher: it is recorded of him^
 footnote:[Cic. lib. de Orat.]
 that he would have every one provide his own necessaries; and,
@@ -1227,6 +1373,7 @@ He was singular in all such arts and employments,
 insomuch as he made the very buskins he wore.
 A better life than Alexander`'s.
 
+[.numbered]
 X+++.+++ The Gymnosophistae were a sect of philosophers in Egypt,
 that so despised gaudy apparel, and the rest of the world`'s intemperance,
 that they went almost naked; living poorly, and with great meanness:
@@ -1234,6 +1381,7 @@ by which they were enabled against all cold, and overcame that lust by innocence
 which people, that are called Christians, though covered, are overcome withal.^
 footnote:[Plin. 7; 2 Cic. Tusc. Quest. 5.]
 
+[.numbered]
 XI. The Bambycatii were a certain great people that inhabited about the river Tigris,
 in Asia, who, observing the great influence gold, silver,
 and precious jewels had upon their minds,
@@ -1246,6 +1394,7 @@ appetites after wealth and vanity any way,
 for heathens judge their excess.^
 footnote:[Plin.]
 
+[.numbered]
 XII.
 // lint-disable invalid-characters "æ"
 The Athenians had two distinct numbers of men, called the Gynæcosmi and Gynæconomi.^
@@ -1264,6 +1413,7 @@ making it an end instead of a means to that happy end,
 viz. the well ordering the manners and conversation of the people,
 and equally distributing rewards and punishments.
 
+[.numbered]
 XIII.
 Anacharsis, a Scythian, was a great philosopher;^
 footnote:[Cic. Tusc. Quest. 5; Clem. Alex. Strom.]
@@ -1274,6 +1424,7 @@ the hardness of my feet; my bed, the earth; my sauce, hunger:
 you may come to me as one that is contented; but those gifts which you so much esteem,
 bestow on your citizens.`"
 
+[.numbered]
 XIV.
 Anaxagoras, a nobleman, but true philosopher,^
 footnote:[Plut. contra Usur. Lysand. Cic. Tusc. Quest. 5.]
@@ -1293,10 +1444,13 @@ came and reduced it to order, which is the world we see.`"
 He suffered much from some magistrates for his opinion; yet dying, was admired by them.
 His epitaph in English thus:
 
+[verse]
+____
 Here lies, who through the truest paths did pass
-
 To th`' world celestial Anaxagoras.
+____
 
+[.numbered]
 XV. Heraclitus was invited by king Darius, for his great virtue and learning,
 to this effect: "`Come as soon as thou canst to my presence and royal palace;
 for the Greeks, for the most part, are not obsequious to wise men,
@@ -1382,6 +1536,7 @@ footnote:[Rom. 2:14.]
 and who for that reason shall judge the circumcision,
 and receive the reward of "`Well done,`" by him who is Judge of quick and dead.
 
+[.numbered]
 XVI.
 Democritus would say,
 that he had lived to an extraordinary age by keeping himself from luxury and excess.
@@ -1392,6 +1547,7 @@ He was a man of great retirement, avoiding public honours and employments;
 bewailed by the people of Abdera as mad,
 whilst indeed he only smiled at the madness of the world.
 
+[.numbered]
 XVII.
 Socrates, the most religious and learned philosopher of his time,
 and of whom it is reported Apollo gave this character,
@@ -1494,6 +1650,7 @@ where heathens`' virtue shall aggravate Christians`' intemperance; and their hum
 the others`' excessive pride: and justly too, since a greater than Socrates is come,
 whose name they profess, but they will not obey his law.
 
+[.numbered]
 XVIII.
 Plato, that famous philosopher and scholar to Socrates,^
 footnote:[Plato de Rep.]
@@ -1530,6 +1687,7 @@ nor regarded the mind, assuring them,
 those men died most comfortably that lived most conformably to right reason,
 and sought and adored the First Cause, meaning God.
 
+[.numbered]
 XIX.
 Antisthenes, an Athenian philosopher,^
 // lint-disable invalid-characters "Æ"
@@ -1627,6 +1785,7 @@ solid,
 and heavenly principle which leads to true and everlasting
 happiness all those that embrace it.
 
+[.numbered]
 XX. Xenocrates refused Alexander`'s present,^
 footnote:[Laert. Val. Max. 4, 3, 2, 16. Cic. Pro. Fal. Val. Max. 7, 2.]
 yet treated his ambassadors after his temperate and spare manner, saying,
@@ -1648,6 +1807,7 @@ Holding his peace at some detracting discourse, they asked him why he spoke not:
 "`Because,`" saith he, "`I have sometimes repented of speaking,
 but never of holding my peace.`"
 
+[.numbered]
 XXI.
 Bion would say, that great men walk in slippery places:
 that it is a great mischief not to bear affliction;
@@ -1657,6 +1817,7 @@ but his wealth possessed him; abstaining from using it,
 as if it were another man`'s. In fine, that men ought to pursue a course of virtue,
 without regard to the praise or reproach of men.
 
+[.numbered]
 XXII.
 Demonax seeing the great care that men had of their bodies, more than of their minds;
 "`They deck the house,`" saith he, "`but slight the master.`"
@@ -1671,6 +1832,7 @@ He would say of the priests of Greece, if they could better instruct the people,
 they could not give them too much; but if not, the people could not give them too little.
 He lamented the unprofitableness of good laws, by being in bad men`'s hands.
 
+[.numbered]
 XXIII.
 Diogenes was angry with critics that were nice of words and not of their own actions;
 with musicians, that tune their instruments but could not govern their passions;
@@ -1729,6 +1891,7 @@ One day he went backwards; whereat the people laughing,
 "`Are you not ashamed,`" saith he, "`to do that all your lifetime,
 which you deride in me?`"
 
+[.numbered]
 XXIV.
 Crates, a Theban, famous for his self-denial and virtue,
 descended from the house of Alexander, of great estate, at least two hundred talents,
@@ -1752,6 +1915,7 @@ Of his wife, Hipparchia, a woman of wealth and extraction,
 but nobler for her love to true philosophy, and how they came together,
 there will be occasion to make mention in its place.
 
+[.numbered]
 XXV.
 Aristotle, a scholar to Plato,^
 footnote:[Stob. Strom. 45.]
@@ -1767,6 +1931,7 @@ And to another, gazing on his fine cloak;
 He said it was the duty of a good man to live so
 under laws as he should do if there were none.
 
+[.numbered]
 XXVI.
 Mandanis, a great and famous philosopher of the Gymnosophists,
 whom Alexander the Great required to come to the feast of Jupiter`'s son,
@@ -1779,6 +1944,7 @@ And lastly, as for the death he threatened, he did not fear it; but of the two,
 he wished it rather, "`In that,`" saith he,
 "`I am sure it is a change to a more blessed and happy state.`"
 
+[.numbered]
 XXVII.
 Zeno, the great Stoic,^
 footnote:[Stob. Laert.]
@@ -1823,9 +1989,11 @@ He therefore recommended to young men modesty in three things; in their walking,
 in their behaviour, and in their apparel: often repeating those verses of Euripides,
 in honour of Capaneus:
 
+[verse]
+____
 He was not puff`'d up with his store,
-
 Nor thought himself above the poor.
+____
 
 Seeing a man very finely dressed, stepping lightly over a kennel: "`That man,`" saith he,
 "`doth not care for the dirt, because he could not see his face in it.`"
@@ -1841,17 +2009,21 @@ He would say, the end of man was not to live, eat, and drink;
 but to use his life so as to obtain a happy life hereafter.
 He was so humble that he conversed with mean and ragged persons: whence Timon thus:
 
+[verse]
+____
 And for companions, gets of servants store,
-
 Of all men the most empty and most poor.
+____
 
 He was patient, and frugal in his household expenses; Laertius saith,
 he had but one servant; Seneca avers he had none.
 He was mean in his clothes: in his diet, by Philemon thus described:
 
+[verse]
+____
 He water drinks, then broth and herbs doth eat;
-
 Teaching his scholars, almost without meat.
+____
 
 His chastity was so eminent, that it became a proverb; "`As chaste as Zeno.`"
 When the news of his death came to Antigonus, he broke forth into these words,
@@ -1872,20 +2044,24 @@ in regard of his virtue and temperance, and to build a tomb for him, publicly,
 in the Ceramick, etc.`"
 These two were his epitaphs, one by Antipater:
 
+[verse]
+____
 Here Zeno lies, who tall Olympus scal`'d;
-
 Not heaping Pelion on Ossa`'s head;
-
 Nor by Herculean labours so prevailed;
-
 But found out virtue`'s paths, which thither led.
+____
 
+[.offset]
 The other by Xenodotus, the Stoic, thus:
 
+[verse]
+____
 Zeno, thy years to hoary age were spent,
-
 Not with vain riches, but with self-content.
+____
 
+[.numbered]
 XXVIII.
 Seneca, a great and excellent philosopher,
 who with Epictetus shall conclude the testimonies of the men of their character,
@@ -1992,6 +2168,7 @@ and of my actions;
 and lead the rest of thy life with that honest industry thou hast addicted thyself unto.`"
 And dedicating his life to God, he expired.
 
+[.numbered]
 XXIX.
 Epictetus, contemporary with Seneca, and an excellent man,
 thought no man worthy of the profession of philosophy,
@@ -2047,11 +2224,30 @@ My friends, mind the just witness and holy principle in yourselves,
 that you may experimentally know more of the Divine life, in which,
 and not in a multitude of vain repetitions, true and solid felicity eternally consists.
 
-=== IV. Nor is this reputation, wisdom, and virtue, only to be attributed to men: there were women also in the Greek and Roman ages, that honoured their sex, by great examples of meekness, prudence, and chastity; and which I do the rather mention, that the honour, story yields to their virtuous conduct, may raise an allowable emulation in those of their own sex, at least, to equal the noble character given them by antiquity, viz.
+====
 
-1+++.+++ Penelope.--2. Hipparchia.--3. Cornelia.--4. Pompeia Plautina.--5.
-Plotina.--6. A reproof to voluptuous women of the times.
+=== IV.
 
+[.section-summary-preface]
+Nor is this reputation, wisdom, and virtue, only to be attributed to men:
+there were women also in the Greek and Roman ages, that honoured their sex,
+by great examples of meekness, prudence, and chastity; and which I do the rather mention,
+that the honour, story yields to their virtuous conduct,
+may raise an allowable emulation in those of their own sex, at least,
+to equal the noble character given them by antiquity, viz.
+
+[.chapter-synopsis]
+* 1+++.+++ Penelope.
+* 2+++.+++ Hipparchia.
+* 3+++.+++ Cornelia.
+* 4+++.+++ Pompeia Plautina.
+* 5+++.+++ Plotina.
+* 6+++.+++ A reproof to voluptuous women of the times.
+
+[.numbered-group]
+====
+
+[.numbered]
 I+++.+++ Penelope, wife to Ulysses, a woman eminent for her beauty and quality,
 but more for her singular chastity.
 Her husband was absent from her twenty years, partly in the service of his country,
@@ -2071,6 +2267,7 @@ Her work shows the industry and employment,
 even of the women of great quality in those times;
 whilst those of the present age despise such honest labour as mean and mechanical.
 
+[.numbered]
 II. Hipparchia, a fair Macedonian virgin, noble of blood, as they term it,
 but more truly noble of mind, I cannot omit to mention:
 who entertained so earnest an affection for Crates, the Cynical philosopher,
@@ -2102,6 +2299,7 @@ and severity, as those are wont to do by their intemperance and folly:
 for ruin of health, estates, virtue, and loss of eternal happiness, have ever attended,
 and ever will attend, such earthly minds.
 
+[.numbered]
 III.
 Cornelia, also a noble Roman matron, and sister to Scipio,
 was esteemed the most famous and honourable personage of her time,
@@ -2113,6 +2311,7 @@ but such apparel as was very plain and grave; rather making her children,
 whom her instructions and example had made virtuous, her greatest ornament:
 a good pattern for the vain and wanton dames of the age.
 
+[.numbered]
 IV. Pompeia Plautina, wife to Julianus the emperor,
 commended for her compassion to the poor,
 used the power her virtue had given her with her husband,
@@ -2121,6 +2320,7 @@ and to dissuade him from whatsoever seemed harsh to the people:
 particularly she diverted him from a great tax his
 flatterers advised him to lay upon the people.
 
+[.numbered]
 V+++.+++ Plotina, the wife of Trajan, "`a woman,`" saith a certain author,
 "`adorned with piety, chastity, and all the virtues that a woman is capable of.`"
 There are two instances; one of her piety, the other of her chastity; the first is this:
@@ -2131,6 +2331,7 @@ The second is this: her husband being once exiled, she caused her hair to be cut
 as the men wore it,
 that with less notice and danger she might be the companion of his banishment.
 
+[.numbered]
 VI. Thus may the voluptuous women of the times read
 their reproof in the character of a brave Heathen,
 and learn, that solid happiness consists in a neglect of wealth and greatness,
@@ -2171,3 +2372,5 @@ taste and enjoy those heavenly comforts and refreshments proper to that eternal 
 of which she is an inhabitant,
 and where she must ever abide in a state of peace or plagues,
 when this visible one shall be dissolved.
+
+====
